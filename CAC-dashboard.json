@@ -3,400 +3,400 @@
     "Ticker": "AC",
     "Company": "Accor S.A.",
     "Metric": "EPS",
-    "Last Close": 44.35,
-    "PV": 58.95975183066597,
-    "Over/UnderValued (PV)": -24.779194920334092,
-    "PV+MOS": 35.37585109839958,
-    "Over/UnderValued (PV+MOS)": 25.36800846610985
+    "Last Close": 44.76,
+    "PV": 58.8898376402707,
+    "Over/UnderValued (PV)": -23.993677358363573,
+    "PV+MOS": 35.333902584162416,
+    "Over/UnderValued (PV+MOS)": 26.677204402727384
   },
   {
     "Ticker": "AI",
     "Company": "L'Air Liquide S.A.",
     "Metric": "EPS",
-    "Last Close": 183.3,
-    "PV": 59.00307793330411,
-    "Over/UnderValued (PV)": 210.66175938685544,
-    "PV+MOS": 47.202462346643294,
-    "Over/UnderValued (PV+MOS)": 288.3271992335692
+    "Last Close": 183.12,
+    "PV": 58.90374615227161,
+    "Over/UnderValued (PV)": 210.88005765646542,
+    "PV+MOS": 47.12299692181729,
+    "Over/UnderValued (PV+MOS)": 288.60007207058175
   },
   {
     "Ticker": "AIR",
     "Company": "Airbus SE",
     "Metric": "EPS",
-    "Last Close": 180.92,
-    "PV": 73.36037861206682,
-    "Over/UnderValued (PV)": 146.61813832329514,
-    "PV+MOS": 51.35226502844677,
-    "Over/UnderValued (PV+MOS)": 252.31162617613597
+    "Last Close": 180.72,
+    "PV": 73.25980457511619,
+    "Over/UnderValued (PV)": 146.68370472473836,
+    "PV+MOS": 51.281863202581334,
+    "Over/UnderValued (PV+MOS)": 252.40529246391196
   },
   {
     "Ticker": "MT",
     "Company": "ArcelorMittal S.A.",
     "Metric": "EPS",
-    "Last Close": 28.53,
-    "PV": 23.44048526884299,
-    "Over/UnderValued (PV)": 21.71249730022431,
-    "PV+MOS": 16.408339688190093,
-    "Over/UnderValued (PV+MOS)": 73.87499614317758
+    "Last Close": 29.16,
+    "PV": 23.453848170388525,
+    "Over/UnderValued (PV)": 24.329277601514153,
+    "PV+MOS": 16.417693719271966,
+    "Over/UnderValued (PV+MOS)": 77.61325371644882
   },
   {
     "Ticker": "CS",
     "Company": "Axa S.A.",
     "Metric": "EPS",
-    "Last Close": 43.05,
-    "PV": 49.25402719838347,
-    "Over/UnderValued (PV)": -12.59597955999644,
-    "PV+MOS": 34.477819038868425,
-    "Over/UnderValued (PV+MOS)": 24.86288634286222
+    "Last Close": 42.59,
+    "PV": 49.2234448306084,
+    "Over/UnderValued (PV)": -13.476189757616375,
+    "PV+MOS": 34.45641138142588,
+    "Over/UnderValued (PV+MOS)": 23.605443203405187
   },
   {
     "Ticker": "BNP",
     "Company": "BNP Paribas S.A.",
     "Metric": "EPS",
-    "Last Close": 82.72,
-    "PV": 76.65994570498721,
-    "Over/UnderValued (PV)": 7.905111645048479,
-    "PV+MOS": 61.32795656398977,
-    "Over/UnderValued (PV+MOS)": 34.881389556310594
+    "Last Close": 83.38,
+    "PV": 76.52873467537688,
+    "Over/UnderValued (PV)": 8.95253966197811,
+    "PV+MOS": 61.222987740301505,
+    "Over/UnderValued (PV+MOS)": 36.19067457747265
   },
   {
     "Ticker": "EN",
     "Company": "Bouygues S.A.",
     "Metric": "EPS",
-    "Last Close": 38.64,
+    "Last Close": 38.71,
     "PV": 27.82542757511484,
-    "Over/UnderValued (PV)": 38.865790635889354,
+    "Over/UnderValued (PV)": 39.11735909718625,
     "PV+MOS": 22.260342060091872,
-    "Over/UnderValued (PV+MOS)": 73.5822382948617
+    "Over/UnderValued (PV+MOS)": 73.89669887148283
   },
   {
     "Ticker": "BVI",
     "Company": "Bureau Veritas S.A.",
     "Metric": "EPS",
-    "Last Close": 27.02,
+    "Last Close": 27.22,
     "PV": 16.89682953263278,
-    "Over/UnderValued (PV)": 59.911656490446234,
+    "Over/UnderValued (PV)": 61.09531049851762,
     "PV+MOS": 13.517463626106224,
-    "Over/UnderValued (PV+MOS)": 99.88957061305777
+    "Over/UnderValued (PV+MOS)": 101.36913812314701
   },
   {
     "Ticker": "CAP",
     "Company": "Capgemini SE",
     "Metric": "EPS",
-    "Last Close": 124.95,
+    "Last Close": 126.6,
     "PV": 108.53099195692955,
-    "Over/UnderValued (PV)": 15.12840502700492,
+    "Over/UnderValued (PV)": 16.64870809458843,
     "PV+MOS": 86.82479356554364,
-    "Over/UnderValued (PV+MOS)": 43.91050628375617
+    "Over/UnderValued (PV+MOS)": 45.810885118235525
   },
   {
     "Ticker": "CA",
     "Company": "Carrefour S.A.",
     "Metric": "EPS",
-    "Last Close": 13.16,
+    "Last Close": 13.065,
     "PV": 5.255487393232698,
-    "Over/UnderValued (PV)": 150.40493897760382,
+    "Over/UnderValued (PV)": 148.59730453969556,
     "PV+MOS": 4.204389914586159,
-    "Over/UnderValued (PV+MOS)": 213.00617372200477
+    "Over/UnderValued (PV+MOS)": 210.74663067461947
   },
   {
     "Ticker": "ACA",
     "Company": "Cr?dit Agricole S.A.",
     "Metric": "EPS",
-    "Last Close": 16.97,
-    "PV": 24.891318087056096,
-    "Over/UnderValued (PV)": -31.823618417279864,
-    "PV+MOS": 19.913054469644877,
-    "Over/UnderValued (PV+MOS)": -14.779523021599827
+    "Last Close": 17.055,
+    "PV": 24.862592480034344,
+    "Over/UnderValued (PV)": -31.40297008972075,
+    "PV+MOS": 19.890073984027477,
+    "Over/UnderValued (PV+MOS)": -14.253712612150938
   },
   {
     "Ticker": "BN",
     "Company": "Danone S.A.",
     "Metric": "EPS",
-    "Last Close": 73.84,
+    "Last Close": 73.24,
     "PV": 24.818936328215166,
-    "Over/UnderValued (PV)": 197.51476462774806,
+    "Over/UnderValued (PV)": 195.09725570607074,
     "PV+MOS": 19.855149062572135,
-    "Over/UnderValued (PV+MOS)": 271.893455784685
+    "Over/UnderValued (PV+MOS)": 268.8715696325884
   },
   {
     "Ticker": "DSY",
     "Company": "Dassault Syst?mes SE",
     "Metric": "EPS",
-    "Last Close": 26.96,
+    "Last Close": 27.13,
     "PV": 10.81054476271668,
-    "Over/UnderValued (PV)": 149.38613725535305,
+    "Over/UnderValued (PV)": 150.9586759546635,
     "PV+MOS": 8.648435810173345,
-    "Over/UnderValued (PV+MOS)": 211.73267156919133
+    "Over/UnderValued (PV+MOS)": 213.69834494332935
   },
   {
     "Ticker": "EDEN",
     "Company": "Edenred S.A.",
     "Metric": "EPS",
-    "Last Close": 26.22,
-    "PV": 32.97906208964102,
-    "Over/UnderValued (PV)": -20.495010049919205,
-    "PV+MOS": 23.08534346274871,
-    "Over/UnderValued (PV+MOS)": 13.578557071544006
+    "Last Close": 26.73,
+    "PV": 33.96351170425717,
+    "Over/UnderValued (PV)": -21.297891005041404,
+    "PV+MOS": 23.77445819298002,
+    "Over/UnderValued (PV+MOS)": 12.431584278512275
   },
   {
     "Ticker": "ENGI",
     "Company": "Engie S.A.",
     "Metric": "EPS",
-    "Last Close": 18.895,
+    "Last Close": 18.77,
     "PV": 23.679917744356054,
-    "Over/UnderValued (PV)": -20.206648502807855,
+    "Over/UnderValued (PV)": -20.734521958068452,
     "PV+MOS": 18.943934195484843,
-    "Over/UnderValued (PV+MOS)": -0.2583106285098169
+    "Over/UnderValued (PV+MOS)": -0.9181524475855629
   },
   {
     "Ticker": "EL",
     "Company": "EssilorLuxottica S.A.",
     "Metric": "EPS",
     "Last Close": 272,
-    "PV": 86.33200938694108,
-    "Over/UnderValued (PV)": 215.06274663536766,
-    "PV+MOS": 60.43240657085875,
-    "Over/UnderValued (PV+MOS)": 350.0896380505252
+    "PV": 86.16437441725769,
+    "Over/UnderValued (PV)": 215.67570917745985,
+    "PV+MOS": 60.31506209208038,
+    "Over/UnderValued (PV+MOS)": 350.96529882494264
   },
   {
     "Ticker": "ERF",
     "Company": "Eurofins Scientific SE",
     "Metric": "EPS",
-    "Last Close": 68,
+    "Last Close": 68.36,
     "PV": 36.318504455481275,
-    "Over/UnderValued (PV)": 87.23237924995912,
+    "Over/UnderValued (PV)": 88.22360949304712,
     "PV+MOS": 25.42295311883689,
-    "Over/UnderValued (PV+MOS)": 167.47482749994163
+    "Over/UnderValued (PV+MOS)": 168.8908707043531
   },
   {
     "Ticker": "RMS",
     "Company": "Herm?s International Soci?t? en commandite par actions",
     "Metric": "EPS",
-    "Last Close": 2070,
-    "PV": 956.0865826971212,
-    "Over/UnderValued (PV)": 116.50758806388937,
-    "PV+MOS": 621.4562787531288,
-    "Over/UnderValued (PV+MOS)": 233.08859702136823
+    "Last Close": 2095,
+    "PV": 957.2063842697345,
+    "Over/UnderValued (PV)": 118.86607051814676,
+    "PV+MOS": 622.1841497753275,
+    "Over/UnderValued (PV+MOS)": 236.71703156637963
   },
   {
     "Ticker": "KER",
     "Company": "Kering S.A.",
     "Metric": "EPS",
-    "Last Close": 218.35,
-    "PV": 55.438813836031635,
-    "Over/UnderValued (PV)": 293.85763311206824,
-    "PV+MOS": 44.35105106882531,
-    "Over/UnderValued (PV+MOS)": 392.3220413900852
+    "Last Close": 223.8,
+    "PV": 55.310078791388364,
+    "Over/UnderValued (PV)": 304.62788137420824,
+    "PV+MOS": 44.2480630331107,
+    "Over/UnderValued (PV+MOS)": 405.7848517177602
   },
   {
     "Ticker": "OR",
     "Company": "L'Or?al S.A.",
     "Metric": "EPS",
-    "Last Close": 400.7,
-    "PV": 125.38755456332827,
-    "Over/UnderValued (PV)": 219.5691959983336,
-    "PV+MOS": 100.31004365066262,
-    "Over/UnderValued (PV+MOS)": 299.46149499791693
+    "Last Close": 399,
+    "PV": 125.1681537679419,
+    "Over/UnderValued (PV)": 218.77117940058008,
+    "PV+MOS": 100.13452301435353,
+    "Over/UnderValued (PV+MOS)": 298.463974250725
   },
   {
     "Ticker": "LR",
     "Company": "Legrand S.A.",
     "Metric": "EPS",
-    "Last Close": 130.65,
-    "PV": 51.85915924103948,
-    "Over/UnderValued (PV)": 151.9323527648097,
-    "PV+MOS": 41.48732739283159,
-    "Over/UnderValued (PV+MOS)": 214.9154409560121
+    "Last Close": 132.1,
+    "PV": 51.74690997861298,
+    "Over/UnderValued (PV)": 155.28094345072384,
+    "PV+MOS": 41.39752798289039,
+    "Over/UnderValued (PV+MOS)": 219.10117931340483
   },
   {
     "Ticker": "MC",
     "Company": "LVMH Mo?t Hennessy - Louis Vuitton, Soci?t? Europ?enne",
     "Metric": "EPS",
-    "Last Close": 485,
-    "PV": 341.44221474782057,
-    "Over/UnderValued (PV)": 42.04453317472976,
-    "PV+MOS": 239.00955032347437,
-    "Over/UnderValued (PV+MOS)": 102.9207616781854
+    "Last Close": 495.1,
+    "PV": 340.9768232692911,
+    "Over/UnderValued (PV)": 45.20048467018183,
+    "PV+MOS": 238.68377628850376,
+    "Over/UnderValued (PV+MOS)": 107.4292638145455
   },
   {
     "Ticker": "ML",
     "Company": "Compagnie G?n?rale des ?tablissements Michelin Soci?t? en commandite par actions",
     "Metric": "EPS",
-    "Last Close": 32.53,
+    "Last Close": 32.55,
     "PV": 32.45765318505286,
-    "Over/UnderValued (PV)": 0.222896013259688,
+    "Over/UnderValued (PV)": 0.2845147627298594,
     "PV+MOS": 22.720357229537,
-    "Over/UnderValued (PV+MOS)": 43.17556573322814
+    "Over/UnderValued (PV+MOS)": 43.26359251818555
   },
   {
     "Ticker": "ORA",
     "Company": "Orange S.A.",
     "Metric": "EPS",
-    "Last Close": 14.46,
+    "Last Close": 14.48,
     "PV": 2.7703796751193828,
-    "Over/UnderValued (PV)": 421.9501186015914,
+    "Over/UnderValued (PV)": 422.6720413105839,
     "PV+MOS": 2.216303740095506,
-    "Over/UnderValued (PV+MOS)": 552.4376482519892
+    "Over/UnderValued (PV+MOS)": 553.3400516382299
   },
   {
     "Ticker": "RI",
     "Company": "Pernod Ricard S.A.",
     "Metric": "EPS",
-    "Last Close": 101.15,
+    "Last Close": 101.85,
     "PV": 40.361311272328926,
-    "Over/UnderValued (PV)": 150.61128296232246,
+    "Over/UnderValued (PV)": 152.34561710047,
     "PV+MOS": 32.28904901786314,
-    "Over/UnderValued (PV+MOS)": 213.2641037029031
+    "Over/UnderValued (PV+MOS)": 215.4320213755875
   },
   {
     "Ticker": "PUB",
     "Company": "Publicis Groupe S.A.",
     "Metric": "EPS",
-    "Last Close": 79.16,
+    "Last Close": 80.74,
     "PV": 71.81135128479215,
-    "Over/UnderValued (PV)": 10.233268952236108,
+    "Over/UnderValued (PV)": 12.43347821126255,
     "PV+MOS": 57.44908102783373,
-    "Over/UnderValued (PV+MOS)": 37.79158619029512
+    "Over/UnderValued (PV+MOS)": 40.54184776407816
   },
   {
     "Ticker": "RNO",
     "Company": "Renault S.A.",
     "Metric": "P. Change",
-    "Last Close": 33.09,
-    "PV": 20.27923098829609,
-    "Over/UnderValued (PV)": 63.17186790316405,
-    "PV+MOS": 16.22338479063687,
-    "Over/UnderValued (PV+MOS)": 103.96483487895507
+    "Last Close": 33.56,
+    "PV": 21.05298764057732,
+    "Over/UnderValued (PV)": 59.407303955837556,
+    "PV+MOS": 16.842390112461857,
+    "Over/UnderValued (PV+MOS)": 99.25912994479692
   },
   {
     "Ticker": "SAF",
     "Company": "Safran S.A.",
     "Metric": "EPS",
-    "Last Close": 292.5,
-    "PV": 80.13344789820806,
-    "Over/UnderValued (PV)": 265.01611707954584,
-    "PV+MOS": 64.10675831856645,
-    "Over/UnderValued (PV+MOS)": 356.27014634943225
+    "Last Close": 290.5,
+    "PV": 79.99415917525107,
+    "Over/UnderValued (PV)": 263.151513804368,
+    "PV+MOS": 63.99532734020086,
+    "Over/UnderValued (PV+MOS)": 353.93939225545995
   },
   {
     "Ticker": "SGO",
     "Company": "Compagnie de Saint-Gobain S.A.",
     "Metric": "EPS",
-    "Last Close": 96.4,
-    "PV": 55.11043571868198,
-    "Over/UnderValued (PV)": 74.92149851996399,
-    "PV+MOS": 44.088348574945584,
-    "Over/UnderValued (PV+MOS)": 118.65187314995498
+    "Last Close": 98.16,
+    "PV": 55.053330718221076,
+    "Over/UnderValued (PV)": 78.29983893692346,
+    "PV+MOS": 44.04266457457686,
+    "Over/UnderValued (PV+MOS)": 122.87479867115434
   },
   {
     "Ticker": "SAN",
     "Company": "Sanofi",
     "Metric": "EPS",
-    "Last Close": 87.47,
+    "Last Close": 87.34,
     "PV": 54.612205695555986,
-    "Over/UnderValued (PV)": 60.165660562429515,
+    "Over/UnderValued (PV)": 59.927618538042694,
     "PV+MOS": 43.68976455644479,
-    "Over/UnderValued (PV+MOS)": 100.20707570303688
+    "Over/UnderValued (PV+MOS)": 99.90952317255335
   },
   {
     "Ticker": "SU",
     "Company": "Schneider Electric S.E.",
     "Metric": "EPS",
-    "Last Close": 215,
-    "PV": 92.48381168008923,
-    "Over/UnderValued (PV)": 132.47311728857642,
-    "PV+MOS": 73.9870493440714,
-    "Over/UnderValued (PV+MOS)": 190.59139661072052
+    "Last Close": 215.4,
+    "PV": 92.3687820635717,
+    "Over/UnderValued (PV)": 133.19566977916145,
+    "PV+MOS": 73.89502565085736,
+    "Over/UnderValued (PV+MOS)": 191.49458722395184
   },
   {
     "Ticker": "GLE",
     "Company": "Soci?t? G?n?rale S.A.",
     "Metric": "P. Change",
-    "Last Close": 57.86,
-    "PV": 309.24136412381426,
-    "Over/UnderValued (PV)": -81.28969578053149,
-    "PV+MOS": 185.54481847428855,
-    "Over/UnderValued (PV+MOS)": -68.81615963421915
+    "Last Close": 57.84,
+    "PV": 313.5469189817912,
+    "Over/UnderValued (PV)": -81.55300004610825,
+    "PV+MOS": 188.1281513890747,
+    "Over/UnderValued (PV+MOS)": -69.25500007684708
   },
   {
     "Ticker": "STLAP",
     "Company": "Stellantis N.V.",
     "Metric": "P. Change",
-    "Last Close": 8.287,
-    "PV": 3.601003512493793,
-    "Over/UnderValued (PV)": 130.13029482609494,
-    "PV+MOS": 2.8808028099950347,
-    "Over/UnderValued (PV+MOS)": 187.66286853261866
+    "Last Close": 8.649,
+    "PV": 3.8009460508507042,
+    "Over/UnderValued (PV)": 127.54861248462691,
+    "PV+MOS": 3.0407568406805634,
+    "Over/UnderValued (PV+MOS)": 184.43576560578364
   },
   {
     "Ticker": "STMPA",
     "Company": "STMicroelectronics N.V.",
     "Metric": "EPS",
-    "Last Close": 22.375,
-    "PV": 7.342554438991697,
-    "Over/UnderValued (PV)": 204.730461121002,
-    "PV+MOS": 5.139788107294188,
-    "Over/UnderValued (PV+MOS)": 335.32923017286
+    "Last Close": 23.435,
+    "PV": 5.0949171224883845,
+    "Over/UnderValued (PV)": 359.9682278748083,
+    "PV+MOS": 3.5664419857418688,
+    "Over/UnderValued (PV+MOS)": 557.0974683925834
   },
   {
     "Ticker": "TEP",
     "Company": "Teleperformance SE",
     "Metric": "EPS",
-    "Last Close": 72.44,
+    "Last Close": 72.24,
     "PV": 119.11463022213916,
-    "Over/UnderValued (PV)": -39.184632597267644,
+    "Over/UnderValued (PV)": -39.352538084298935,
     "PV+MOS": 83.3802411554974,
-    "Over/UnderValued (PV+MOS)": -13.120903710382347
+    "Over/UnderValued (PV+MOS)": -13.360768691855618
   },
   {
     "Ticker": "HO",
     "Company": "Thales S.A.",
     "Metric": "EPS",
-    "Last Close": 231.3,
-    "PV": 70.57987110369429,
-    "Over/UnderValued (PV)": 227.71383169597956,
-    "PV+MOS": 49.405909772586,
-    "Over/UnderValued (PV+MOS)": 368.16261670854226
+    "Last Close": 232.3,
+    "PV": 70.85829268595737,
+    "Over/UnderValued (PV)": 227.83742197903254,
+    "PV+MOS": 49.60080488017015,
+    "Over/UnderValued (PV+MOS)": 368.33917425576084
   },
   {
     "Ticker": "TTE",
     "Company": "TotalEnergies SE",
     "Metric": "EPS",
-    "Last Close": 54.29,
-    "PV": 43.66639389135368,
-    "Over/UnderValued (PV)": 24.3290209287236,
-    "PV+MOS": 34.93311511308294,
-    "Over/UnderValued (PV+MOS)": 55.41127616090451
+    "Last Close": 54.63,
+    "PV": 43.758517085217285,
+    "Over/UnderValued (PV)": 24.844267216850845,
+    "PV+MOS": 35.00681366817383,
+    "Over/UnderValued (PV+MOS)": 56.05533402106357
   },
   {
     "Ticker": "URW",
     "Company": "Unibail-Rodamco-Westfield SE",
     "Metric": "EPS",
-    "Last Close": 90.7,
-    "PV": 22.930625149106042,
-    "Over/UnderValued (PV)": 295.54089524478564,
-    "PV+MOS": 18.344500119284834,
-    "Over/UnderValued (PV+MOS)": 394.42611905598204
+    "Last Close": 91.7,
+    "PV": 22.864035072860442,
+    "Over/UnderValued (PV)": 301.0665646189797,
+    "PV+MOS": 18.291228058288354,
+    "Over/UnderValued (PV+MOS)": 401.3332057737246
   },
   {
     "Ticker": "VIE",
     "Company": "Veolia Environnement S.A.",
     "Metric": "EPS",
-    "Last Close": 30.39,
-    "PV": 64.34949439139349,
-    "Over/UnderValued (PV)": -52.77352170763201,
-    "PV+MOS": 38.60969663483609,
-    "Over/UnderValued (PV+MOS)": -21.289202846053357
+    "Last Close": 30.37,
+    "PV": 64.29046952399128,
+    "Over/UnderValued (PV)": -52.76127204411405,
+    "PV+MOS": 38.574281714394765,
+    "Over/UnderValued (PV+MOS)": -21.268786740190095
   },
   {
     "Ticker": "DG",
     "Company": "Vinci S.A.",
     "Metric": "EPS",
-    "Last Close": 128.65,
+    "Last Close": 129,
     "PV": 113.91028969995816,
-    "Over/UnderValued (PV)": 12.939753150366418,
+    "Over/UnderValued (PV)": 13.247012486570299,
     "PV+MOS": 79.73720278997071,
-    "Over/UnderValued (PV+MOS)": 61.342504500523454
+    "Over/UnderValued (PV+MOS)": 61.78144640938612
   }
 ]
