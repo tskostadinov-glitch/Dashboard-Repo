@@ -2,331 +2,331 @@
   {
     "Ticker": "GS",
     "Company Name": "The Goldman Sachs Group, Inc.",
-    "Last Close": 715.95,
+    "Last Close": 741.89,
     "Unit": "EPS",
     "Currency": "USD",
-    "PV": 476.1203357305184,
-    "PV %": 50.37164898691158,
-    "PV+MOS": 333.28423501136285,
-    "MOS % ": 114.81664140987368
+    "PV": 475.2247645555574,
+    "Over/UnderValued (PV)": 56.11349730349908,
+    "PV+MOS": 332.65733518889016,
+    "Over/UnderValued (PV+MOS)": 123.01928186214157
   },
   {
     "Ticker": "MSFT",
     "Company Name": "Microsoft Corporation",
-    "Last Close": 504.24,
+    "Last Close": 507.23,
     "Unit": "EPS",
     "Currency": "USD",
-    "PV": 269.7094427197186,
-    "PV %": 86.95674682921836,
-    "PV+MOS": 175.3111377678171,
-    "MOS % ": 187.62576435264364
+    "PV": 269.21002238037363,
+    "Over/UnderValued (PV)": 88.4142334356787,
+    "PV+MOS": 174.98651454724288,
+    "Over/UnderValued (PV+MOS)": 189.86805143950565
   },
   {
     "Ticker": "CAT",
     "Company Name": "Caterpillar Inc.",
-    "Last Close": 417.89,
+    "Last Close": 435.67,
     "Unit": "EPS",
     "Currency": "USD",
-    "PV": 183.0422127761459,
-    "PV %": 128.30252850530414,
-    "PV+MOS": 146.43377022091673,
-    "MOS % ": 185.37816063163018
+    "PV": 182.79370063313996,
+    "Over/UnderValued (PV)": 138.33972313650636,
+    "PV+MOS": 146.23496050651198,
+    "Over/UnderValued (PV+MOS)": 197.92465392063286
   },
   {
     "Ticker": "HD",
     "Company Name": "The Home Depot, Inc.",
-    "Last Close": 397.7,
+    "Last Close": 412.79,
     "Unit": "EPS",
     "Currency": "USD",
     "PV": 163.50833815986834,
-    "PV %": 143.22918603157322,
+    "Over/UnderValued (PV)": 152.45807317569304,
     "PV+MOS": 130.80667052789468,
-    "MOS % ": 204.03648253946648
+    "Over/UnderValued (PV+MOS)": 215.57259146961627
   },
   {
     "Ticker": "SHW",
     "Company Name": "The Sherwin-Williams Company",
-    "Last Close": 363.86,
+    "Last Close": 372.93,
     "Unit": "EPS",
     "Currency": "USD",
-    "PV": 105.80529199906132,
-    "PV %": 243.89584218833596,
-    "PV+MOS": 84.64423359924906,
-    "MOS % ": 329.86980273541997
+    "PV": 105.4011630912052,
+    "Over/UnderValued (PV)": 253.81962500480006,
+    "PV+MOS": 84.32093047296416,
+    "Over/UnderValued (PV+MOS)": 342.2745312560001
   },
   {
     "Ticker": "V",
     "Company Name": "Visa Inc.",
-    "Last Close": 343.69,
+    "Last Close": 350.04,
     "Unit": "EPS",
     "Currency": "USD",
-    "PV": 119.80086952514955,
-    "PV %": 186.88439521538686,
-    "PV+MOS": 95.84069562011965,
-    "MOS % ": 258.60549401923356
+    "PV": 119.91774842224723,
+    "Over/UnderValued (PV)": 191.90007701567248,
+    "PV+MOS": 95.93419873779779,
+    "Over/UnderValued (PV+MOS)": 264.8750962695906
   },
   {
     "Ticker": "MCD",
     "Company Name": "McDonald's Corporation",
-    "Last Close": 313.22,
+    "Last Close": 314.07,
     "Unit": "EPS",
     "Currency": "USD",
     "PV": 115.09320575235556,
-    "PV %": 172.14464828962286,
+    "Over/UnderValued (PV)": 172.88318015555154,
     "PV+MOS": 92.07456460188445,
-    "MOS % ": 240.18081036202855
+    "Over/UnderValued (PV+MOS)": 241.1039751944394
   },
   {
     "Ticker": "AXP",
     "Company Name": "American Express Company",
-    "Last Close": 308.17,
+    "Last Close": 319.16,
     "Unit": "EPS",
     "Currency": "USD",
-    "PV": 193.94433884158974,
-    "PV %": 58.8961048518708,
-    "PV+MOS": 135.7610371891128,
-    "MOS % ": 126.9944355026726
+    "PV": 193.36747678010153,
+    "Over/UnderValued (PV)": 65.0536094872616,
+    "PV+MOS": 135.35723374607105,
+    "Over/UnderValued (PV+MOS)": 135.79087069608806
   },
   {
     "Ticker": "JPM",
     "Company Name": "JPMorgan Chase & Co.",
-    "Last Close": 291.47,
+    "Last Close": 296.24,
     "Unit": "EPS",
     "Currency": "USD",
-    "PV": 224.01166677816457,
-    "PV %": 30.113758891244924,
-    "PV+MOS": 179.20933342253167,
-    "MOS % ": 62.642198614056134
+    "PV": 223.87745401320691,
+    "Over/UnderValued (PV)": 32.32239097310992,
+    "PV+MOS": 179.10196321056554,
+    "Over/UnderValued (PV+MOS)": 65.40298871638738
   },
   {
     "Ticker": "AMGN",
     "Company Name": "Amgen Inc.",
-    "Last Close": 295.76,
+    "Last Close": 293.72,
     "Unit": "EPS",
     "Currency": "USD",
-    "PV": 89.65873746237102,
-    "PV %": 229.8730367736082,
-    "PV+MOS": 71.72698996989682,
-    "MOS % ": 312.34129596701024
+    "PV": 89.51223625736718,
+    "Over/UnderValued (PV)": 228.1339091512484,
+    "PV+MOS": 71.60978900589375,
+    "Over/UnderValued (PV+MOS)": 310.1673864390604
   },
   {
     "Ticker": "TRV",
     "Company Name": "The Travelers Companies, Inc.",
-    "Last Close": 274.92,
+    "Last Close": 276.29,
     "Unit": "EPS",
     "Currency": "USD",
-    "PV": 272.294093037207,
-    "PV %": 0.9643642774263883,
-    "PV+MOS": 217.8352744297656,
-    "MOS % ": 26.20545534678298
+    "PV": 272.17366221321885,
+    "Over/UnderValued (PV)": 1.512393871364548,
+    "PV+MOS": 217.73892977057508,
+    "Over/UnderValued (PV+MOS)": 26.890492339205686
   },
   {
     "Ticker": "IBM",
     "Company Name": "International Business Machines Corporation",
-    "Last Close": 239.4,
+    "Last Close": 242.09,
     "Unit": "EPS",
     "Currency": "USD",
-    "PV": 57.20072083299192,
-    "PV %": 318.52619427467107,
-    "PV+MOS": 45.76057666639354,
-    "MOS % ": 423.1577428433388
+    "PV": 57.10861017142511,
+    "Over/UnderValued (PV)": 323.9115595237025,
+    "PV+MOS": 45.686888137140095,
+    "Over/UnderValued (PV+MOS)": 429.8894494046281
   },
   {
     "Ticker": "UNH",
     "Company Name": "UnitedHealth Group Incorporated",
-    "Last Close": 303.35,
+    "Last Close": 307.42,
     "Unit": "EPS",
     "Currency": "USD",
     "PV": 262.0343448907627,
-    "PV %": 15.767267121590889,
+    "Over/UnderValued (PV)": 17.320498627062708,
     "PV+MOS": 209.62747591261018,
-    "MOS % ": 44.7090839019886
+    "Over/UnderValued (PV+MOS)": 46.65062328382837
   },
   {
     "Ticker": "CRM",
     "Company Name": "Salesforce, Inc.",
-    "Last Close": 245.83,
+    "Last Close": 248.29,
     "Unit": "EPS",
     "Currency": "USD",
-    "PV": 136.47039131166093,
-    "PV %": 80.13431165342799,
-    "PV+MOS": 81.88223478699656,
-    "MOS % ": 200.2238527557133
+    "PV": 136.1527336147741,
+    "Over/UnderValued (PV)": 82.36137711527942,
+    "PV+MOS": 81.69164016886445,
+    "Over/UnderValued (PV+MOS)": 203.9356285254657
   },
   {
     "Ticker": "BA",
     "Company Name": "The Boeing Company",
-    "Last Close": 224.46,
+    "Last Close": 230.12,
     "Unit": "P. Change",
     "Currency": "USD",
-    "PV": 124.67553346329252,
-    "PV %": 80.0353235032168,
-    "PV+MOS": 99.74042677063403,
-    "MOS % ": 125.04415437902097
+    "PV": 134.82242233342558,
+    "Over/UnderValued (PV)": 70.68377501102646,
+    "PV+MOS": 107.85793786674047,
+    "Over/UnderValued (PV+MOS)": 113.35471876378307
   },
   {
     "Ticker": "AMZN",
     "Company Name": "Amazon.com, Inc.",
-    "Last Close": 221.95,
+    "Last Close": 228.84,
     "Unit": "EPS",
     "Currency": "USD",
-    "PV": 184.0646243187327,
-    "PV %": 20.582649067679437,
-    "PV+MOS": 110.43877459123962,
-    "MOS % ": 100.97108177946569
+    "PV": 183.9575925081273,
+    "Over/UnderValued (PV)": 24.39823596293791,
+    "PV+MOS": 110.37455550487638,
+    "Over/UnderValued (PV+MOS)": 107.3303932715632
   },
   {
     "Ticker": "AAPL",
     "Company Name": "Apple Inc.",
-    "Last Close": 224.9,
+    "Last Close": 227.76,
     "Unit": "EPS",
     "Currency": "USD",
-    "PV": 68.54474756628741,
-    "PV %": 228.10683237618827,
-    "PV+MOS": 54.83579805302993,
-    "MOS % ": 310.1335404702353
+    "PV": 68.48564193872485,
+    "Over/UnderValued (PV)": 232.5660584502958,
+    "PV+MOS": 54.788513550979886,
+    "Over/UnderValued (PV+MOS)": 315.7075730628697
   },
   {
     "Ticker": "HON",
     "Company Name": "Honeywell International Inc.",
-    "Last Close": 217.42,
+    "Last Close": 222.83,
     "Unit": "EPS",
     "Currency": "USD",
-    "PV": 63.084718366351765,
-    "PV %": 244.64765101649058,
-    "PV+MOS": 50.46777469308142,
-    "MOS % ": 330.80956377061324
+    "PV": 62.99184441850705,
+    "Over/UnderValued (PV)": 253.74420618573347,
+    "PV+MOS": 50.393475534805646,
+    "Over/UnderValued (PV+MOS)": 342.18025773216675
   },
   {
     "Ticker": "NVDA",
     "Company Name": "NVIDIA Corporation",
-    "Last Close": 174.98,
+    "Last Close": 177.99,
     "Unit": "EPS",
     "Currency": "USD",
-    "PV": 120.81116173506496,
-    "PV %": 44.837610603998314,
-    "PV+MOS": 72.48669704103897,
-    "MOS % ": 141.39601767333056
+    "PV": 120.12790667650876,
+    "Over/UnderValued (PV)": 48.16707035385832,
+    "PV+MOS": 72.07674400590525,
+    "Over/UnderValued (PV+MOS)": 146.94511725643054
   },
   {
     "Ticker": "JNJ",
     "Company Name": "Johnson & Johnson",
-    "Last Close": 178.93,
+    "Last Close": 179.29,
     "Unit": "EPS",
     "Currency": "USD",
     "PV": 81.93446131459632,
-    "PV %": 118.3818592679565,
+    "Over/UnderValued (PV)": 118.82123483011186,
     "PV+MOS": 65.54756905167706,
-    "MOS % ": 172.97732408494562
+    "Over/UnderValued (PV+MOS)": 173.52654353763987
   },
   {
     "Ticker": "PG",
     "Company Name": "The Procter & Gamble Company",
-    "Last Close": 158.73,
+    "Last Close": 158.67,
     "Unit": "EPS",
     "Currency": "USD",
     "PV": 60.383513711181905,
-    "PV %": 162.86976402071508,
+    "Over/UnderValued (PV)": 162.77039915055033,
     "PV+MOS": 48.30681096894553,
-    "MOS % ": 228.58720502589378
+    "Over/UnderValued (PV+MOS)": 228.4629989381879
   },
   {
     "Ticker": "CVX",
     "Company Name": "Chevron Corporation",
-    "Last Close": 155.55,
+    "Last Close": 158.18,
     "Unit": "EPS",
     "Currency": "USD",
     "PV": 95.11214055848635,
-    "PV %": 63.54379061035771,
+    "Over/UnderValued (PV)": 66.30894759721235,
     "PV+MOS": 76.08971244678908,
-    "MOS % ": 104.4297382629471
+    "Over/UnderValued (PV+MOS)": 107.88618449651541
   },
   {
     "Ticker": "MMM",
     "Company Name": "3M Company",
-    "Last Close": 154.38,
+    "Last Close": 158.72,
     "Unit": "EPS",
     "Currency": "USD",
-    "PV": 36.68089168183076,
-    "PV %": 320.873083836371,
-    "PV+MOS": 29.34471334546461,
-    "MOS % ": 426.09135479546364
+    "PV": 36.71438443766034,
+    "Over/UnderValued (PV)": 332.3101215805501,
+    "PV+MOS": 29.371507550128275,
+    "Over/UnderValued (PV+MOS)": 440.3876519756876
   },
   {
     "Ticker": "DIS",
     "Company Name": "The Walt Disney Company",
-    "Last Close": 116.21,
+    "Last Close": 118.86,
     "Unit": "EPS",
     "Currency": "USD",
-    "PV": 50.37497747887774,
-    "PV %": 130.68992943714352,
-    "PV+MOS": 40.29998198310219,
-    "MOS % ": 188.3624117964294
+    "PV": 50.254337315668636,
+    "Over/UnderValued (PV)": 136.51689853830987,
+    "PV+MOS": 40.20346985253491,
+    "Over/UnderValued (PV+MOS)": 195.6461231728874
   },
   {
     "Ticker": "WMT",
     "Company Name": "Walmart Inc.",
-    "Last Close": 97.96,
+    "Last Close": 96.83,
     "Unit": "EPS",
     "Currency": "USD",
     "PV": 25.81484491024434,
-    "PV %": 279.47158055993447,
+    "Over/UnderValued (PV)": 275.09425424273644,
     "PV+MOS": 20.651875928195473,
-    "MOS % ": 374.3394756999181
+    "Over/UnderValued (PV+MOS)": 368.86781780342045
   },
   {
     "Ticker": "MRK",
     "Company Name": "Merck & Co., Inc.",
-    "Last Close": 86.08,
+    "Last Close": 87.37,
     "Unit": "EPS",
     "Currency": "USD",
     "PV": 99.92941143822986,
-    "PV %": -13.859194444260991,
+    "Over/UnderValued (PV)": -12.568283208585996,
     "PV+MOS": 69.9505880067609,
-    "MOS % ": 23.058293651055738
+    "Over/UnderValued (PV+MOS)": 24.90245255916288
   },
   {
     "Ticker": "NKE",
     "Company Name": "NIKE, Inc.",
-    "Last Close": 76.18,
+    "Last Close": 78.38,
     "Unit": "EPS",
     "Currency": "USD",
-    "PV": 29.22021443982206,
-    "PV %": 160.7099279058676,
-    "PV+MOS": 20.45415010787544,
-    "MOS % ": 272.4427541512395
+    "PV": 29.175281865231153,
+    "Over/UnderValued (PV)": 168.65207459540338,
+    "PV+MOS": 20.422697305661806,
+    "Over/UnderValued (PV+MOS)": 283.7886779934334
   },
   {
     "Ticker": "KO",
     "Company Name": "The Coca-Cola Company",
-    "Last Close": 70.66,
+    "Last Close": 70.13,
     "Unit": "EPS",
     "Currency": "USD",
     "PV": 27.4345827921356,
-    "PV %": 157.55813578566756,
+    "Over/UnderValued (PV)": 155.62626751555143,
     "PV+MOS": 21.947666233708482,
-    "MOS % ": 221.94766973208445
+    "Over/UnderValued (PV+MOS)": 219.5328343944393
   },
   {
     "Ticker": "CSCO",
     "Company Name": "Cisco Systems, Inc.",
-    "Last Close": 67.02,
+    "Last Close": 67.32,
     "Unit": "EPS",
     "Currency": "USD",
     "PV": 22.589826422720723,
-    "PV %": 196.68222652915847,
+    "Over/UnderValued (PV)": 198.01025798184048,
     "PV+MOS": 18.07186113817658,
-    "MOS % ": 270.8527831614481
+    "Over/UnderValued (PV+MOS)": 272.5128224773006
   },
   {
     "Ticker": "VZ",
     "Company Name": "Verizon Communications Inc.",
-    "Last Close": 45.03,
+    "Last Close": 44.44,
     "Unit": "EPS",
     "Currency": "USD",
     "PV": 38.94391193591704,
-    "PV %": 15.627829258903759,
+    "Over/UnderValued (PV)": 14.112829941498628,
     "PV+MOS": 31.155129548733637,
-    "MOS % ": 44.53478657362968
+    "Over/UnderValued (PV+MOS)": 42.64103742687326
   }
 ]
