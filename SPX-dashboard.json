@@ -63,11 +63,11 @@
     "Ticker": "GOOGL",
     "Company ": "Alphabet Inc Class A",
     "Metric": "EPS",
-    "Last Close": 235,
+    "Last Close": 235.05,
     "Fair Value": 158.40708916555982,
-    "Over/UnderValued (Fair Value)": 48.35194639198803,
+    "Over/UnderValued (Fair Value)": 48.38351063590123,
     "Buy Price": 110.88496241589188,
-    "Over/UnderValued (Buy Price)": 111.93135198855435
+    "Over/UnderValued (Buy Price)": 111.97644376557321
   },
   {
     "Ticker": "TSLA",
@@ -4781,12 +4781,12 @@
   },
   {
     "Ticker": "WBA",
-    "Company ": "Walgreens Boots Alliance Inc Cedear",
+    "Company ": "Walgreen Boots Alliance Ord Shs",
     "Metric": "P.Change",
-    "Last Close": 3685,
-    "Fair Value": 900.3378159186828,
+    "Last Close": 222,
+    "Fair Value": 54.24016150174969,
     "Over/UnderValued (Fair Value)": 309.29081671860195,
-    "Buy Price": 720.2702527349463,
+    "Buy Price": 43.392129201399754,
     "Over/UnderValued (Buy Price)": 411.6135208982524
   },
   {
