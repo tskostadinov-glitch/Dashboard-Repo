@@ -1,1 +1,202 @@
-
+[
+  {
+    "Ticker": "NOVN",
+    "Company ": "Novartis AG",
+    "Metric": "EPS",
+    "Last Close": 102.16,
+    "Fair Value": 44.44412353246592,
+    "Over/UnderValued (Fair Value)": 129.86165972060016,
+    "Buy Price": 35.55529882597274,
+    "Over/UnderValued (Buy Price)": 187.32707465075018
+  },
+  {
+    "Ticker": "NESN",
+    "Company ": "Nestle SA",
+    "Metric": "EPS",
+    "Last Close": 73.9,
+    "Fair Value": 31.07692307692306,
+    "Over/UnderValued (Fair Value)": 137.79702970297046,
+    "Buy Price": 24.861538461538448,
+    "Over/UnderValued (Buy Price)": 197.24628712871305
+  },
+  {
+    "Ticker": "ROG",
+    "Company ": "Roche Holding AG Genussscheine",
+    "Metric": "EPS",
+    "Last Close": 268.8,
+    "Fair Value": 91.13307692307689,
+    "Over/UnderValued (Fair Value)": 194.95328049429,
+    "Buy Price": 72.90646153846151,
+    "Over/UnderValued (Buy Price)": 268.69160061786243
+  },
+  {
+    "Ticker": "UBSG",
+    "Company ": "UBS Group AG",
+    "Metric": "EPS",
+    "Last Close": 31.86,
+    "Fair Value": 47.24772225316666,
+    "Over/UnderValued (Fair Value)": -32.568177933985666,
+    "Buy Price": 28.348633351899995,
+    "Over/UnderValued (Buy Price)": 12.386370110023881
+  },
+  {
+    "Ticker": "ABBN",
+    "Company ": "ABB Ltd",
+    "Metric": "EPS",
+    "Last Close": 56.56,
+    "Fair Value": 37.087419580093616,
+    "Over/UnderValued (Fair Value)": 52.50454369804185,
+    "Buy Price": 24.10682272706085,
+    "Over/UnderValued (Buy Price)": 134.6223749200644
+  },
+  {
+    "Ticker": "ZURN",
+    "Company ": "Zurich Insurance Group AG",
+    "Metric": "EPS",
+    "Last Close": 575.2,
+    "Fair Value": 383.7902039710182,
+    "Over/UnderValued (Fair Value)": 49.87354915484923,
+    "Buy Price": 307.03216317681455,
+    "Over/UnderValued (Buy Price)": 87.34193644356154
+  },
+  {
+    "Ticker": "CFR",
+    "Company ": "Compagnie Financiere Richemont SA",
+    "Metric": "EPS",
+    "Last Close": 148.5,
+    "Fair Value": 64.71862534818811,
+    "Over/UnderValued (Fair Value)": 129.4548118120025,
+    "Buy Price": 45.30303774373168,
+    "Over/UnderValued (Buy Price)": 227.79258830286076
+  },
+  {
+    "Ticker": "SREN",
+    "Company ": "Swiss Re AG",
+    "Metric": "EPS",
+    "Last Close": 140.95,
+    "Fair Value": 123.94410376580248,
+    "Over/UnderValued (Fair Value)": 13.720617373078792,
+    "Buy Price": 99.15528301264199,
+    "Over/UnderValued (Buy Price)": 42.15077171634849
+  },
+  {
+    "Ticker": "LONN",
+    "Company ": "Lonza Group AG",
+    "Metric": "EPS",
+    "Last Close": 560.4,
+    "Fair Value": 103.02197565790883,
+    "Over/UnderValued (Fair Value)": 443.96161248241316,
+    "Buy Price": 82.41758052632707,
+    "Over/UnderValued (Buy Price)": 579.9520156030163
+  },
+  {
+    "Ticker": "HOLN",
+    "Company ": "Holcim AG",
+    "Metric": "EPS",
+    "Last Close": 67.14,
+    "Fair Value": 56.37426028294047,
+    "Over/UnderValued (Fair Value)": 19.096906394916147,
+    "Buy Price": 45.09940822635238,
+    "Over/UnderValued (Buy Price)": 48.87113299364516
+  },
+  {
+    "Ticker": "ALC",
+    "Company ": "Alcon AG",
+    "Metric": "EPS",
+    "Last Close": 63.78,
+    "Fair Value": 20.46723344235085,
+    "Over/UnderValued (Fair Value)": 211.62003491896598,
+    "Buy Price": 16.37378675388068,
+    "Over/UnderValued (Buy Price)": 289.5250436487075
+  },
+  {
+    "Ticker": "SIKA",
+    "Company ": "Sika AG",
+    "Metric": "EPS",
+    "Last Close": 184.95,
+    "Fair Value": 110.34499999999991,
+    "Over/UnderValued (Fair Value)": 67.61067560831948,
+    "Buy Price": 77.24149999999993,
+    "Over/UnderValued (Buy Price)": 139.4438222975993
+  },
+  {
+    "Ticker": "GIVN",
+    "Company ": "Givaudan SA",
+    "Metric": "EPS",
+    "Last Close": 3461,
+    "Fair Value": 1195.7768216005438,
+    "Over/UnderValued (Fair Value)": 189.43528068786796,
+    "Buy Price": 956.6214572804352,
+    "Over/UnderValued (Buy Price)": 261.79410085983494
+  },
+  {
+    "Ticker": "PGHN",
+    "Company ": "Partners Group Holding AG",
+    "Metric": "EPS",
+    "Last Close": 1063,
+    "Fair Value": 525.3092073592564,
+    "Over/UnderValued (Fair Value)": 102.3570089973731,
+    "Buy Price": 367.7164451514795,
+    "Over/UnderValued (Buy Price)": 189.08144142481876
+  },
+  {
+    "Ticker": "SLHN",
+    "Company ": "Swiss Life Holding AG",
+    "Metric": "EPS",
+    "Last Close": 834.6,
+    "Fair Value": 315.19569768147016,
+    "Over/UnderValued (Fair Value)": 164.78787817828285,
+    "Buy Price": 252.15655814517615,
+    "Over/UnderValued (Buy Price)": 230.9848477228536
+  },
+  {
+    "Ticker": "GEBN",
+    "Company ": "Geberit AG",
+    "Metric": "EPS",
+    "Last Close": 598,
+    "Fair Value": 137.59307692307686,
+    "Over/UnderValued (Fair Value)": 334.6148900604348,
+    "Buy Price": 110.07446153846149,
+    "Over/UnderValued (Buy Price)": 443.2686125755435
+  },
+  {
+    "Ticker": "SCMN",
+    "Company ": "Swisscom AG",
+    "Metric": "EPS",
+    "Last Close": 588.5,
+    "Fair Value": 199.6692307692307,
+    "Over/UnderValued (Fair Value)": 194.73745039873646,
+    "Buy Price": 159.73538461538456,
+    "Over/UnderValued (Buy Price)": 268.4218129984206
+  },
+  {
+    "Ticker": "LOGN",
+    "Company ": "Logitech International SA",
+    "Metric": "EPS",
+    "Last Close": 86.3,
+    "Fair Value": 72.56078156347735,
+    "Over/UnderValued (Fair Value)": 18.934771842973277,
+    "Buy Price": 47.16450801626028,
+    "Over/UnderValued (Buy Price)": 82.97657206611271
+  },
+  {
+    "Ticker": "SOON",
+    "Company ": "Sonova Holding AG",
+    "Metric": "EPS",
+    "Last Close": 244.8,
+    "Fair Value": 93.87339083642905,
+    "Over/UnderValued (Fair Value)": 160.77677371488056,
+    "Buy Price": 75.09871266914324,
+    "Over/UnderValued (Buy Price)": 225.97096714360072
+  },
+  {
+    "Ticker": "KNIN",
+    "Company ": "Kuehne und Nagel International AG",
+    "Metric": "EPS",
+    "Last Close": 163.95,
+    "Fair Value": 146.11467727696422,
+    "Over/UnderValued (Fair Value)": 12.206386829454829,
+    "Buy Price": 102.28027409387495,
+    "Over/UnderValued (Buy Price)": 60.29483832779259
+  }
+]
