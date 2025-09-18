@@ -3,1010 +3,1010 @@
     "Ticker": "NVDA",
     "Company ": "NVIDIA Corp",
     "Metric": "EPS",
-    "Last Close": 170.29,
+    "Last Close": 176.24,
     "Fair Value": 132.75901424287252,
-    "Over/UnderValued (Fair Value)": 28.270009363332104,
+    "Over/UnderValued (Fair Value)": 32.751814259167624,
     "Buy Price": 79.65540854572352,
-    "Over/UnderValued (Buy Price)": 113.78334893888682
+    "Over/UnderValued (Buy Price)": 121.25302376527935
   },
   {
     "Ticker": "MSFT",
     "Company ": "Microsoft Corp",
     "Metric": "EPS",
-    "Last Close": 510.02,
+    "Last Close": 508.45,
     "Fair Value": 278.35942388136255,
-    "Over/UnderValued (Fair Value)": 83.22354346349408,
+    "Over/UnderValued (Fair Value)": 82.65952447749805,
     "Buy Price": 180.93362552288565,
-    "Over/UnderValued (Buy Price)": 181.88237455922166
+    "Over/UnderValued (Buy Price)": 181.01465304230473
   },
   {
     "Ticker": "AAPL",
     "Company ": "Apple Inc",
     "Metric": "EPS",
-    "Last Close": 238.99,
+    "Last Close": 237.88,
     "Fair Value": 69.57563271505859,
-    "Over/UnderValued (Fair Value)": 243.49669657876393,
+    "Over/UnderValued (Fair Value)": 241.9013104404216,
     "Buy Price": 55.66050617204687,
-    "Over/UnderValued (Buy Price)": 329.37087072345486
+    "Over/UnderValued (Buy Price)": 327.376638050527
   },
   {
     "Ticker": "AMZN",
     "Company ": "Amazon.com Inc",
     "Metric": "EPS",
-    "Last Close": 231.62,
+    "Last Close": 231.23,
     "Fair Value": 179.59629471909477,
-    "Over/UnderValued (Fair Value)": 28.967025941306378,
+    "Over/UnderValued (Fair Value)": 28.749872240774856,
     "Buy Price": 107.75777683145687,
-    "Over/UnderValued (Buy Price)": 114.94504323551062
+    "Over/UnderValued (Buy Price)": 114.5831204012914
   },
   {
     "Ticker": "AVGO",
     "Company ": "Broadcom Inc",
     "Metric": "EPS",
-    "Last Close": 346.17,
+    "Last Close": 345.35,
     "Fair Value": 40.44382903176766,
-    "Over/UnderValued (Fair Value)": 755.927859174985,
+    "Over/UnderValued (Fair Value)": 753.9003557965193,
     "Buy Price": 28.310680322237364,
-    "Over/UnderValued (Buy Price)": 1122.754084535693
+    "Over/UnderValued (Buy Price)": 1119.8576511378847
   },
   {
     "Ticker": "META",
     "Company ": "Meta Platforms Inc",
     "Metric": "EPS",
-    "Last Close": 775.72,
+    "Last Close": 780.25,
     "Fair Value": 483.2254246346494,
-    "Over/UnderValued (Fair Value)": 60.52963284920201,
+    "Over/UnderValued (Fair Value)": 61.467083523165385,
     "Buy Price": 314.09652601252213,
-    "Over/UnderValued (Buy Price)": 146.9686659218492
+    "Over/UnderValued (Buy Price)": 148.41089772794675
   },
   {
     "Ticker": "NFLX",
     "Company ": "Netflix Inc",
     "Metric": "EPS",
-    "Last Close": 1228.5,
+    "Last Close": 1207.78,
     "Fair Value": 615.3686590817967,
-    "Over/UnderValued (Fair Value)": 99.63642637131831,
+    "Over/UnderValued (Fair Value)": 96.26933906613824,
     "Buy Price": 369.22119544907804,
-    "Over/UnderValued (Buy Price)": 232.72737728553054
+    "Over/UnderValued (Buy Price)": 227.11556511023042
   },
   {
     "Ticker": "TSLA",
     "Company ": "Tesla Inc",
     "Metric": "EPS",
-    "Last Close": 425.86,
+    "Last Close": 416.85,
     "Fair Value": 39.8377817659374,
-    "Over/UnderValued (Fair Value)": 968.9852223753185,
+    "Over/UnderValued (Fair Value)": 946.3685012613336,
     "Buy Price": 23.902669059562438,
-    "Over/UnderValued (Buy Price)": 1681.6420372921978
+    "Over/UnderValued (Buy Price)": 1643.9475021022229
   },
   {
     "Ticker": "GOOGL",
     "Company ": "Alphabet Inc Class A",
     "Metric": "EPS",
-    "Last Close": 249.53,
+    "Last Close": 252.03,
     "Fair Value": 158.40708916555982,
-    "Over/UnderValued (Fair Value)": 57.52451567316075,
+    "Over/UnderValued (Fair Value)": 59.10272786882018,
     "Buy Price": 110.88496241589188,
-    "Over/UnderValued (Buy Price)": 125.03502239022963
+    "Over/UnderValued (Buy Price)": 127.28961124117171
   },
   {
     "Ticker": "GOOG",
     "Company ": "Alphabet Inc Class C",
     "Metric": "EPS",
-    "Last Close": 249.85,
+    "Last Close": 252.33,
     "Fair Value": 158.06969387447236,
-    "Over/UnderValued (Fair Value)": 58.06318964495052,
+    "Over/UnderValued (Fair Value)": 59.63211784314737,
     "Buy Price": 110.64878571213065,
-    "Over/UnderValued (Buy Price)": 125.8045566356436
+    "Over/UnderValued (Buy Price)": 128.04588263306766
   },
   {
     "Ticker": "COST",
     "Company ": "Costco Wholesale Corp",
     "Metric": "EPS",
-    "Last Close": 963.03,
+    "Last Close": 952.36,
     "Fair Value": 239.55653906108836,
-    "Over/UnderValued (Fair Value)": 302.0053068784825,
+    "Over/UnderValued (Fair Value)": 297.55124353217616,
     "Buy Price": 167.68957734276185,
-    "Over/UnderValued (Buy Price)": 474.2932955406892
+    "Over/UnderValued (Buy Price)": 467.9303479031088
   },
   {
     "Ticker": "PLTR",
     "Company ": "Palantir Technologies Inc",
     "Metric": "EPS",
-    "Last Close": 168.33,
+    "Last Close": 176.97,
     "Fair Value": 3.26892466013443,
-    "Over/UnderValued (Fair Value)": 5049.399802719151,
+    "Over/UnderValued (Fair Value)": 5313.7069036250705,
     "Buy Price": 1.9613547960806579,
-    "Over/UnderValued (Buy Price)": 8482.333004531918
+    "Over/UnderValued (Buy Price)": 8922.844839375119
   },
   {
     "Ticker": "CSCO",
     "Company ": "Cisco Systems Inc",
     "Metric": "EPS",
-    "Last Close": 67.72,
+    "Last Close": 68.68,
     "Fair Value": 22.675275129721825,
-    "Over/UnderValued (Fair Value)": 198.65128256474995,
+    "Over/UnderValued (Fair Value)": 202.88496879130284,
     "Buy Price": 18.140220103777462,
-    "Over/UnderValued (Buy Price)": 273.3141032059374
+    "Over/UnderValued (Buy Price)": 278.6062109891285
   },
   {
     "Ticker": "TMUS",
     "Company ": "T-Mobile Us Inc",
     "Metric": "EPS",
-    "Last Close": 239.45,
+    "Last Close": 238.83,
     "Fair Value": 274.0747003905919,
-    "Over/UnderValued (Fair Value)": -12.63330775925221,
+    "Over/UnderValued (Fair Value)": -12.859523458518286,
     "Buy Price": 164.44482023435512,
-    "Over/UnderValued (Buy Price)": 45.611153734579645
+    "Over/UnderValued (Buy Price)": 45.234127569136206
   },
   {
     "Ticker": "AMD",
     "Company ": "Advanced Micro Devices Inc",
     "Metric": "P.Change",
-    "Last Close": 159.16,
-    "Fair Value": 123.94747444584338,
-    "Over/UnderValued (Fair Value)": 28.409231984425865,
-    "Buy Price": 74.36848466750602,
-    "Over/UnderValued (Buy Price)": 114.01538664070978
+    "Last Close": 157.92,
+    "Fair Value": 122.98181178994464,
+    "Over/UnderValued (Fair Value)": 28.409231984425844,
+    "Buy Price": 73.78908707396678,
+    "Over/UnderValued (Buy Price)": 114.01538664070974
   },
   {
     "Ticker": "LIN",
     "Company ": "Linde PLC",
     "Metric": "EPS",
-    "Last Close": 479.86,
+    "Last Close": 476,
     "Fair Value": 212.92776196848587,
-    "Over/UnderValued (Fair Value)": 125.36281580370958,
+    "Over/UnderValued (Fair Value)": 123.5499944203846,
     "Buy Price": 149.0494333779401,
-    "Over/UnderValued (Buy Price)": 221.94687971958516
+    "Over/UnderValued (Buy Price)": 219.3571348862638
   },
   {
     "Ticker": "INTU",
     "Company ": "Intuit Inc",
     "Metric": "EPS",
-    "Last Close": 662.68,
+    "Last Close": 674.96,
     "Fair Value": 174.97599999999997,
-    "Over/UnderValued (Fair Value)": 278.72622531089985,
+    "Over/UnderValued (Fair Value)": 285.7443306510608,
     "Buy Price": 122.48319999999997,
-    "Over/UnderValued (Buy Price)": 441.03746472985694
+    "Over/UnderValued (Buy Price)": 451.0633295015155
   },
   {
     "Ticker": "PEP",
     "Company ": "PepsiCo Inc",
     "Metric": "EPS",
-    "Last Close": 141.23,
+    "Last Close": 140.73,
     "Fair Value": 50.98654625780465,
-    "Over/UnderValued (Fair Value)": 176.99463949939843,
+    "Over/UnderValued (Fair Value)": 176.01398864795254,
     "Buy Price": 40.789237006243724,
-    "Over/UnderValued (Buy Price)": 246.24329937424795
+    "Over/UnderValued (Buy Price)": 245.01748580994064
   },
   {
     "Ticker": "SHOP",
     "Company ": "Shopify Inc",
     "Metric": "P.Change",
-    "Last Close": 147.87,
-    "Fair Value": 58.05644110598112,
-    "Over/UnderValued (Fair Value)": 154.7004211471827,
-    "Buy Price": 34.83386466358867,
-    "Over/UnderValued (Buy Price)": 324.50070191197125
+    "Last Close": 152.1,
+    "Fair Value": 59.71721574504449,
+    "Over/UnderValued (Fair Value)": 154.70042114718265,
+    "Buy Price": 35.83032944702669,
+    "Over/UnderValued (Buy Price)": 324.50070191197113
   },
   {
     "Ticker": "BKNG",
     "Company ": "Booking Holdings Inc",
     "Metric": "P.Change",
-    "Last Close": 5553.7,
-    "Fair Value": 12596.398195931426,
+    "Last Close": 5442.88,
+    "Fair Value": 12345.04633175563,
     "Over/UnderValued (Fair Value)": -55.91041253527681,
-    "Buy Price": 7557.838917558855,
+    "Buy Price": 7407.027799053378,
     "Over/UnderValued (Buy Price)": -26.517354225461354
   },
   {
     "Ticker": "ISRG",
     "Company ": "Intuitive Surgical Inc",
     "Metric": "EPS",
-    "Last Close": 433.66,
+    "Last Close": 435.83,
     "Fair Value": 71.52214854385001,
-    "Over/UnderValued (Fair Value)": 506.32965987329703,
+    "Over/UnderValued (Fair Value)": 509.36368505875345,
     "Buy Price": 50.065503980695006,
-    "Over/UnderValued (Buy Price)": 766.1852283904244
+    "Over/UnderValued (Buy Price)": 770.5195500839334
   },
   {
     "Ticker": "TXN",
     "Company ": "Texas Instruments Inc",
     "Metric": "EPS",
-    "Last Close": 180.3,
+    "Last Close": 181.62,
     "Fair Value": 42.4976923076923,
-    "Over/UnderValued (Fair Value)": 324.2583307690917,
+    "Over/UnderValued (Fair Value)": 327.36438177638615,
     "Buy Price": 33.99815384615384,
-    "Over/UnderValued (Buy Price)": 430.3229134613646
+    "Over/UnderValued (Buy Price)": 434.20547722048263
   },
   {
     "Ticker": "QCOM",
     "Company ": "Qualcomm Inc",
     "Metric": "EPS",
-    "Last Close": 165.26,
+    "Last Close": 168.13,
     "Fair Value": 453.26567204636797,
-    "Over/UnderValued (Fair Value)": -63.540146498653385,
+    "Over/UnderValued (Fair Value)": -62.906963759037836,
     "Buy Price": 271.95940322782076,
-    "Over/UnderValued (Buy Price)": -39.233577497755626
+    "Over/UnderValued (Buy Price)": -38.178272931729715
   },
   {
     "Ticker": "AMGN",
     "Company ": "Amgen Inc",
     "Metric": "EPS",
-    "Last Close": 274.71,
+    "Last Close": 275.83,
     "Fair Value": 88.75526423795404,
-    "Over/UnderValued (Fair Value)": 209.51403543061832,
+    "Over/UnderValued (Fair Value)": 210.77593241173403,
     "Buy Price": 71.00421139036324,
-    "Over/UnderValued (Buy Price)": 286.89254428827286
+    "Over/UnderValued (Buy Price)": 288.4699155146675
   },
   {
     "Ticker": "ADBE",
     "Company ": "Adobe Inc",
     "Metric": "EPS",
-    "Last Close": 362.07,
+    "Last Close": 367.46,
     "Fair Value": 156.43629672942868,
-    "Over/UnderValued (Fair Value)": 131.4488437592167,
+    "Over/UnderValued (Fair Value)": 134.89433570238285,
     "Buy Price": 109.50540771060007,
-    "Over/UnderValued (Buy Price)": 230.64120537030956
+    "Over/UnderValued (Buy Price)": 235.56333671768982
   },
   {
     "Ticker": "AMAT",
     "Company ": "Applied Materials Inc",
     "Metric": "EPS",
-    "Last Close": 178.13,
+    "Last Close": 189.76,
     "Fair Value": 99.06858739023507,
-    "Over/UnderValued (Fair Value)": 79.80472387108833,
+    "Over/UnderValued (Fair Value)": 91.54406558006917,
     "Buy Price": 64.3945818036528,
-    "Over/UnderValued (Buy Price)": 176.62265210936664
+    "Over/UnderValued (Buy Price)": 194.68317781549104
   },
   {
     "Ticker": "HON",
     "Company ": "Honeywell International Inc",
     "Metric": "EPS",
-    "Last Close": 211.68,
+    "Last Close": 210.2,
     "Fair Value": 65.21981146872477,
-    "Over/UnderValued (Fair Value)": 224.56395569543793,
+    "Over/UnderValued (Fair Value)": 222.29470657209487,
     "Buy Price": 52.17584917497982,
-    "Over/UnderValued (Buy Price)": 305.7049446192974
+    "Over/UnderValued (Buy Price)": 302.8683832151186
   },
   {
     "Ticker": "GILD",
     "Company ": "Gilead Sciences Inc",
     "Metric": "EPS",
-    "Last Close": 112.26,
+    "Last Close": 113.62,
     "Fair Value": 75.13998040544311,
-    "Over/UnderValued (Fair Value)": 49.401156873162996,
+    "Over/UnderValued (Fair Value)": 51.211112096283465,
     "Buy Price": 60.111984324354495,
-    "Over/UnderValued (Buy Price)": 86.75144609145373
+    "Over/UnderValued (Buy Price)": 89.0138901203543
   },
   {
     "Ticker": "LRCX",
     "Company ": "Lam Research Corp",
     "Metric": "EPS",
-    "Last Close": 121.9,
+    "Last Close": 126.32,
     "Fair Value": 36.67945594624406,
-    "Over/UnderValued (Fair Value)": 232.33862622894884,
+    "Over/UnderValued (Fair Value)": 244.3889685417622,
     "Buy Price": 25.675619162370843,
-    "Over/UnderValued (Buy Price)": 374.7694660413555
+    "Over/UnderValued (Buy Price)": 391.984240773946
   },
   {
     "Ticker": "ADP",
     "Company ": "Automatic Data Processing Inc",
     "Metric": "EPS",
-    "Last Close": 288.75,
+    "Last Close": 290.95,
     "Fair Value": 115.40582855160383,
-    "Over/UnderValued (Fair Value)": 150.20400063319605,
+    "Over/UnderValued (Fair Value)": 152.11031682849656,
     "Buy Price": 92.32466284128307,
-    "Over/UnderValued (Buy Price)": 212.75500079149504
+    "Over/UnderValued (Buy Price)": 215.1378960356207
   },
   {
     "Ticker": "MU",
     "Company ": "Micron Technology Inc",
     "Metric": "EPS",
-    "Last Close": 159.99,
+    "Last Close": 168.89,
     "Fair Value": 42.378849512215574,
-    "Over/UnderValued (Fair Value)": 277.52322642426475,
+    "Over/UnderValued (Fair Value)": 298.5242684592416,
     "Buy Price": 33.90307960977246,
-    "Over/UnderValued (Buy Price)": 371.9040330303309
+    "Over/UnderValued (Buy Price)": 398.15533557405195
   },
   {
     "Ticker": "APP",
     "Company ": "Applovin Corp",
     "Metric": "EPS",
-    "Last Close": 606.66,
+    "Last Close": 621.52,
     "Fair Value": 218.62642316479145,
-    "Over/UnderValued (Fair Value)": 177.48704443777368,
+    "Over/UnderValued (Fair Value)": 184.2840270645256,
     "Buy Price": 131.17585389887486,
-    "Over/UnderValued (Buy Price)": 362.47840739628947
+    "Over/UnderValued (Buy Price)": 373.80671177420936
   },
   {
     "Ticker": "CMCSA",
     "Company ": "Comcast Corp",
     "Metric": "EPS",
-    "Last Close": 32.43,
+    "Last Close": 31.64,
     "Fair Value": 57.257306414113486,
-    "Over/UnderValued (Fair Value)": -43.36094023450908,
+    "Over/UnderValued (Fair Value)": -44.74067681220683,
     "Buy Price": 45.805845131290795,
-    "Over/UnderValued (Buy Price)": -29.201175293136373
+    "Over/UnderValued (Buy Price)": -30.92584601525854
   },
   {
     "Ticker": "MELI",
     "Company ": "MercadoLibre Inc",
     "Metric": "EPS",
-    "Last Close": 2446.32,
+    "Last Close": 2476.37,
     "Fair Value": 8007.694784951749,
-    "Over/UnderValued (Fair Value)": -69.45038409059767,
+    "Over/UnderValued (Fair Value)": -69.07512003762115,
     "Buy Price": 4804.616870971049,
-    "Over/UnderValued (Buy Price)": -49.08397348432945
+    "Over/UnderValued (Buy Price)": -48.45853339603524
   },
   {
     "Ticker": "KLAC",
     "Company ": "KLA Corp",
     "Metric": "EPS",
-    "Last Close": 989.87,
+    "Last Close": 1046.69,
     "Fair Value": 554.0442363710721,
-    "Over/UnderValued (Fair Value)": 78.66262926648926,
+    "Over/UnderValued (Fair Value)": 88.91812806423233,
     "Buy Price": 332.42654182264323,
-    "Over/UnderValued (Buy Price)": 197.77104877748215
+    "Over/UnderValued (Buy Price)": 214.8635467737206
   },
   {
     "Ticker": "PANW",
     "Company ": "Palo Alto Networks Inc",
     "Metric": "EPS",
-    "Last Close": 203.12,
+    "Last Close": 205.68,
     "Fair Value": 130.00642893567465,
-    "Over/UnderValued (Fair Value)": 56.238427332313634,
+    "Over/UnderValued (Fair Value)": 58.20756072129909,
     "Buy Price": 78.00385736140478,
-    "Over/UnderValued (Buy Price)": 160.39737888718943
+    "Over/UnderValued (Buy Price)": 163.67926786883183
   },
   {
     "Ticker": "SNPS",
     "Company ": "Synopsys Inc",
     "Metric": "EPS",
-    "Last Close": 425.4,
+    "Last Close": 480.11,
     "Fair Value": 169.59504977847143,
-    "Over/UnderValued (Fair Value)": 150.83279291209638,
+    "Over/UnderValued (Fair Value)": 183.091989198464,
     "Buy Price": 110.23678235600643,
-    "Over/UnderValued (Buy Price)": 285.89660448014826
+    "Over/UnderValued (Buy Price)": 335.5261372284062
   },
   {
     "Ticker": "CRWD",
     "Company ": "Crowdstrike Holdings Inc",
     "Metric": "P.Change",
-    "Last Close": 445.5,
-    "Fair Value": 1681.9566639006036,
+    "Last Close": 502.63,
+    "Fair Value": 1897.6473130782501,
     "Over/UnderValued (Fair Value)": -73.51299176954733,
-    "Buy Price": 1009.1739983403621,
-    "Over/UnderValued (Buy Price)": -55.85498628257888
+    "Buy Price": 1138.5883878469501,
+    "Over/UnderValued (Buy Price)": -55.85498628257889
   },
   {
     "Ticker": "ADI",
     "Company ": "Analog Devices Inc",
     "Metric": "EPS",
-    "Last Close": 246.32,
+    "Last Close": 249.05,
     "Fair Value": 47.398357579495304,
-    "Over/UnderValued (Fair Value)": 419.680454300296,
+    "Over/UnderValued (Fair Value)": 425.4401475458296,
     "Buy Price": 37.91868606359625,
-    "Over/UnderValued (Buy Price)": 549.60056787537
+    "Over/UnderValued (Buy Price)": 556.8001844322869
   },
   {
     "Ticker": "CEG",
     "Company ": "Constellation Energy Corp",
     "Metric": "EPS",
-    "Last Close": 321.27,
+    "Last Close": 322.71,
     "Fair Value": 69.11285714285718,
-    "Over/UnderValued (Fair Value)": 364.8483846296944,
+    "Over/UnderValued (Fair Value)": 366.9319332768347,
     "Buy Price": 55.290285714285744,
-    "Over/UnderValued (Buy Price)": 481.060480787118
+    "Over/UnderValued (Buy Price)": 483.66491659604344
   },
   {
     "Ticker": "DASH",
     "Company ": "DoorDash Inc",
     "Metric": "EPS",
-    "Last Close": 259.25,
+    "Last Close": 268.07,
     "Fair Value": 141.54957076076533,
-    "Over/UnderValued (Fair Value)": 83.1513854875347,
+    "Over/UnderValued (Fair Value)": 89.38241815870171,
     "Buy Price": 84.9297424564592,
-    "Over/UnderValued (Buy Price)": 205.25230914589113
+    "Over/UnderValued (Buy Price)": 215.63736359783624
   },
   {
     "Ticker": "SBUX",
     "Company ": "Starbucks Corp",
     "Metric": "EPS",
-    "Last Close": 83.22,
+    "Last Close": 83.42,
     "Fair Value": 38.14059338862634,
-    "Over/UnderValued (Fair Value)": 118.19272487988215,
+    "Over/UnderValued (Fair Value)": 118.71710057053315,
     "Buy Price": 26.69841537203844,
-    "Over/UnderValued (Buy Price)": 211.70389268554595
+    "Over/UnderValued (Buy Price)": 212.45300081504737
   },
   {
     "Ticker": "VRTX",
     "Company ": "Vertex Pharmaceuticals Inc",
     "Metric": "EPS",
-    "Last Close": 387.15,
+    "Last Close": 387.11,
     "Fair Value": 222.66526517837457,
-    "Over/UnderValued (Fair Value)": 73.87085484117092,
+    "Over/UnderValued (Fair Value)": 73.85289065624612,
     "Buy Price": 155.86568562486218,
-    "Over/UnderValued (Buy Price)": 148.38693548738706
+    "Over/UnderValued (Buy Price)": 148.36127236606592
   },
   {
     "Ticker": "CDNS",
     "Company ": "Cadence Design Systems Inc",
     "Metric": "EPS",
-    "Last Close": 347.27,
+    "Last Close": 364.88,
     "Fair Value": 73.99792232569341,
-    "Over/UnderValued (Fair Value)": 369.29696008427203,
+    "Over/UnderValued (Fair Value)": 393.09492554942597,
     "Buy Price": 48.09864951170072,
-    "Over/UnderValued (Buy Price)": 621.9953232065722
+    "Over/UnderValued (Buy Price)": 658.6075777683476
   },
   {
     "Ticker": "MSTR",
     "Company ": "Strategy Inc Class A",
     "Metric": "EPS",
-    "Last Close": 329.71,
+    "Last Close": 349.12,
     "Fair Value": 61.77607306008721,
-    "Over/UnderValued (Fair Value)": 433.71796501099016,
+    "Over/UnderValued (Fair Value)": 465.13789677182046,
     "Buy Price": 43.24325114206104,
-    "Over/UnderValued (Buy Price)": 662.4542357299861
+    "Over/UnderValued (Buy Price)": 707.339852531172
   },
   {
     "Ticker": "CTAS",
     "Company ": "Cintas Corp",
     "Metric": "EPS",
-    "Last Close": 199.98,
+    "Last Close": 199.51,
     "Fair Value": 49.71650529251629,
-    "Over/UnderValued (Fair Value)": 302.2406619760994,
+    "Over/UnderValued (Fair Value)": 301.2953018844463,
     "Buy Price": 39.773204234013036,
-    "Over/UnderValued (Buy Price)": 402.8008274701241
+    "Over/UnderValued (Buy Price)": 401.6191273555579
   },
   {
     "Ticker": "INTC",
     "Company ": "Intel Corp",
     "Metric": "P.Change",
-    "Last Close": 24.9,
-    "Fair Value": 7.000385364351119,
-    "Over/UnderValued (Fair Value)": 255.69470399159994,
-    "Buy Price": 5.6003082914808955,
-    "Over/UnderValued (Buy Price)": 344.61837998949994
+    "Last Close": 30.57,
+    "Fair Value": 8.594449019606975,
+    "Over/UnderValued (Fair Value)": 255.69470399160002,
+    "Buy Price": 6.8755592156855805,
+    "Over/UnderValued (Buy Price)": 344.61837998950006
   },
   {
     "Ticker": "ORLY",
     "Company ": "O'Reilly Automotive Inc",
     "Metric": "EPS",
-    "Last Close": 104.55,
+    "Last Close": 103.69,
     "Fair Value": 33.7350555221408,
-    "Over/UnderValued (Fair Value)": 209.91500793998205,
+    "Over/UnderValued (Fair Value)": 207.36573097366556,
     "Buy Price": 26.98804441771264,
-    "Over/UnderValued (Buy Price)": 287.3937599249775
+    "Over/UnderValued (Buy Price)": 284.2071637170819
   },
   {
     "Ticker": "TRI",
     "Company ": "Thomson Reuters Corp",
     "Metric": "EPS",
-    "Last Close": 169.21,
+    "Last Close": 160.61,
     "Fair Value": 59.887664168023136,
-    "Over/UnderValued (Fair Value)": 182.54566670902025,
+    "Over/UnderValued (Fair Value)": 168.1854472556926,
     "Buy Price": 41.921364917616195,
-    "Over/UnderValued (Buy Price)": 303.6366667271718
+    "Over/UnderValued (Buy Price)": 283.1220675081323
   },
   {
     "Ticker": "MDLZ",
     "Company ": "MONDELEZ INTERNATIONAL INC Common Stock",
     "Metric": "EPS",
-    "Last Close": 62.83,
+    "Last Close": 63.25,
     "Fair Value": 25.35396562546569,
-    "Over/UnderValued (Fair Value)": 147.81133227100827,
+    "Over/UnderValued (Fair Value)": 149.46787786314295,
     "Buy Price": 20.283172500372554,
-    "Over/UnderValued (Buy Price)": 209.7641653387603
+    "Over/UnderValued (Buy Price)": 211.83484732892865
   },
   {
     "Ticker": "PDD",
     "Company ": "PDD Holdings Inc - ADR",
     "Metric": "P.Change",
-    "Last Close": 134.86,
-    "Fair Value": 98.2376097756732,
+    "Last Close": 132.96,
+    "Fair Value": 96.8535710794417,
     "Over/UnderValued (Fair Value)": 37.27939870275192,
-    "Buy Price": 58.94256586540392,
+    "Buy Price": 58.112142647665024,
     "Over/UnderValued (Buy Price)": 128.79899783791987
   },
   {
     "Ticker": "FTNT",
     "Company ": "Fortinet Inc",
     "Metric": "EPS",
-    "Last Close": 80.29,
+    "Last Close": 80.99,
     "Fair Value": 73.16148860053553,
-    "Over/UnderValued (Fair Value)": 9.743529739240842,
+    "Over/UnderValued (Fair Value)": 10.700317269661408,
     "Buy Price": 43.89689316032132,
-    "Over/UnderValued (Buy Price)": 82.90588289873473
+    "Over/UnderValued (Buy Price)": 84.50052878276901
   },
   {
     "Ticker": "MAR",
     "Company ": "Marriott International Inc",
     "Metric": "EPS",
-    "Last Close": 262.05,
+    "Last Close": 263.95,
     "Fair Value": 75.12127828711186,
-    "Over/UnderValued (Fair Value)": 248.83591703332138,
+    "Over/UnderValued (Fair Value)": 251.36516046916685,
     "Buy Price": 60.09702262968949,
-    "Over/UnderValued (Buy Price)": 336.0448962916517
+    "Over/UnderValued (Buy Price)": 339.2064505864585
   },
   {
     "Ticker": "CSX",
     "Company ": "CSX Corp",
     "Metric": "EPS",
-    "Last Close": 32.77,
+    "Last Close": 33.43,
     "Fair Value": 12.4900519817133,
-    "Over/UnderValued (Fair Value)": 162.3688039727825,
+    "Over/UnderValued (Fair Value)": 167.65300936253033,
     "Buy Price": 9.992041585370641,
-    "Over/UnderValued (Buy Price)": 227.96100496597808
+    "Over/UnderValued (Buy Price)": 234.56626170316284
   },
   {
     "Ticker": "PYPL",
     "Company ": "PayPal Holdings Inc",
     "Metric": "EPS",
-    "Last Close": 68.62,
+    "Last Close": 68.52,
     "Fair Value": 42.83642961704112,
-    "Over/UnderValued (Fair Value)": 60.19075495662156,
+    "Over/UnderValued (Fair Value)": 59.95730879667309,
     "Buy Price": 34.2691436936329,
-    "Over/UnderValued (Buy Price)": 100.23844369577692
+    "Over/UnderValued (Buy Price)": 99.94663599584135
   },
   {
     "Ticker": "AXON",
     "Company ": "Axon Enterprise Inc",
     "Metric": "EPS",
-    "Last Close": 751.81,
+    "Last Close": 766.47,
     "Fair Value": 90.81255718129523,
-    "Over/UnderValued (Fair Value)": 727.8700912464242,
+    "Over/UnderValued (Fair Value)": 744.0132331807862,
     "Buy Price": 54.487534308777136,
-    "Over/UnderValued (Buy Price)": 1279.783485410707
+    "Over/UnderValued (Buy Price)": 1306.6887219679768
   },
   {
     "Ticker": "ADSK",
     "Company ": "Autodesk Inc",
     "Metric": "P.Change",
-    "Last Close": 319.28,
-    "Fair Value": 161.78855708929055,
+    "Last Close": 323.04,
+    "Fair Value": 163.69385956566157,
     "Over/UnderValued (Fair Value)": 97.34399375586892,
-    "Buy Price": 97.07313425357432,
-    "Over/UnderValued (Buy Price)": 228.90665625978156
+    "Buy Price": 98.21631573939693,
+    "Over/UnderValued (Buy Price)": 228.90665625978158
   },
   {
     "Ticker": "MRVL",
     "Company ": "Marvell Technology Inc",
     "Metric": "P.Change",
-    "Last Close": 70.98,
-    "Fair Value": 65.34962080067173,
-    "Over/UnderValued (Fair Value)": 8.61577944958849,
-    "Buy Price": 42.477253520436626,
-    "Over/UnderValued (Buy Price)": 67.10119915321305
+    "Last Close": 74.23,
+    "Fair Value": 68.34181955528125,
+    "Over/UnderValued (Fair Value)": 8.615779449588468,
+    "Buy Price": 44.422182710932816,
+    "Over/UnderValued (Buy Price)": 67.10119915321302
   },
   {
     "Ticker": "AEP",
     "Company ": "American Electric Power Company Inc",
     "Metric": "EPS",
-    "Last Close": 107.52,
+    "Last Close": 106.44,
     "Fair Value": 66.20861322546794,
-    "Over/UnderValued (Fair Value)": 62.395789251542766,
+    "Over/UnderValued (Fair Value)": 60.76458154700719,
     "Buy Price": 52.966890580374354,
-    "Over/UnderValued (Buy Price)": 102.99473656442845
+    "Over/UnderValued (Buy Price)": 100.95572693375901
   },
   {
     "Ticker": "ASML",
     "Company ": "ASML Holding NV",
     "Metric": "EPS",
-    "Last Close": 872.27,
+    "Last Close": 927.8,
     "Fair Value": 481.0158237591942,
-    "Over/UnderValued (Fair Value)": 81.33914871721043,
+    "Over/UnderValued (Fair Value)": 92.88346748120173,
     "Buy Price": 312.6602854434762,
-    "Over/UnderValued (Buy Price)": 178.9833057187853
+    "Over/UnderValued (Buy Price)": 196.74379612492578
   },
   {
     "Ticker": "REGN",
     "Company ": "Regeneron Pharmaceuticals Inc",
     "Metric": "EPS",
-    "Last Close": 585.5,
+    "Last Close": 598.71,
     "Fair Value": 1049.400668746656,
-    "Over/UnderValued (Fair Value)": -44.20624862958324,
+    "Over/UnderValued (Fair Value)": -42.94743487108076,
     "Buy Price": 629.6404012479936,
-    "Over/UnderValued (Buy Price)": -7.010414382638741
+    "Over/UnderValued (Buy Price)": -4.912391451801257
   },
   {
     "Ticker": "ROP",
     "Company ": "Roper Technologies Inc",
     "Metric": "EPS",
-    "Last Close": 509.65,
+    "Last Close": 509.01,
     "Fair Value": 225.51183817071154,
-    "Over/UnderValued (Fair Value)": 125.99700491740795,
+    "Over/UnderValued (Fair Value)": 125.71320606889005,
     "Buy Price": 157.85828671949807,
-    "Over/UnderValued (Buy Price)": 222.85286416772564
+    "Over/UnderValued (Buy Price)": 222.44743724127153
   },
   {
     "Ticker": "MNST",
     "Company ": "Monster Beverage Corp",
     "Metric": "EPS",
-    "Last Close": 66.52,
+    "Last Close": 64.64,
     "Fair Value": 20.332082110081256,
-    "Over/UnderValued (Fair Value)": 227.16767343280299,
+    "Over/UnderValued (Fair Value)": 217.92120280662033,
     "Buy Price": 16.265665688065006,
-    "Over/UnderValued (Buy Price)": 308.9595917910037
+    "Over/UnderValued (Buy Price)": 297.40150350827537
   },
   {
     "Ticker": "ABNB",
     "Company ": "Airbnb Inc",
     "Metric": "EPS",
-    "Last Close": 123.2,
+    "Last Close": 125.47,
     "Fair Value": 77.62975148681595,
-    "Over/UnderValued (Fair Value)": 58.70204095774203,
+    "Over/UnderValued (Fair Value)": 61.62617758902511,
     "Buy Price": 50.45933846643037,
-    "Over/UnderValued (Buy Price)": 144.15698608883392
+    "Over/UnderValued (Buy Price)": 148.6556578292694
   },
   {
     "Ticker": "FAST",
     "Company ": "Fastenal Co",
     "Metric": "EPS",
-    "Last Close": 47.12,
+    "Last Close": 47.22,
     "Fair Value": 10.683932879726182,
-    "Over/UnderValued (Fair Value)": 341.03609158210696,
+    "Over/UnderValued (Fair Value)": 341.97207649633043,
     "Buy Price": 8.547146303780947,
-    "Over/UnderValued (Buy Price)": 451.2951144776336
+    "Over/UnderValued (Buy Price)": 452.46509562041297
   },
   {
     "Ticker": "NXPI",
     "Company ": "NXP Semiconductors NV",
     "Metric": "EPS",
-    "Last Close": 221.89,
+    "Last Close": 226.51,
     "Fair Value": 57.59267405649972,
-    "Over/UnderValued (Fair Value)": 285.2746961919512,
+    "Over/UnderValued (Fair Value)": 293.29654979692134,
     "Buy Price": 46.074139245199774,
-    "Over/UnderValued (Buy Price)": 381.593370239939
+    "Over/UnderValued (Buy Price)": 391.62068724615165
   },
   {
     "Ticker": "PCAR",
     "Company ": "PACCAR Inc",
     "Metric": "EPS",
-    "Last Close": 100.86,
+    "Last Close": 101.42,
     "Fair Value": 72.0432826475203,
-    "Over/UnderValued (Fair Value)": 39.99917312689465,
+    "Over/UnderValued (Fair Value)": 40.77648362611199,
     "Buy Price": 57.63462611801624,
-    "Over/UnderValued (Buy Price)": 74.99896640861832
+    "Over/UnderValued (Buy Price)": 75.97060453264
   },
   {
     "Ticker": "PAYX",
     "Company ": "Paychex Inc",
     "Metric": "EPS",
-    "Last Close": 132.42,
+    "Last Close": 131.11,
     "Fair Value": 51.75499525895205,
-    "Over/UnderValued (Fair Value)": 155.8593607002511,
+    "Over/UnderValued (Fair Value)": 153.32820405837433,
     "Buy Price": 41.40399620716164,
-    "Over/UnderValued (Buy Price)": 219.82420087531386
+    "Over/UnderValued (Buy Price)": 216.66025507296794
   },
   {
     "Ticker": "IDXX",
     "Company ": "IDEXX Laboratories Inc",
     "Metric": "EPS",
-    "Last Close": 640.86,
+    "Last Close": 655.51,
     "Fair Value": 138.81811819186123,
-    "Over/UnderValued (Fair Value)": 361.6544355645739,
+    "Over/UnderValued (Fair Value)": 372.2078130277031,
     "Buy Price": 97.17268273430285,
-    "Over/UnderValued (Buy Price)": 559.5063365208199
+    "Over/UnderValued (Buy Price)": 574.5825900395758
   },
   {
     "Ticker": "WDAY",
     "Company ": "Workday Inc",
     "Metric": "EPS",
-    "Last Close": 234.88,
+    "Last Close": 233.5,
     "Fair Value": 46.06726839260257,
-    "Over/UnderValued (Fair Value)": 409.8630941132962,
+    "Over/UnderValued (Fair Value)": 406.8674747762886,
     "Buy Price": 27.640361035561543,
-    "Over/UnderValued (Buy Price)": 749.7718235221603
+    "Over/UnderValued (Buy Price)": 744.7791246271477
   },
   {
     "Ticker": "ROST",
     "Company ": "Ross Stores Inc",
     "Metric": "EPS",
-    "Last Close": 146.66,
+    "Last Close": 146.09,
     "Fair Value": 65.82480197642658,
-    "Over/UnderValued (Fair Value)": 122.8035567087956,
+    "Over/UnderValued (Fair Value)": 121.93762170726816,
     "Buy Price": 52.65984158114127,
-    "Over/UnderValued (Buy Price)": 178.50444588599444
+    "Over/UnderValued (Buy Price)": 177.42202713408517
   },
   {
     "Ticker": "EXC",
     "Company ": "Exelon Corp",
     "Metric": "EPS",
-    "Last Close": 43.23,
+    "Last Close": 43.11,
     "Fair Value": 17.455605548660447,
-    "Over/UnderValued (Fair Value)": 147.65683367150498,
+    "Over/UnderValued (Fair Value)": 146.96937542397825,
     "Buy Price": 13.964484438928359,
-    "Over/UnderValued (Buy Price)": 209.57104208938117
+    "Over/UnderValued (Buy Price)": 208.71171927997278
   },
   {
     "Ticker": "CPRT",
     "Company ": "Copart Inc",
     "Metric": "EPS",
-    "Last Close": 46.62,
+    "Last Close": 45.46,
     "Fair Value": 30.770331629638164,
-    "Over/UnderValued (Fair Value)": 51.50957929584139,
+    "Over/UnderValued (Fair Value)": 47.739714173937145,
     "Buy Price": 20.00071555926481,
-    "Over/UnderValued (Buy Price)": 133.09166045514056
+    "Over/UnderValued (Buy Price)": 127.29186795990329
   },
   {
     "Ticker": "KDP",
     "Company ": "Keurig Dr Pepper Inc",
     "Metric": "EPS",
-    "Last Close": 27.26,
+    "Last Close": 27.2,
     "Fair Value": 16.384999999999998,
-    "Over/UnderValued (Fair Value)": 66.37168141592925,
+    "Over/UnderValued (Fair Value)": 66.00549282880685,
     "Buy Price": 11.469499999999998,
-    "Over/UnderValued (Buy Price)": 137.6738305941846
+    "Over/UnderValued (Buy Price)": 137.15070404115264
   },
   {
     "Ticker": "ZS",
     "Company ": "Zscaler Inc",
     "Metric": "P.Change",
-    "Last Close": 279.46,
-    "Fair Value": 346.3619731000399,
-    "Over/UnderValued (Fair Value)": -19.315623046389273,
-    "Buy Price": 207.81718386002393,
-    "Over/UnderValued (Buy Price)": 34.47396158935121
+    "Last Close": 291.11,
+    "Fair Value": 360.8009517968676,
+    "Over/UnderValued (Fair Value)": -19.315623046389263,
+    "Buy Price": 216.48057107812056,
+    "Over/UnderValued (Buy Price)": 34.473961589351234
   },
   {
     "Ticker": "DDOG",
     "Company ": "Datadog Inc",
     "Metric": "EPS",
-    "Last Close": 134.23,
+    "Last Close": 136.81,
     "Fair Value": 97.14757413920377,
-    "Over/UnderValued (Fair Value)": 38.17123195239074,
+    "Over/UnderValued (Fair Value)": 40.826985349076786,
     "Buy Price": 58.28854448352226,
-    "Over/UnderValued (Buy Price)": 130.28538658731787
+    "Over/UnderValued (Buy Price)": 134.71164224846132
   },
   {
     "Ticker": "AZN",
     "Company ": "AstraZeneca PLC",
     "Metric": "EPS",
-    "Last Close": 77.69,
+    "Last Close": 77.07,
     "Fair Value": 76.28272258267873,
-    "Over/UnderValued (Fair Value)": 1.844818026514461,
+    "Over/UnderValued (Fair Value)": 1.0320520698090974,
     "Buy Price": 45.769633549607235,
-    "Over/UnderValued (Buy Price)": 69.7413633775241
+    "Over/UnderValued (Buy Price)": 68.38675344968183
   },
   {
     "Ticker": "BKR",
     "Company ": "Baker Hughes Co",
     "Metric": "EPS",
-    "Last Close": 46.48,
+    "Last Close": 47.28,
     "Fair Value": 15.82886224434441,
-    "Over/UnderValued (Fair Value)": 193.6408143712737,
+    "Over/UnderValued (Fair Value)": 198.69487313842126,
     "Buy Price": 12.663089795475528,
-    "Over/UnderValued (Buy Price)": 267.0510179640921
+    "Over/UnderValued (Buy Price)": 273.3685914230266
   },
   {
     "Ticker": "XEL",
     "Company ": "Xcel Energy Inc",
     "Metric": "EPS",
-    "Last Close": 72.05,
+    "Last Close": 72.17,
     "Fair Value": 35.045908173598136,
-    "Over/UnderValued (Fair Value)": 105.58748154878441,
+    "Over/UnderValued (Fair Value)": 105.92988956801905,
     "Buy Price": 28.03672653887851,
-    "Over/UnderValued (Buy Price)": 156.9843519359805
+    "Over/UnderValued (Buy Price)": 157.4123619600238
   },
   {
     "Ticker": "FANG",
     "Company ": "Diamondback Energy Inc",
     "Metric": "EPS",
-    "Last Close": 140.47,
+    "Last Close": 140.64,
     "Fair Value": 312.79534708995493,
-    "Over/UnderValued (Fair Value)": -55.09204299013979,
+    "Over/UnderValued (Fair Value)": -55.03769435561515,
     "Buy Price": 203.3169756084707,
-    "Over/UnderValued (Buy Price)": -30.91083536944582
+    "Over/UnderValued (Buy Price)": -30.82722208556177
   },
   {
     "Ticker": "CCEP",
     "Company ": "Coca-Cola Europacific Partners PLC",
     "Metric": "EPS",
-    "Last Close": 90.52,
+    "Last Close": 89.11,
     "Fair Value": 47.27744340199655,
-    "Over/UnderValued (Fair Value)": 91.46551396680916,
+    "Over/UnderValued (Fair Value)": 88.48311919556302,
     "Buy Price": 37.821954721597244,
-    "Over/UnderValued (Buy Price)": 139.33189245851142
+    "Over/UnderValued (Buy Price)": 135.60389899445374
   },
   {
     "Ticker": "TTWO",
     "Company ": "TAKE-TWO INTERACTIVE SOFTWARE, INC Common Stock",
     "Metric": "P.Change",
-    "Last Close": 250.52,
-    "Fair Value": 182.48914430521762,
+    "Last Close": 249.74,
+    "Fair Value": 181.92095999834365,
     "Over/UnderValued (Fair Value)": 37.27939870275192,
-    "Buy Price": 145.9913154441741,
-    "Over/UnderValued (Buy Price)": 71.59924837843991
+    "Buy Price": 145.53676799867492,
+    "Over/UnderValued (Buy Price)": 71.5992483784399
   },
   {
     "Ticker": "EA",
     "Company ": "Electronic Arts Inc",
     "Metric": "EPS",
-    "Last Close": 173.59,
+    "Last Close": 173.17,
     "Fair Value": 45.41302647448527,
-    "Over/UnderValued (Fair Value)": 282.24715126072766,
+    "Over/UnderValued (Fair Value)": 281.32230649127365,
     "Buy Price": 36.33042117958822,
-    "Over/UnderValued (Buy Price)": 377.8089390759095
+    "Over/UnderValued (Buy Price)": 376.65288311409205
   },
   {
     "Ticker": "CSGP",
     "Company ": "CoStar Group Inc",
     "Metric": "EPS",
-    "Last Close": 87.87,
+    "Last Close": 89.26,
     "Fair Value": 2.9444855070738583,
-    "Over/UnderValued (Fair Value)": 2884.2225335767603,
+    "Over/UnderValued (Fair Value)": 2931.429422408804,
     "Buy Price": 2.355588405659087,
-    "Over/UnderValued (Buy Price)": 3630.2781669709498
+    "Over/UnderValued (Buy Price)": 3689.2867780110046
   },
   {
     "Ticker": "TTD",
     "Company ": "Trade Desk Inc",
     "Metric": "EPS",
-    "Last Close": 45.37,
+    "Last Close": 43.93,
     "Fair Value": 46.476878119044315,
-    "Over/UnderValued (Fair Value)": -2.3815672735358784,
+    "Over/UnderValued (Fair Value)": -5.479882087864906,
     "Buy Price": 27.886126871426587,
-    "Over/UnderValued (Buy Price)": 62.697387877440214
+    "Over/UnderValued (Buy Price)": 57.533529853558484
   },
   {
     "Ticker": "CHTR",
     "Company ": "Charter Communications Inc",
     "Metric": "EPS",
-    "Last Close": 268.02,
+    "Last Close": 262.17,
     "Fair Value": 324.42398319431356,
-    "Over/UnderValued (Fair Value)": -17.385885790240863,
+    "Over/UnderValued (Fair Value)": -19.18908170146797,
     "Buy Price": 259.53918655545084,
-    "Over/UnderValued (Buy Price)": 3.26764276219893
+    "Over/UnderValued (Buy Price)": 1.0136478731650467
   },
   {
     "Ticker": "VRSK",
     "Company ": "Verisk Analytics, Inc.",
     "Metric": "EPS",
-    "Last Close": 249.69,
+    "Last Close": 245.33,
     "Fair Value": 57.12065202462858,
-    "Over/UnderValued (Fair Value)": 337.1273631336381,
+    "Over/UnderValued (Fair Value)": 329.49439704263466,
     "Buy Price": 45.69652161970287,
-    "Over/UnderValued (Buy Price)": 446.4092039170476
+    "Over/UnderValued (Buy Price)": 436.8679963032933
   },
   {
     "Ticker": "MCHP",
     "Company ": "Microchip Technology Inc",
     "Metric": "P.Change",
-    "Last Close": 65.78,
-    "Fair Value": 33.53711952453257,
-    "Over/UnderValued (Fair Value)": 96.1408759386196,
-    "Buy Price": 23.475983667172798,
-    "Over/UnderValued (Buy Price)": 180.20125134088514
+    "Last Close": 66.26,
+    "Fair Value": 33.78184158856078,
+    "Over/UnderValued (Fair Value)": 96.14087593861962,
+    "Buy Price": 23.647289111992546,
+    "Over/UnderValued (Buy Price)": 180.2012513408852
   },
   {
     "Ticker": "CTSH",
     "Company ": "Cognizant Technology Solutions Corp",
     "Metric": "EPS",
-    "Last Close": 70.03,
+    "Last Close": 70.26,
     "Fair Value": 45.78573279617065,
-    "Over/UnderValued (Fair Value)": 52.951576229565234,
+    "Over/UnderValued (Fair Value)": 53.45391612008075,
     "Buy Price": 36.62858623693652,
-    "Over/UnderValued (Buy Price)": 91.18947028695655
+    "Over/UnderValued (Buy Price)": 91.81739515010092
   },
   {
     "Ticker": "GEHC",
     "Company ": "GE HealthCare Technologies Inc",
     "Metric": "EPS",
-    "Last Close": 76.63,
+    "Last Close": 74,
     "Fair Value": 34.30830416372579,
-    "Over/UnderValued (Fair Value)": 123.35700311594233,
+    "Over/UnderValued (Fair Value)": 115.69122054782378,
     "Buy Price": 27.446643330980635,
-    "Over/UnderValued (Buy Price)": 179.19625389492793
+    "Over/UnderValued (Buy Price)": 169.6140256847797
   },
   {
     "Ticker": "KHC",
     "Company ": "Kraft Heinz Co",
     "Metric": "P.Change",
-    "Last Close": 25.73,
-    "Fair Value": 10.896115413802105,
+    "Last Close": 26.08,
+    "Fair Value": 11.044333073919894,
     "Over/UnderValued (Fair Value)": 136.1392021179201,
-    "Buy Price": 8.716892331041684,
+    "Buy Price": 8.835466459135915,
     "Over/UnderValued (Buy Price)": 195.17400264740013
   },
   {
     "Ticker": "ODFL",
     "Company ": "Old Dominion Freight Line Inc",
     "Metric": "EPS",
-    "Last Close": 141.79,
+    "Last Close": 142.39,
     "Fair Value": 53.99793088773814,
-    "Over/UnderValued (Fair Value)": 162.58413548249067,
+    "Over/UnderValued (Fair Value)": 163.69528916955952,
     "Buy Price": 43.19834471019052,
-    "Over/UnderValued (Buy Price)": 228.2301693531133
+    "Over/UnderValued (Buy Price)": 229.61911146194933
   },
   {
     "Ticker": "WBD",
     "Company ": "Warner Bros Discovery Inc",
     "Metric": "EPS",
-    "Last Close": 17.99,
+    "Last Close": 18.7,
     "Fair Value": 2.5616393771733668,
-    "Over/UnderValued (Fair Value)": 602.2846447594435,
+    "Over/UnderValued (Fair Value)": 630.001270539277,
     "Buy Price": 2.0493115017386936,
-    "Over/UnderValued (Buy Price)": 777.8558059493042
+    "Over/UnderValued (Buy Price)": 812.5015881740962
   },
   {
     "Ticker": "TEAM",
     "Company ": "Atlassian Corp",
     "Metric": "P.Change",
-    "Last Close": 172.25,
-    "Fair Value": 80.86588658465533,
+    "Last Close": 169.63,
+    "Fair Value": 79.63588006592211,
     "Over/UnderValued (Fair Value)": 113.0070011903947,
-    "Buy Price": 52.562826280025966,
+    "Buy Price": 51.763322042849374,
     "Over/UnderValued (Buy Price)": 227.70307875445334
   },
   {
     "Ticker": "DXCM",
     "Company ": "DexCom Inc",
     "Metric": "EPS",
-    "Last Close": 76.44,
+    "Last Close": 75.78,
     "Fair Value": 41.45984477088743,
-    "Over/UnderValued (Fair Value)": 84.37116786716767,
+    "Over/UnderValued (Fair Value)": 82.77926610379338,
     "Buy Price": 24.875906862532457,
-    "Over/UnderValued (Buy Price)": 207.2852797786128
+    "Over/UnderValued (Buy Price)": 204.63211017298897
   },
   {
     "Ticker": "LULU",
     "Company ": "Lululemon Athletica Inc",
     "Metric": "EPS",
-    "Last Close": 163.48,
+    "Last Close": 169.76,
     "Fair Value": 370.9761825000004,
-    "Over/UnderValued (Fair Value)": -55.932480921467295,
+    "Over/UnderValued (Fair Value)": -54.23964987294034,
     "Buy Price": 222.58570950000023,
-    "Over/UnderValued (Buy Price)": -26.554134869112154
+    "Over/UnderValued (Buy Price)": -23.73274978823391
   },
   {
     "Ticker": "CDW",
     "Company ": "CDW common stock",
     "Metric": "EPS",
-    "Last Close": 167.29,
+    "Last Close": 162.87,
     "Fair Value": 101.53412432612004,
-    "Over/UnderValued (Fair Value)": 64.76234084875445,
+    "Over/UnderValued (Fair Value)": 60.409124598222476,
     "Buy Price": 81.22729946089603,
-    "Over/UnderValued (Buy Price)": 105.95292606094304
+    "Over/UnderValued (Buy Price)": 100.51140574777806
   },
   {
     "Ticker": "ON",
     "Company ": "ON Semiconductor Corp",
     "Metric": "EPS",
-    "Last Close": 49.8,
+    "Last Close": 51.83,
     "Fair Value": 12.99375,
-    "Over/UnderValued (Fair Value)": 283.26118326118325,
+    "Over/UnderValued (Fair Value)": 298.88407888407886,
     "Buy Price": 9.095625,
-    "Over/UnderValued (Buy Price)": 447.5159760874046
+    "Over/UnderValued (Buy Price)": 469.834398405827
   },
   {
     "Ticker": "BIIB",
     "Company ": "Biogen Inc",
     "Metric": "EPS",
-    "Last Close": 144.87,
+    "Last Close": 143.81,
     "Fair Value": 90.70110051888686,
-    "Over/UnderValued (Fair Value)": 59.72242803143657,
+    "Over/UnderValued (Fair Value)": 58.55375422931519,
     "Buy Price": 72.5608804151095,
-    "Over/UnderValued (Buy Price)": 99.6530350392957
+    "Over/UnderValued (Buy Price)": 98.19219278664397
   },
   {
     "Ticker": "GFS",
     "Company ": "Globalfoundries Inc",
     "Metric": "P.Change",
-    "Last Close": 32.2,
-    "Fair Value": 9.902853008916662,
-    "Over/UnderValued (Fair Value)": 225.15882009968936,
-    "Buy Price": 5.941711805349997,
-    "Over/UnderValued (Buy Price)": 441.9313668328156
+    "Last Close": 33.27,
+    "Fair Value": 10.231922969150848,
+    "Over/UnderValued (Fair Value)": 225.15882009968942,
+    "Buy Price": 6.139153781490508,
+    "Over/UnderValued (Buy Price)": 441.9313668328157
   },
   {
     "Ticker": "ARM",
     "Company ": "Arm Holdings PLC - ADR",
     "Metric": "EPS",
-    "Last Close": 153.37,
+    "Last Close": 146.54,
     "Fair Value": 2.079496561631437,
-    "Over/UnderValued (Fair Value)": 7275.3428031482745,
+    "Over/UnderValued (Fair Value)": 6946.897922496889,
     "Buy Price": 1.6635972493051498,
-    "Over/UnderValued (Buy Price)": 9119.178503935342
+    "Over/UnderValued (Buy Price)": 8708.622403121111
   }
 ]
