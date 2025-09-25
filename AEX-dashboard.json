@@ -3,31 +3,31 @@
     "Ticker": "ASML",
     "Company ": "ASML Holding NV",
     "Metric": "EPS",
-    "Last Close": 808,
+    "Last Close": 811.7,
     "Fair Value": 412.98644297039385,
-    "Over/UnderValued (Fair Value)": 95.64806878126116,
+    "Over/UnderValued (Fair Value)": 96.54398196751197,
     "Buy Price": 268.44118793075603,
-    "Over/UnderValued (Buy Price)": 200.99702889424788
+    "Over/UnderValued (Buy Price)": 202.3753568730953
   },
   {
     "Ticker": "UNA",
     "Company ": "Unilever plc",
     "Metric": "EPS",
-    "Last Close": 51.1,
+    "Last Close": 50.98,
     "Fair Value": 20.803253846535952,
-    "Over/UnderValued (Fair Value)": 145.63465108372412,
+    "Over/UnderValued (Fair Value)": 145.05781824360577,
     "Buy Price": 16.642603077228763,
-    "Over/UnderValued (Buy Price)": 207.0433138546551
+    "Over/UnderValued (Buy Price)": 206.32227280450718
   },
   {
     "Ticker": "SHELL",
     "Company ": "Shell PLC",
     "Metric": "EPS",
-    "Last Close": 30.75,
+    "Last Close": 30.99,
     "Fair Value": 15.437629746194743,
-    "Over/UnderValued (Fair Value)": 99.18860929787255,
+    "Over/UnderValued (Fair Value)": 100.7432521021486,
     "Buy Price": 12.350103796955795,
-    "Over/UnderValued (Buy Price)": 148.98576162234068
+    "Over/UnderValued (Buy Price)": 150.9290651276858
   },
   {
     "Ticker": "REN",
@@ -43,31 +43,31 @@
     "Ticker": "PRX",
     "Company ": "Prosus NV",
     "Metric": "P.Change",
-    "Last Close": 58.25,
-    "Fair Value": 50.97844299705403,
-    "Over/UnderValued (Fair Value)": 14.263984098859561,
-    "Buy Price": 30.587065798232416,
-    "Over/UnderValued (Buy Price)": 90.43997349809926
+    "Last Close": 57.99,
+    "Fair Value": 50.75089973217448,
+    "Over/UnderValued (Fair Value)": 14.263984098859538,
+    "Buy Price": 30.45053983930469,
+    "Over/UnderValued (Buy Price)": 90.43997349809925
   },
   {
     "Ticker": "INGA",
     "Company ": "ING Groep NV",
     "Metric": "EPS",
-    "Last Close": 22.02,
+    "Last Close": 21.9,
     "Fair Value": 19.942019014401232,
-    "Over/UnderValued (Fair Value)": 10.420113350098315,
+    "Over/UnderValued (Fair Value)": 9.818368863176797,
     "Buy Price": 15.953615211520987,
-    "Over/UnderValued (Buy Price)": 38.02514168762288
+    "Over/UnderValued (Buy Price)": 37.27296107897098
   },
   {
     "Ticker": "ADYEN",
     "Company ": "Adyen NV",
     "Metric": "EPS",
-    "Last Close": 1386.4,
+    "Last Close": 1378.2,
     "Fair Value": 634.4738932464522,
-    "Over/UnderValued (Fair Value)": 118.51174882958864,
+    "Over/UnderValued (Fair Value)": 117.21933946692084,
     "Buy Price": 380.6843359478713,
-    "Over/UnderValued (Buy Price)": 264.18624804931443
+    "Over/UnderValued (Buy Price)": 262.0322324448681
   },
   {
     "Ticker": "AD",
@@ -83,170 +83,170 @@
     "Ticker": "WKL",
     "Company ": "Wolters Kluwer NV",
     "Metric": "EPS",
-    "Last Close": 112.9,
+    "Last Close": 112.6,
     "Fair Value": 49.37429175485108,
-    "Over/UnderValued (Fair Value)": 128.66150781577025,
+    "Over/UnderValued (Fair Value)": 128.05390416346967,
     "Buy Price": 39.499433403880865,
-    "Over/UnderValued (Buy Price)": 185.8268847697128
+    "Over/UnderValued (Buy Price)": 185.0673802043371
   },
   {
     "Ticker": "UMG",
     "Company ": "Universal Music Group NV",
     "Metric": "EPS",
-    "Last Close": 23.6,
+    "Last Close": 23.76,
     "Fair Value": 27.330194814364663,
-    "Over/UnderValued (Fair Value)": -13.648621386350612,
+    "Over/UnderValued (Fair Value)": -13.063188311003838,
     "Buy Price": 17.76462662933703,
-    "Over/UnderValued (Buy Price)": 32.84827479022982
+    "Over/UnderValued (Buy Price)": 33.74894105999411
   },
   {
     "Ticker": "ASM",
     "Company ": "ASM International NV (Amsterdam)",
     "Metric": "EPS",
-    "Last Close": 499.4,
+    "Last Close": 498.1,
     "Fair Value": 286.86587495412147,
-    "Over/UnderValued (Fair Value)": 74.08832614889072,
+    "Over/UnderValued (Fair Value)": 73.63515269275625,
     "Buy Price": 172.11952497247287,
-    "Over/UnderValued (Buy Price)": 190.14721024815117
+    "Over/UnderValued (Buy Price)": 189.39192115459375
   },
   {
     "Ticker": "PHIA",
     "Company ": "Koninklijke Philips NV",
     "Metric": "EPS",
-    "Last Close": 23.41,
+    "Last Close": 22.7,
     "Fair Value": 1.485946703323997,
-    "Over/UnderValued (Fair Value)": 1475.4266251698575,
+    "Over/UnderValued (Fair Value)": 1427.645638246722,
     "Buy Price": 1.1887573626591976,
-    "Over/UnderValued (Buy Price)": 1869.283281462322
+    "Over/UnderValued (Buy Price)": 1809.5570478084023
   },
   {
     "Ticker": "HEIA",
     "Company ": "Heineken NV",
     "Metric": "EPS",
-    "Last Close": 66.26,
+    "Last Close": 66.28,
     "Fair Value": 32.874984318928846,
-    "Over/UnderValued (Fair Value)": 101.55142693664692,
+    "Over/UnderValued (Fair Value)": 101.6122634675665,
     "Buy Price": 26.29998745514308,
-    "Over/UnderValued (Buy Price)": 151.93928367080863
+    "Over/UnderValued (Buy Price)": 152.0153293344581
   },
   {
     "Ticker": "DSFIR",
     "Company ": "DSM-Firmenich AG",
     "Metric": "EPS",
-    "Last Close": 73.68,
+    "Last Close": 71.3,
     "Fair Value": 28.84173068387628,
-    "Over/UnderValued (Fair Value)": 155.46317177557648,
+    "Over/UnderValued (Fair Value)": 147.2112397882546,
     "Buy Price": 23.073384547101025,
-    "Over/UnderValued (Buy Price)": 219.32896471947058
+    "Over/UnderValued (Buy Price)": 209.01404973531825
   },
   {
     "Ticker": "KPN",
     "Company ": "Koninklijke KPN NV",
     "Metric": "EPS",
-    "Last Close": 4.06,
+    "Last Close": 4.1,
     "Fair Value": 1.9278540187026167,
-    "Over/UnderValued (Fair Value)": 110.59685850758805,
+    "Over/UnderValued (Fair Value)": 112.67170440421452,
     "Buy Price": 1.5422832149620935,
-    "Over/UnderValued (Buy Price)": 163.24607313448502
+    "Over/UnderValued (Buy Price)": 165.8396305052681
   },
   {
     "Ticker": "NN",
     "Company ": "NN Group NV",
     "Metric": "EPS",
-    "Last Close": 59.14,
+    "Last Close": 58.76,
     "Fair Value": 35.553527721120275,
-    "Over/UnderValued (Fair Value)": 66.34073688521316,
+    "Over/UnderValued (Fair Value)": 65.2719259278851,
     "Buy Price": 28.44282217689622,
-    "Over/UnderValued (Buy Price)": 107.92592110651644
+    "Over/UnderValued (Buy Price)": 106.58990740985637
   },
   {
     "Ticker": "ABN",
     "Company ": "ABN Amro Bank NV",
     "Metric": "P.Change",
-    "Last Close": 26.95,
-    "Fair Value": 102.79354766122648,
+    "Last Close": 27.24,
+    "Fair Value": 103.8996748902341,
     "Over/UnderValued (Fair Value)": -73.78240112033268,
-    "Buy Price": 61.676128596735886,
-    "Over/UnderValued (Buy Price)": -56.304001867221146
+    "Buy Price": 62.33980493414045,
+    "Over/UnderValued (Buy Price)": -56.30400186722113
   },
   {
     "Ticker": "MT",
     "Company ": "ArcelorMittal SA",
     "Metric": "EPS",
-    "Last Close": 30.55,
+    "Last Close": 30.64,
     "Fair Value": 22.79617324080573,
-    "Over/UnderValued (Fair Value)": 34.01372097539039,
+    "Over/UnderValued (Fair Value)": 34.408524081373535,
     "Buy Price": 18.236938592644584,
-    "Over/UnderValued (Buy Price)": 67.51715121923797
+    "Over/UnderValued (Buy Price)": 68.01065510171694
   },
   {
     "Ticker": "AKZA",
     "Company ": "Akzo Nobel NV",
     "Metric": "EPS",
-    "Last Close": 61.26,
+    "Last Close": 60.9,
     "Fair Value": 17.43147579141488,
-    "Over/UnderValued (Fair Value)": 251.43323911892165,
+    "Over/UnderValued (Fair Value)": 249.36800950607787,
     "Buy Price": 13.945180633131905,
-    "Over/UnderValued (Buy Price)": 339.2915488986521
+    "Over/UnderValued (Buy Price)": 336.71001188259726
   },
   {
     "Ticker": "AGN",
     "Company ": "Aegon Ltd",
     "Metric": "P.Change",
-    "Last Close": 6.9,
-    "Fair Value": 19.9719466525268,
+    "Last Close": 6.81,
+    "Fair Value": 19.71144300053732,
     "Over/UnderValued (Fair Value)": -65.4515400023511,
-    "Buy Price": 11.98316799151608,
-    "Over/UnderValued (Buy Price)": -42.419233337251825
+    "Buy Price": 11.826865800322391,
+    "Over/UnderValued (Buy Price)": -42.41923333725184
   },
   {
     "Ticker": "BESI",
     "Company ": "BE Semiconductor Industries NV",
     "Metric": "EPS",
-    "Last Close": 128.55,
+    "Last Close": 126.7,
     "Fair Value": 19.367520876670547,
-    "Over/UnderValued (Fair Value)": 563.7400874308438,
+    "Over/UnderValued (Fair Value)": 554.1880130493031,
     "Buy Price": 15.494016701336438,
-    "Over/UnderValued (Buy Price)": 729.6751092885547
+    "Over/UnderValued (Buy Price)": 717.7350163116287
   },
   {
     "Ticker": "EXO",
     "Company ": "Exor NV",
     "Metric": "EPS",
-    "Last Close": 83.25,
+    "Last Close": 81.8,
     "Fair Value": 347.5592414766529,
-    "Over/UnderValued (Fair Value)": -76.04724891034374,
+    "Over/UnderValued (Fair Value)": -76.4644439743678,
     "Buy Price": 278.0473931813223,
-    "Over/UnderValued (Buy Price)": -70.05906113792967
+    "Over/UnderValued (Buy Price)": -70.58055496795974
   },
   {
     "Ticker": "ASRNL",
     "Company ": "ASR Nederland NV",
     "Metric": "EPS",
-    "Last Close": 56.96,
+    "Last Close": 56.76,
     "Fair Value": 24.18309582138098,
-    "Over/UnderValued (Fair Value)": 135.5364276795364,
+    "Over/UnderValued (Fair Value)": 134.70940370594252,
     "Buy Price": 19.346476657104787,
-    "Over/UnderValued (Buy Price)": 194.42053459942045
+    "Over/UnderValued (Buy Price)": 193.38675463242808
   },
   {
     "Ticker": "IMCD",
     "Company ": "Imcd NV",
     "Metric": "EPS",
-    "Last Close": 91.4,
+    "Last Close": 88.46,
     "Fair Value": 87.31296458077703,
-    "Over/UnderValued (Fair Value)": 4.680903275757942,
+    "Over/UnderValued (Fair Value)": 1.3137057305639743,
     "Buy Price": 56.75342697750507,
-    "Over/UnderValued (Buy Price)": 61.04754350116608
+    "Over/UnderValued (Buy Price)": 55.867239585483034
   },
   {
     "Ticker": "RAND",
     "Company ": "Randstad NV",
     "Metric": "EPS",
-    "Last Close": 36.13,
+    "Last Close": 35.44,
     "Fair Value": 3.266670282068743,
-    "Over/UnderValued (Fair Value)": 1006.0191840701874,
+    "Over/UnderValued (Fair Value)": 984.8967584679611,
     "Buy Price": 2.6133362256549946,
-    "Over/UnderValued (Buy Price)": 1282.5239800877343
+    "Over/UnderValued (Buy Price)": 1256.1209480849516
   }
 ]
