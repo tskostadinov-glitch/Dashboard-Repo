@@ -1,1 +1,302 @@
-
+[
+  {
+    "Ticker": "D05",
+    "Company ": "DBS Group Holdings Ltd",
+    "Metric": "EPS",
+    "Last Close": 53.85,
+    "Fair Value": 48.56433976067839,
+    "Over/UnderValued (Fair Value)": 10.883830121790927,
+    "Buy Price": 38.85147180854272,
+    "Over/UnderValued (Buy Price)": 38.60478765223865
+  },
+  {
+    "Ticker": "O39",
+    "Company ": "Oversea-Chinese Banking Corporation Limited",
+    "Metric": "EPS",
+    "Last Close": 16.88,
+    "Fair Value": 16.33602615848007,
+    "Over/UnderValued (Fair Value)": 3.329903100317644,
+    "Buy Price": 13.068820926784056,
+    "Over/UnderValued (Buy Price)": 29.162378875397053
+  },
+  {
+    "Ticker": "U11",
+    "Company ": "United Overseas Bank Limited",
+    "Metric": "EPS",
+    "Last Close": 35.33,
+    "Fair Value": 36.30462629033167,
+    "Over/UnderValued (Fair Value)": -2.684578771139212,
+    "Buy Price": 29.043701032265336,
+    "Over/UnderValued (Buy Price)": 21.644276536075967
+  },
+  {
+    "Ticker": "Z74",
+    "Company ": "Singapore Telecommunications Limited",
+    "Metric": "EPS",
+    "Last Close": 4.26,
+    "Fair Value": 1.592906970219965,
+    "Over/UnderValued (Fair Value)": 167.43558033472198,
+    "Buy Price": 1.274325576175972,
+    "Over/UnderValued (Buy Price)": 234.2944754184024
+  },
+  {
+    "Ticker": "JARLF",
+    "Company ": "Jardine Matheson Holdings Limited",
+    "Metric": "EPS",
+    "Last Close": 63.26,
+    "Fair Value": 2.953867258277925,
+    "Over/UnderValued (Fair Value)": 2041.5992821857521,
+    "Buy Price": 2.36309380662234,
+    "Over/UnderValued (Buy Price)": 2576.99910273219
+  },
+  {
+    "Ticker": "S68",
+    "Company ": "Singapore Exchange Limited",
+    "Metric": "EPS",
+    "Last Close": 17.51,
+    "Fair Value": 6.503497965643867,
+    "Over/UnderValued (Fair Value)": 169.23972441446676,
+    "Buy Price": 5.202798372515094,
+    "Over/UnderValued (Buy Price)": 236.54965551808345
+  },
+  {
+    "Ticker": "C38U",
+    "Company ": "CapitaLand Integrated Commercial Trust",
+    "Metric": "EPS",
+    "Last Close": 2.34,
+    "Fair Value": 1.7300273706094074,
+    "Over/UnderValued (Fair Value)": 35.257975668658226,
+    "Buy Price": 1.384021896487526,
+    "Over/UnderValued (Buy Price)": 69.07246958582279
+  },
+  {
+    "Ticker": "S63",
+    "Company ": "Singapore Technologies Engineering Ltd",
+    "Metric": "EPS",
+    "Last Close": 8.55,
+    "Fair Value": 2.544858589753789,
+    "Over/UnderValued (Fair Value)": 235.97151662667432,
+    "Buy Price": 2.035886871803031,
+    "Over/UnderValued (Buy Price)": 319.96439578334287
+  },
+  {
+    "Ticker": "BN4",
+    "Company ": "Keppel Corporation Limited",
+    "Metric": "EPS",
+    "Last Close": 9.16,
+    "Fair Value": 3.8069230769230753,
+    "Over/UnderValued (Fair Value)": 140.6142655081836,
+    "Buy Price": 3.0455384615384604,
+    "Over/UnderValued (Buy Price)": 200.76783188522947
+  },
+  {
+    "Ticker": "A17U",
+    "Company ": "CapitaLand Ascendas REIT",
+    "Metric": "EPS",
+    "Last Close": 2.84,
+    "Fair Value": 1.8119910812762203,
+    "Over/UnderValued (Fair Value)": 56.73366328049103,
+    "Buy Price": 1.4495928650209764,
+    "Over/UnderValued (Buy Price)": 95.91707910061378
+  },
+  {
+    "Ticker": "C6L",
+    "Company ": "Singapore Airlines Limited",
+    "Metric": "EPS",
+    "Last Close": 6.64,
+    "Fair Value": 8.562938988097759,
+    "Over/UnderValued (Fair Value)": -22.45653029608864,
+    "Buy Price": 6.850351190478207,
+    "Over/UnderValued (Buy Price)": -3.0706628701108074
+  },
+  {
+    "Ticker": "BS6",
+    "Company ": "Yangzijiang Shipbuilding (Holdings) Ltd.",
+    "Metric": "EPS",
+    "Last Close": 3.4,
+    "Fair Value": 4.259077479333124,
+    "Over/UnderValued (Fair Value)": -20.170506019243305,
+    "Buy Price": 3.4072619834664994,
+    "Over/UnderValued (Buy Price)": -0.21313252405414929
+  },
+  {
+    "Ticker": "H78",
+    "Company ": "Hongkong Land Holdings Limited",
+    "Metric": "P.Change",
+    "Last Close": 6.4,
+    "Fair Value": 6.4,
+    "Over/UnderValued (Fair Value)": 0,
+    "Buy Price": 5.120000000000001,
+    "Over/UnderValued (Buy Price)": 24.99999999999998
+  },
+  {
+    "Ticker": "9CI",
+    "Company ": "CapitaLand Investment Limited",
+    "Metric": "EPS",
+    "Last Close": 2.68,
+    "Fair Value": 1.7195113374770092,
+    "Over/UnderValued (Fair Value)": 55.85823376612853,
+    "Buy Price": 1.117682369360056,
+    "Over/UnderValued (Buy Price)": 139.7818981017362
+  },
+  {
+    "Ticker": "U96",
+    "Company ": "Sembcorp Industries Ltd",
+    "Metric": "EPS",
+    "Last Close": 6.41,
+    "Fair Value": 7.072028560028263,
+    "Over/UnderValued (Fair Value)": -9.361225770072645,
+    "Buy Price": 5.657622848022611,
+    "Over/UnderValued (Buy Price)": 13.298467787409173
+  },
+  {
+    "Ticker": "F34",
+    "Company ": "Wilmar International Limited",
+    "Metric": "EPS",
+    "Last Close": 2.94,
+    "Fair Value": 2.382010997870724,
+    "Over/UnderValued (Fair Value)": 23.4251228322649,
+    "Buy Price": 1.9056087982965793,
+    "Over/UnderValued (Buy Price)": 54.28140354033113
+  },
+  {
+    "Ticker": "5E2",
+    "Company ": "Seatrium Ltd",
+    "Metric": "EPS",
+    "Last Close": 2.28,
+    "Fair Value": 0.2876247019699442,
+    "Over/UnderValued (Fair Value)": 692.6996479732995,
+    "Buy Price": 0.23009976157595538,
+    "Over/UnderValued (Buy Price)": 890.8745599666244
+  },
+  {
+    "Ticker": "AJBU",
+    "Company ": "Keppel DC REIT",
+    "Metric": "EPS",
+    "Last Close": 2.39,
+    "Fair Value": 2.4118442719667903,
+    "Over/UnderValued (Fair Value)": -0.905708225887103,
+    "Buy Price": 1.6882909903767531,
+    "Over/UnderValued (Buy Price)": 41.56327396301842
+  },
+  {
+    "Ticker": "ME8U",
+    "Company ": "Mapletree Industrial Trust",
+    "Metric": "EPS",
+    "Last Close": 2.14,
+    "Fair Value": 1.3006995931287735,
+    "Over/UnderValued (Fair Value)": 64.52684473071355,
+    "Buy Price": 1.0405596745030188,
+    "Over/UnderValued (Buy Price)": 105.65855591339192
+  },
+  {
+    "Ticker": "M44U",
+    "Company ": "Mapletree Logistics Trust",
+    "Metric": "EPS",
+    "Last Close": 1.26,
+    "Fair Value": 0.5927573114684147,
+    "Over/UnderValued (Fair Value)": 112.56591451881897,
+    "Buy Price": 0.41493011802789026,
+    "Over/UnderValued (Buy Price)": 203.66559216974144
+  },
+  {
+    "Ticker": "G13",
+    "Company ": "Genting Singapore Limited",
+    "Metric": "EPS",
+    "Last Close": 0.725,
+    "Fair Value": 0.49429353445983054,
+    "Over/UnderValued (Fair Value)": 46.67398002530785,
+    "Buy Price": 0.39543482756786447,
+    "Over/UnderValued (Buy Price)": 83.34247503163479
+  },
+  {
+    "Ticker": "V03",
+    "Company ": "Venture Corporation Limited",
+    "Metric": "EPS",
+    "Last Close": 14.58,
+    "Fair Value": 6.0168618780942005,
+    "Over/UnderValued (Fair Value)": 142.3190077386007,
+    "Buy Price": 4.813489502475361,
+    "Over/UnderValued (Buy Price)": 202.89875967325085
+  },
+  {
+    "Ticker": "U14",
+    "Company ": "UOL Group Limited",
+    "Metric": "EPS",
+    "Last Close": 7.96,
+    "Fair Value": 48.74289491548335,
+    "Over/UnderValued (Fair Value)": -83.66941476536823,
+    "Buy Price": 29.245736949290006,
+    "Over/UnderValued (Buy Price)": -72.78235794228038
+  },
+  {
+    "Ticker": "Y92",
+    "Company ": "Thai Beverage Public Company Limited",
+    "Metric": "EPS",
+    "Last Close": 0.49,
+    "Fair Value": 0.5419581638036557,
+    "Over/UnderValued (Fair Value)": -9.587117101252751,
+    "Buy Price": 0.4335665310429246,
+    "Over/UnderValued (Buy Price)": 13.016103623434038
+  },
+  {
+    "Ticker": "N2IU",
+    "Company ": "Mapletree Pan Asia Commercial Trust",
+    "Metric": "EPS",
+    "Last Close": 1.45,
+    "Fair Value": 1.7775222380224298,
+    "Over/UnderValued (Fair Value)": -18.42577443007478,
+    "Buy Price": 1.2442655666157008,
+    "Over/UnderValued (Buy Price)": 16.53460795703603
+  },
+  {
+    "Ticker": "S58",
+    "Company ": "SATS Ltd.",
+    "Metric": "EPS",
+    "Last Close": 3.51,
+    "Fair Value": 3.53909629074283,
+    "Over/UnderValued (Fair Value)": -0.8221389968658732,
+    "Buy Price": 2.3004125889828395,
+    "Over/UnderValued (Buy Price)": 52.581324620206345
+  },
+  {
+    "Ticker": "J69U",
+    "Company ": "Frasers Centrepoint Trust",
+    "Metric": "EPS",
+    "Last Close": 2.38,
+    "Fair Value": 1.2187549919732827,
+    "Over/UnderValued (Fair Value)": 95.28125141432642,
+    "Buy Price": 0.9750039935786262,
+    "Over/UnderValued (Buy Price)": 144.10156426790797
+  },
+  {
+    "Ticker": "C09",
+    "Company ": "City Developments Limited",
+    "Metric": "P.Change",
+    "Last Close": 7.06,
+    "Fair Value": 3.314445046662796,
+    "Over/UnderValued (Fair Value)": 113.0070011903947,
+    "Buy Price": 1.9886670279976775,
+    "Over/UnderValued (Buy Price)": 255.01166865065784
+  },
+  {
+    "Ticker": "BUOU",
+    "Company ": "Frasers Logistics & Commercial Trust",
+    "Metric": "EPS",
+    "Last Close": 0.96,
+    "Fair Value": 0.6747905821749087,
+    "Over/UnderValued (Fair Value)": 42.26636016552521,
+    "Buy Price": 0.4723534075224361,
+    "Over/UnderValued (Buy Price)": 103.23765737932172
+  },
+  {
+    "Ticker": "D01",
+    "Company ": "DFI Retail Group Holdings Limited",
+    "Metric": "P.Change",
+    "Last Close": 3.34,
+    "Fair Value": 1.489638476853575,
+    "Over/UnderValued (Fair Value)": 124.21547589551874,
+    "Buy Price": 1.19171078148286,
+    "Over/UnderValued (Buy Price)": 180.26934486939842
+  }
+]
