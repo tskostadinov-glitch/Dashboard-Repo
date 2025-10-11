@@ -3,11 +3,11 @@
     "Ticker": "NVDA",
     "Company ": "NVIDIA Corp",
     "Metric": "EPS",
-    "Last Close": 183.16,
+    "Last Close": 183.05,
     "Fair Value": 135.79350599699538,
-    "Over/UnderValued (Fair Value)": 34.88126597456927,
+    "Over/UnderValued (Fair Value)": 34.80026062811152,
     "Buy Price": 81.47610359819723,
-    "Over/UnderValued (Buy Price)": 124.80210995761544
+    "Over/UnderValued (Buy Price)": 124.66710104685252
   },
   {
     "Ticker": "MSFT",
@@ -143,10 +143,10 @@
     "Ticker": "AMD",
     "Company ": "Advanced Micro Devices Inc",
     "Metric": "P.Change",
-    "Last Close": 214.9,
-    "Fair Value": 167.35556834890517,
+    "Last Close": 214.76,
+    "Fair Value": 167.24654192001336,
     "Over/UnderValued (Fair Value)": 28.409231984425865,
-    "Buy Price": 100.4133410093431,
+    "Buy Price": 100.34792515200802,
     "Over/UnderValued (Buy Price)": 114.01538664070974
   },
   {
@@ -223,11 +223,11 @@
     "Ticker": "QCOM",
     "Company ": "Qualcomm Inc",
     "Metric": "EPS",
-    "Last Close": 153.59,
+    "Last Close": 153.51,
     "Fair Value": 442.3383414763012,
-    "Over/UnderValued (Fair Value)": -65.27771038626351,
+    "Over/UnderValued (Fair Value)": -65.29579608955865,
     "Buy Price": 265.4030048857807,
-    "Over/UnderValued (Buy Price)": -42.12951731043917
+    "Over/UnderValued (Buy Price)": -42.1596601492644
   },
   {
     "Ticker": "AMGN",
@@ -463,11 +463,11 @@
     "Ticker": "INTC",
     "Company ": "Intel Corp",
     "Metric": "P.Change",
-    "Last Close": 36.37,
-    "Fair Value": 10.225060871544184,
+    "Last Close": 36.33,
+    "Fair Value": 10.213815272565306,
     "Over/UnderValued (Fair Value)": 255.6947039916,
-    "Buy Price": 8.180048697235348,
-    "Over/UnderValued (Buy Price)": 344.61837998949994
+    "Buy Price": 8.171052218052244,
+    "Over/UnderValued (Buy Price)": 344.61837998950006
   },
   {
     "Ticker": "ORLY",
@@ -513,11 +513,11 @@
     "Ticker": "FTNT",
     "Company ": "Fortinet Inc",
     "Metric": "EPS",
-    "Last Close": 83.04,
+    "Last Close": 83.05,
     "Fair Value": 73.45296863480063,
-    "Over/UnderValued (Fair Value)": 13.051931791708714,
+    "Over/UnderValued (Fair Value)": 13.065545945344503,
     "Buy Price": 44.07178118088037,
-    "Over/UnderValued (Buy Price)": 88.41988631951456
+    "Over/UnderValued (Buy Price)": 88.44257657557422
   },
   {
     "Ticker": "MAR",
@@ -543,11 +543,11 @@
     "Ticker": "PYPL",
     "Company ": "PayPal Holdings Inc",
     "Metric": "EPS",
-    "Last Close": 69.84,
+    "Last Close": 69.81,
     "Fair Value": 44.39578572729744,
-    "Over/UnderValued (Fair Value)": 57.31222875295976,
+    "Over/UnderValued (Fair Value)": 57.24465477153666,
     "Buy Price": 35.51662858183795,
-    "Over/UnderValued (Buy Price)": 96.6402859411997
+    "Over/UnderValued (Buy Price)": 96.55581846442082
   },
   {
     "Ticker": "AXON",
@@ -823,11 +823,11 @@
     "Ticker": "EA",
     "Company ": "Electronic Arts Inc",
     "Metric": "EPS",
-    "Last Close": 200.02,
+    "Last Close": 200.05,
     "Fair Value": 47.33826699834126,
-    "Over/UnderValued (Fair Value)": 322.5334231331467,
+    "Over/UnderValued (Fair Value)": 322.59679680924904,
     "Buy Price": 37.87061359867301,
-    "Over/UnderValued (Buy Price)": 428.1667789164334
+    "Over/UnderValued (Buy Price)": 428.2459960115613
   },
   {
     "Ticker": "CSGP",
