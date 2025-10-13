@@ -1,0 +1,502 @@
+[
+  {
+    "Ticker": "HDFCBANK",
+    "Company ": "HDFC Bank Ltd",
+    "Metric": "EPS",
+    "Last Close": 978.5,
+    "Fair Value": 1340.7895172144465,
+    "Over/UnderValued (Fair Value)": -27.02061080900454,
+    "Buy Price": 804.4737103286678,
+    "Over/UnderValued (Buy Price)": 21.63231531832579
+  },
+  {
+    "Ticker": "ICICIBANK",
+    "Company ": "ICICI Bank Ltd",
+    "Metric": "EPS",
+    "Last Close": 1378.6,
+    "Fair Value": 2658.339823370239,
+    "Over/UnderValued (Fair Value)": -48.1405654807438,
+    "Buy Price": 1595.0038940221434,
+    "Over/UnderValued (Buy Price)": -13.567609134573011
+  },
+  {
+    "Ticker": "RELIANCE",
+    "Company ": "Reliance Industries Ltd",
+    "Metric": "EPS",
+    "Last Close": 1373.3,
+    "Fair Value": 1175.9792397266624,
+    "Over/UnderValued (Fair Value)": 16.779272423142565,
+    "Buy Price": 764.3865058223306,
+    "Over/UnderValued (Buy Price)": 79.66041911252701
+  },
+  {
+    "Ticker": "INFY",
+    "Company ": "Infosys Ltd",
+    "Metric": "EPS",
+    "Last Close": 1490,
+    "Fair Value": 663.2510931911979,
+    "Over/UnderValued (Fair Value)": 124.65096783044002,
+    "Buy Price": 530.6008745529583,
+    "Over/UnderValued (Buy Price)": 180.8137097880501
+  },
+  {
+    "Ticker": "BHARTIARTL",
+    "Company ": "Bharti Airtel Ltd",
+    "Metric": "EPS",
+    "Last Close": 1956.7,
+    "Fair Value": 639.1854583900315,
+    "Over/UnderValued (Fair Value)": 206.12398550625662,
+    "Buy Price": 511.3483667120252,
+    "Over/UnderValued (Buy Price)": 282.6549818828208
+  },
+  {
+    "Ticker": "LT",
+    "Company ": "Larsen and Toubro Ltd",
+    "Metric": "EPS",
+    "Last Close": 3760.9,
+    "Fair Value": 1601.9816746464387,
+    "Over/UnderValued (Fair Value)": 134.76548199779126,
+    "Buy Price": 1121.387172252507,
+    "Over/UnderValued (Buy Price)": 235.37925999684467
+  },
+  {
+    "Ticker": "ITC",
+    "Company ": "ITC Ltd",
+    "Metric": "EPS",
+    "Last Close": 399.7,
+    "Fair Value": 161.83827157003546,
+    "Over/UnderValued (Fair Value)": 146.97495599922416,
+    "Buy Price": 129.47061725602836,
+    "Over/UnderValued (Buy Price)": 208.71869499903025
+  },
+  {
+    "Ticker": "SBIN",
+    "Company ": "State Bank of India",
+    "Metric": "EPS",
+    "Last Close": 882.95,
+    "Fair Value": 2355.7272198314367,
+    "Over/UnderValued (Fair Value)": -62.51900506276872,
+    "Buy Price": 1413.436331898862,
+    "Over/UnderValued (Buy Price)": -37.53167510461453
+  },
+  {
+    "Ticker": "AXISBANK",
+    "Company ": "Axis Bank Ltd",
+    "Metric": "EPS",
+    "Last Close": 1191.9,
+    "Fair Value": 3299.3224597479416,
+    "Over/UnderValued (Fair Value)": -63.874401046236095,
+    "Buy Price": 1979.593475848765,
+    "Over/UnderValued (Buy Price)": -39.79066841039348
+  },
+  {
+    "Ticker": "KOTAKBANK",
+    "Company ": "Kotak Mahindra Bank Ltd Fully Paid Ord. Shrs",
+    "Metric": "EPS",
+    "Last Close": 2149.5,
+    "Fair Value": 1840.2592447309498,
+    "Over/UnderValued (Fair Value)": 16.80419517817784,
+    "Buy Price": 1196.1685090751175,
+    "Over/UnderValued (Buy Price)": 79.69876181258127
+  },
+  {
+    "Ticker": "TCS",
+    "Company ": "Tata Consultancy Services Ltd",
+    "Metric": "EPS",
+    "Last Close": 3005.9,
+    "Fair Value": 1615.8466725758842,
+    "Over/UnderValued (Fair Value)": 86.02631369770857,
+    "Buy Price": 1292.6773380607074,
+    "Over/UnderValued (Buy Price)": 132.53289212213568
+  },
+  {
+    "Ticker": "M&M",
+    "Company ": "Mahindra And Mahindra Ltd",
+    "Metric": "EPS",
+    "Last Close": 3465,
+    "Fair Value": 1385.0406827505108,
+    "Over/UnderValued (Fair Value)": 150.17315687211155,
+    "Buy Price": 1108.0325462004087,
+    "Over/UnderValued (Buy Price)": 212.7164460901394
+  },
+  {
+    "Ticker": "BAJFINANCE",
+    "Company ": "Bajaj Finance Ltd",
+    "Metric": "EPS",
+    "Last Close": 1027.9,
+    "Fair Value": 859.6376218940612,
+    "Over/UnderValued (Fair Value)": 19.57364054579209,
+    "Buy Price": 515.7825731364367,
+    "Over/UnderValued (Buy Price)": 99.28940090965351
+  },
+  {
+    "Ticker": "ETERNAL",
+    "Company ": "Eternal Ltd",
+    "Metric": "EPS",
+    "Last Close": 348.75,
+    "Fair Value": 19.05261059669929,
+    "Over/UnderValued (Fair Value)": 1730.457816948288,
+    "Buy Price": 11.431566358019573,
+    "Over/UnderValued (Buy Price)": 2950.763028247147
+  },
+  {
+    "Ticker": "HINDUNILVR",
+    "Company ": "Hindustan Unilever Ltd",
+    "Metric": "EPS",
+    "Last Close": 2492,
+    "Fair Value": 697.0885407830301,
+    "Over/UnderValued (Fair Value)": 257.48686920039887,
+    "Buy Price": 487.96197854812107,
+    "Over/UnderValued (Buy Price)": 410.6955274291413
+  },
+  {
+    "Ticker": "MARUTI",
+    "Company ": "Maruti Suzuki India Ltd",
+    "Metric": "EPS",
+    "Last Close": 16309,
+    "Fair Value": 6845.30962216512,
+    "Over/UnderValued (Fair Value)": 138.25072787345425,
+    "Buy Price": 4791.716735515584,
+    "Over/UnderValued (Buy Price)": 240.3581826763632
+  },
+  {
+    "Ticker": "SUNPHARMA",
+    "Company ": "Sun Pharmaceutical Industries Ltd",
+    "Metric": "EPS",
+    "Last Close": 1668.7,
+    "Fair Value": 1121.1675834503608,
+    "Over/UnderValued (Fair Value)": 48.835912189382434,
+    "Buy Price": 672.7005500702164,
+    "Over/UnderValued (Buy Price)": 148.05985364897074
+  },
+  {
+    "Ticker": "NTPC",
+    "Company ": "NTPC Ltd",
+    "Metric": "EPS",
+    "Last Close": 340.65,
+    "Fair Value": 252.76913868219088,
+    "Over/UnderValued (Fair Value)": 34.76724325444751,
+    "Buy Price": 176.9383970775336,
+    "Over/UnderValued (Buy Price)": 92.5246332206393
+  },
+  {
+    "Ticker": "HCLTECH",
+    "Company ": "HCL Technologies Ltd",
+    "Metric": "EPS",
+    "Last Close": 1493,
+    "Fair Value": 867.6880208140454,
+    "Over/UnderValued (Fair Value)": 72.06645293999804,
+    "Buy Price": 607.3816145698318,
+    "Over/UnderValued (Buy Price)": 145.8092184857115
+  },
+  {
+    "Ticker": "BEL",
+    "Company ": "Bharat Electronics Ltd",
+    "Metric": "EPS",
+    "Last Close": 409.6,
+    "Fair Value": 119.08163684610506,
+    "Over/UnderValued (Fair Value)": 243.96571196728328,
+    "Buy Price": 83.35714579227353,
+    "Over/UnderValued (Buy Price)": 391.37958852469046
+  },
+  {
+    "Ticker": "ULTRACEMCO",
+    "Company ": "UltraTech Cement Ltd",
+    "Metric": "EPS",
+    "Last Close": 12169,
+    "Fair Value": 4387.619762795502,
+    "Over/UnderValued (Fair Value)": 177.34855474911794,
+    "Buy Price": 2851.952845817076,
+    "Over/UnderValued (Buy Price)": 326.6900842294122
+  },
+  {
+    "Ticker": "TITAN",
+    "Company ": "Titan Company Ltd",
+    "Metric": "EPS",
+    "Last Close": 3531.1,
+    "Fair Value": 1126.4157916161446,
+    "Over/UnderValued (Fair Value)": 213.4810454791026,
+    "Buy Price": 675.8494749696868,
+    "Over/UnderValued (Buy Price)": 422.4684091318377
+  },
+  {
+    "Ticker": "TATASTEEL",
+    "Company ": "Tata Steel Ltd",
+    "Metric": "EPS",
+    "Last Close": 172.6,
+    "Fair Value": 108.95440077291227,
+    "Over/UnderValued (Fair Value)": 58.414895383382245,
+    "Buy Price": 65.37264046374736,
+    "Over/UnderValued (Buy Price)": 164.02482563897044
+  },
+  {
+    "Ticker": "TATAMOTORS",
+    "Company ": "Tata Motors Ltd",
+    "Metric": "EPS",
+    "Last Close": 665.05,
+    "Fair Value": 1323.0394003640022,
+    "Over/UnderValued (Fair Value)": -49.73316744633398,
+    "Buy Price": 859.9756102366015,
+    "Over/UnderValued (Buy Price)": -22.666411455898437
+  },
+  {
+    "Ticker": "POWERGRID",
+    "Company ": "Power Grid Corporation of India Ltd",
+    "Metric": "EPS",
+    "Last Close": 285.8,
+    "Fair Value": 173.31822078440905,
+    "Over/UnderValued (Fair Value)": 64.89899256207303,
+    "Buy Price": 138.65457662752723,
+    "Over/UnderValued (Buy Price)": 106.12374070259132
+  },
+  {
+    "Ticker": "INDIGO",
+    "Company ": "Interglobe Aviation Ltd",
+    "Metric": "EPS",
+    "Last Close": 5791,
+    "Fair Value": 5091.182038155832,
+    "Over/UnderValued (Fair Value)": 13.745687280466235,
+    "Buy Price": 3054.709222893499,
+    "Over/UnderValued (Buy Price)": 89.57614546744375
+  },
+  {
+    "Ticker": "BAJAJFINSV",
+    "Company ": "Bajaj Finserv Ltd",
+    "Metric": "EPS",
+    "Last Close": 2014.9,
+    "Fair Value": 952.2671407878333,
+    "Over/UnderValued (Fair Value)": 111.58978543909699,
+    "Buy Price": 666.5869985514832,
+    "Over/UnderValued (Buy Price)": 202.27112205585286
+  },
+  {
+    "Ticker": "HINDALCO",
+    "Company ": "Hindalco Industries Ltd",
+    "Metric": "EPS",
+    "Last Close": 768.05,
+    "Fair Value": 1079.3712483013728,
+    "Over/UnderValued (Fair Value)": -28.842833157850468,
+    "Buy Price": 755.5598738109609,
+    "Over/UnderValued (Buy Price)": 1.6530954887850502
+  },
+  {
+    "Ticker": "JSWSTEEL",
+    "Company ": "JSW Steel Ltd",
+    "Metric": "EPS",
+    "Last Close": 1160,
+    "Fair Value": 395.91880273989636,
+    "Over/UnderValued (Fair Value)": 192.9893685201094,
+    "Buy Price": 257.34722178093267,
+    "Over/UnderValued (Buy Price)": 350.7528746463221
+  },
+  {
+    "Ticker": "GRASIM",
+    "Company ": "Grasim Industries Ltd",
+    "Metric": "EPS",
+    "Last Close": 2791,
+    "Fair Value": 1279.4345038072668,
+    "Over/UnderValued (Fair Value)": 118.14324935701705,
+    "Buy Price": 831.6324274747234,
+    "Over/UnderValued (Buy Price)": 235.60499901079547
+  },
+  {
+    "Ticker": "ASIANPAINT",
+    "Company ": "Asian Paints Ltd",
+    "Metric": "EPS",
+    "Last Close": 2349.1,
+    "Fair Value": 605.0039326505431,
+    "Over/UnderValued (Fair Value)": 288.2784678288803,
+    "Buy Price": 423.50275285538015,
+    "Over/UnderValued (Buy Price)": 454.6835254698291
+  },
+  {
+    "Ticker": "TRENT",
+    "Company ": "Trent Ltd",
+    "Metric": "EPS",
+    "Last Close": 4660.5,
+    "Fair Value": 5442.841923963922,
+    "Over/UnderValued (Fair Value)": -14.373776326653942,
+    "Buy Price": 3265.705154378353,
+    "Over/UnderValued (Buy Price)": 42.7103727889101
+  },
+  {
+    "Ticker": "ADANIPORTS",
+    "Company ": "Adani Ports and Special Economic Zone Ld",
+    "Metric": "EPS",
+    "Last Close": 1434.5,
+    "Fair Value": 844.9694347835712,
+    "Over/UnderValued (Fair Value)": 69.76945448534835,
+    "Buy Price": 591.4786043484997,
+    "Over/UnderValued (Buy Price)": 142.52779212192627
+  },
+  {
+    "Ticker": "JIOFIN",
+    "Company ": "Jio Financial Services Ltd",
+    "Metric": "P.Change",
+    "Last Close": 307.4,
+    "Fair Value": 203.76336395222881,
+    "Over/UnderValued (Fair Value)": 50.86127066103414,
+    "Buy Price": 122.25801837133729,
+    "Over/UnderValued (Buy Price)": 151.43545110172357
+  },
+  {
+    "Ticker": "BAJAJ-AUTO",
+    "Company ": "Bajaj Auto Ltd",
+    "Metric": "EPS",
+    "Last Close": 9057.5,
+    "Fair Value": 3288.5028854324855,
+    "Over/UnderValued (Fair Value)": 175.42928546978632,
+    "Buy Price": 2630.8023083459884,
+    "Over/UnderValued (Buy Price)": 244.28660683723285
+  },
+  {
+    "Ticker": "EICHERMOT",
+    "Company ": "Eicher Motors Ltd",
+    "Metric": "EPS",
+    "Last Close": 6912,
+    "Fair Value": 2727.0212988142875,
+    "Over/UnderValued (Fair Value)": 153.4633668979904,
+    "Buy Price": 1908.9149091700012,
+    "Over/UnderValued (Buy Price)": 262.09052413998626
+  },
+  {
+    "Ticker": "ONGC",
+    "Company ": "Oil and Natural Gas Corporation Ltd",
+    "Metric": "EPS",
+    "Last Close": 243.85,
+    "Fair Value": 415.42499999999995,
+    "Over/UnderValued (Fair Value)": -41.301077210086056,
+    "Buy Price": 290.79749999999996,
+    "Over/UnderValued (Buy Price)": -16.144396014408645
+  },
+  {
+    "Ticker": "SHRIRAMFIN",
+    "Company ": "Shriram Finance Ltd",
+    "Metric": "EPS",
+    "Last Close": 670.4,
+    "Fair Value": 975.91821242584,
+    "Over/UnderValued (Fair Value)": -31.30571891536007,
+    "Buy Price": 634.3468380767961,
+    "Over/UnderValued (Buy Price)": 5.6835093609844956
+  },
+  {
+    "Ticker": "TECHM",
+    "Company ": "Tech Mahindra Ltd",
+    "Metric": "EPS",
+    "Last Close": 1452.1,
+    "Fair Value": 530.5661813572759,
+    "Over/UnderValued (Fair Value)": 173.68875948430943,
+    "Buy Price": 424.4529450858208,
+    "Over/UnderValued (Buy Price)": 242.11094935538677
+  },
+  {
+    "Ticker": "CIPLA",
+    "Company ": "Cipla Ltd",
+    "Metric": "EPS",
+    "Last Close": 1561.5,
+    "Fair Value": 1054.6552936609232,
+    "Over/UnderValued (Fair Value)": 48.05785448435154,
+    "Buy Price": 738.2587055626462,
+    "Over/UnderValued (Buy Price)": 111.51122069193077
+  },
+  {
+    "Ticker": "COALINDIA",
+    "Company ": "Coal India Ltd",
+    "Metric": "EPS",
+    "Last Close": 381.55,
+    "Fair Value": 2150.6538400811464,
+    "Over/UnderValued (Fair Value)": -82.25888365253593,
+    "Buy Price": 1290.3923040486877,
+    "Over/UnderValued (Buy Price)": -70.43147275422655
+  },
+  {
+    "Ticker": "NESTLEIND",
+    "Company ": "Nestle India Ltd",
+    "Metric": "EPS",
+    "Last Close": 1186.1,
+    "Fair Value": 227.99022029709607,
+    "Over/UnderValued (Fair Value)": 420.24161319480396,
+    "Buy Price": 159.59315420796725,
+    "Over/UnderValued (Buy Price)": 643.2023045640057
+  },
+  {
+    "Ticker": "MAXHEALTH",
+    "Company ": "Max Healthcare Institute Ltd",
+    "Metric": "P.Change",
+    "Last Close": 1144.7,
+    "Fair Value": 107919.42028623648,
+    "Over/UnderValued (Fair Value)": -98.93930119624078,
+    "Buy Price": 64751.65217174188,
+    "Over/UnderValued (Buy Price)": -98.2321686604013
+  },
+  {
+    "Ticker": "SBILIFE",
+    "Company ": "Sbi Life Insurance Company Ltd",
+    "Metric": "EPS",
+    "Last Close": 1813.8,
+    "Fair Value": 484.1348795687449,
+    "Over/UnderValued (Fair Value)": 274.64766050644545,
+    "Buy Price": 314.6876717196842,
+    "Over/UnderValued (Buy Price)": 476.3810161637622
+  },
+  {
+    "Ticker": "HDFCLIFE",
+    "Company ": "HDFC Life Insurance Company Ltd",
+    "Metric": "EPS",
+    "Last Close": 745.05,
+    "Fair Value": 163.41828925505746,
+    "Over/UnderValued (Fair Value)": 355.9159218936336,
+    "Buy Price": 106.22188801578736,
+    "Over/UnderValued (Buy Price)": 601.4091106055901
+  },
+  {
+    "Ticker": "APOLLOHOSP",
+    "Company ": "Apollo Hospitals Enterprise Ltd",
+    "Metric": "EPS",
+    "Last Close": 7675.5,
+    "Fair Value": 2319.6130540269023,
+    "Over/UnderValued (Fair Value)": 230.89570636253978,
+    "Buy Price": 1507.7484851174866,
+    "Over/UnderValued (Buy Price)": 409.07031748083045
+  },
+  {
+    "Ticker": "DRREDDY",
+    "Company ": "Dr Reddy's Laboratories Ltd",
+    "Metric": "EPS",
+    "Last Close": 1253.5,
+    "Fair Value": 1330.3948404278226,
+    "Over/UnderValued (Fair Value)": -5.7798510706111195,
+    "Buy Price": 864.7566462780848,
+    "Over/UnderValued (Buy Price)": 44.95407527598287
+  },
+  {
+    "Ticker": "TATACONSUM",
+    "Company ": "Tata Consumer Products Ltd",
+    "Metric": "EPS",
+    "Last Close": 1116.2,
+    "Fair Value": 194.445,
+    "Over/UnderValued (Fair Value)": 474.0440741597881,
+    "Buy Price": 136.11149999999998,
+    "Over/UnderValued (Buy Price)": 720.0629630854119
+  },
+  {
+    "Ticker": "WIPRO",
+    "Company ": "Wipro Ltd",
+    "Metric": "EPS",
+    "Last Close": 244.91,
+    "Fair Value": 148.27970549107772,
+    "Over/UnderValued (Fair Value)": 65.16757919696347,
+    "Buy Price": 118.62376439286218,
+    "Over/UnderValued (Buy Price)": 106.45947399620432
+  },
+  {
+    "Ticker": "ADANIENT",
+    "Company ": "Adani Enterprises Ltd",
+    "Metric": "EPS",
+    "Last Close": 2528,
+    "Fair Value": 2003.4893175154311,
+    "Over/UnderValued (Fair Value)": 26.179859203593136,
+    "Buy Price": 1202.0935905092585,
+    "Over/UnderValued (Buy Price)": 110.29976533932194
+  }
+]
