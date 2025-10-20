@@ -3,71 +3,71 @@
     "Ticker": "AZN",
     "Company": "AstraZeneca plc",
     "Metric": "EPS",
-    "Last Close": 12554,
+    "Last Close": 12558,
     "Fair Value": 9142.407598400616,
-    "Over/UnderValued (Fair Value)": 37.31612668632509,
+    "Over/UnderValued (Fair Value)": 37.35987883757132,
     "Buy Price": 5485.444559040369,
-    "Over/UnderValued (Buy Price)": 128.86021114387515
+    "Over/UnderValued (Buy Price)": 128.93313139595222
   },
   {
     "Ticker": "HSBA",
     "Company": "HSBC Holdings plc",
     "Metric": "EPS",
-    "Last Close": 989.1,
+    "Last Close": 964.3,
     "Fair Value": 1744.734274503934,
-    "Over/UnderValued (Fair Value)": -43.3094188350703,
+    "Over/UnderValued (Fair Value)": -44.73083872475816,
     "Buy Price": 1046.8405647023603,
-    "Over/UnderValued (Buy Price)": -5.515698058450491
+    "Over/UnderValued (Buy Price)": -7.884731207930262
   },
   {
     "Ticker": "SHEL",
     "Company": "Shell PLC",
     "Metric": "EPS",
-    "Last Close": 2676.5,
+    "Last Close": 2691,
     "Fair Value": 1167.0447727824758,
-    "Over/UnderValued (Fair Value)": 129.3399587077256,
+    "Over/UnderValued (Fair Value)": 130.5824131823238,
     "Buy Price": 933.6358182259806,
-    "Over/UnderValued (Buy Price)": 186.674948384657
+    "Over/UnderValued (Buy Price)": 188.2280164779047
   },
   {
     "Ticker": "ULVR",
     "Company": "Unilever plc",
     "Metric": "EPS",
-    "Last Close": 4590,
+    "Last Close": 4665,
     "Fair Value": 1551.7474583712233,
-    "Over/UnderValued (Fair Value)": 195.79555456903077,
+    "Over/UnderValued (Fair Value)": 200.6288152646032,
     "Buy Price": 1241.3979666969788,
-    "Over/UnderValued (Buy Price)": 269.74444321128846
+    "Over/UnderValued (Buy Price)": 275.78601908075393
   },
   {
     "Ticker": "RR",
     "Company": "Rolls-Royce Holdings PLC",
     "Metric": "EPS",
-    "Last Close": 1140,
+    "Last Close": 1103,
     "Fair Value": 216.7288903887893,
-    "Over/UnderValued (Fair Value)": 426.0027853023921,
+    "Over/UnderValued (Fair Value)": 408.9307650776653,
     "Buy Price": 173.38311231103145,
-    "Over/UnderValued (Buy Price)": 557.50348162799
+    "Over/UnderValued (Buy Price)": 536.1634563470816
   },
   {
     "Ticker": "BATS",
     "Company": "BRITISH AMERICAN TOBACCO PLC ADS Common Stock",
     "Metric": "EPS",
-    "Last Close": 3822,
+    "Last Close": 3835,
     "Fair Value": 839.9356901544484,
-    "Over/UnderValued (Fair Value)": 355.03483716678426,
+    "Over/UnderValued (Fair Value)": 356.58257470816795,
     "Buy Price": 671.9485521235588,
-    "Over/UnderValued (Buy Price)": 468.7935464584803
+    "Over/UnderValued (Buy Price)": 470.7282183852098
   },
   {
     "Ticker": "BP",
     "Company": "BP plc",
     "Metric": "EPS",
-    "Last Close": 413.05,
+    "Last Close": 411.05,
     "Fair Value": 19.345141269267756,
-    "Over/UnderValued (Fair Value)": 2035.161456050895,
+    "Over/UnderValued (Fair Value)": 2024.8229427665426,
     "Buy Price": 15.476113015414207,
-    "Over/UnderValued (Buy Price)": 2568.9518200636185
+    "Over/UnderValued (Buy Price)": 2556.0286784581776
   },
   {
     "Ticker": "REL",
@@ -83,920 +83,920 @@
     "Ticker": "GSK",
     "Company": "GSK plc",
     "Metric": "EPS",
-    "Last Close": 1634,
+    "Last Close": 1625,
     "Fair Value": 787.4792164061557,
-    "Over/UnderValued (Fair Value)": 107.49753973916141,
+    "Over/UnderValued (Fair Value)": 106.35465243337659,
     "Buy Price": 629.9833731249246,
-    "Over/UnderValued (Buy Price)": 159.37192467395178
+    "Over/UnderValued (Buy Price)": 157.9433155417207
   },
   {
     "Ticker": "BA",
     "Company": "BAE Systems plc",
     "Metric": "EPS",
-    "Last Close": 1908,
+    "Last Close": 1831.5,
     "Fair Value": 863.5714285714284,
-    "Over/UnderValued (Fair Value)": 120.94292803970225,
+    "Over/UnderValued (Fair Value)": 112.0843672456576,
     "Buy Price": 604.4999999999999,
-    "Over/UnderValued (Buy Price)": 215.6327543424318
+    "Over/UnderValued (Buy Price)": 202.9776674937966
   },
   {
     "Ticker": "BARC",
     "Company": "Barclays PLC",
     "Metric": "EPS",
-    "Last Close": 379.25,
+    "Last Close": 357.8,
     "Fair Value": 1315.3419424757758,
-    "Over/UnderValued (Fair Value)": -71.1671932785657,
+    "Over/UnderValued (Fair Value)": -72.79794793690391,
     "Buy Price": 789.2051654854655,
-    "Over/UnderValued (Buy Price)": -51.94532213094283
+    "Over/UnderValued (Buy Price)": -54.66324656150652
   },
   {
     "Ticker": "NG",
     "Company": "National Grid plc",
     "Metric": "EPS",
-    "Last Close": 1122.5,
+    "Last Close": 1130,
     "Fair Value": 534.065476239459,
-    "Over/UnderValued (Fair Value)": 110.18022132864931,
+    "Over/UnderValued (Fair Value)": 111.58454352015474,
     "Buy Price": 427.25238099156724,
-    "Over/UnderValued (Buy Price)": 162.72527666081166
+    "Over/UnderValued (Buy Price)": 164.48067940019345
   },
   {
     "Ticker": "RIO",
     "Company": "Rio Tinto plc",
     "Metric": "EPS",
-    "Last Close": 5138,
+    "Last Close": 5050,
     "Fair Value": 4139.007440855808,
-    "Over/UnderValued (Fair Value)": 24.136041633634587,
+    "Over/UnderValued (Fair Value)": 22.009928036172568,
     "Buy Price": 3311.205952684647,
-    "Over/UnderValued (Buy Price)": 55.17005204204324
+    "Over/UnderValued (Buy Price)": 52.51241004521572
   },
   {
     "Ticker": "LLOY",
     "Company": "Lloyds Banking Group PLC",
     "Metric": "EPS",
-    "Last Close": 84.48,
+    "Last Close": 82.44,
     "Fair Value": 117.32139198710716,
-    "Over/UnderValued (Fair Value)": -27.992671609893794,
+    "Over/UnderValued (Fair Value)": -29.7314849374958,
     "Buy Price": 76.25890479161966,
-    "Over/UnderValued (Buy Price)": 10.780505215548008
+    "Over/UnderValued (Buy Price)": 8.105407788468
   },
   {
     "Ticker": "LSEG",
     "Company": "London Stock Exchange Group Plc",
     "Metric": "EPS",
-    "Last Close": 8662,
+    "Last Close": 8534,
     "Fair Value": 7249.915958389263,
-    "Over/UnderValued (Fair Value)": 19.477247042798318,
+    "Over/UnderValued (Fair Value)": 17.711709335400716,
     "Buy Price": 4349.949575033558,
-    "Over/UnderValued (Buy Price)": 99.12874507133054
+    "Over/UnderValued (Buy Price)": 96.18618222566784
   },
   {
     "Ticker": "DGE",
     "Company": "Diageo plc",
     "Metric": "EPS",
-    "Last Close": 1802,
+    "Last Close": 1826.5,
     "Fair Value": 805.4501389958629,
-    "Over/UnderValued (Fair Value)": 123.72582891928161,
+    "Over/UnderValued (Fair Value)": 126.76760628250156,
     "Buy Price": 644.3601111966904,
-    "Over/UnderValued (Buy Price)": 179.65728614910196
+    "Over/UnderValued (Buy Price)": 183.45950785312692
   },
   {
     "Ticker": "CPG",
     "Company": "Compass Group plc",
     "Metric": "EPS",
-    "Last Close": 2515,
+    "Last Close": 2537,
     "Fair Value": 868.3104245895656,
-    "Over/UnderValued (Fair Value)": 189.6429581838539,
+    "Over/UnderValued (Fair Value)": 192.17661427929914,
     "Buy Price": 607.8172972126958,
-    "Over/UnderValued (Buy Price)": 313.77565454836287
+    "Over/UnderValued (Buy Price)": 317.3951632561417
   },
   {
     "Ticker": "NWG",
     "Company": "Natwest Group PLC",
     "Metric": "EPS",
-    "Last Close": 548.2,
+    "Last Close": 532.4,
     "Fair Value": 2833.5311600968685,
-    "Over/UnderValued (Fair Value)": -80.65311552877861,
+    "Over/UnderValued (Fair Value)": -81.21072365472773,
     "Buy Price": 1700.118696058121,
-    "Over/UnderValued (Buy Price)": -67.75519254796436
+    "Over/UnderValued (Buy Price)": -68.68453942454622
   },
   {
     "Ticker": "III",
     "Company": "3i Group plc",
     "Metric": "P.Change",
-    "Last Close": 4264,
-    "Fair Value": 25589.847047561816,
+    "Last Close": 4272,
+    "Fair Value": 25637.858017632287,
     "Over/UnderValued (Fair Value)": -83.33714151524688,
-    "Buy Price": 15353.90822853709,
-    "Over/UnderValued (Buy Price)": -72.22856919207814
+    "Buy Price": 15382.714810579371,
+    "Over/UnderValued (Buy Price)": -72.22856919207813
   },
   {
     "Ticker": "RKT",
     "Company": "Reckitt Benckiser Group Plc",
     "Metric": "EPS",
-    "Last Close": 5804,
+    "Last Close": 5910,
     "Fair Value": 1821.3609538849655,
-    "Over/UnderValued (Fair Value)": 218.66281022551073,
+    "Over/UnderValued (Fair Value)": 224.48263412004968,
     "Buy Price": 1457.0887631079725,
-    "Over/UnderValued (Buy Price)": 298.32851278188843
+    "Over/UnderValued (Buy Price)": 305.60329265006214
   },
   {
     "Ticker": "EXPN",
     "Company": "Experian plc",
     "Metric": "EPS",
-    "Last Close": 3561,
+    "Last Close": 3477,
     "Fair Value": 891.8439318334777,
-    "Over/UnderValued (Fair Value)": 299.28510728095625,
+    "Over/UnderValued (Fair Value)": 289.8664189878925,
     "Buy Price": 713.4751454667821,
-    "Over/UnderValued (Buy Price)": 399.1063841011954
+    "Over/UnderValued (Buy Price)": 387.33302373486555
   },
   {
     "Ticker": "HLN",
     "Company": "Haleon PLC",
     "Metric": "EPS",
-    "Last Close": 345.1,
+    "Last Close": 351.8,
     "Fair Value": 183.10730101630756,
-    "Over/UnderValued (Fair Value)": 88.46872739895029,
+    "Over/UnderValued (Fair Value)": 92.12778411750422,
     "Buy Price": 146.48584081304605,
-    "Over/UnderValued (Buy Price)": 135.58590924868784
+    "Over/UnderValued (Buy Price)": 140.15973014688026
   },
   {
     "Ticker": "GLEN",
     "Company": "Glencore PLC",
     "Metric": "P.Change",
-    "Last Close": 351.5,
-    "Fair Value": 308.3383901759879,
-    "Over/UnderValued (Fair Value)": 13.998130365595118,
-    "Buy Price": 246.67071214079033,
-    "Over/UnderValued (Buy Price)": 42.497662956993885
+    "Last Close": 345.8,
+    "Fair Value": 303.33830817313407,
+    "Over/UnderValued (Fair Value)": 13.998130365595095,
+    "Buy Price": 242.67064653850727,
+    "Over/UnderValued (Buy Price)": 42.497662956993864
   },
   {
     "Ticker": "TSCO",
     "Company": "Tesco PLC",
     "Metric": "EPS",
-    "Last Close": 443.1,
+    "Last Close": 442.1,
     "Fair Value": 227.67011923562092,
-    "Over/UnderValued (Fair Value)": 94.62369567322355,
+    "Over/UnderValued (Fair Value)": 94.18446368118288,
     "Buy Price": 182.13609538849676,
-    "Over/UnderValued (Buy Price)": 143.27961959152938
+    "Over/UnderValued (Buy Price)": 142.73057960147858
   },
   {
     "Ticker": "STAN",
     "Company": "Standard Chartered PLC",
     "Metric": "EPS",
-    "Last Close": 1428,
+    "Last Close": 1377.5,
     "Fair Value": 4684.483765701907,
-    "Over/UnderValued (Fair Value)": -69.51638491192351,
+    "Over/UnderValued (Fair Value)": -70.59441191608869,
     "Buy Price": 2810.690259421144,
-    "Over/UnderValued (Buy Price)": -49.19397485320586
+    "Over/UnderValued (Buy Price)": -50.99068652681448
   },
   {
     "Ticker": "PRU",
     "Company": "Prudential plc",
     "Metric": "EPS",
-    "Last Close": 1007.5,
+    "Last Close": 991.4,
     "Fair Value": 2471.5060481496726,
-    "Over/UnderValued (Fair Value)": -59.235381974716226,
+    "Over/UnderValued (Fair Value)": -59.886806639934164,
     "Buy Price": 1482.9036288898035,
-    "Over/UnderValued (Buy Price)": -32.058969957860384
+    "Over/UnderValued (Buy Price)": -33.1446777332236
   },
   {
     "Ticker": "AAL",
     "Company": "Anglo American plc",
     "Metric": "P.Change",
-    "Last Close": 2935,
-    "Fair Value": 1468.672720879286,
+    "Last Close": 2834,
+    "Fair Value": 1418.132364896728,
     "Over/UnderValued (Fair Value)": 99.84030194574814,
-    "Buy Price": 1174.938176703429,
-    "Over/UnderValued (Buy Price)": 149.80037743218512
+    "Buy Price": 1134.5058919173823,
+    "Over/UnderValued (Buy Price)": 149.80037743218517
   },
   {
     "Ticker": "IMB",
     "Company": "Imperial Brands PLC",
     "Metric": "EPS",
-    "Last Close": 2988,
+    "Last Close": 3006,
     "Fair Value": 2298.782573321466,
-    "Over/UnderValued (Fair Value)": 29.981844941633497,
+    "Over/UnderValued (Fair Value)": 30.764868103932486,
     "Buy Price": 1839.0260586571728,
-    "Over/UnderValued (Buy Price)": 62.47730617704186
+    "Over/UnderValued (Buy Price)": 63.45608512991561
   },
   {
     "Ticker": "AHT",
     "Company": "Ashtead Group plc",
     "Metric": "EPS",
-    "Last Close": 5362,
+    "Last Close": 5314,
     "Fair Value": 3414.6100709867906,
-    "Over/UnderValued (Fair Value)": 57.03110716973994,
+    "Over/UnderValued (Fair Value)": 55.62538297277098,
     "Buy Price": 2390.227049690753,
-    "Over/UnderValued (Buy Price)": 124.33015309962849
+    "Over/UnderValued (Buy Price)": 122.32197567538714
   },
   {
     "Ticker": "AV",
     "Company": "Aviva plc",
     "Metric": "EPS",
-    "Last Close": 664.4,
+    "Last Close": 654,
     "Fair Value": 151.3670674641927,
-    "Over/UnderValued (Fair Value)": 338.93299323987367,
+    "Over/UnderValued (Fair Value)": 332.06227811390335,
     "Buy Price": 121.09365397135417,
-    "Over/UnderValued (Buy Price)": 448.666241549842
+    "Over/UnderValued (Buy Price)": 440.0778476423792
   },
   {
     "Ticker": "SSE",
     "Company": "SSE PLC",
     "Metric": "EPS",
-    "Last Close": 1864.5,
+    "Last Close": 1878.5,
     "Fair Value": 1894.3138243390968,
-    "Over/UnderValued (Fair Value)": -1.5738587744033583,
+    "Over/UnderValued (Fair Value)": -0.8348048848038192,
     "Buy Price": 1231.303985820413,
-    "Over/UnderValued (Buy Price)": 51.42483265476405
+    "Over/UnderValued (Buy Price)": 52.56183863876336
   },
   {
     "Ticker": "VOD",
     "Company": "Vodafone Group plc",
     "Metric": "P.Change",
-    "Last Close": 86,
-    "Fair Value": 33.38602162170438,
-    "Over/UnderValued (Fair Value)": 157.59283623087055,
-    "Buy Price": 26.708817297363506,
-    "Over/UnderValued (Buy Price)": 221.99104528858817
+    "Last Close": 86.92,
+    "Fair Value": 33.743174411145866,
+    "Over/UnderValued (Fair Value)": 157.5928362308706,
+    "Buy Price": 26.994539528916693,
+    "Over/UnderValued (Buy Price)": 221.99104528858823
   },
   {
     "Ticker": "LGEN",
     "Company": "Legal & General Group Plc",
     "Metric": "EPS",
-    "Last Close": 238.6,
+    "Last Close": 235.2,
     "Fair Value": 47.52865734837079,
-    "Over/UnderValued (Fair Value)": 402.0129187558016,
+    "Over/UnderValued (Fair Value)": 394.85933986322095,
     "Buy Price": 33.27006014385955,
-    "Over/UnderValued (Buy Price)": 617.1613125082881
+    "Over/UnderValued (Buy Price)": 606.9419140903158
   },
   {
     "Ticker": "CCEP",
     "Company": "Coca-Cola Europacific Partners PLC",
     "Metric": "EPS",
-    "Last Close": 6710,
+    "Last Close": 6760,
     "Fair Value": 3047.930083311782,
-    "Over/UnderValued (Fair Value)": 120.14940686267752,
+    "Over/UnderValued (Fair Value)": 121.78986443989568,
     "Buy Price": 2438.3440666494257,
-    "Over/UnderValued (Buy Price)": 175.18675857834688
+    "Over/UnderValued (Buy Price)": 177.23733054986957
   },
   {
     "Ticker": "NXT",
     "Company": "NEXT plc",
     "Metric": "EPS",
-    "Last Close": 13110,
+    "Last Close": 13220,
     "Fair Value": 7743.999999999999,
-    "Over/UnderValued (Fair Value)": 69.29235537190084,
+    "Over/UnderValued (Fair Value)": 70.7128099173554,
     "Buy Price": 5420.799999999999,
-    "Over/UnderValued (Buy Price)": 141.84622195985835
+    "Over/UnderValued (Buy Price)": 143.87544273907915
   },
   {
     "Ticker": "IAG",
     "Company": "International Consolidated Airlns Grp SA",
     "Metric": "EPS",
-    "Last Close": 406.3,
+    "Last Close": 391.2,
     "Fair Value": 1063.6528178884828,
-    "Over/UnderValued (Fair Value)": -61.801445625221106,
+    "Over/UnderValued (Fair Value)": -63.22108178337804,
     "Buy Price": 638.1916907330897,
-    "Over/UnderValued (Buy Price)": -36.335742708701844
+    "Over/UnderValued (Buy Price)": -38.70180297229674
   },
   {
     "Ticker": "IHG",
     "Company": "INTERCONTINENTAL HOTELS GROUP Common Stock",
     "Metric": "EPS",
-    "Last Close": 8928,
+    "Last Close": 8904,
     "Fair Value": 5514.874430695583,
-    "Over/UnderValued (Fair Value)": 61.88945210260979,
+    "Over/UnderValued (Fair Value)": 61.45426540340922,
     "Buy Price": 3584.6683799521293,
-    "Over/UnderValued (Buy Price)": 149.06069554247657
+    "Over/UnderValued (Buy Price)": 148.39117754370648
   },
   {
     "Ticker": "SMT",
     "Company": "Scottish Mortgage Investment Trust PLC",
     "Metric": "P.Change",
-    "Last Close": 1125,
-    "Fair Value": 566.5315133471013,
+    "Last Close": 1107,
+    "Fair Value": 557.4670091335477,
     "Over/UnderValued (Fair Value)": 98.57677348845687,
-    "Buy Price": 339.91890800826076,
+    "Buy Price": 334.4802054801286,
     "Over/UnderValued (Buy Price)": 230.96128914742812
   },
   {
     "Ticker": "HLMA",
     "Company": "Halma plc",
     "Metric": "EPS",
-    "Last Close": 3480,
+    "Last Close": 3454,
     "Fair Value": 840.1393811336457,
-    "Over/UnderValued (Fair Value)": 314.21698329439664,
+    "Over/UnderValued (Fair Value)": 311.12225870656493,
     "Buy Price": 672.1115049069166,
-    "Over/UnderValued (Buy Price)": 417.7712291179957
+    "Over/UnderValued (Buy Price)": 413.9028233832061
   },
   {
     "Ticker": "BT.A",
     "Company": "BT Group - CLASS A Common Stock",
     "Metric": "EPS",
-    "Last Close": 182,
+    "Last Close": 184.5,
     "Fair Value": 79.01955819754463,
-    "Over/UnderValued (Fair Value)": 130.32272534985557,
+    "Over/UnderValued (Fair Value)": 133.48649904971626,
     "Buy Price": 63.2156465580357,
-    "Over/UnderValued (Buy Price)": 187.9034066873195
+    "Over/UnderValued (Buy Price)": 191.8581238121453
   },
   {
     "Ticker": "SN",
     "Company": "Smith & Nephew plc",
     "Metric": "EPS",
-    "Last Close": 1340.5,
+    "Last Close": 1346.5,
     "Fair Value": 288.2459980968766,
-    "Over/UnderValued (Fair Value)": 365.0541582018674,
+    "Over/UnderValued (Fair Value)": 367.13571355375933,
     "Buy Price": 230.59679847750127,
-    "Over/UnderValued (Buy Price)": 481.3176977523342
+    "Over/UnderValued (Buy Price)": 483.9196419421992
   },
   {
     "Ticker": "INF",
     "Company": "Informa PLC",
     "Metric": "EPS",
-    "Last Close": 919.8,
+    "Last Close": 917.2,
     "Fair Value": 41.74374313401867,
-    "Over/UnderValued (Fair Value)": 2103.4439917066697,
+    "Over/UnderValued (Fair Value)": 2097.215513365251,
     "Buy Price": 33.39499450721494,
-    "Over/UnderValued (Buy Price)": 2654.3049896333373
+    "Over/UnderValued (Buy Price)": 2646.5193917065635
   },
   {
     "Ticker": "SGE",
     "Company": "Sage Group PLC",
     "Metric": "EPS",
-    "Last Close": 1158.5,
+    "Last Close": 1130,
     "Fair Value": 271.9557401269154,
-    "Over/UnderValued (Fair Value)": 325.9884345369416,
+    "Over/UnderValued (Fair Value)": 315.50878811112995,
     "Buy Price": 217.5645921015323,
-    "Over/UnderValued (Buy Price)": 432.4855431711771
+    "Over/UnderValued (Buy Price)": 419.3859851389124
   },
   {
     "Ticker": "RTO",
     "Company": "Rentokil Initial plc",
     "Metric": "EPS",
-    "Last Close": 398.2,
+    "Last Close": 399.7,
     "Fair Value": 205.1220669848723,
-    "Over/UnderValued (Fair Value)": 94.12830898850446,
+    "Over/UnderValued (Fair Value)": 94.85958087068114,
     "Buy Price": 123.07324019092337,
-    "Over/UnderValued (Buy Price)": 223.54718164750747
+    "Over/UnderValued (Buy Price)": 224.76596811780195
   },
   {
     "Ticker": "ADM",
     "Company": "Admiral Group plc",
     "Metric": "EPS",
-    "Last Close": 3248,
+    "Last Close": 3256,
     "Fair Value": 4672.725145089316,
-    "Over/UnderValued (Fair Value)": -30.490240723587082,
+    "Over/UnderValued (Fair Value)": -30.319034419950597,
     "Buy Price": 3037.2713443080556,
-    "Over/UnderValued (Buy Price)": 6.9380911944814105
+    "Over/UnderValued (Buy Price)": 7.201485507768313
   },
   {
     "Ticker": "SGRO",
     "Company": "SEGRO plc",
     "Metric": "EPS",
-    "Last Close": 674.6,
+    "Last Close": 665.2,
     "Fair Value": 561.7486458105232,
-    "Over/UnderValued (Fair Value)": 20.089297060369127,
+    "Over/UnderValued (Fair Value)": 18.415950792406697,
     "Buy Price": 393.2240520673662,
-    "Over/UnderValued (Buy Price)": 71.5561386576702
+    "Over/UnderValued (Buy Price)": 69.16564398915241
   },
   {
     "Ticker": "BNZL",
     "Company": "Bunzl plc",
     "Metric": "EPS",
-    "Last Close": 2412,
+    "Last Close": 2438,
     "Fair Value": 1346.7958486538582,
-    "Over/UnderValued (Fair Value)": 79.09173111951813,
+    "Over/UnderValued (Fair Value)": 81.02223900057427,
     "Buy Price": 1077.4366789230867,
-    "Over/UnderValued (Buy Price)": 123.86466389939766
+    "Over/UnderValued (Buy Price)": 126.27779875071785
   },
   {
     "Ticker": "CNA",
     "Company": "Centrica PLC",
     "Metric": "P.Change",
-    "Last Close": 175.15,
-    "Fair Value": 592.1459625957573,
+    "Last Close": 174.25,
+    "Fair Value": 589.1032485430242,
     "Over/UnderValued (Fair Value)": -70.42114426784154,
-    "Buy Price": 384.89487568724223,
+    "Buy Price": 382.9171115529657,
     "Over/UnderValued (Buy Price)": -54.49406810437161
   },
   {
     "Ticker": "SMIN",
     "Company": "Smiths Group plc",
     "Metric": "EPS",
-    "Last Close": 2366,
+    "Last Close": 2406,
     "Fair Value": 667.4686173967369,
-    "Over/UnderValued (Fair Value)": 254.4735944631944,
+    "Over/UnderValued (Fair Value)": 260.46638557837946,
     "Buy Price": 533.9748939173895,
-    "Over/UnderValued (Buy Price)": 343.0919930789931
+    "Over/UnderValued (Buy Price)": 350.5829819729743
   },
   {
     "Ticker": "UU",
     "Company": "United Utilities Group PLC",
     "Metric": "EPS",
-    "Last Close": 1194,
+    "Last Close": 1195.5,
     "Fair Value": 280.16025179129446,
-    "Over/UnderValued (Fair Value)": 326.18465409199837,
+    "Over/UnderValued (Fair Value)": 326.7200619488979,
     "Buy Price": 224.12820143303557,
-    "Over/UnderValued (Buy Price)": 432.73081761499793
+    "Over/UnderValued (Buy Price)": 433.4000774361224
   },
   {
     "Ticker": "CCH",
     "Company": "Coca Cola HBC AG",
     "Metric": "EPS",
-    "Last Close": 3494,
+    "Last Close": 3556,
     "Fair Value": 2102.9823836447576,
-    "Over/UnderValued (Fair Value)": 66.14499613374876,
+    "Over/UnderValued (Fair Value)": 69.09319011208088,
     "Buy Price": 1682.3859069158061,
-    "Over/UnderValued (Buy Price)": 107.68124516718593
+    "Over/UnderValued (Buy Price)": 111.36648764010108
   },
   {
     "Ticker": "ITRK",
     "Company": "Intertek Group plc",
     "Metric": "EPS",
-    "Last Close": 4864,
+    "Last Close": 4824,
     "Fair Value": 1753.6823026101197,
-    "Over/UnderValued (Fair Value)": 177.3592453297038,
+    "Over/UnderValued (Fair Value)": 175.07833048324238,
     "Buy Price": 1402.9458420880958,
-    "Over/UnderValued (Buy Price)": 246.6990566621297
+    "Over/UnderValued (Buy Price)": 243.847913104053
   },
   {
     "Ticker": "MRO",
     "Company": "Melrose Industries PLC",
     "Metric": "EPS",
-    "Last Close": 617,
+    "Last Close": 596.8,
     "Fair Value": 17.716448161317714,
-    "Over/UnderValued (Fair Value)": 3382.6393777233775,
+    "Over/UnderValued (Fair Value)": 3268.6210382906183,
     "Buy Price": 14.173158529054172,
-    "Over/UnderValued (Buy Price)": 4253.299222154222
+    "Over/UnderValued (Buy Price)": 4110.776297863273
   },
   {
     "Ticker": "ANTO",
     "Company": "Antofagasta plc",
     "Metric": "EPS",
-    "Last Close": 2787,
+    "Last Close": 2663,
     "Fair Value": 757.2868436562737,
-    "Over/UnderValued (Fair Value)": 268.02435211260536,
+    "Over/UnderValued (Fair Value)": 251.65010752632512,
     "Buy Price": 530.1007905593916,
-    "Over/UnderValued (Buy Price)": 425.74907444657913
+    "Over/UnderValued (Buy Price)": 402.35729646617875
   },
   {
     "Ticker": "DPLM",
     "Company": "Diploma PLC",
     "Metric": "EPS",
-    "Last Close": 5330,
+    "Last Close": 5305,
     "Fair Value": 2000.9305484878453,
-    "Over/UnderValued (Fair Value)": 166.37606207911705,
+    "Over/UnderValued (Fair Value)": 165.12664340144764,
     "Buy Price": 1300.6048565170995,
-    "Over/UnderValued (Buy Price)": 309.8093262755647
+    "Over/UnderValued (Buy Price)": 307.88714369453476
   },
   {
     "Ticker": "PSON",
     "Company": "Pearson plc",
     "Metric": "EPS",
-    "Last Close": 1094,
+    "Last Close": 1119.5,
     "Fair Value": 498.0695575529844,
-    "Over/UnderValued (Fair Value)": 119.64803578335959,
+    "Over/UnderValued (Fair Value)": 124.7678026137761,
     "Buy Price": 398.45564604238757,
-    "Over/UnderValued (Buy Price)": 174.56004472919946
+    "Over/UnderValued (Buy Price)": 180.95975326722012
   },
   {
     "Ticker": "MKS",
     "Company": "Marks and Spencer Group Plc",
     "Metric": "EPS",
-    "Last Close": 397.8,
+    "Last Close": 402,
     "Fair Value": 77.48066904605265,
-    "Over/UnderValued (Fair Value)": 413.41838538275556,
+    "Over/UnderValued (Fair Value)": 418.8390923174151,
     "Buy Price": 61.98453523684213,
-    "Over/UnderValued (Buy Price)": 541.7729817284444
+    "Over/UnderValued (Buy Price)": 548.5488653967689
   },
   {
     "Ticker": "AUTO",
     "Company": "Auto Trader Group PLC",
     "Metric": "EPS",
-    "Last Close": 776.2,
+    "Last Close": 774,
     "Fair Value": 399.1241842833332,
-    "Over/UnderValued (Fair Value)": 94.47581243260007,
+    "Over/UnderValued (Fair Value)": 93.92460554345843,
     "Buy Price": 279.3869289983332,
-    "Over/UnderValued (Buy Price)": 177.82258918942867
+    "Over/UnderValued (Buy Price)": 177.03515077636922
   },
   {
     "Ticker": "SVT",
     "Company": "Severn Trent Plc",
     "Metric": "EPS",
-    "Last Close": 2726,
+    "Last Close": 2733,
     "Fair Value": 705.9067896392637,
-    "Over/UnderValued (Fair Value)": 286.169964648315,
+    "Over/UnderValued (Fair Value)": 287.16159698600325,
     "Buy Price": 564.725431711411,
-    "Over/UnderValued (Buy Price)": 382.7124558103937
+    "Over/UnderValued (Buy Price)": 383.95199623250403
   },
   {
     "Ticker": "STJ",
     "Company": "St James's Place PLC",
     "Metric": "P.Change",
-    "Last Close": 1343.5,
-    "Fair Value": 820.0450064174814,
+    "Last Close": 1303.5,
+    "Fair Value": 795.6298220060938,
     "Over/UnderValued (Fair Value)": 63.83247132609571,
-    "Buy Price": 492.0270038504888,
+    "Buy Price": 477.3778932036563,
     "Over/UnderValued (Buy Price)": 173.0541188768262
   },
   {
     "Ticker": "ABF",
     "Company": "Associated British Foods plc",
     "Metric": "EPS",
-    "Last Close": 2217,
+    "Last Close": 2239,
     "Fair Value": 1598.450983698292,
-    "Over/UnderValued (Fair Value)": 38.69677723057783,
+    "Over/UnderValued (Fair Value)": 40.073109706478924,
     "Buy Price": 1278.7607869586336,
-    "Over/UnderValued (Buy Price)": 73.37097153822229
+    "Over/UnderValued (Buy Price)": 75.09138713309864
   },
   {
     "Ticker": "WEIR",
     "Company": "Weir Group PLC",
     "Metric": "EPS",
-    "Last Close": 2842,
+    "Last Close": 2786,
     "Fair Value": 750.9265641206392,
-    "Over/UnderValued (Fair Value)": 278.465769596003,
+    "Over/UnderValued (Fair Value)": 271.0083160079044,
     "Buy Price": 600.7412512965115,
-    "Over/UnderValued (Buy Price)": 373.08221199500366
+    "Over/UnderValued (Buy Price)": 363.7603950098804
   },
   {
     "Ticker": "MNG",
     "Company": "M&G PLC",
     "Metric": "P.Change",
-    "Last Close": 259.4,
-    "Fair Value": 208.51186672532563,
+    "Last Close": 255.2,
+    "Fair Value": 205.13580720240208,
     "Over/UnderValued (Fair Value)": 24.40538952236695,
-    "Buy Price": 125.10712003519538,
+    "Buy Price": 123.08148432144124,
     "Over/UnderValued (Buy Price)": 107.34231587061159
   },
   {
     "Ticker": "ICG",
     "Company": "ICG PLC",
     "Metric": "EPS",
-    "Last Close": 2042,
+    "Last Close": 1929,
     "Fair Value": 3117.330605861021,
-    "Over/UnderValued (Fair Value)": -34.49523781145471,
+    "Over/UnderValued (Fair Value)": -38.120134054013775,
     "Buy Price": 1870.3983635166126,
-    "Over/UnderValued (Buy Price)": 9.174603647575497
+    "Over/UnderValued (Buy Price)": 3.1331099099770388
   },
   {
     "Ticker": "RMV",
     "Company": "Rightmove Plc",
     "Metric": "EPS",
-    "Last Close": 679.4,
+    "Last Close": 675.4,
     "Fair Value": 262.8699912082028,
-    "Over/UnderValued (Fair Value)": 158.45475814007614,
+    "Over/UnderValued (Fair Value)": 156.93309338800034,
     "Buy Price": 210.29599296656227,
-    "Over/UnderValued (Buy Price)": 223.06844767509511
+    "Over/UnderValued (Buy Price)": 221.1663667350004
   },
   {
     "Ticker": "IMI",
     "Company": "IMI plc",
     "Metric": "EPS",
-    "Last Close": 2290,
+    "Last Close": 2260,
     "Fair Value": 882.3562304309937,
-    "Over/UnderValued (Fair Value)": 159.532365842924,
+    "Over/UnderValued (Fair Value)": 156.1323785174708,
     "Buy Price": 705.884984344795,
-    "Over/UnderValued (Buy Price)": 224.41545730365493
+    "Over/UnderValued (Buy Price)": 220.1654731468385
   },
   {
     "Ticker": "PSH",
     "Company": "Pershing Square Holdings Ltd",
     "Metric": "P.Change",
-    "Last Close": 4564,
-    "Fair Value": 5407.069101784597,
+    "Last Close": 4560,
+    "Fair Value": 5402.330215630534,
     "Over/UnderValued (Fair Value)": -15.59197942386833,
-    "Buy Price": 3244.241461070758,
-    "Over/UnderValued (Buy Price)": 40.68003429355278
+    "Buy Price": 3241.3981293783204,
+    "Over/UnderValued (Buy Price)": 40.6800342935528
   },
   {
     "Ticker": "FCIT",
     "Company": "F&C Investment Trust PLC",
     "Metric": "EPS",
-    "Last Close": 1186,
+    "Last Close": 1177,
     "Fair Value": 10469.549864945322,
-    "Over/UnderValued (Fair Value)": -88.67191029892292,
+    "Over/UnderValued (Fair Value)": -88.7578738801284,
     "Buy Price": 6281.729918967193,
-    "Over/UnderValued (Buy Price)": -81.11985049820487
+    "Over/UnderValued (Buy Price)": -81.26312313354734
   },
   {
     "Ticker": "WTB",
     "Company": "Whitbread plc",
     "Metric": "EPS",
-    "Last Close": 2893,
+    "Last Close": 2902,
     "Fair Value": 2228.07247773088,
-    "Over/UnderValued (Fair Value)": 29.843172918068504,
+    "Over/UnderValued (Fair Value)": 30.247109508549876,
     "Buy Price": 1448.2471105250722,
-    "Over/UnderValued (Buy Price)": 99.75872756625921
+    "Over/UnderValued (Buy Price)": 100.38016847469211
   },
   {
     "Ticker": "SPX",
     "Company": "Spirax Group PLC",
     "Metric": "EPS",
-    "Last Close": 6815,
+    "Last Close": 6840,
     "Fair Value": 1916.9164635940556,
-    "Over/UnderValued (Fair Value)": 255.5188830306384,
+    "Over/UnderValued (Fair Value)": 256.82306088474934,
     "Buy Price": 1533.5331708752447,
-    "Over/UnderValued (Buy Price)": 344.3986037882979
+    "Over/UnderValued (Buy Price)": 346.02882610593656
   },
   {
     "Ticker": "ENT",
     "Company": "Entain PLC",
     "Metric": "P.Change",
-    "Last Close": 836,
-    "Fair Value": 324.5431869272658,
+    "Last Close": 818.6,
+    "Fair Value": 317.7883406921768,
     "Over/UnderValued (Fair Value)": 157.5928362308706,
-    "Buy Price": 259.63454954181265,
+    "Buy Price": 254.23067255374144,
     "Over/UnderValued (Buy Price)": 221.99104528858823
   },
   {
     "Ticker": "SBRY",
     "Company": "J Sainsbury plc",
     "Metric": "EPS",
-    "Last Close": 337.6,
+    "Last Close": 338,
     "Fair Value": 121.20000000000002,
-    "Over/UnderValued (Fair Value)": 178.54785478547853,
+    "Over/UnderValued (Fair Value)": 178.87788778877885,
     "Buy Price": 96.96000000000002,
-    "Over/UnderValued (Buy Price)": 248.1848184818481
+    "Over/UnderValued (Buy Price)": 248.5973597359735
   },
   {
     "Ticker": "PHNX",
     "Company": "Phoenix Group Holdings PLC",
     "Metric": "P.Change",
-    "Last Close": 661,
-    "Fair Value": 299.2867473295694,
-    "Over/UnderValued (Fair Value)": 120.8584262075989,
-    "Buy Price": 194.5363857642201,
-    "Over/UnderValued (Buy Price)": 239.78219416553674
+    "Last Close": 649.5,
+    "Fair Value": 294.0797918162713,
+    "Over/UnderValued (Fair Value)": 120.85842620759885,
+    "Buy Price": 191.15186468057638,
+    "Over/UnderValued (Buy Price)": 239.7821941655367
   },
   {
     "Ticker": "BAB",
     "Company": "Babcock International Group PLC",
     "Metric": "EPS",
-    "Last Close": 1180,
+    "Last Close": 1143,
     "Fair Value": 352.7402612446842,
-    "Over/UnderValued (Fair Value)": 234.5237642667258,
+    "Over/UnderValued (Fair Value)": 224.03445979395556,
     "Buy Price": 282.19220899574736,
-    "Over/UnderValued (Buy Price)": 318.15470533340726
+    "Over/UnderValued (Buy Price)": 305.04307474244445
   },
   {
     "Ticker": "GAW",
     "Company": "Games Workshop Group PLC",
     "Metric": "EPS",
-    "Last Close": 14630,
+    "Last Close": 14680,
     "Fair Value": 9771.179607171767,
-    "Over/UnderValued (Fair Value)": 49.72603706170744,
+    "Over/UnderValued (Fair Value)": 50.23774600586912,
     "Buy Price": 6351.266744661649,
-    "Over/UnderValued (Buy Price)": 130.34774932570375
+    "Over/UnderValued (Buy Price)": 131.13499385518327
   },
   {
     "Ticker": "ALW",
     "Company": "Alliance Witan PLC",
     "Metric": "EPS",
-    "Last Close": 1258,
+    "Last Close": 1252,
     "Fair Value": 1603.6054594388934,
-    "Over/UnderValued (Fair Value)": -21.551776180646197,
+    "Over/UnderValued (Fair Value)": -21.925933051008773,
     "Buy Price": 962.163275663336,
-    "Over/UnderValued (Buy Price)": 30.747039698923007
+    "Over/UnderValued (Buy Price)": 30.1234449149854
   },
   {
     "Ticker": "BTRW",
     "Company": "Barratt Redrow PLC",
     "Metric": "EPS",
-    "Last Close": 390.4,
+    "Last Close": 385.1,
     "Fair Value": 49.04230756066714,
-    "Over/UnderValued (Fair Value)": 696.0473709705866,
+    "Over/UnderValued (Fair Value)": 685.2403754118159,
     "Buy Price": 39.233846048533714,
-    "Over/UnderValued (Buy Price)": 895.0592137132332
+    "Over/UnderValued (Buy Price)": 881.5504692647698
   },
   {
     "Ticker": "BEZ",
     "Company": "Beazley PLC",
     "Metric": "EPS",
-    "Last Close": 897.5,
+    "Last Close": 878.5,
     "Fair Value": 2449.801140374294,
-    "Over/UnderValued (Fair Value)": -63.36437332775202,
+    "Over/UnderValued (Fair Value)": -64.13994648293053,
     "Buy Price": 1469.8806842245763,
-    "Over/UnderValued (Buy Price)": -38.940622212920026
+    "Over/UnderValued (Buy Price)": -40.23324413821755
   },
   {
     "Ticker": "DCC",
     "Company": "DCC plc",
     "Metric": "EPS",
-    "Last Close": 4664,
+    "Last Close": 4674,
     "Fair Value": 1609.1478013250264,
-    "Over/UnderValued (Fair Value)": 189.84285944146993,
+    "Over/UnderValued (Fair Value)": 190.46430639567546,
     "Buy Price": 1287.3182410600211,
-    "Over/UnderValued (Buy Price)": 262.30357430183744
+    "Over/UnderValued (Buy Price)": 263.08038299459434
   },
   {
     "Ticker": "PCT",
     "Company": "Polar Capital Technology Trust plc",
     "Metric": "P.Change",
-    "Last Close": 436,
-    "Fair Value": 294669.99671603576,
+    "Last Close": 429,
+    "Fair Value": 289939.0564017875,
     "Over/UnderValued (Fair Value)": -99.85203787122578,
-    "Buy Price": 176801.99802962146,
+    "Buy Price": 173963.4338410725,
     "Over/UnderValued (Buy Price)": -99.75339645204295
   },
   {
     "Ticker": "KGF",
     "Company": "Kingfisher plc",
     "Metric": "EPS",
-    "Last Close": 303.1,
+    "Last Close": 303.7,
     "Fair Value": 175.39942817954585,
-    "Over/UnderValued (Fair Value)": 72.80558046616592,
+    "Over/UnderValued (Fair Value)": 73.14765683792342,
     "Buy Price": 114.0096283167048,
-    "Over/UnderValued (Buy Price)": 165.8547391787168
+    "Over/UnderValued (Buy Price)": 166.38101051988218
   },
   {
     "Ticker": "HWDN",
     "Company": "Howden Joinery Group Plc",
     "Metric": "EPS",
-    "Last Close": 819,
+    "Last Close": 804.5,
     "Fair Value": 542.0077962765768,
-    "Over/UnderValued (Fair Value)": 51.10483753670567,
+    "Over/UnderValued (Fair Value)": 48.4295992652988,
     "Buy Price": 379.4054573936037,
-    "Over/UnderValued (Buy Price)": 115.86405362386527
+    "Over/UnderValued (Buy Price)": 112.04228466471262
   },
   {
     "Ticker": "MNDI",
     "Company": "Mondi Plc",
     "Metric": "EPS",
-    "Last Close": 828.8,
+    "Last Close": 825.4,
     "Fair Value": 277.48695329976704,
-    "Over/UnderValued (Fair Value)": 198.68070918082176,
+    "Over/UnderValued (Fair Value)": 197.4554263487576,
     "Buy Price": 221.98956263981364,
-    "Over/UnderValued (Buy Price)": 273.35088647602726
+    "Over/UnderValued (Buy Price)": 271.819282935947
   },
   {
     "Ticker": "EDV",
     "Company": "Endeavour Mining PLC",
     "Metric": "EPS",
-    "Last Close": 3550,
+    "Last Close": 3356,
     "Fair Value": 2138.916760969563,
-    "Over/UnderValued (Fair Value)": 65.97186317763943,
+    "Over/UnderValued (Fair Value)": 56.90185149976281,
     "Buy Price": 1283.3500565817376,
-    "Over/UnderValued (Buy Price)": 176.61977196273244
+    "Over/UnderValued (Buy Price)": 161.50308583293804
   },
   {
     "Ticker": "HSX",
     "Company": "Hiscox Ltd",
     "Metric": "EPS",
-    "Last Close": 1371,
+    "Last Close": 1338,
     "Fair Value": 1007.8359781173924,
-    "Over/UnderValued (Fair Value)": 36.03404023747865,
+    "Over/UnderValued (Fair Value)": 32.75969791228768,
     "Buy Price": 806.2687824939139,
-    "Over/UnderValued (Buy Price)": 70.04255029684829
+    "Over/UnderValued (Buy Price)": 65.9496223903596
   },
   {
     "Ticker": "WPP",
     "Company": "WPP PLC",
     "Metric": "EPS",
-    "Last Close": 357.4,
+    "Last Close": 351.4,
     "Fair Value": 274.01285978283113,
-    "Over/UnderValued (Fair Value)": 30.431834580047568,
+    "Over/UnderValued (Fair Value)": 28.242156327444647,
     "Buy Price": 219.2102878262649,
-    "Over/UnderValued (Buy Price)": 63.03979322505946
+    "Over/UnderValued (Buy Price)": 60.3026954093058
   },
   {
     "Ticker": "LMP",
     "Company": "Londonmetric Property PLC",
     "Metric": "EPS",
-    "Last Close": 189,
+    "Last Close": 188.9,
     "Fair Value": 637.5591473568082,
-    "Over/UnderValued (Fair Value)": -70.35569158037244,
+    "Over/UnderValued (Fair Value)": -70.37137639964209,
     "Buy Price": 382.5354884140849,
-    "Over/UnderValued (Buy Price)": -50.592819300620725
+    "Over/UnderValued (Buy Price)": -50.61896066607012
   },
   {
     "Ticker": "LAND",
     "Company": "Land Securities Group plc",
     "Metric": "EPS",
-    "Last Close": 621,
+    "Last Close": 620.5,
     "Fair Value": 247.23905231909362,
-    "Over/UnderValued (Fair Value)": 151.1739121206953,
+    "Over/UnderValued (Fair Value)": 150.9716786970876,
     "Buy Price": 197.7912418552749,
-    "Over/UnderValued (Buy Price)": 213.96739015086905
+    "Over/UnderValued (Buy Price)": 213.71459837135953
   },
   {
     "Ticker": "CTEC",
     "Company": "ConvaTec Group PLC",
     "Metric": "EPS",
-    "Last Close": 242.6,
+    "Last Close": 241.4,
     "Fair Value": 59.99717909184159,
-    "Over/UnderValued (Fair Value)": 304.3523440137683,
+    "Over/UnderValued (Fair Value)": 302.35224997907534,
     "Buy Price": 47.997743273473276,
-    "Over/UnderValued (Buy Price)": 405.4404300172104
+    "Over/UnderValued (Buy Price)": 402.94031247384413
   },
   {
     "Ticker": "CRDA",
     "Company": "Croda International Plc",
     "Metric": "EPS",
-    "Last Close": 2898,
+    "Last Close": 2874,
     "Fair Value": 1313.491232983628,
-    "Over/UnderValued (Fair Value)": 120.63337213276415,
+    "Over/UnderValued (Fair Value)": 118.80618064512221,
     "Buy Price": 1050.7929863869024,
-    "Over/UnderValued (Buy Price)": 175.7917151659552
+    "Over/UnderValued (Buy Price)": 173.50772580640273
   },
   {
     "Ticker": "BKG",
     "Company": "Berkeley Group Holdings PLC",
     "Metric": "EPS",
-    "Last Close": 4054,
+    "Last Close": 4002,
     "Fair Value": 2439.4036836401015,
-    "Over/UnderValued (Fair Value)": 66.18815603125525,
+    "Over/UnderValued (Fair Value)": 64.05648752764763,
     "Buy Price": 1951.5229469120814,
-    "Over/UnderValued (Buy Price)": 107.73519503906903
+    "Over/UnderValued (Buy Price)": 105.07060940955952
   },
   {
     "Ticker": "PSN",
     "Company": "Persimmon plc",
     "Metric": "EPS",
-    "Last Close": 1190,
+    "Last Close": 1173.5,
     "Fair Value": 425.4692690946052,
-    "Over/UnderValued (Fair Value)": 179.69117547133533,
+    "Over/UnderValued (Fair Value)": 175.81310455093444,
     "Buy Price": 340.3754152756842,
-    "Over/UnderValued (Buy Price)": 249.6139693391691
+    "Over/UnderValued (Buy Price)": 244.766380688668
   },
   {
     "Ticker": "TW",
     "Company": "Taylor Wimpey plc",
     "Metric": "EPS",
-    "Last Close": 106.15,
+    "Last Close": 103.65,
     "Fair Value": 9.47221492299051,
-    "Over/UnderValued (Fair Value)": 1020.6460248527277,
+    "Over/UnderValued (Fair Value)": 994.2530426376376,
     "Buy Price": 7.5777719383924085,
-    "Over/UnderValued (Buy Price)": 1300.8075310659094
+    "Over/UnderValued (Buy Price)": 1267.8163032970467
   },
   {
     "Ticker": "FRES",
     "Company": "Fresnillo Plc",
     "Metric": "EPS",
-    "Last Close": 2628,
+    "Last Close": 2352,
     "Fair Value": 409.45019845025195,
-    "Over/UnderValued (Fair Value)": 541.8362990045787,
+    "Over/UnderValued (Fair Value)": 474.42883381231707,
     "Buy Price": 327.5601587602016,
-    "Over/UnderValued (Buy Price)": 702.2953737557233
+    "Over/UnderValued (Buy Price)": 618.0360422653962
   },
   {
     "Ticker": "EZJ",
     "Company": "easyJet plc",
     "Metric": "EPS",
-    "Last Close": 489.7,
+    "Last Close": 487.9,
     "Fair Value": 361.68577090675,
-    "Over/UnderValued (Fair Value)": 35.39376978317863,
+    "Over/UnderValued (Fair Value)": 34.896100218935786,
     "Buy Price": 235.0957510893875,
-    "Over/UnderValued (Buy Price)": 108.29810735873635
+    "Over/UnderValued (Buy Price)": 107.5324618752858
   },
   {
     "Ticker": "UTG",
     "Company": "UNITE Group plc",
     "Metric": "EPS",
-    "Last Close": 584,
+    "Last Close": 574.5,
     "Fair Value": 2515.815124134766,
-    "Over/UnderValued (Fair Value)": -76.78684755499083,
+    "Over/UnderValued (Fair Value)": -77.1644587677093,
     "Buy Price": 1509.4890744808595,
-    "Over/UnderValued (Buy Price)": -61.31141259165138
+    "Over/UnderValued (Buy Price)": -61.94076461284883
   },
   {
     "Ticker": "SDR",
     "Company": "Schroders plc",
     "Metric": "EPS",
-    "Last Close": 389.8,
+    "Last Close": 374.2,
     "Fair Value": 142.06079388515505,
-    "Over/UnderValued (Fair Value)": 174.389568958148,
+    "Over/UnderValued (Fair Value)": 163.40835480795016,
     "Buy Price": 113.64863510812404,
-    "Over/UnderValued (Buy Price)": 242.98696119768502
+    "Over/UnderValued (Buy Price)": 229.26044350993772
   },
   {
     "Ticker": "HIK",
     "Company": "Hikma Pharmaceuticals Plc",
     "Metric": "EPS",
-    "Last Close": 1773,
+    "Last Close": 1775,
     "Fair Value": 1080.4438249348314,
-    "Over/UnderValued (Fair Value)": 64.09923024984118,
+    "Over/UnderValued (Fair Value)": 64.28433936461823,
     "Buy Price": 864.3550599478651,
-    "Over/UnderValued (Buy Price)": 105.12403781230147
+    "Over/UnderValued (Buy Price)": 105.35542420577278
   },
   {
     "Ticker": "JD",
     "Company": "JD Sports Fashion PLC",
     "Metric": "EPS",
-    "Last Close": 96.24,
+    "Last Close": 95.44,
     "Fair Value": 115.72833052441949,
-    "Over/UnderValued (Fair Value)": -16.839723200109002,
+    "Over/UnderValued (Fair Value)": -17.530997321471354,
     "Buy Price": 69.43699831465169,
-    "Over/UnderValued (Buy Price)": 38.60046133315167
+    "Over/UnderValued (Buy Price)": 37.44833779754777
   },
   {
     "Ticker": "AAF",
     "Company": "Airtel Africa PLC",
     "Metric": "EPS",
-    "Last Close": 224.2,
+    "Last Close": 224.8,
     "Fair Value": 75.39712394789134,
-    "Over/UnderValued (Fair Value)": 197.35882253937126,
+    "Over/UnderValued (Fair Value)": 198.15460886195658,
     "Buy Price": 60.317699158313076,
-    "Over/UnderValued (Buy Price)": 271.69852817421406
+    "Over/UnderValued (Buy Price)": 272.6932610774457
   }
 ]
