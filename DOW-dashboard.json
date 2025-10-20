@@ -2,22 +2,24 @@
   {
     "Ticker": "GS",
     "Company ": "Goldman Sachs Group Inc",
-    "Metric": "EPS",
+    "Industry": "Financial - Capital Markets",
+    "Metric": "TBV Per Share",
     "EPS (ttm)": 45.51,
     "Avg. 5Y Price Change": 0.52,
     "Cost of Equity": 0.17,
     "Growth Rate": 0.125,
     "Terminal Rate": 0.02,
     "Last Close": 750.77,
-    "Fair Value": 483.14670399918333,
-    "Over/UnderValued (Fair Value)": 55.39172549157429,
+    "Fair Value": 313.31,
+    "Over/UnderValued (Fair Value)": 139.62529124509274,
     "MOS": 0.30000000000000004,
-    "Buy Price": 338.2026927994283,
-    "Over/UnderValued (Buy Price)": 121.98817927367757
+    "Buy Price": 219.31699999999998,
+    "Over/UnderValued (Buy Price)": 242.3218446358468
   },
   {
     "Ticker": "MSFT",
     "Company ": "Microsoft Corp",
+    "Industry": "Software - Infrastructure",
     "Metric": "EPS",
     "EPS (ttm)": 13.74,
     "Avg. 5Y Price Change": 0.24,
@@ -34,6 +36,7 @@
   {
     "Ticker": "CAT",
     "Company ": "Caterpillar Inc",
+    "Industry": "Agricultural - Machinery",
     "Metric": "EPS",
     "EPS (ttm)": 19.9,
     "Avg. 5Y Price Change": 0.4,
@@ -50,6 +53,7 @@
   {
     "Ticker": "HD",
     "Company ": "Home Depot Inc",
+    "Industry": "Home Improvement",
     "Metric": "EPS",
     "EPS (ttm)": 14.6,
     "Avg. 5Y Price Change": 0.09,
@@ -66,6 +70,7 @@
   {
     "Ticker": "SHW",
     "Company ": "Sherwin-Williams Co",
+    "Industry": "Chemicals - Specialty",
     "Metric": "EPS",
     "EPS (ttm)": 10.12,
     "Avg. 5Y Price Change": 0.13,
@@ -82,6 +87,7 @@
   {
     "Ticker": "V",
     "Company ": "Visa Inc",
+    "Industry": "Financial - Credit Services",
     "Metric": "EPS",
     "EPS (ttm)": 10.34,
     "Avg. 5Y Price Change": 0.12,
@@ -98,6 +104,7 @@
   {
     "Ticker": "MCD",
     "Company ": "McDonald's Corp",
+    "Industry": "Restaurants",
     "Metric": "EPS",
     "EPS (ttm)": 11.57,
     "Avg. 5Y Price Change": 0.09,
@@ -114,6 +121,7 @@
   {
     "Ticker": "AXP",
     "Company ": "American Express Co",
+    "Industry": "Financial - Credit Services",
     "Metric": "EPS",
     "EPS (ttm)": 13.85,
     "Avg. 5Y Price Change": 0.43,
@@ -130,22 +138,24 @@
   {
     "Ticker": "JPM",
     "Company ": "JPMorgan Chase & Co",
-    "Metric": "EPS",
+    "Industry": "Banks - Diversified",
+    "Metric": "TBV Per Share",
     "EPS (ttm)": 19.48,
     "Avg. 5Y Price Change": 0.38,
     "Cost of Equity": 0.15,
     "Growth Rate": 0.11499999999999999,
     "Terminal Rate": 0.01,
     "Last Close": 297.56,
-    "Fair Value": 221.7890577207288,
-    "Over/UnderValued (Fair Value)": 34.163516928179604,
+    "Fair Value": 105.12,
+    "Over/UnderValued (Fair Value)": 183.0669710806697,
     "MOS": 0.19999999999999996,
-    "Buy Price": 177.43124617658304,
-    "Over/UnderValued (Buy Price)": 67.7043961602245
+    "Buy Price": 84.096,
+    "Over/UnderValued (Buy Price)": 253.8337138508371
   },
   {
     "Ticker": "AMGN",
     "Company ": "Amgen Inc",
+    "Industry": "Drug Manufacturers - General",
     "Metric": "EPS",
     "EPS (ttm)": 12.27,
     "Avg. 5Y Price Change": 0.03,
@@ -162,22 +172,24 @@
   {
     "Ticker": "TRV",
     "Company ": "Travelers Companies Inc",
-    "Metric": "EPS",
+    "Industry": "Insurance - Property & Casualty",
+    "Metric": "TBV Per Share",
     "EPS (ttm)": 22.73,
     "Avg. 5Y Price Change": 0.27,
     "Cost of Equity": 0.14,
     "Growth Rate": 0.10500000000000001,
     "Terminal Rate": 0.01,
     "Last Close": 262.01,
-    "Fair Value": 268.9134197367831,
-    "Over/UnderValued (Fair Value)": -2.56715330292564,
+    "Fair Value": 120.46,
+    "Over/UnderValued (Fair Value)": 117.50788643533126,
     "MOS": 0.19999999999999996,
-    "Buy Price": 215.1307357894265,
-    "Over/UnderValued (Buy Price)": 21.79105837134294
+    "Buy Price": 96.368,
+    "Over/UnderValued (Buy Price)": 171.88485804416405
   },
   {
     "Ticker": "IBM",
     "Company ": "IBM Common Stock",
+    "Industry": "Information Technology Services",
     "Metric": "EPS",
     "EPS (ttm)": 6.1,
     "Avg. 5Y Price Change": 0.21,
@@ -194,6 +206,7 @@
   {
     "Ticker": "UNH",
     "Company ": "UnitedHealth Group Inc",
+    "Industry": "Medical - Healthcare Plans",
     "Metric": "EPS",
     "EPS (ttm)": 23.16,
     "Avg. 5Y Price Change": -0.01,
@@ -210,6 +223,7 @@
   {
     "Ticker": "CRM",
     "Company ": "Salesforce Inc",
+    "Industry": "Software - Application",
     "Metric": "EPS",
     "EPS (ttm)": 6.89,
     "Avg. 5Y Price Change": -0.02,
@@ -226,6 +240,7 @@
   {
     "Ticker": "BA",
     "Company ": "Boeing Co",
+    "Industry": "Aerospace & Defense",
     "Metric": "P.Change",
     "EPS (ttm)": -16.24,
     "Avg. 5Y Price Change": 0.07,
@@ -233,15 +248,16 @@
     "Growth Rate": -2.414999999999999,
     "Terminal Rate": 0.01,
     "Last Close": 212.94,
-    "Fair Value": 130.5467611890027,
-    "Over/UnderValued (Fair Value)": 63.11396626049588,
+    "Fair Value": -16.02,
+    "Over/UnderValued (Fair Value)": -1429.2134831460673,
     "MOS": 0.19999999999999996,
-    "Buy Price": 104.43740895120216,
-    "Over/UnderValued (Buy Price)": 103.89245782561987
+    "Buy Price": -12.816,
+    "Over/UnderValued (Buy Price)": -1761.5168539325844
   },
   {
     "Ticker": "AMZN",
     "Company ": "Amazon.com Inc",
+    "Industry": "Specialty Retail",
     "Metric": "EPS",
     "EPS (ttm)": 6.62,
     "Avg. 5Y Price Change": 0.07,
@@ -258,6 +274,7 @@
   {
     "Ticker": "AAPL",
     "Company ": "Apple Inc",
+    "Industry": "Consumer Electronics",
     "Metric": "EPS",
     "EPS (ttm)": 7.26,
     "Avg. 5Y Price Change": 0.17,
@@ -274,6 +291,7 @@
   {
     "Ticker": "HON",
     "Company ": "Honeywell International Inc",
+    "Industry": "Conglomerates",
     "Metric": "EPS",
     "EPS (ttm)": 8.83,
     "Avg. 5Y Price Change": 0.06,
@@ -290,6 +308,7 @@
   {
     "Ticker": "NVDA",
     "Company ": "NVIDIA Corp",
+    "Industry": "Semiconductors",
     "Metric": "EPS",
     "EPS (ttm)": 3.58,
     "Avg. 5Y Price Change": 2.56,
@@ -306,6 +325,7 @@
   {
     "Ticker": "JNJ",
     "Company ": "Johnson & Johnson",
+    "Industry": "Drug Manufacturers - General",
     "Metric": "EPS",
     "EPS (ttm)": 9.44,
     "Avg. 5Y Price Change": 0.03,
@@ -322,6 +342,7 @@
   {
     "Ticker": "PG",
     "Company ": "Procter & Gamble Co",
+    "Industry": "Household & Personal Products",
     "Metric": "EPS",
     "EPS (ttm)": 6.56,
     "Avg. 5Y Price Change": 0.03,
@@ -338,6 +359,7 @@
   {
     "Ticker": "CVX",
     "Company ": "Chevron Corp",
+    "Industry": "Oil & Gas Integrated",
     "Metric": "EPS",
     "EPS (ttm)": 7.57,
     "Avg. 5Y Price Change": 0.17,
@@ -354,6 +376,7 @@
   {
     "Ticker": "MMM",
     "Company ": "3M Co",
+    "Industry": "Conglomerates",
     "Metric": "EPS",
     "EPS (ttm)": 7.26,
     "Avg. 5Y Price Change": 0.03,
@@ -370,6 +393,7 @@
   {
     "Ticker": "DIS",
     "Company ": "Walt Disney Co",
+    "Industry": "Entertainment",
     "Metric": "EPS",
     "EPS (ttm)": 6.45,
     "Avg. 5Y Price Change": -0.03,
@@ -386,6 +410,7 @@
   {
     "Ticker": "WMT",
     "Company ": "Walmart Inc",
+    "Industry": "Discount Stores",
     "Metric": "EPS",
     "EPS (ttm)": 2.65,
     "Avg. 5Y Price Change": 0.21,
@@ -402,6 +427,7 @@
   {
     "Ticker": "MRK",
     "Company ": "Merck & Co Inc",
+    "Industry": "Drug Manufacturers - General",
     "Metric": "EPS",
     "EPS (ttm)": 6.49,
     "Avg. 5Y Price Change": 0.01,
@@ -418,6 +444,7 @@
   {
     "Ticker": "NKE",
     "Company ": "Nike Inc",
+    "Industry": "Apparel - Footwear & Accessories",
     "Metric": "EPS",
     "EPS (ttm)": 2.18,
     "Avg. 5Y Price Change": -0.06,
@@ -434,6 +461,7 @@
   {
     "Ticker": "KO",
     "Company ": "Coca-Cola Co",
+    "Industry": "Beverages - Non-Alcoholic",
     "Metric": "EPS",
     "EPS (ttm)": 2.83,
     "Avg. 5Y Price Change": 0.08,
@@ -450,6 +478,7 @@
   {
     "Ticker": "CSCO",
     "Company ": "Cisco Systems Inc",
+    "Industry": "Communication Equipment",
     "Metric": "EPS",
     "EPS (ttm)": 2.59,
     "Avg. 5Y Price Change": 0.12,
@@ -466,6 +495,7 @@
   {
     "Ticker": "VZ",
     "Company ": "Verizon Communications Inc",
+    "Industry": "Telecommunications Services",
     "Metric": "EPS",
     "EPS (ttm)": 4.26,
     "Avg. 5Y Price Change": -0.05,
