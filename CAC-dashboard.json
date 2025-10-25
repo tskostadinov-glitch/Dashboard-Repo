@@ -131,23 +131,23 @@
   },
   {
     "Ticker": "EDEN",
-    "Company ": "Edenred SE",
+    "Company ": "#N/A",
     "Metric": "EPS",
-    "Last Close": 25.9,
+    "Last Close": "#N/A",
     "Fair Value": 33.44973666096754,
-    "Over/UnderValued (Fair Value)": -22.57039192113377,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "Buy Price": 23.414815662677274,
-    "Over/UnderValued (Buy Price)": 10.61372582695177
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "ENGI",
-    "Company ": "Engie SA",
+    "Company ": "#N/A",
     "Metric": "EPS",
-    "Last Close": 19.7,
+    "Last Close": "#N/A",
     "Fair Value": 22.989636843692026,
-    "Over/UnderValued (Fair Value)": -14.309216217978872,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "Buy Price": 18.391709474953622,
-    "Over/UnderValued (Buy Price)": 7.113479727526406
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "EL",
@@ -171,13 +171,13 @@
   },
   {
     "Ticker": "RMS",
-    "Company ": "Hermes International SCA",
+    "Company ": "#N/A",
     "Metric": "EPS",
-    "Last Close": 2194,
+    "Last Close": "#N/A",
     "Fair Value": 926.7793238017789,
-    "Over/UnderValued (Fair Value)": 136.73380961930656,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "Buy Price": 602.4065604711564,
-    "Over/UnderValued (Buy Price)": 264.2058609527793
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "KER",
@@ -231,13 +231,13 @@
   },
   {
     "Ticker": "ORA",
-    "Company ": "Orange SA",
+    "Company ": "#N/A",
     "Metric": "EPS",
-    "Last Close": 13.92,
+    "Last Close": "#N/A",
     "Fair Value": 2.7013889055489217,
-    "Over/UnderValued (Fair Value)": 415.2904852539719,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "Buy Price": 2.1611111244391377,
-    "Over/UnderValued (Buy Price)": 544.1131065674648
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "RI",
@@ -251,53 +251,53 @@
   },
   {
     "Ticker": "PUB",
-    "Company ": "Publicis Groupe SA",
+    "Company ": "#N/A",
     "Metric": "EPS",
-    "Last Close": 86.38,
+    "Last Close": "#N/A",
     "Fair Value": 70.01606498849682,
-    "Over/UnderValued (Fair Value)": 23.371686218286712,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "Buy Price": 56.01285199079746,
-    "Over/UnderValued (Buy Price)": 54.21460777285838
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "RNO",
-    "Company ": "Renault SA",
+    "Company ": "#N/A",
     "Metric": "P.Change",
-    "Last Close": 34.37,
-    "Fair Value": 21.071157049244025,
-    "Over/UnderValued (Fair Value)": 63.11396626049588,
-    "Buy Price": 16.85692563939522,
-    "Over/UnderValued (Buy Price)": 103.89245782561983
+    "Last Close": "#N/A",
+    "Fair Value": "#N/A",
+    "Over/UnderValued (Fair Value)": "#N/A",
+    "Buy Price": "#N/A",
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "SAF",
-    "Company ": "Safran SA",
+    "Company ": "#N/A",
     "Metric": "EPS",
-    "Last Close": 304.5,
+    "Last Close": "#N/A",
     "Fair Value": 81.52282204341151,
-    "Over/UnderValued (Fair Value)": 273.51503832614077,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "Buy Price": 65.21825763472921,
-    "Over/UnderValued (Buy Price)": 366.8937979076759
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "SGO",
-    "Company ": "Compagnie de Saint Gobain SA",
+    "Company ": "#N/A",
     "Metric": "EPS",
-    "Last Close": 90.38,
+    "Last Close": "#N/A",
     "Fair Value": 54.46433638748179,
-    "Over/UnderValued (Fair Value)": 65.94345216473279,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "Buy Price": 43.57146910998543,
-    "Over/UnderValued (Buy Price)": 107.42931520591598
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "SAN",
-    "Company ": "Sanofi SA",
+    "Company ": "#N/A",
     "Metric": "EPS",
-    "Last Close": 88.79,
+    "Last Close": "#N/A",
     "Fair Value": 54.60842390513341,
-    "Over/UnderValued (Fair Value)": 62.59396197598992,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "Buy Price": 43.68673912410673,
-    "Over/UnderValued (Buy Price)": 103.2424524699874
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "SU",
@@ -321,33 +321,33 @@
   },
   {
     "Ticker": "STLAP",
-    "Company ": "Stellantis NV",
+    "Company ": "#N/A",
     "Metric": "P.Change",
-    "Last Close": 9.45,
-    "Fair Value": 4.246909292315839,
-    "Over/UnderValued (Fair Value)": 122.5147595475701,
-    "Buy Price": 3.3975274338526713,
-    "Over/UnderValued (Buy Price)": 178.1434494344626
+    "Last Close": "#N/A",
+    "Fair Value": "#N/A",
+    "Over/UnderValued (Fair Value)": "#N/A",
+    "Buy Price": "#N/A",
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "STMPA",
-    "Company ": "STMicroelectronics NV",
+    "Company ": "#N/A",
     "Metric": "EPS",
-    "Last Close": 21.56,
+    "Last Close": "#N/A",
     "Fair Value": 5.09537609298849,
-    "Over/UnderValued (Fair Value)": 323.1287270368072,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "Buy Price": 3.5667632650919425,
-    "Over/UnderValued (Buy Price)": 504.4696100525818
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "TEP",
-    "Company ": "Teleperformance SE",
+    "Company ": "#N/A",
     "Metric": "EPS",
-    "Last Close": 66.7,
+    "Last Close": "#N/A",
     "Fair Value": 117.015,
-    "Over/UnderValued (Fair Value)": -42.998760842627014,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "Buy Price": 81.9105,
-    "Over/UnderValued (Buy Price)": -18.56965834661002
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "HO",
@@ -361,33 +361,33 @@
   },
   {
     "Ticker": "TTE",
-    "Company ": "TotalEnergies SE",
+    "Company ": "#N/A",
     "Metric": "EPS",
-    "Last Close": 53.91,
+    "Last Close": "#N/A",
     "Fair Value": 41.84109969455686,
-    "Over/UnderValued (Fair Value)": 28.844605886429875,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "Buy Price": 33.47287975564549,
-    "Over/UnderValued (Buy Price)": 61.05575735803734
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "URW",
-    "Company ": "Unibail-Rodamco-Westfield SE",
+    "Company ": "#N/A",
     "Metric": "EPS",
-    "Last Close": 90.62,
+    "Last Close": "#N/A",
     "Fair Value": 22.70393012463787,
-    "Over/UnderValued (Fair Value)": 299.13794441104676,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "Buy Price": 18.163144099710298,
-    "Over/UnderValued (Buy Price)": 398.92243051380837
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "VIE",
-    "Company ": "Veolia Environnement SA",
+    "Company ": "#N/A",
     "Metric": "EPS",
-    "Last Close": 29.6,
+    "Last Close": "#N/A",
     "Fair Value": 63.04930823968864,
-    "Over/UnderValued (Fair Value)": -53.0526173459787,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "Buy Price": 37.82958494381318,
-    "Over/UnderValued (Buy Price)": -21.75436224329784
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "DG",
