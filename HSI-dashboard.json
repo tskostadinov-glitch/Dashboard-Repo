@@ -3,11 +3,11 @@
     "Ticker": 9988,
     "Company ": "Alibaba Group Holding Ltd",
     "Metric": "EPS",
-    "Last Close": 159,
+    "Last Close": 158.5,
     "Fair Value": 133.15635886377225,
-    "Over/UnderValued (Fair Value)": 19.40849190887497,
+    "Over/UnderValued (Fair Value)": 19.032993506645802,
     "Buy Price": 93.20945120464057,
-    "Over/UnderValued (Buy Price)": 70.58355986982139
+    "Over/UnderValued (Buy Price)": 70.04713358092258
   },
   {
     "Ticker": "0700",
@@ -23,141 +23,141 @@
     "Ticker": "0005",
     "Company ": "HSBC Holdings plc",
     "Metric": "P.Change",
-    "Last Close": 108,
-    "Fair Value": 385.02255579239744,
+    "Last Close": 108.2,
+    "Fair Value": 385.7355605253463,
     "Over/UnderValued (Fair Value)": -71.94969531649123,
-    "Buy Price": 231.01353347543846,
-    "Over/UnderValued (Buy Price)": -53.24949219415206
+    "Buy Price": 231.44133631520776,
+    "Over/UnderValued (Buy Price)": -53.24949219415205
   },
   {
     "Ticker": 1810,
     "Company ": "Xiaomi Corp",
     "Metric": "EPS",
-    "Last Close": 43.42,
+    "Last Close": 43.32,
     "Fair Value": 155.4832319066831,
-    "Over/UnderValued (Fair Value)": -72.07415907970093,
+    "Over/UnderValued (Fair Value)": -72.13847469674445,
     "Buy Price": 93.28993914400986,
-    "Over/UnderValued (Buy Price)": -53.45693179950156
+    "Over/UnderValued (Buy Price)": -53.5641244945741
   },
   {
     "Ticker": "0939",
     "Company ": "China Construction Bank Ord Shs H",
     "Metric": "EPS",
-    "Last Close": 8.05,
+    "Last Close": 8.02,
     "Fair Value": 12.064730416892116,
-    "Over/UnderValued (Fair Value)": -33.27658619931528,
+    "Over/UnderValued (Fair Value)": -33.525244884286785,
     "Buy Price": 9.651784333513694,
-    "Over/UnderValued (Buy Price)": -16.59573274914412
+    "Over/UnderValued (Buy Price)": -16.906556105358494
   },
   {
     "Ticker": 1299,
     "Company ": "AIA Group Ltd",
     "Metric": "EPS",
-    "Last Close": 79.65,
+    "Last Close": 79.6,
     "Fair Value": 92.72497401262763,
-    "Over/UnderValued (Fair Value)": -14.100811730448182,
+    "Over/UnderValued (Fair Value)": -14.154734635827692,
     "Buy Price": 60.27123310820796,
-    "Over/UnderValued (Buy Price)": 32.15259733777203
+    "Over/UnderValued (Buy Price)": 32.06963902180355
   },
   {
     "Ticker": 3690,
     "Company ": "Meituan",
     "Metric": "EPS",
-    "Last Close": 99.9,
+    "Last Close": 101.2,
     "Fair Value": 167.2996463433453,
-    "Over/UnderValued (Fair Value)": -40.286783514785505,
+    "Over/UnderValued (Fair Value)": -39.50973465161456,
     "Buy Price": 100.37978780600717,
-    "Over/UnderValued (Buy Price)": -0.4779725246425115
+    "Over/UnderValued (Buy Price)": 0.8171089139757504
   },
   {
     "Ticker": "0941",
     "Company ": "China Mobile Ltd",
     "Metric": "EPS",
-    "Last Close": 86.7,
+    "Last Close": 86.65,
     "Fair Value": 65.12661450450344,
-    "Over/UnderValued (Fair Value)": 33.12529855824886,
+    "Over/UnderValued (Fair Value)": 33.04852502966855,
     "Buy Price": 52.10129160360275,
-    "Over/UnderValued (Buy Price)": 66.40662319781106
+    "Over/UnderValued (Buy Price)": 66.31065628708568
   },
   {
     "Ticker": "0388",
     "Company ": "Hong Kong Exchanges and Clearing Ltd",
     "Metric": "EPS",
-    "Last Close": 425.6,
+    "Last Close": 423.6,
     "Fair Value": 115.65406171208993,
-    "Over/UnderValued (Fair Value)": 267.9939932066474,
+    "Over/UnderValued (Fair Value)": 266.2646981257891,
     "Buy Price": 92.52324936967194,
-    "Over/UnderValued (Buy Price)": 359.99249150830923
+    "Over/UnderValued (Buy Price)": 357.8308726572364
   },
   {
     "Ticker": 1398,
     "Company ": "Industrial and Commercial Bank of China Ord Shs H",
     "Metric": "EPS",
-    "Last Close": 6.24,
+    "Last Close": 6.25,
     "Fair Value": 10.755396104340916,
-    "Over/UnderValued (Fair Value)": -41.98261096602928,
+    "Over/UnderValued (Fair Value)": -41.889634381038945,
     "Buy Price": 8.604316883472732,
-    "Over/UnderValued (Buy Price)": -27.4782637075366
+    "Over/UnderValued (Buy Price)": -27.362042976298685
   },
   {
     "Ticker": "0981",
     "Company ": "Semiconductor Manufacturing International Ord Shs",
     "Metric": "EPS",
-    "Last Close": 71.85,
+    "Last Close": 71.7,
     "Fair Value": 14.904733027233554,
-    "Over/UnderValued (Fair Value)": 382.0616368553363,
+    "Over/UnderValued (Fair Value)": 381.05524512912484,
     "Buy Price": 8.942839816340133,
-    "Over/UnderValued (Buy Price)": 703.4360614255606
+    "Over/UnderValued (Buy Price)": 701.7587418818747
   },
   {
     "Ticker": 9999,
     "Company ": "NetEase Inc",
     "Metric": "EPS",
-    "Last Close": 216.8,
+    "Last Close": 217.4,
     "Fair Value": 231.9665327891683,
-    "Over/UnderValued (Fair Value)": -6.538241791522992,
+    "Over/UnderValued (Fair Value)": -6.2795837891010065,
     "Buy Price": 150.7782463129594,
-    "Over/UnderValued (Buy Price)": 43.78732032073385
+    "Over/UnderValued (Buy Price)": 44.18525570907536
   },
   {
     "Ticker": 3988,
     "Company ": "Bank of China Ord Shs H",
     "Metric": "EPS",
-    "Last Close": 4.52,
+    "Last Close": 4.53,
     "Fair Value": 8.505655302306288,
-    "Over/UnderValued (Fair Value)": -46.85888577245292,
+    "Over/UnderValued (Fair Value)": -46.7413169356663,
     "Buy Price": 6.80452424184503,
-    "Over/UnderValued (Buy Price)": -33.57360721556615
+    "Over/UnderValued (Buy Price)": -33.426646169582874
   },
   {
     "Ticker": "0883",
     "Company ": "CNOOC Ltd",
     "Metric": "EPS",
-    "Last Close": 20.4,
+    "Last Close": 20.34,
     "Fair Value": 46.335882597488464,
-    "Over/UnderValued (Fair Value)": -55.97364535556352,
+    "Over/UnderValued (Fair Value)": -56.10313463392951,
     "Buy Price": 32.43511781824192,
-    "Over/UnderValued (Buy Price)": -37.10520765080501
+    "Over/UnderValued (Buy Price)": -37.290192334185
   },
   {
     "Ticker": "1024",
     "Company ": "Kuaishou Technology",
     "Metric": "EPS",
-    "Last Close": 71.45,
+    "Last Close": 70.95,
     "Fair Value": 45.76961047419557,
-    "Over/UnderValued (Fair Value)": 56.10794861425088,
+    "Over/UnderValued (Fair Value)": 55.01552070232469,
     "Buy Price": 36.615688379356456,
-    "Over/UnderValued (Buy Price)": 95.13493576781357
+    "Over/UnderValued (Buy Price)": 93.76940087790587
   },
   {
     "Ticker": 9618,
     "Company ": "JD.com Inc",
     "Metric": "EPS",
-    "Last Close": 123.4,
+    "Last Close": 122.8,
     "Fair Value": 377.27361926490835,
-    "Over/UnderValued (Fair Value)": -67.29164359797105,
+    "Over/UnderValued (Fair Value)": -67.45067936653845,
     "Buy Price": 226.364171558945,
-    "Over/UnderValued (Buy Price)": -45.48607266328507
+    "Over/UnderValued (Buy Price)": -45.751132277564075
   },
   {
     "Ticker": 9992,
@@ -173,21 +173,21 @@
     "Ticker": 2899,
     "Company ": "Zijin Mining Group Ord Shs H",
     "Metric": "EPS",
-    "Last Close": 30.02,
+    "Last Close": 30.74,
     "Fair Value": 31.569294837798047,
-    "Over/UnderValued (Fair Value)": -4.907600393858247,
+    "Over/UnderValued (Fair Value)": -2.6269032680613758,
     "Buy Price": 18.94157690267883,
-    "Over/UnderValued (Buy Price)": 58.487332676902916
+    "Over/UnderValued (Buy Price)": 62.28849455323102
   },
   {
     "Ticker": 3968,
     "Company ": "China Merchants Bank Ord Shs H",
     "Metric": "EPS",
-    "Last Close": 50.9,
+    "Last Close": 51.1,
     "Fair Value": 84.06207351406654,
-    "Over/UnderValued (Fair Value)": -39.449506927184416,
+    "Over/UnderValued (Fair Value)": -39.21158750450145,
     "Buy Price": 58.84345145984658,
-    "Over/UnderValued (Buy Price)": -13.499295610263463
+    "Over/UnderValued (Buy Price)": -13.159410720716359
   },
   {
     "Ticker": 2628,
@@ -203,341 +203,341 @@
     "Ticker": 9888,
     "Company ": "Baidu Inc",
     "Metric": "EPS",
-    "Last Close": 121.9,
+    "Last Close": 121.6,
     "Fair Value": 107.95982504734656,
-    "Over/UnderValued (Fair Value)": 12.912372678021566,
+    "Over/UnderValued (Fair Value)": 12.634491531151927,
     "Buy Price": 86.36786003787725,
-    "Over/UnderValued (Buy Price)": 41.14046584752693
+    "Over/UnderValued (Buy Price)": 40.79311441393989
   },
   {
     "Ticker": 9961,
     "Company ": "Trip.com Group Ltd",
     "Metric": "EPS",
-    "Last Close": 548.5,
+    "Last Close": 541,
     "Fair Value": 4374.819740288003,
-    "Over/UnderValued (Fair Value)": -87.4623405634562,
+    "Over/UnderValued (Fair Value)": -87.6337761984135,
     "Buy Price": 2624.891844172802,
-    "Over/UnderValued (Buy Price)": -79.10390093909366
+    "Over/UnderValued (Buy Price)": -79.38962699735582
   },
   {
     "Ticker": "0857",
     "Company ": "Petrochina Ord Shs H",
     "Metric": "EPS",
-    "Last Close": 8.33,
+    "Last Close": 8.36,
     "Fair Value": 8.629049341600876,
-    "Over/UnderValued (Fair Value)": -3.4656116770494183,
+    "Over/UnderValued (Fair Value)": -3.1179488139415623,
     "Buy Price": 6.903239473280701,
-    "Over/UnderValued (Buy Price)": 20.667985403688217
+    "Over/UnderValued (Buy Price)": 21.10256398257304
   },
   {
     "Ticker": "0016",
     "Company ": "Sun Hung Kai Properties Ltd",
     "Metric": "EPS",
-    "Last Close": 98.25,
+    "Last Close": 96.85,
     "Fair Value": 48.29971417204537,
-    "Over/UnderValued (Fair Value)": 103.4173528440145,
+    "Over/UnderValued (Fair Value)": 100.51878496633897,
     "Buy Price": 38.6397713376363,
-    "Over/UnderValued (Buy Price)": 154.2716910550181
+    "Over/UnderValued (Buy Price)": 150.64848120792368
   },
   {
     "Ticker": 2269,
     "Company ": "WuXi Biologics (Cayman) Inc",
     "Metric": "EPS",
-    "Last Close": 34.78,
+    "Last Close": 34.96,
     "Fair Value": 51.161970856202714,
-    "Over/UnderValued (Fair Value)": -32.01981976465751,
+    "Over/UnderValued (Fair Value)": -31.667995945153148,
     "Buy Price": 30.69718251372163,
-    "Over/UnderValued (Buy Price)": 13.300300392237485
+    "Over/UnderValued (Buy Price)": 13.886673424744744
   },
   {
     "Ticker": "0669",
     "Company ": "Techtronic Industries Co Ltd",
     "Metric": "EPS",
-    "Last Close": 88.55,
+    "Last Close": 89.25,
     "Fair Value": 57.53037070389512,
-    "Over/UnderValued (Fair Value)": 53.91870227251061,
+    "Over/UnderValued (Fair Value)": 55.1354509070759,
     "Buy Price": 40.271259492726585,
-    "Over/UnderValued (Buy Price)": 119.88386038930088
+    "Over/UnderValued (Buy Price)": 121.62207272439419
   },
   {
     "Ticker": "0001",
     "Company ": "CK Hutchison Holdings Ltd",
     "Metric": "EPS",
-    "Last Close": 51.8,
+    "Last Close": 51.65,
     "Fair Value": 15.345753418090379,
-    "Over/UnderValued (Fair Value)": 237.55266743003597,
+    "Over/UnderValued (Fair Value)": 236.57519831585637,
     "Buy Price": 12.276602734472304,
-    "Over/UnderValued (Buy Price)": 321.94083428754493
+    "Over/UnderValued (Buy Price)": 320.7189978948204
   },
   {
     "Ticker": 2388,
     "Company ": "BOC Hong Kong Holdings Ltd",
     "Metric": "EPS",
-    "Last Close": 38.6,
+    "Last Close": 38.18,
     "Fair Value": 41.405603714599295,
-    "Over/UnderValued (Fair Value)": -6.775903411378248,
+    "Over/UnderValued (Fair Value)": -7.790258866487609,
     "Buy Price": 33.124482971679434,
-    "Over/UnderValued (Buy Price)": 16.5301207357772
+    "Over/UnderValued (Buy Price)": 15.262176416890494
   },
   {
     "Ticker": "0002",
     "Company ": "CLP Holdings Ltd",
     "Metric": "EPS",
-    "Last Close": 66.7,
+    "Last Close": 66.95,
     "Fair Value": 41.9779943689029,
-    "Over/UnderValued (Fair Value)": 58.89277466150467,
+    "Over/UnderValued (Fair Value)": 59.48832479142037,
     "Buy Price": 33.58239549512232,
-    "Over/UnderValued (Buy Price)": 98.61596832688085
+    "Over/UnderValued (Buy Price)": 99.36040598927545
   },
   {
     "Ticker": "2015",
     "Company ": "Li Auto Inc",
     "Metric": "P.Change",
-    "Last Close": 77.75,
-    "Fair Value": 31.24598122427981,
+    "Last Close": 77.35,
+    "Fair Value": 31.085230195473223,
     "Over/UnderValued (Fair Value)": 148.83200000000022,
-    "Buy Price": 18.747588734567884,
-    "Over/UnderValued (Buy Price)": 314.7200000000003
+    "Buy Price": 18.65113811728393,
+    "Over/UnderValued (Buy Price)": 314.7200000000004
   },
   {
     "Ticker": "1088",
     "Company ": "China Shenhua Energy Ord Shs H",
     "Metric": "EPS",
-    "Last Close": 41.26,
+    "Last Close": 41.5,
     "Fair Value": 27.612957893122797,
-    "Over/UnderValued (Fair Value)": 49.4226013732346,
+    "Over/UnderValued (Fair Value)": 50.29175853100427,
     "Buy Price": 22.09036631449824,
-    "Over/UnderValued (Buy Price)": 86.77825171654322
+    "Over/UnderValued (Buy Price)": 87.86469816375532
   },
   {
     "Ticker": "2020",
     "Company ": "ANTA Sports Products Ltd",
     "Metric": "EPS",
-    "Last Close": 79.6,
+    "Last Close": 79.85,
     "Fair Value": 154.04438608953993,
-    "Over/UnderValued (Fair Value)": -48.32658169462167,
+    "Over/UnderValued (Fair Value)": -48.16429080798418,
     "Buy Price": 92.42663165372396,
-    "Over/UnderValued (Buy Price)": -13.877636157702788
+    "Over/UnderValued (Buy Price)": -13.60715134664029
   },
   {
     "Ticker": "0175",
     "Company ": "Geely Automobile Holdings Ltd",
     "Metric": "EPS",
-    "Last Close": 17.56,
+    "Last Close": 17.51,
     "Fair Value": 28.470856080661285,
-    "Over/UnderValued (Fair Value)": -38.322894294957436,
+    "Over/UnderValued (Fair Value)": -38.498512477488866,
     "Buy Price": 18.506056452429835,
-    "Over/UnderValued (Buy Price)": -5.112145069165286
+    "Over/UnderValued (Buy Price)": -5.38232688844441
   },
   {
     "Ticker": "0011",
     "Company ": "Hang Seng Bank Ltd",
     "Metric": "EPS",
-    "Last Close": 151.7,
+    "Last Close": 151.9,
     "Fair Value": 74.07209954696779,
-    "Over/UnderValued (Fair Value)": 104.80045918478353,
+    "Over/UnderValued (Fair Value)": 105.0704663821267,
     "Buy Price": 59.257679637574235,
-    "Over/UnderValued (Buy Price)": 156.00057398097937
+    "Over/UnderValued (Buy Price)": 156.33808297765833
   },
   {
     "Ticker": "9633",
     "Company ": "Nongfu Spring Co Ltd",
     "Metric": "EPS",
-    "Last Close": 51.3,
+    "Last Close": 50.85,
     "Fair Value": 24.49404564349259,
-    "Over/UnderValued (Fair Value)": 109.4386560173208,
+    "Over/UnderValued (Fair Value)": 107.60147482418643,
     "Buy Price": 15.921129668270185,
-    "Over/UnderValued (Buy Price)": 222.2133169497243
+    "Over/UnderValued (Buy Price)": 219.3868843449022
   },
   {
     "Ticker": "0823",
     "Company ": "Link Real Estate Investment Trust",
     "Metric": "P.Change",
-    "Last Close": 41.04,
-    "Fair Value": 15.643083497244824,
-    "Over/UnderValued (Fair Value)": 162.35236810714633,
-    "Buy Price": 12.51446679779586,
+    "Last Close": 41.12,
+    "Fair Value": 15.673576837395396,
+    "Over/UnderValued (Fair Value)": 162.35236810714636,
+    "Buy Price": 12.538861469916318,
     "Over/UnderValued (Buy Price)": 227.9404601339329
   },
   {
     "Ticker": "1109",
     "Company ": "China Resources Land Ltd",
     "Metric": "EPS",
-    "Last Close": 28.04,
+    "Last Close": 27.72,
     "Fair Value": 62.091328376316454,
-    "Over/UnderValued (Fair Value)": -54.84071490618114,
+    "Over/UnderValued (Fair Value)": -55.3560847788638,
     "Buy Price": 43.46392986342151,
-    "Over/UnderValued (Buy Price)": -35.48673558025875
+    "Over/UnderValued (Buy Price)": -36.22297825551971
   },
   {
     "Ticker": "0386",
     "Company ": "China Petroleum and Chemical Ord Shs H",
     "Metric": "EPS",
-    "Last Close": 4.23,
+    "Last Close": 4.2,
     "Fair Value": 2.6587906070847023,
-    "Over/UnderValued (Fair Value)": 59.09489031323494,
+    "Over/UnderValued (Fair Value)": 57.96655775782191,
     "Buy Price": 2.127032485667762,
-    "Over/UnderValued (Buy Price)": 98.86861289154368
+    "Over/UnderValued (Buy Price)": 97.4581971972774
   },
   {
     "Ticker": "0992",
     "Company ": "Lenovo Group Ltd",
     "Metric": "EPS",
-    "Last Close": 11.34,
+    "Last Close": 11.16,
     "Fair Value": 30.60732806069958,
-    "Over/UnderValued (Fair Value)": -62.95004915976058,
+    "Over/UnderValued (Fair Value)": -63.538143617542154,
     "Buy Price": 18.364396836419747,
-    "Over/UnderValued (Buy Price)": -38.2500819329343
+    "Over/UnderValued (Buy Price)": -39.23023936257026
   },
   {
     "Ticker": "0027",
     "Company ": "Galaxy Entertainment Group Ltd",
     "Metric": "EPS",
-    "Last Close": 38.46,
+    "Last Close": 38.68,
     "Fair Value": 29.74086284261811,
-    "Over/UnderValued (Fair Value)": 29.317028236610287,
+    "Over/UnderValued (Fair Value)": 30.05675122704332,
     "Buy Price": 20.818603989832678,
-    "Over/UnderValued (Buy Price)": 84.73861176658613
+    "Over/UnderValued (Buy Price)": 85.79535889577616
   },
   {
     "Ticker": "1177",
     "Company ": "Sino Biopharmaceutical Ltd",
     "Metric": "EPS",
-    "Last Close": 6.97,
+    "Last Close": 6.99,
     "Fair Value": 2.601399186257547,
-    "Over/UnderValued (Fair Value)": 167.93273546099846,
+    "Over/UnderValued (Fair Value)": 168.7015524924504,
     "Buy Price": 2.0811193490060376,
-    "Over/UnderValued (Buy Price)": 234.91591932624806
+    "Over/UnderValued (Buy Price)": 235.876940615563
   },
   {
     "Ticker": "0003",
     "Company ": "Hong Kong and China Gas Co Ltd",
     "Metric": "EPS",
-    "Last Close": 7.27,
+    "Last Close": 7.33,
     "Fair Value": 2.228467362257111,
-    "Over/UnderValued (Fair Value)": 226.23318264067166,
+    "Over/UnderValued (Fair Value)": 228.92561605998947,
     "Buy Price": 1.782773889805689,
-    "Over/UnderValued (Buy Price)": 307.7914783008396
+    "Over/UnderValued (Buy Price)": 311.1570200749868
   },
   {
     "Ticker": "1093",
     "Company ": "CSPC Pharmaceutical Group Ltd",
     "Metric": "EPS",
-    "Last Close": 7.35,
+    "Last Close": 7.4,
     "Fair Value": 5.024711987108995,
-    "Over/UnderValued (Fair Value)": 46.27704073102259,
+    "Over/UnderValued (Fair Value)": 47.272122640757445,
     "Buy Price": 3.5172983909762965,
-    "Over/UnderValued (Buy Price)": 108.96720104431799
+    "Over/UnderValued (Buy Price)": 110.3887466296535
   },
   {
     "Ticker": "1113",
     "Company ": "CK Asset Holdings Ltd",
     "Metric": "EPS",
-    "Last Close": 39.5,
+    "Last Close": 39.52,
     "Fair Value": 28.235495851186045,
-    "Over/UnderValued (Fair Value)": 39.89483382258643,
+    "Over/UnderValued (Fair Value)": 39.96566664983838,
     "Buy Price": 22.588396680948836,
-    "Over/UnderValued (Buy Price)": 74.86854227823304
+    "Over/UnderValued (Buy Price)": 74.95708331229795
   },
   {
     "Ticker": "1378",
     "Company ": "China Hongqiao Group Ltd",
     "Metric": "EPS",
-    "Last Close": 29.68,
+    "Last Close": 29.5,
     "Fair Value": 59.40181112578536,
-    "Over/UnderValued (Fair Value)": -50.035193477263526,
+    "Over/UnderValued (Fair Value)": -50.338214541080674,
     "Buy Price": 38.611177231760486,
-    "Over/UnderValued (Buy Price)": -23.131066888097752
+    "Over/UnderValued (Buy Price)": -23.59725314012411
   },
   {
     "Ticker": "0728",
     "Company ": "China Telecom Corp Ltd",
     "Metric": "EPS",
-    "Last Close": 5.62,
+    "Last Close": 5.69,
     "Fair Value": 3.97001832978454,
-    "Over/UnderValued (Fair Value)": 41.56105924843443,
+    "Over/UnderValued (Fair Value)": 43.32427528889538,
     "Buy Price": 3.1760146638276323,
-    "Over/UnderValued (Buy Price)": 76.95132406054303
+    "Over/UnderValued (Buy Price)": 79.15534411111919
   },
   {
     "Ticker": "6618",
     "Company ": "JD Health International Inc",
     "Metric": "P.Change",
-    "Last Close": 60.8,
-    "Fair Value": 18.863459289018014,
-    "Over/UnderValued (Fair Value)": 222.31627862338445,
-    "Buy Price": 11.318075573410807,
-    "Over/UnderValued (Buy Price)": 437.1937977056408
+    "Last Close": 60,
+    "Fair Value": 18.61525587732041,
+    "Over/UnderValued (Fair Value)": 222.31627862338442,
+    "Buy Price": 11.169153526392247,
+    "Over/UnderValued (Buy Price)": 437.19379770564075
   },
   {
     "Ticker": "0006",
     "Company ": "Power Assets Holdings Ltd",
     "Metric": "EPS",
-    "Last Close": 50.05,
+    "Last Close": 50.1,
     "Fair Value": 20.52337290410081,
-    "Over/UnderValued (Fair Value)": 143.86829705754369,
+    "Over/UnderValued (Fair Value)": 144.1119217299289,
     "Buy Price": 16.418698323280648,
-    "Over/UnderValued (Buy Price)": 204.8353713219296
+    "Over/UnderValued (Buy Price)": 205.1399021624111
   },
   {
     "Ticker": "0267",
     "Company ": "CITIC Ltd",
     "Metric": "EPS",
-    "Last Close": 12.41,
+    "Last Close": 12.35,
     "Fair Value": 21.140347606102676,
-    "Over/UnderValued (Fair Value)": -41.29708635246116,
+    "Over/UnderValued (Fair Value)": -41.58090382376272,
     "Buy Price": 16.912278084882143,
-    "Over/UnderValued (Buy Price)": -26.621357940576452
+    "Over/UnderValued (Buy Price)": -26.976129779703395
   },
   {
     "Ticker": "2057",
     "Company ": "ZTO Express (Cayman) Inc",
     "Metric": "EPS",
-    "Last Close": 145,
+    "Last Close": 145.1,
     "Fair Value": 175.5215335145627,
-    "Over/UnderValued (Fair Value)": -17.389053584146343,
+    "Over/UnderValued (Fair Value)": -17.33208051765266,
     "Buy Price": 122.86507346019387,
-    "Over/UnderValued (Buy Price)": 18.015637736933797
+    "Over/UnderValued (Buy Price)": 18.097027831924795
   },
   {
     "Ticker": "0288",
     "Company ": "WH Group Ltd",
     "Metric": "EPS",
-    "Last Close": 7.76,
+    "Last Close": 7.79,
     "Fair Value": 12.376049980049459,
-    "Over/UnderValued (Fair Value)": -37.29824934038455,
+    "Over/UnderValued (Fair Value)": -37.055845665154074,
     "Buy Price": 9.900839984039568,
-    "Over/UnderValued (Buy Price)": -21.62281167548069
+    "Over/UnderValued (Buy Price)": -21.319807081442598
   },
   {
     "Ticker": "6690",
     "Company ": "Haier Smart Home Co Ltd",
     "Metric": "EPS",
-    "Last Close": 25.4,
+    "Last Close": 25.14,
     "Fair Value": 25.34255012296482,
-    "Over/UnderValued (Fair Value)": 0.2266933546798855,
+    "Over/UnderValued (Fair Value)": -0.7992491757223497,
     "Buy Price": 20.274040098371856,
-    "Over/UnderValued (Buy Price)": 25.28336669334985
+    "Over/UnderValued (Buy Price)": 24.00093853034706
   },
   {
     "Ticker": "2382",
     "Company ": "Sunny Optical Technology Group Co Ltd",
     "Metric": "EPS",
-    "Last Close": 70.65,
+    "Last Close": 69.25,
     "Fair Value": 47.41499999999999,
-    "Over/UnderValued (Fair Value)": 49.00347991142047,
+    "Over/UnderValued (Fair Value)": 46.05082779711065,
     "Buy Price": 33.19049999999999,
-    "Over/UnderValued (Buy Price)": 112.86211415917214
+    "Over/UnderValued (Buy Price)": 108.64403971015805
   },
   {
     "Ticker": "0762",
     "Company ": "China Unicom Hong Kong Ltd",
     "Metric": "EPS",
-    "Last Close": 9.51,
+    "Last Close": 9.62,
     "Fair Value": 6.515883657966009,
-    "Over/UnderValued (Fair Value)": 45.95104055262753,
+    "Over/UnderValued (Fair Value)": 47.639222935465476,
     "Buy Price": 5.212706926372808,
-    "Over/UnderValued (Buy Price)": 82.4388006907844
+    "Over/UnderValued (Buy Price)": 84.54902866933183
   },
   {
     "Ticker": "2313",
@@ -553,71 +553,71 @@
     "Ticker": "0688",
     "Company ": "China Overseas Land & Investment Ltd",
     "Metric": "EPS",
-    "Last Close": 12.98,
+    "Last Close": 12.9,
     "Fair Value": 13.293570311734477,
-    "Over/UnderValued (Fair Value)": -2.358811849497522,
+    "Over/UnderValued (Fair Value)": -2.9606065376362123,
     "Buy Price": 10.634856249387582,
-    "Over/UnderValued (Buy Price)": 22.051485188128094
+    "Over/UnderValued (Buy Price)": 21.299241827954752
   },
   {
     "Ticker": "2688",
     "Company ": "ENN Energy Holdings Ltd",
     "Metric": "EPS",
-    "Last Close": 67.1,
+    "Last Close": 68.05,
     "Fair Value": 70.93112219498568,
-    "Over/UnderValued (Fair Value)": -5.401186498155408,
+    "Over/UnderValued (Fair Value)": -4.061859034269377,
     "Buy Price": 56.744897755988546,
-    "Over/UnderValued (Buy Price)": 18.248516877305732
+    "Over/UnderValued (Buy Price)": 19.92267620716326
   },
   {
     "Ticker": "0300",
     "Company ": "Midea Group Co Ltd",
     "Metric": "EPS",
-    "Last Close": 84.15,
+    "Last Close": 84.45,
     "Fair Value": 94.24841252347795,
-    "Over/UnderValued (Fair Value)": -10.714676516129495,
+    "Over/UnderValued (Fair Value)": -10.3963687675239,
     "Buy Price": 65.97388876643457,
-    "Over/UnderValued (Buy Price)": 27.550462119815002
+    "Over/UnderValued (Buy Price)": 28.005187474965854
   },
   {
     "Ticker": "0066",
     "Company ": "MTR Corp Ltd",
     "Metric": "EPS",
-    "Last Close": 28.92,
+    "Last Close": 29.34,
     "Fair Value": 54.85560530597479,
-    "Over/UnderValued (Fair Value)": -47.27977234288202,
+    "Over/UnderValued (Fair Value)": -46.51412588313134,
     "Buy Price": 35.65614344888362,
-    "Over/UnderValued (Buy Price)": -18.891957450587725
+    "Over/UnderValued (Buy Price)": -17.714039820202075
   },
   {
     "Ticker": "2359",
     "Company ": "WuXi AppTec Ord Shs H",
     "Metric": "EPS",
-    "Last Close": 100.2,
+    "Last Close": 102.2,
     "Fair Value": 164.27188200604297,
-    "Over/UnderValued (Fair Value)": -39.00355996632826,
+    "Over/UnderValued (Fair Value)": -37.78606615328092,
     "Buy Price": 98.56312920362578,
-    "Over/UnderValued (Buy Price)": 1.6607333894529175
+    "Over/UnderValued (Buy Price)": 3.6898897445318157
   },
   {
     "Ticker": "1928",
     "Company ": "Sands China Ltd",
     "Metric": "EPS",
-    "Last Close": 19.75,
+    "Last Close": 20.08,
     "Fair Value": 19.528182791538836,
-    "Over/UnderValued (Fair Value)": 1.135882487526052,
+    "Over/UnderValued (Fair Value)": 2.8257478657986335,
     "Buy Price": 12.693318814500243,
-    "Over/UnderValued (Buy Price)": 55.59366536542469
+    "Over/UnderValued (Buy Price)": 58.1934582550748
   },
   {
     "Ticker": "2319",
     "Company ": "China Mengniu Dairy Company Limited",
     "Metric": "P.Change",
-    "Last Close": 14.08,
-    "Fair Value": 3.8591508844199325,
-    "Over/UnderValued (Fair Value)": 264.84709776037585,
-    "Buy Price": 3.0873207075359463,
-    "Over/UnderValued (Buy Price)": 356.0588722004698
+    "Last Close": 14.14,
+    "Fair Value": 3.875596129666041,
+    "Over/UnderValued (Fair Value)": 264.8470977603758,
+    "Buy Price": 3.100476903732833,
+    "Over/UnderValued (Buy Price)": 356.0588722004697
   },
   {
     "Ticker": "0291",
@@ -633,230 +633,230 @@
     "Ticker": "3692",
     "Company ": "Hansoh Pharmaceutical Group Company Ltd",
     "Metric": "EPS",
-    "Last Close": 35.68,
+    "Last Close": 36.04,
     "Fair Value": 13.175473180126804,
-    "Over/UnderValued (Fair Value)": 170.8062132737506,
+    "Over/UnderValued (Fair Value)": 173.53856295924803,
     "Buy Price": 9.222831226088763,
-    "Over/UnderValued (Buy Price)": 286.8660189625008
+    "Over/UnderValued (Buy Price)": 290.76937565606863
   },
   {
     "Ticker": "0241",
     "Company ": "Alibaba Hlth Infrmtn Tchnlgy Ltd",
     "Metric": "P.Change",
-    "Last Close": 5.73,
-    "Fair Value": 1.1295671954009354,
-    "Over/UnderValued (Fair Value)": 407.2739384898797,
-    "Buy Price": 0.6777403172405613,
-    "Over/UnderValued (Buy Price)": 745.4565641497995
+    "Last Close": 5.68,
+    "Fair Value": 1.1197105881112237,
+    "Over/UnderValued (Fair Value)": 407.27393848987975,
+    "Buy Price": 0.6718263528667342,
+    "Over/UnderValued (Buy Price)": 745.4565641497996
   },
   {
     "Ticker": "0012",
     "Company ": "Henderson Land Development Co Ltd",
     "Metric": "EPS",
-    "Last Close": 27.84,
+    "Last Close": 28.04,
     "Fair Value": 10.075084676463936,
-    "Over/UnderValued (Fair Value)": 176.325221018103,
+    "Over/UnderValued (Fair Value)": 178.3103159966813,
     "Buy Price": 8.06006774117115,
-    "Over/UnderValued (Buy Price)": 245.40652627262872
+    "Over/UnderValued (Buy Price)": 247.8878949958516
   },
   {
     "Ticker": "2331",
     "Company ": "Li Ning Co Ltd",
     "Metric": "EPS",
-    "Last Close": 16.64,
+    "Last Close": 16.96,
     "Fair Value": 46.238614906347685,
-    "Over/UnderValued (Fair Value)": -64.01276285264409,
+    "Over/UnderValued (Fair Value)": -63.32070059981032,
     "Buy Price": 27.74316894380861,
-    "Over/UnderValued (Buy Price)": -40.02127142107348
+    "Over/UnderValued (Buy Price)": -38.86783433301721
   },
   {
     "Ticker": "1997",
     "Company ": "Wharf Real Estate Investment Company Ltd",
     "Metric": "P.Change",
-    "Last Close": 22.72,
-    "Fair Value": 9.130658436213983,
-    "Over/UnderValued (Fair Value)": 148.83200000000025,
-    "Buy Price": 7.3045267489711865,
+    "Last Close": 22.98,
+    "Fair Value": 9.235146604938263,
+    "Over/UnderValued (Fair Value)": 148.83200000000022,
+    "Buy Price": 7.388117283950611,
     "Over/UnderValued (Buy Price)": 211.0400000000003
   },
   {
     "Ticker": "0836",
     "Company ": "China Resources Power Holdings Co Ltd",
     "Metric": "EPS",
-    "Last Close": 18.96,
+    "Last Close": 19.05,
     "Fair Value": 86.31635865750641,
-    "Over/UnderValued (Fair Value)": -78.03429118780237,
+    "Over/UnderValued (Fair Value)": -77.93002358268117,
     "Buy Price": 51.789815194503845,
-    "Over/UnderValued (Buy Price)": -63.39048531300394
+    "Over/UnderValued (Buy Price)": -63.21670597113529
   },
   {
     "Ticker": "2618",
     "Company ": "JD Logistics Inc",
     "Metric": "P.Change",
-    "Last Close": 12.54,
-    "Fair Value": 3.0638361496934277,
-    "Over/UnderValued (Fair Value)": 309.290816718602,
-    "Buy Price": 1.8383016898160565,
-    "Over/UnderValued (Buy Price)": 582.15136119767
+    "Last Close": 12.41,
+    "Fair Value": 3.0320738929581696,
+    "Over/UnderValued (Fair Value)": 309.29081671860195,
+    "Buy Price": 1.8192443357749017,
+    "Over/UnderValued (Buy Price)": 582.1513611976699
   },
   {
     "Ticker": "0285",
     "Company ": "BYD Electronic International Co Ltd",
     "Metric": "EPS",
-    "Last Close": 35.2,
+    "Last Close": 35,
     "Fair Value": 88.52217598345638,
-    "Over/UnderValued (Fair Value)": -60.23595261985153,
+    "Over/UnderValued (Fair Value)": -60.461884707238745,
     "Buy Price": 53.11330559007383,
-    "Over/UnderValued (Buy Price)": -33.72658769975255
+    "Over/UnderValued (Buy Price)": -34.103141178731235
   },
   {
     "Ticker": "1038",
     "Company ": "CK Infrastructure Holdings Ltd",
     "Metric": "EPS",
-    "Last Close": 51,
+    "Last Close": 51.35,
     "Fair Value": 23.14904127879256,
-    "Over/UnderValued (Fair Value)": 120.31149966768791,
+    "Over/UnderValued (Fair Value)": 121.82344133207397,
     "Buy Price": 18.519233023034047,
-    "Over/UnderValued (Buy Price)": 175.38937458460984
+    "Over/UnderValued (Buy Price)": 177.27930166509248
   },
   {
     "Ticker": "9901",
     "Company ": "New Oriental Education & Techlgy Grp Inc",
     "Metric": "EPS",
-    "Last Close": 45.88,
+    "Last Close": 44.42,
     "Fair Value": 18.98040364858035,
-    "Over/UnderValued (Fair Value)": 141.72299414418208,
+    "Over/UnderValued (Fair Value)": 134.030850041076,
     "Buy Price": 15.18432291886428,
-    "Over/UnderValued (Buy Price)": 202.15374268022762
+    "Over/UnderValued (Buy Price)": 192.53856255134502
   },
   {
     "Ticker": "1929",
     "Company ": "Chow Tai Fook Jewellery Group Ltd",
     "Metric": "EPS",
-    "Last Close": 13.58,
+    "Last Close": 13.77,
     "Fair Value": 8.554999999999993,
-    "Over/UnderValued (Fair Value)": 58.73758036236134,
+    "Over/UnderValued (Fair Value)": 60.958503798948115,
     "Buy Price": 5.988499999999995,
-    "Over/UnderValued (Buy Price)": 126.76797194623046
+    "Over/UnderValued (Buy Price)": 129.940719712783
   },
   {
     "Ticker": "1209",
     "Company ": "China Resources Mixc Lifestyle Srvcs Ltd",
     "Metric": "EPS",
-    "Last Close": 39.56,
+    "Last Close": 39.98,
     "Fair Value": 124.55088037042432,
-    "Over/UnderValued (Fair Value)": -68.23788006769172,
+    "Over/UnderValued (Fair Value)": -67.90066848094828,
     "Buy Price": 74.73052822225459,
-    "Over/UnderValued (Buy Price)": -47.06313344615284
+    "Over/UnderValued (Buy Price)": -46.50111413491382
   },
   {
     "Ticker": "6862",
     "Company ": "Haidilao International Holding Ltd",
     "Metric": "EPS",
-    "Last Close": 12.7,
+    "Last Close": 12.8,
     "Fair Value": 10.874457758116272,
-    "Over/UnderValued (Fair Value)": 16.787432371248244,
+    "Over/UnderValued (Fair Value)": 17.707018452911626,
     "Buy Price": 8.699566206493017,
-    "Over/UnderValued (Buy Price)": 45.984290464060315
+    "Over/UnderValued (Buy Price)": 47.133773066139554
   },
   {
     "Ticker": "1099",
     "Company ": "Sinopharm Group Co Ltd",
     "Metric": "EPS",
-    "Last Close": 19.41,
+    "Last Close": 19.71,
     "Fair Value": 26.953367333983778,
-    "Over/UnderValued (Fair Value)": -27.986734423616255,
+    "Over/UnderValued (Fair Value)": -26.873700952574776,
     "Buy Price": 21.562693867187022,
-    "Over/UnderValued (Buy Price)": -9.983418029520319
+    "Over/UnderValued (Buy Price)": -8.592126190718474
   },
   {
     "Ticker": "0960",
     "Company ": "Longfor Group Holdings Ltd",
     "Metric": "EPS",
-    "Last Close": 9.46,
+    "Last Close": 9.48,
     "Fair Value": 7.507994100298161,
-    "Over/UnderValued (Fair Value)": 25.999033478520197,
+    "Over/UnderValued (Fair Value)": 26.265416213147084,
     "Buy Price": 6.006395280238529,
-    "Over/UnderValued (Buy Price)": 57.49879184815023
+    "Over/UnderValued (Buy Price)": 57.83177026643385
   },
   {
     "Ticker": "0322",
     "Company ": "Tingyi (Cayman Islands) Holding Corp",
     "Metric": "EPS",
-    "Last Close": 11.37,
+    "Last Close": 11.86,
     "Fair Value": 7.766406243456652,
-    "Over/UnderValued (Fair Value)": 46.399758698940644,
+    "Over/UnderValued (Fair Value)": 52.7089831283585,
     "Buy Price": 6.213124994765322,
-    "Over/UnderValued (Buy Price)": 82.99969837367578
+    "Over/UnderValued (Buy Price)": 90.88622891044811
   },
   {
     "Ticker": "0868",
     "Company ": "Xinyi Glass Holdings Ltd.",
     "Metric": "EPS",
-    "Last Close": 9.19,
+    "Last Close": 9.4,
     "Fair Value": 4.751880610302128,
-    "Over/UnderValued (Fair Value)": 93.39711481967754,
+    "Over/UnderValued (Fair Value)": 97.81641776985516,
     "Buy Price": 3.8015044882417026,
-    "Over/UnderValued (Buy Price)": 141.74639352459687
+    "Over/UnderValued (Buy Price)": 147.27052221231892
   },
   {
     "Ticker": "1876",
     "Company ": "Budweiser Brewing Company APAC Ltd",
     "Metric": "EPS",
-    "Last Close": 7.76,
+    "Last Close": 7.81,
     "Fair Value": 2.5420902195813353,
-    "Over/UnderValued (Fair Value)": 205.26060563177094,
+    "Over/UnderValued (Fair Value)": 207.2274909773365,
     "Buy Price": 2.0336721756650684,
-    "Over/UnderValued (Buy Price)": 281.5757570397136
+    "Over/UnderValued (Buy Price)": 284.03436372167056
   },
   {
     "Ticker": "0316",
     "Company ": "Orient Overseas (International) Ltd",
     "Metric": "P.Change",
-    "Last Close": 134.1,
-    "Fair Value": 344.95579826451575,
-    "Over/UnderValued (Fair Value)": -61.125454137990545,
-    "Buy Price": 206.97347895870945,
-    "Over/UnderValued (Buy Price)": -35.20909022998424
+    "Last Close": 132.1,
+    "Fair Value": 339.81104362969825,
+    "Over/UnderValued (Fair Value)": -61.12545413799055,
+    "Buy Price": 203.88662617781895,
+    "Over/UnderValued (Buy Price)": -35.209090229984255
   },
   {
     "Ticker": "1044",
     "Company ": "Hengan International Group Company Ltd",
     "Metric": "EPS",
-    "Last Close": 27.68,
+    "Last Close": 27.46,
     "Fair Value": 16.119247253659772,
-    "Over/UnderValued (Fair Value)": 71.72017752699607,
+    "Over/UnderValued (Fair Value)": 70.35534952642024,
     "Buy Price": 12.895397802927818,
-    "Over/UnderValued (Buy Price)": 114.65022190874508
+    "Over/UnderValued (Buy Price)": 112.9441869080253
   },
   {
     "Ticker": "0968",
     "Company ": "Xinyi Solar Holdings Ltd",
     "Metric": "P.Change",
-    "Last Close": 3.54,
-    "Fair Value": 0.7164214524922619,
+    "Last Close": 3.57,
+    "Fair Value": 0.7224928207337217,
     "Over/UnderValued (Fair Value)": 394.1225570067971,
-    "Buy Price": 0.5014950167445833,
-    "Over/UnderValued (Buy Price)": 605.8893671525672
+    "Buy Price": 0.5057449745136051,
+    "Over/UnderValued (Buy Price)": 605.8893671525673
   },
   {
     "Ticker": "0101",
     "Company ": "Hang Lung Properties Ltd",
     "Metric": "EPS",
-    "Last Close": 8.51,
+    "Last Close": 8.49,
     "Fair Value": 3.489662671798671,
-    "Over/UnderValued (Fair Value)": 143.86311229370787,
+    "Over/UnderValued (Fair Value)": 143.28999099572033,
     "Buy Price": 2.791730137438937,
-    "Over/UnderValued (Buy Price)": 204.82889036713482
+    "Over/UnderValued (Buy Price)": 204.11248874465036
   },
   {
     "Ticker": "0881",
     "Company ": "Zhongsheng Group Holdings Limited",
     "Metric": "EPS",
-    "Last Close": 11.95,
+    "Last Close": 11.67,
     "Fair Value": 16.567969254791826,
-    "Over/UnderValued (Fair Value)": -27.872874362415946,
+    "Over/UnderValued (Fair Value)": -29.562882327145946,
     "Buy Price": 11.597578478354277,
-    "Over/UnderValued (Buy Price)": 3.0387509108343647
+    "Over/UnderValued (Buy Price)": 0.6244538183629356
   }
 ]
