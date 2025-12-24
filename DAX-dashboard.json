@@ -26,29 +26,29 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.05,
     "Terminal Rate": 0.01,
-    "Last Close": 237.8,
+    "Last Close": 237.45,
     "Fair Value": 85.01827235823204,
-    "Over/UnderValued (Fair Value)": 179.70457809117622,
+    "Over/UnderValued (Fair Value)": 179.29290188288388,
     "MOS": 0.19999999999999996,
     "Buy Price": 68.01461788658564,
-    "Over/UnderValued (Buy Price)": 249.63072261397025
+    "Over/UnderValued (Buy Price)": 249.1161273536048
   },
   {
     "Ticker": "ALV",
     "Company ": "Allianz SE",
     "Industry": "Insurance - Diversified",
-    "Metric": "TBV Per Share",
+    "Metric": "BV Per Share",
     "EPS (ttm)": 27.1,
     "Avg. 5Y Price Change": 0.2,
     "Cost of Equity": 0.14,
     "Growth Rate": 0.06499999999999999,
     "Terminal Rate": 0.01,
-    "Last Close": 391.5,
-    "Fair Value": 109.17,
-    "Over/UnderValued (Fair Value)": 258.61500412201156,
+    "Last Close": 391.4,
+    "Fair Value": 164.95,
+    "Over/UnderValued (Fair Value)": 137.2840254622613,
     "MOS": 0.19999999999999996,
-    "Buy Price": 87.33600000000001,
-    "Over/UnderValued (Buy Price)": 348.2687551525143
+    "Buy Price": 131.96,
+    "Over/UnderValued (Buy Price)": 196.60503182782656
   },
   {
     "Ticker": "DTE",
@@ -60,12 +60,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.14999999999999997,
     "Terminal Rate": 0.02,
-    "Last Close": 27.42,
+    "Last Close": 27.49,
     "Fair Value": 37.406228453923184,
-    "Over/UnderValued (Fair Value)": -26.696699631785037,
+    "Over/UnderValued (Fair Value)": -26.509565021071158,
     "MOS": 0.30000000000000004,
     "Buy Price": 26.184359917746228,
-    "Over/UnderValued (Buy Price)": 4.719000526021366
+    "Over/UnderValued (Buy Price)": 4.986335684184073
   },
   {
     "Ticker": "AIR",
@@ -77,12 +77,12 @@
     "Cost of Equity": 0.16,
     "Growth Rate": 0.125,
     "Terminal Rate": 0.02,
-    "Last Close": 196.76,
+    "Last Close": 196.58,
     "Fair Value": 73.4561958807337,
-    "Over/UnderValued (Fair Value)": 167.8603181676697,
+    "Over/UnderValued (Fair Value)": 167.61527416853284,
     "MOS": 0.30000000000000004,
     "Buy Price": 51.41933711651359,
-    "Over/UnderValued (Buy Price)": 282.6575973823853
+    "Over/UnderValued (Buy Price)": 282.3075345264755
   },
   {
     "Ticker": "RHM",
@@ -94,29 +94,29 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.5400000000000008,
     "Terminal Rate": 0.04,
-    "Last Close": 1535,
+    "Last Close": 1538.5,
     "Fair Value": 1555.6707196695513,
-    "Over/UnderValued (Fair Value)": -1.3287336071956202,
+    "Over/UnderValued (Fair Value)": -1.1037502636289664,
     "MOS": 0.4,
     "Buy Price": 933.4024318017307,
-    "Over/UnderValued (Buy Price)": 64.45211065467397
+    "Over/UnderValued (Buy Price)": 64.82708289395174
   },
   {
     "Ticker": "MUV2",
     "Company ": "Munich Re AG",
     "Industry": "Insurance - Reinsurance",
-    "Metric": "TBV Per Share",
+    "Metric": "BV Per Share",
     "EPS (ttm)": 47.82,
     "Avg. 5Y Price Change": 0.25,
     "Cost of Equity": 0.14,
     "Growth Rate": 0.10500000000000004,
     "Terminal Rate": 0.01,
-    "Last Close": 563,
-    "Fair Value": 205.15,
-    "Over/UnderValued (Fair Value)": 174.43334145747014,
+    "Last Close": 564,
+    "Fair Value": 246.41,
+    "Over/UnderValued (Fair Value)": 128.886814658496,
     "MOS": 0.19999999999999996,
-    "Buy Price": 164.12,
-    "Over/UnderValued (Buy Price)": 243.04167682183765
+    "Buy Price": 197.12800000000001,
+    "Over/UnderValued (Buy Price)": 186.10851832311997
   },
   {
     "Ticker": "ENR",
@@ -128,29 +128,29 @@
     "Cost of Equity": 0.23,
     "Growth Rate": -0.02499999999999991,
     "Terminal Rate": 0.01,
-    "Last Close": 119.9,
+    "Last Close": 120.15,
     "Fair Value": 6.422245237899778,
-    "Over/UnderValued (Fair Value)": 1766.948326613732,
+    "Over/UnderValued (Fair Value)": 1770.8410462271886,
     "MOS": 0.19999999999999996,
     "Buy Price": 5.137796190319823,
-    "Over/UnderValued (Buy Price)": 2233.685408267165
+    "Over/UnderValued (Buy Price)": 2238.5513077839855
   },
   {
     "Ticker": "DBK",
     "Company ": "Deutsche Bank AG",
     "Industry": "Banks - Regional",
-    "Metric": "TBV Per Share",
+    "Metric": "BV Per Share",
     "EPS (ttm)": 2.51,
     "Avg. 5Y Price Change": 0.55,
     "Cost of Equity": 0.14,
     "Growth Rate": -0.3600000000000001,
     "Terminal Rate": 0.01,
-    "Last Close": 33.29,
-    "Fair Value": 35.78,
-    "Over/UnderValued (Fair Value)": -6.959195081050873,
+    "Last Close": 33.23,
+    "Fair Value": 39.84,
+    "Over/UnderValued (Fair Value)": -16.591365461847406,
     "MOS": 0.19999999999999996,
-    "Buy Price": 28.624000000000002,
-    "Over/UnderValued (Buy Price)": 16.301006148686415
+    "Buy Price": 31.872000000000003,
+    "Over/UnderValued (Buy Price)": 4.260793172690747
   },
   {
     "Ticker": "DB1",
@@ -162,12 +162,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.15499999999999997,
     "Terminal Rate": 0.02,
-    "Last Close": 223.8,
+    "Last Close": 224.5,
     "Fair Value": 169.46191034570364,
-    "Over/UnderValued (Fair Value)": 32.06507559335678,
+    "Over/UnderValued (Fair Value)": 32.478147769028574,
     "MOS": 0.30000000000000004,
     "Buy Price": 118.62333724199254,
-    "Over/UnderValued (Buy Price)": 88.66439370479542
+    "Over/UnderValued (Buy Price)": 89.25449681289798
   },
   {
     "Ticker": "IFX",
@@ -179,12 +179,12 @@
     "Cost of Equity": 0.2,
     "Growth Rate": 0.15000000000000002,
     "Terminal Rate": 0.02,
-    "Last Close": 36.67,
+    "Last Close": 36.63,
     "Fair Value": 9.094271701626104,
-    "Over/UnderValued (Fair Value)": 303.2208537759347,
+    "Over/UnderValued (Fair Value)": 302.78101646611645,
     "MOS": 0.30000000000000004,
     "Buy Price": 6.365990191138272,
-    "Over/UnderValued (Buy Price)": 476.0297911084782
+    "Over/UnderValued (Buy Price)": 475.401452094452
   },
   {
     "Ticker": "BAS",
@@ -196,12 +196,12 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.020000000000000018,
     "Terminal Rate": 0.01,
-    "Last Close": 43.74,
+    "Last Close": 43.67,
     "Fair Value": 2.563095276533737,
-    "Over/UnderValued (Fair Value)": 1606.5303970733712,
+    "Over/UnderValued (Fair Value)": 1603.799324192824,
     "MOS": 0.19999999999999996,
     "Buy Price": 2.05047622122699,
-    "Over/UnderValued (Buy Price)": 2033.1629963417136
+    "Over/UnderValued (Buy Price)": 2029.7491552410297
   },
   {
     "Ticker": "DHL",
@@ -213,12 +213,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.1,
     "Terminal Rate": 0.01,
-    "Last Close": 46.44,
+    "Last Close": 46.42,
     "Fair Value": 35.53619795922003,
-    "Over/UnderValued (Fair Value)": 30.68364841194533,
+    "Over/UnderValued (Fair Value)": 30.62736777094106,
     "MOS": 0.19999999999999996,
     "Buy Price": 28.428958367376026,
-    "Over/UnderValued (Buy Price)": 63.35456051493167
+    "Over/UnderValued (Buy Price)": 63.28420971367632
   },
   {
     "Ticker": "MBG",
@@ -230,29 +230,29 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.19999999999999984,
     "Terminal Rate": 0.03,
-    "Last Close": 59.34,
+    "Last Close": 59.26,
     "Fair Value": 129.24704492466117,
-    "Over/UnderValued (Fair Value)": -54.087925155588955,
+    "Over/UnderValued (Fair Value)": -54.14982212201216,
     "MOS": 0.35,
     "Buy Price": 84.01057920102976,
-    "Over/UnderValued (Buy Price)": -29.36603870090608
+    "Over/UnderValued (Buy Price)": -29.46126480309563
   },
   {
     "Ticker": "CBK",
     "Company ": "Commerzbank AG",
     "Industry": "Banks - Regional",
-    "Metric": "TBV Per Share",
+    "Metric": "BV Per Share",
     "EPS (ttm)": 2.07,
     "Avg. 5Y Price Change": 1.21,
     "Cost of Equity": 0.14,
     "Growth Rate": -0.06,
     "Terminal Rate": 0.01,
-    "Last Close": 35.69,
-    "Fair Value": 29.65,
-    "Over/UnderValued (Fair Value)": 20.370994940978072,
+    "Last Close": 35.61,
+    "Fair Value": 30.08,
+    "Over/UnderValued (Fair Value)": 18.384308510638302,
     "MOS": 0.19999999999999996,
-    "Buy Price": 23.72,
-    "Over/UnderValued (Buy Price)": 50.46374367622259
+    "Buy Price": 24.064,
+    "Over/UnderValued (Buy Price)": 47.980385638297875
   },
   {
     "Ticker": "EOAN",
@@ -281,12 +281,12 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.45999999999999996,
     "Terminal Rate": 0.04,
-    "Last Close": 164.05,
+    "Last Close": 164.5,
     "Fair Value": 370.1854837400168,
-    "Over/UnderValued (Fair Value)": -55.68437791169218,
+    "Over/UnderValued (Fair Value)": -55.562817229340844,
     "MOS": 0.4,
     "Buy Price": 222.1112902440101,
-    "Over/UnderValued (Buy Price)": -26.140629852820318
+    "Over/UnderValued (Buy Price)": -25.938028715568073
   },
   {
     "Ticker": "HEI",
@@ -298,12 +298,12 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.04,
     "Terminal Rate": 0.01,
-    "Last Close": 222.2,
+    "Last Close": 221.7,
     "Fair Value": 85.41754886652684,
-    "Over/UnderValued (Fair Value)": 160.13389865261635,
+    "Over/UnderValued (Fair Value)": 159.54853884466718,
     "MOS": 0.19999999999999996,
     "Buy Price": 68.33403909322148,
-    "Over/UnderValued (Buy Price)": 225.16737331577042
+    "Over/UnderValued (Buy Price)": 224.43567355583394
   },
   {
     "Ticker": "BMW",
@@ -315,12 +315,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.18000000000000002,
     "Terminal Rate": 0.02,
-    "Last Close": 92.58,
+    "Last Close": 92.42,
     "Fair Value": 196.1395480095503,
-    "Over/UnderValued (Fair Value)": -52.798912335878256,
+    "Over/UnderValued (Fair Value)": -52.880486909503865,
     "MOS": 0.30000000000000004,
     "Buy Price": 137.2976836066852,
-    "Over/UnderValued (Buy Price)": -32.56987476554036
+    "Over/UnderValued (Buy Price)": -32.686409870719814
   },
   {
     "Ticker": "BAYN",
@@ -332,11 +332,11 @@
     "Cost of Equity": 0.14,
     "Growth Rate": -0.010000000000000009,
     "Terminal Rate": 0.01,
-    "Last Close": 35.99,
-    "Fair Value": 11.037485274215607,
+    "Last Close": 35.87,
+    "Fair Value": 11.000683433901466,
     "Over/UnderValued (Fair Value)": 226.07065020576144,
     "MOS": 0.19999999999999996,
-    "Buy Price": 8.829988219372487,
+    "Buy Price": 8.800546747121173,
     "Over/UnderValued (Buy Price)": 307.5883127572018
   },
   {
@@ -366,11 +366,11 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.5849999999999999,
     "Terminal Rate": 0.04,
-    "Last Close": 37.1,
-    "Fair Value": 27.02517664746756,
-    "Over/UnderValued (Fair Value)": 37.27939870275194,
+    "Last Close": 37.11,
+    "Fair Value": 27.032461061658253,
+    "Over/UnderValued (Fair Value)": 37.27939870275192,
     "MOS": 0.4,
-    "Buy Price": 16.215105988480534,
+    "Buy Price": 16.21947663699495,
     "Over/UnderValued (Buy Price)": 128.7989978379199
   },
   {
@@ -383,12 +383,12 @@
     "Cost of Equity": 0.16,
     "Growth Rate": 0.10000000000000013,
     "Terminal Rate": 0.01,
-    "Last Close": 353.7,
+    "Last Close": 353.9,
     "Fair Value": 153.42986296313586,
-    "Over/UnderValued (Fair Value)": 130.52878570645822,
+    "Over/UnderValued (Fair Value)": 130.65913842667675,
     "MOS": 0.19999999999999996,
     "Buy Price": 122.7438903705087,
-    "Over/UnderValued (Buy Price)": 188.16098213307276
+    "Over/UnderValued (Buy Price)": 188.32392303334592
   },
   {
     "Ticker": "VNA",
@@ -400,12 +400,12 @@
     "Cost of Equity": 0.16,
     "Growth Rate": 0.09999999999999998,
     "Terminal Rate": 0.01,
-    "Last Close": 24.05,
+    "Last Close": 24.09,
     "Fair Value": 31.972803701350244,
-    "Over/UnderValued (Fair Value)": -24.779821548823556,
+    "Over/UnderValued (Fair Value)": -24.654715222917233,
     "MOS": 0.19999999999999996,
     "Buy Price": 25.578242961080196,
-    "Over/UnderValued (Buy Price)": -5.974776936029446
+    "Over/UnderValued (Buy Price)": -5.818394028646545
   },
   {
     "Ticker": "VOW3",
@@ -445,18 +445,18 @@
     "Ticker": "HNR1",
     "Company ": "Hannover Re Common Stock",
     "Industry": "Insurance - Reinsurance",
-    "Metric": "TBV Per Share",
+    "Metric": "BV Per Share",
     "EPS (ttm)": 20.47,
     "Avg. 5Y Price Change": 0.14,
     "Cost of Equity": 0.14,
     "Growth Rate": 0.12500000000000003,
     "Terminal Rate": 0.02,
     "Last Close": 266.6,
-    "Fair Value": 98.45,
-    "Over/UnderValued (Fair Value)": 170.7973590655155,
+    "Fair Value": 105.21,
+    "Over/UnderValued (Fair Value)": 153.3979659728163,
     "MOS": 0.30000000000000004,
-    "Buy Price": 68.91499999999999,
-    "Over/UnderValued (Buy Price)": 286.85337009359364
+    "Buy Price": 73.64699999999999,
+    "Over/UnderValued (Buy Price)": 261.99709424688047
   },
   {
     "Ticker": "SHL",
@@ -468,12 +468,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.10500000000000001,
     "Terminal Rate": 0.01,
-    "Last Close": 44.5,
+    "Last Close": 44.69,
     "Fair Value": 22.59677218201741,
-    "Over/UnderValued (Fair Value)": 96.93078127066863,
+    "Over/UnderValued (Fair Value)": 97.77160932553215,
     "MOS": 0.19999999999999996,
     "Buy Price": 18.07741774561393,
-    "Over/UnderValued (Buy Price)": 146.16347658833578
+    "Over/UnderValued (Buy Price)": 147.2145116569152
   },
   {
     "Ticker": "MRK",
@@ -485,12 +485,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.07999999999999999,
     "Terminal Rate": 0.01,
-    "Last Close": 120.55,
+    "Last Close": 120.15,
     "Fair Value": 72.1043267096907,
-    "Over/UnderValued (Fair Value)": 67.18830270111695,
+    "Over/UnderValued (Fair Value)": 66.63355097087684,
     "MOS": 0.19999999999999996,
     "Buy Price": 57.68346136775256,
-    "Over/UnderValued (Buy Price)": 108.9853783763962
+    "Over/UnderValued (Buy Price)": 108.29193871359605
   },
   {
     "Ticker": "HEN3",
@@ -519,12 +519,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.10999999999999999,
     "Terminal Rate": 0.01,
-    "Last Close": 68.92,
+    "Last Close": 68.42,
     "Fair Value": 43.891846432032594,
-    "Over/UnderValued (Fair Value)": 57.02233011938562,
+    "Over/UnderValued (Fair Value)": 55.883166377950744,
     "MOS": 0.19999999999999996,
     "Buy Price": 35.11347714562608,
-    "Over/UnderValued (Buy Price)": 96.27791264923202
+    "Over/UnderValued (Buy Price)": 94.85395797243841
   },
   {
     "Ticker": "BEI",
@@ -553,12 +553,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.11000000000000001,
     "Terminal Rate": 0.01,
-    "Last Close": 38.99,
+    "Last Close": 38.71,
     "Fair Value": 19.346268399794006,
-    "Over/UnderValued (Fair Value)": 101.53757403890435,
+    "Over/UnderValued (Fair Value)": 100.09026650541131,
     "MOS": 0.19999999999999996,
     "Buy Price": 15.477014719835205,
-    "Over/UnderValued (Buy Price)": 151.92196754863042
+    "Over/UnderValued (Buy Price)": 150.11283313176415
   },
   {
     "Ticker": "FME",
@@ -621,12 +621,12 @@
     "Cost of Equity": 0.2,
     "Growth Rate": 0.21500000000000002,
     "Terminal Rate": 0.03,
-    "Last Close": 24.9,
+    "Last Close": 24.98,
     "Fair Value": 11.77205521359828,
-    "Over/UnderValued (Fair Value)": 111.51786623662115,
+    "Over/UnderValued (Fair Value)": 112.19744171047377,
     "MOS": 0.35,
     "Buy Price": 7.651835888838883,
-    "Over/UnderValued (Buy Price)": 225.41210190249407
+    "Over/UnderValued (Buy Price)": 226.45760263149813
   },
   {
     "Ticker": "PAH3",
@@ -638,12 +638,12 @@
     "Cost of Equity": 0.15,
     "Growth Rate": -0.31500000000000006,
     "Terminal Rate": 0.01,
-    "Last Close": 39.74,
-    "Fair Value": 14.500331433636026,
+    "Last Close": 39.57,
+    "Fair Value": 14.438301832636576,
     "Over/UnderValued (Fair Value)": 174.0627011312045,
     "MOS": 0.19999999999999996,
-    "Buy Price": 11.600265146908821,
-    "Over/UnderValued (Buy Price)": 242.57837641400562
+    "Buy Price": 11.550641466109262,
+    "Over/UnderValued (Buy Price)": 242.57837641400556
   },
   {
     "Ticker": "P911",
@@ -655,12 +655,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.07500000000000001,
     "Terminal Rate": 0.01,
-    "Last Close": 45.37,
+    "Last Close": 45.19,
     "Fair Value": 10.787660383412842,
-    "Over/UnderValued (Fair Value)": 320.573121394896,
+    "Over/UnderValued (Fair Value)": 318.90454828819384,
     "MOS": 0.19999999999999996,
     "Buy Price": 8.630128306730274,
-    "Over/UnderValued (Buy Price)": 425.71640174361994
+    "Over/UnderValued (Buy Price)": 423.6306853602422
   },
   {
     "Ticker": "SRT3",
