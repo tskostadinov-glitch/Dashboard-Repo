@@ -1,6 +1,6 @@
 [
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/SAP%20SE%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/SAP ? Valuation.pdf",
     "Ticker": "SAP",
     "Company ": "SAP SE",
     "Industry": "Software - Application",
@@ -10,12 +10,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.12999999999999998,
     "Terminal Rate": 0.02,
-    "Last Close": 195.29,
+    "Last Close": 195.16,
     "Fair Value": 83.70114806444872,
-    "Over/UnderValued %": 133.31818561153952
+    "Over/UnderValued %": 133.16287113496878
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Siemens%20AG%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/SIE ? Valuation.pdf",
     "Ticker": "SIE",
     "Company ": "Siemens AG",
     "Industry": "Industrial - Machinery",
@@ -25,12 +25,12 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.065,
     "Terminal Rate": 0.01,
-    "Last Close": 254.9,
+    "Last Close": 254.85,
     "Fair Value": 90.75542860248805,
-    "Over/UnderValued %": 180.86474156435415
+    "Over/UnderValued %": 180.809648441254
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Allianz%20SE%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/ALV ? Valuation.pdf",
     "Ticker": "ALV",
     "Company ": "Allianz SE",
     "Industry": "Insurance - Diversified",
@@ -40,12 +40,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.04,
     "Terminal Rate": 0.01,
-    "Last Close": 366.1,
+    "Last Close": 364.4,
     "Fair Value": 164.95,
-    "Over/UnderValued %": 121.94604425583515
+    "Over/UnderValued %": 120.91542891785392
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Deutsche%20Telekom%20AG%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/DTE ? Valuation.pdf",
     "Ticker": "DTE",
     "Company ": "Deutsche Telekom AG",
     "Industry": "Telecommunications Services",
@@ -55,12 +55,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.145,
     "Terminal Rate": 0.02,
-    "Last Close": 26.92,
+    "Last Close": 26.66,
     "Fair Value": 36.602763983174626,
-    "Over/UnderValued %": -26.453641554570982
+    "Over/UnderValued %": -27.16397042514348
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Airbus%20SE%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/AIR ? Valuation.pdf",
     "Ticker": "AIR",
     "Company ": "Airbus SE",
     "Industry": "Aerospace & Defense",
@@ -70,12 +70,12 @@
     "Cost of Equity": 0.16,
     "Growth Rate": 0.14,
     "Terminal Rate": 0.02,
-    "Last Close": 206.1,
+    "Last Close": 206.7,
     "Fair Value": 78.27845260098813,
-    "Over/UnderValued %": 163.2908458864941
+    "Over/UnderValued %": 164.05734034322333
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Rheinmetall%20AG%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/RHM ? Valuation.pdf",
     "Ticker": "RHM",
     "Company ": "Rheinmetall AG",
     "Industry": "Aerospace & Defense",
@@ -85,12 +85,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.4950000000000017,
     "Terminal Rate": 0.04,
-    "Last Close": 1830.5,
+    "Last Close": 1820,
     "Fair Value": 1318.04494724668,
-    "Over/UnderValued %": 38.879937579049106
+    "Over/UnderValued %": 38.083303137869095
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Munich%20Re%20AG%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/MUV2 ? Valuation.pdf",
     "Ticker": "MUV2",
     "Company ": "Munich Re AG",
     "Industry": "Insurance - Reinsurance",
@@ -100,12 +100,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.010000000000000009,
     "Terminal Rate": 0.01,
-    "Last Close": 512.4,
+    "Last Close": 509.2,
     "Fair Value": 246.41,
-    "Over/UnderValued %": 107.946106083357
+    "Over/UnderValued %": 106.64745748954996
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Siemens%20Energy%20AG%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/ENR ? Valuation.pdf",
     "Ticker": "ENR",
     "Company ": "Siemens Energy AG",
     "Industry": "Industrial - Machinery",
@@ -115,12 +115,12 @@
     "Cost of Equity": 0.23,
     "Growth Rate": 0.014999999999999902,
     "Terminal Rate": 0.01,
-    "Last Close": 142.35,
+    "Last Close": 142.5,
     "Fair Value": 7.487798329637522,
-    "Over/UnderValued %": 1801.0928678001808
+    "Over/UnderValued %": 1803.0961268811084
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Deutsche%20Bank%20AG%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/DBK ? Valuation.pdf",
     "Ticker": "DBK",
     "Company ": "Deutsche Bank AG",
     "Industry": "Banks - Regional",
@@ -130,12 +130,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.11000000000000018,
     "Terminal Rate": 0.01,
-    "Last Close": 32.95,
+    "Last Close": 32.89,
     "Fair Value": 39.84,
-    "Over/UnderValued %": -17.294176706827315
+    "Over/UnderValued %": -17.44477911646587
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Deutsche%20Boerse%20AG%20Ordinary%20Shares%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/DB1 ? Valuation.pdf",
     "Ticker": "DB1",
     "Company ": "Deutsche Boerse AG Ordinary Shares",
     "Industry": "Financial - Data & Stock Exchanges",
@@ -145,12 +145,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.15000000000000002,
     "Terminal Rate": 0.02,
-    "Last Close": 211.5,
+    "Last Close": 211.6,
     "Fair Value": 165.82923140504408,
-    "Over/UnderValued %": 27.540843196338137
+    "Over/UnderValued %": 27.60114619548535
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Infineon%20Technologies%20AG%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/IFX ? Valuation.pdf",
     "Ticker": "IFX",
     "Company ": "Infineon Technologies AG",
     "Industry": "Semiconductors",
@@ -160,12 +160,12 @@
     "Cost of Equity": 0.2,
     "Growth Rate": 0.135,
     "Terminal Rate": 0.02,
-    "Last Close": 42.41,
+    "Last Close": 42.81,
     "Fair Value": 8.566057649036019,
-    "Over/UnderValued %": 395.09356272862124
+    "Over/UnderValued %": 399.76315539760145
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/BASF%20SE%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/BAS ? Valuation.pdf",
     "Ticker": "BAS",
     "Company ": "BASF SE",
     "Industry": "Chemicals",
@@ -175,12 +175,12 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.020000000000000014,
     "Terminal Rate": 0.01,
-    "Last Close": 45.75,
+    "Last Close": 45.99,
     "Fair Value": 2.563095276533737,
-    "Over/UnderValued %": 1684.951204071942
+    "Over/UnderValued %": 1694.3148825195321
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Deutsche%20Post%20AG%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/DHL ? Valuation.pdf",
     "Ticker": "DHL",
     "Company ": "Deutsche Post AG",
     "Industry": "Integrated Freight & Logistics",
@@ -195,7 +195,7 @@
     "Over/UnderValued %": 29.61431623286397
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Mercedes-Benz%20Group%20AG%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/MBG ? Valuation.pdf",
     "Ticker": "MBG",
     "Company ": "Mercedes-Benz Group AG",
     "Industry": "Auto - Manufacturers",
@@ -205,12 +205,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.2250000000000001,
     "Terminal Rate": 0.03,
-    "Last Close": 58.3,
+    "Last Close": 58.35,
     "Fair Value": 143.79843691951422,
-    "Over/UnderValued %": -59.45713927848101
+    "Over/UnderValued %": -59.42236838592395
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Commerzbank%20AG%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/CBK ? Valuation.pdf",
     "Ticker": "CBK",
     "Company ": "Commerzbank AG",
     "Industry": "Banks - Regional",
@@ -220,12 +220,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.10500000000000001,
     "Terminal Rate": 0.01,
-    "Last Close": 34.52,
+    "Last Close": 34.42,
     "Fair Value": 30.08,
-    "Over/UnderValued %": 14.760638297872353
+    "Over/UnderValued %": 14.42819148936172
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/E.ON%20SE%20Common%20Stock%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/EOAN ? Valuation.pdf",
     "Ticker": "EOAN",
     "Company ": "E.ON SE Common Stock",
     "Industry": "Diversified Utilities",
@@ -235,12 +235,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.255,
     "Terminal Rate": 0.04,
-    "Last Close": 16.93,
+    "Last Close": 16.86,
     "Fair Value": 30.808877217907988,
-    "Over/UnderValued %": -45.048305784544276
+    "Over/UnderValued %": -45.275513025836766
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/adidas%20AG%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/ADS ? Valuation.pdf",
     "Ticker": "ADS",
     "Company ": "adidas AG",
     "Industry": "Apparel - Footwear & Accessories",
@@ -250,12 +250,12 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.5399999999999998,
     "Terminal Rate": 0.04,
-    "Last Close": 145.15,
+    "Last Close": 143.8,
     "Fair Value": 497.2834891197563,
-    "Over/UnderValued %": -70.81141779773733
+    "Over/UnderValued %": -71.08289272693509
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Heidelberg%20Materials%20AG%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/HEI ? Valuation.pdf",
     "Ticker": "HEI",
     "Company ": "Heidelberg Materials AG",
     "Industry": "Construction Materials",
@@ -265,12 +265,12 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.035,
     "Terminal Rate": 0.01,
-    "Last Close": 236.8,
+    "Last Close": 235.4,
     "Fair Value": 83.5693614642857,
-    "Over/UnderValued %": 183.3574360876254
+    "Over/UnderValued %": 181.68218097562084
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Bayerische%20Motoren%20Werke%20AG%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/BMW ? Valuation.pdf",
     "Ticker": "BMW",
     "Company ": "Bayerische Motoren Werke AG",
     "Industry": "Auto - Manufacturers",
@@ -280,12 +280,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.24500000000000002,
     "Terminal Rate": 0.04,
-    "Last Close": 87.32,
+    "Last Close": 87.26,
     "Fair Value": 294.7986852972529,
-    "Over/UnderValued %": -70.37978649329692
+    "Over/UnderValued %": -70.40013936561029
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Bayer%20AG%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/BAYN ? Valuation.pdf",
     "Ticker": "BAYN",
     "Company ": "Bayer AG",
     "Industry": "Drug Manufacturers - General",
@@ -295,12 +295,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": -0.020000000000000018,
     "Terminal Rate": 0.01,
-    "Last Close": 44.6,
-    "Fair Value": 18.887164689295528,
+    "Last Close": 44.58,
+    "Fair Value": 18.878695108717366,
     "Over/UnderValued %": 136.1392021179201
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/RWE%20AG%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/RWE ? Valuation.pdf",
     "Ticker": "RWE",
     "Company ": "RWE AG",
     "Industry": "Diversified Utilities",
@@ -310,12 +310,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.615,
     "Terminal Rate": 0.04,
-    "Last Close": 51.36,
-    "Fair Value": 35.69686564846907,
-    "Over/UnderValued %": 43.87817828538869
+    "Last Close": 51.1,
+    "Fair Value": 35.516157216448,
+    "Over/UnderValued %": 43.878178285388714
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Daimler%20Truck%20Holding%20AG%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/DTG ? Valuation.pdf",
     "Ticker": "DTG",
     "Company ": "Daimler Truck Holding AG",
     "Industry": "Agricultural - Machinery",
@@ -325,12 +325,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.64,
     "Terminal Rate": 0.04,
-    "Last Close": 41.37,
-    "Fair Value": 28.753491664275025,
+    "Last Close": 41.44,
+    "Fair Value": 28.802143934434543,
     "Over/UnderValued %": 43.87817828538869
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/MTU%20Aero%20Engines%20AG%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/MTX ? Valuation.pdf",
     "Ticker": "MTX",
     "Company ": "MTU Aero Engines AG",
     "Industry": "Aerospace & Defense",
@@ -340,12 +340,12 @@
     "Cost of Equity": 0.16,
     "Growth Rate": 0.08500000000000009,
     "Terminal Rate": 0.01,
-    "Last Close": 376.5,
+    "Last Close": 376.6,
     "Fair Value": 143.96783209748156,
-    "Over/UnderValued %": 161.51675309319748
+    "Over/UnderValued %": 161.58621305417844
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Vonovia%20SE%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/VNA ? Valuation.pdf",
     "Ticker": "VNA",
     "Company ": "Vonovia SE",
     "Industry": "Real Estate - Services",
@@ -355,12 +355,12 @@
     "Cost of Equity": 0.16,
     "Growth Rate": 0.08000000000000007,
     "Terminal Rate": 0.01,
-    "Last Close": 24.24,
+    "Last Close": 24.18,
     "Fair Value": 29.369526963214028,
-    "Over/UnderValued %": -17.4654735489573
+    "Over/UnderValued %": -17.669766931261865
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Volkswagen%20Group%20Preferred%20Stock%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/VOW3 ? Valuation.pdf",
     "Ticker": "VOW3",
     "Company ": "Volkswagen Group Preferred Stock",
     "Industry": "Auto - Manufacturers",
@@ -370,12 +370,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.05499999999999999,
     "Terminal Rate": 0.01,
-    "Last Close": 105.55,
+    "Last Close": 105.75,
     "Fair Value": 127.3334127716852,
-    "Over/UnderValued %": -17.107381556437108
+    "Over/UnderValued %": -16.95031359159852
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Fresenius%20SE%20%26%20Co%20KGaA%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/FRE ? Valuation.pdf",
     "Ticker": "FRE",
     "Company ": "Fresenius SE & Co KGaA",
     "Industry": "Medical - Care Facilities",
@@ -385,12 +385,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": -0.039999999999999994,
     "Terminal Rate": 0.01,
-    "Last Close": 48.27,
+    "Last Close": 48.21,
     "Fair Value": 12.714116942074538,
-    "Over/UnderValued %": 279.65672503971695
+    "Over/UnderValued %": 279.18480866303616
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Hannover%20Re%20Common%20Stock%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/HNR1 ? Valuation.pdf",
     "Ticker": "HNR1",
     "Company ": "Hannover Re Common Stock",
     "Industry": "Insurance - Reinsurance",
@@ -400,12 +400,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.14500000000000002,
     "Terminal Rate": 0.02,
-    "Last Close": 234.6,
+    "Last Close": 233.3,
     "Fair Value": 105.21,
-    "Over/UnderValued %": 122.98260621613917
+    "Over/UnderValued %": 121.74698222602416
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Siemens%20Healthineers%20AG%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/SHL ? Valuation.pdf",
     "Ticker": "SHL",
     "Company ": "Siemens Healthineers AG",
     "Industry": "Medical - Devices",
@@ -415,12 +415,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.09,
     "Terminal Rate": 0.01,
-    "Last Close": 43.5,
+    "Last Close": 43.18,
     "Fair Value": 21.162018496990637,
-    "Over/UnderValued %": 105.55695103558271
+    "Over/UnderValued %": 104.04480794750488
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Merck%20KGaA%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/MRK ? Valuation.pdf",
     "Ticker": "MRK",
     "Company ": "Merck KGaA",
     "Industry": "Drug Manufacturers - Specialty & Generic",
@@ -430,12 +430,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.10999999999999999,
     "Terminal Rate": 0.01,
-    "Last Close": 127,
+    "Last Close": 127.1,
     "Fair Value": 82.22164069912444,
-    "Over/UnderValued %": 54.46055189379406
+    "Over/UnderValued %": 54.582174375600204
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Henkel%20AG%20%26%20Co%20KGaA%20Preference%20Shares%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/HEN3 ? Valuation.pdf",
     "Ticker": "HEN3",
     "Company ": "Henkel AG & Co KGaA Preference Shares",
     "Industry": "Household & Personal Products",
@@ -445,12 +445,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.040000000000000015,
     "Terminal Rate": 0.01,
-    "Last Close": 71.3,
+    "Last Close": 71.22,
     "Fair Value": 44.41730328509222,
-    "Over/UnderValued %": 60.52302757409953
+    "Over/UnderValued %": 60.3429175852366
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Symrise%20AG%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/SY1 ? Valuation.pdf",
     "Ticker": "SY1",
     "Company ": "Symrise AG",
     "Industry": "Chemicals - Specialty",
@@ -460,12 +460,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.10999999999999999,
     "Terminal Rate": 0.01,
-    "Last Close": 72.08,
+    "Last Close": 72.2,
     "Fair Value": 43.891846432032594,
-    "Over/UnderValued %": 64.22184496525414
+    "Over/UnderValued %": 64.49524426319853
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Beiersdorf%20AG%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/BEI ? Valuation.pdf",
     "Ticker": "BEI",
     "Company ": "Beiersdorf AG",
     "Industry": "Household & Personal Products",
@@ -475,12 +475,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.05999999999999999,
     "Terminal Rate": 0.01,
-    "Last Close": 97.8,
+    "Last Close": 97.08,
     "Fair Value": 38.346630827067216,
-    "Over/UnderValued %": 155.04196298509552
+    "Over/UnderValued %": 153.16435344164697
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/%23N/A%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/QIA ? Valuation.pdf",
     "Ticker": "QIA",
     "Company ": "#N/A",
     "Industry": "Medical - Diagnostics & Research",
@@ -495,7 +495,7 @@
     "Over/UnderValued %": "#N/A"
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Fresenius%20Medical%20Care%20AG%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/FME ? Valuation.pdf",
     "Ticker": "FME",
     "Company ": "Fresenius Medical Care AG",
     "Industry": "Medical - Care Facilities",
@@ -505,12 +505,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.030000000000000006,
     "Terminal Rate": 0.01,
-    "Last Close": 37.2,
+    "Last Close": 37.22,
     "Fair Value": 20.730945223392084,
-    "Over/UnderValued %": 79.44189036795488
+    "Over/UnderValued %": 79.5383645025613
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Continental%20AG%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/CON ? Valuation.pdf",
     "Ticker": "CON",
     "Company ": "Continental AG",
     "Industry": "Auto - Parts",
@@ -520,12 +520,12 @@
     "Cost of Equity": 0.17,
     "Growth Rate": -0.01499999999999992,
     "Terminal Rate": 0.01,
-    "Last Close": 66.34,
-    "Fair Value": 21.050426586109126,
+    "Last Close": 66.6,
+    "Fair Value": 21.132927504294052,
     "Over/UnderValued %": 215.14800770724912
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Brenntag%20SE%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/BNR ? Valuation.pdf",
     "Ticker": "BNR",
     "Company ": "Brenntag SE",
     "Industry": "Chemicals - Specialty",
@@ -535,12 +535,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.09500000000000003,
     "Terminal Rate": 0.01,
-    "Last Close": 50.76,
+    "Last Close": 50.64,
     "Fair Value": 32.84233834813149,
-    "Over/UnderValued %": 54.55659539811026
+    "Over/UnderValued %": 54.191213375892524
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Zalando%20SE%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/ZAL ? Valuation.pdf",
     "Ticker": "ZAL",
     "Company ": "Zalando SE",
     "Industry": "Specialty Retail",
@@ -550,12 +550,12 @@
     "Cost of Equity": 0.2,
     "Growth Rate": 0.1850000000000001,
     "Terminal Rate": 0.03,
-    "Last Close": 24.45,
+    "Last Close": 23.93,
     "Fair Value": 10.452376283004584,
-    "Over/UnderValued %": 133.91809994207108
+    "Over/UnderValued %": 128.9431546672295
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Porsche%20Automobil%20Holding%20SE%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/PAH3 ? Valuation.pdf",
     "Ticker": "PAH3",
     "Company ": "Porsche Automobil Holding SE",
     "Industry": "Auto - Manufacturers",
@@ -565,12 +565,12 @@
     "Cost of Equity": 0.15,
     "Growth Rate": -0.425,
     "Terminal Rate": 0.01,
-    "Last Close": 37.35,
-    "Fair Value": 13.628268219584942,
-    "Over/UnderValued %": 174.06270113120445
+    "Last Close": 37.31,
+    "Fair Value": 13.613673019349777,
+    "Over/UnderValued %": 174.0627011312045
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Dr%20Ing%20hc%20F%20Porsche%20AG%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/P911 ? Valuation.pdf",
     "Ticker": "P911",
     "Company ": "Dr Ing hc F Porsche AG",
     "Industry": "Auto - Manufacturers",
@@ -580,12 +580,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.07000000000000002,
     "Terminal Rate": 0.01,
-    "Last Close": 42.15,
+    "Last Close": 42.33,
     "Fair Value": 10.552464102372216,
-    "Over/UnderValued %": 299.43277315224026
+    "Over/UnderValued %": 301.13853588456294
   },
   {
-    "PDF": "https://tskostadinov-glitch.github.io/PDF-Repo/PDFs/DAX/Sartorius%20AG%20Preference%20Shares%20%E2%80%93%20Valuation.pdf",
+    "PDF": "https://raw.githubusercontent.com/tskostadinov-glitch/PDF-Repo/main/PDFs/DAX/SRT3 ? Valuation.pdf",
     "Ticker": "SRT3",
     "Company ": "Sartorius AG Preference Shares",
     "Industry": "Medical - Instruments & Supplies",
@@ -595,8 +595,8 @@
     "Cost of Equity": 0.16,
     "Growth Rate": 0.19499999999999998,
     "Terminal Rate": 0.03,
-    "Last Close": 257.7,
+    "Last Close": 257.8,
     "Fair Value": 31.304881161825964,
-    "Over/UnderValued %": 723.1943084781503
+    "Over/UnderValued %": 723.5137474802763
   }
 ]
