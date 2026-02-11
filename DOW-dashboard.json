@@ -1,7 +1,7 @@
 [
   {
     "Ticker": "GS",
-    "Company ": "Goldman Sachs Group Inc",
+    "Company ": "#N/A",
     "Industry": "Financial - Capital Markets",
     "Metric": "BV Per Share",
     "EPS (ttm)": 49.23,
@@ -9,12 +9,12 @@
     "Cost of Equity": 0.17,
     "Growth Rate": 0.125,
     "Terminal Rate": 0.02,
-    "Last Close": 948.99,
+    "Last Close": "#N/A",
     "Fair Value": 371.83,
-    "Over/UnderValued (Fair Value)": 155.22147217814592,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.30000000000000004,
     "Buy Price": 260.28099999999995,
-    "Over/UnderValued (Buy Price)": 264.6021031116371
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "MSFT",
@@ -26,16 +26,16 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.20499999999999996,
     "Terminal Rate": 0.03,
-    "Last Close": 413.27,
+    "Last Close": 404.37,
     "Fair Value": 286.7142821384166,
-    "Over/UnderValued (Fair Value)": 44.14001176282048,
+    "Over/UnderValued (Fair Value)": 41.03587619844586,
     "MOS": 0.35,
     "Buy Price": 186.36428338997078,
-    "Over/UnderValued (Buy Price)": 121.75386425049304
+    "Over/UnderValued (Buy Price)": 116.97827107453209
   },
   {
     "Ticker": "CAT",
-    "Company ": "Caterpillar Inc",
+    "Company ": "#N/A",
     "Industry": "Agricultural - Machinery",
     "Metric": "EPS",
     "EPS (ttm)": 19.46,
@@ -43,16 +43,16 @@
     "Cost of Equity": 0.18,
     "Growth Rate": 0.10999999999999997,
     "Terminal Rate": 0.01,
-    "Last Close": 742.37,
+    "Last Close": "#N/A",
     "Fair Value": 174.88236939995494,
-    "Over/UnderValued (Fair Value)": 324.49676462365636,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 139.90589551996396,
-    "Over/UnderValued (Buy Price)": 430.62095577957047
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "HD",
-    "Company ": "Home Depot Inc",
+    "Company ": "#N/A",
     "Industry": "Home Improvement",
     "Metric": "EPS",
     "EPS (ttm)": 14.67,
@@ -60,16 +60,16 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.0850000000000001,
     "Terminal Rate": 0.01,
-    "Last Close": 389.68,
+    "Last Close": "#N/A",
     "Fair Value": 159.01052525999276,
-    "Over/UnderValued (Fair Value)": 145.06553849994984,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 127.20842020799421,
-    "Over/UnderValued (Buy Price)": 206.33192312493728
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "SHW",
-    "Company ": "Sherwin-Williams Co",
+    "Company ": "#N/A",
     "Industry": "Chemicals - Specialty",
     "Metric": "EPS",
     "EPS (ttm)": 10.24,
@@ -77,16 +77,16 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.09999999999999998,
     "Terminal Rate": 0.01,
-    "Last Close": 364.65,
+    "Last Close": "#N/A",
     "Fair Value": 109.31916464631287,
-    "Over/UnderValued (Fair Value)": 233.56456864610604,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 87.4553317170503,
-    "Over/UnderValued (Buy Price)": 316.9557108076325
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "V",
-    "Company ": "Visa Inc",
+    "Company ": "#N/A",
     "Industry": "Financial - Credit Services",
     "Metric": "EPS",
     "EPS (ttm)": 10.2,
@@ -94,16 +94,16 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.1,
     "Terminal Rate": 0.01,
-    "Last Close": 328.17,
+    "Last Close": "#N/A",
     "Fair Value": 118.06814957134995,
-    "Over/UnderValued (Fair Value)": 177.9496428049659,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 94.45451965707997,
-    "Over/UnderValued (Buy Price)": 247.4370535062073
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "MCD",
-    "Company ": "McDonald's Corp",
+    "Company ": "#N/A",
     "Industry": "Restaurants",
     "Metric": "EPS",
     "EPS (ttm)": 11.72,
@@ -111,16 +111,16 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.06000000000000001,
     "Terminal Rate": 0.01,
-    "Last Close": 325.97,
+    "Last Close": "#N/A",
     "Fair Value": 113.77785146663996,
-    "Over/UnderValued (Fair Value)": 186.49688476106925,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 91.02228117331197,
-    "Over/UnderValued (Buy Price)": 258.1211059513366
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "AXP",
-    "Company ": "American Express Co",
+    "Company ": "#N/A",
     "Industry": "Financial - Credit Services",
     "Metric": "EPS",
     "EPS (ttm)": 14.9,
@@ -128,16 +128,16 @@
     "Cost of Equity": 0.17,
     "Growth Rate": 0.175,
     "Terminal Rate": 0.02,
-    "Last Close": 363.2,
+    "Last Close": "#N/A",
     "Fair Value": 194.69260760441728,
-    "Over/UnderValued (Fair Value)": 86.55048307635876,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.30000000000000004,
     "Buy Price": 136.2848253230921,
-    "Over/UnderValued (Buy Price)": 166.50069010908393
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "JPM",
-    "Company ": "JPMorgan Chase & Co",
+    "Company ": "#N/A",
     "Industry": "Banks - Diversified",
     "Metric": "BV Per Share",
     "EPS (ttm)": 20.19,
@@ -145,12 +145,12 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.11499999999999999,
     "Terminal Rate": 0.01,
-    "Last Close": 318.28,
+    "Last Close": "#N/A",
     "Fair Value": 119.96,
-    "Over/UnderValued (Fair Value)": 165.32177392464155,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 95.968,
-    "Over/UnderValued (Buy Price)": 231.6522174058019
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "AMGN",
@@ -162,16 +162,16 @@
     "Cost of Equity": 0.14,
     "Growth Rate": -0.0049999999999999975,
     "Terminal Rate": 0.01,
-    "Last Close": 364.65,
+    "Last Close": 366.58,
     "Fair Value": 93.83944467711672,
-    "Over/UnderValued (Fair Value)": 288.589256100875,
+    "Over/UnderValued (Fair Value)": 290.6459605140786,
     "MOS": 0.19999999999999996,
     "Buy Price": 75.07155574169337,
-    "Over/UnderValued (Buy Price)": 385.7365701260937
+    "Over/UnderValued (Buy Price)": 388.30745064259827
   },
   {
     "Ticker": "TRV",
-    "Company ": "Travelers Companies Inc",
+    "Company ": "#N/A",
     "Industry": "Insurance - Property & Casualty",
     "Metric": "BV Per Share",
     "EPS (ttm)": 25.42,
@@ -179,16 +179,16 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.10500000000000001,
     "Terminal Rate": 0.01,
-    "Last Close": 298.61,
+    "Last Close": "#N/A",
     "Fair Value": 122.21,
-    "Over/UnderValued (Fair Value)": 144.34170689796252,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 97.768,
-    "Over/UnderValued (Buy Price)": 205.42713362245317
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "IBM",
-    "Company ": "IBM Common Stock",
+    "Company ": "#N/A",
     "Industry": "Information Technology Services",
     "Metric": "EPS",
     "EPS (ttm)": 8.39,
@@ -196,16 +196,16 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.04499999999999997,
     "Terminal Rate": 0.01,
-    "Last Close": 291.76,
+    "Last Close": "#N/A",
     "Fair Value": 76.20813050108563,
-    "Over/UnderValued (Fair Value)": 282.8462896040255,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 60.96650440086851,
-    "Over/UnderValued (Buy Price)": 378.5578620050319
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "UNH",
-    "Company ": "UnitedHealth Group Inc",
+    "Company ": "#N/A",
     "Industry": "Medical - Healthcare Plans",
     "Metric": "EPS",
     "EPS (ttm)": 19.19,
@@ -213,16 +213,16 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.09000000000000002,
     "Terminal Rate": 0.01,
-    "Last Close": 273.22,
+    "Last Close": "#N/A",
     "Fair Value": 212.61734814515722,
-    "Over/UnderValued (Fair Value)": 28.503154791239528,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 170.09387851612578,
-    "Over/UnderValued (Buy Price)": 60.62894348904939
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "CRM",
-    "Company ": "Salesforce Inc",
+    "Company ": "#N/A",
     "Industry": "Software - Application",
     "Metric": "EPS",
     "EPS (ttm)": 6.87,
@@ -230,16 +230,16 @@
     "Cost of Equity": 0.17,
     "Growth Rate": 0.2800000000000006,
     "Terminal Rate": 0.04,
-    "Last Close": 193.45,
+    "Last Close": "#N/A",
     "Fair Value": 151.35116118651058,
-    "Over/UnderValued (Fair Value)": 27.815339164534624,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.4,
     "Buy Price": 90.81069671190635,
-    "Over/UnderValued (Buy Price)": 113.02556527422438
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "BA",
-    "Company ": "Boeing Co",
+    "Company ": "#N/A",
     "Industry": "Aerospace & Defense",
     "Metric": "P.Change",
     "EPS (ttm)": -13.7,
@@ -247,12 +247,12 @@
     "Cost of Equity": 0.18,
     "Growth Rate": -2.414999999999999,
     "Terminal Rate": 0.01,
-    "Last Close": 242.59,
-    "Fair Value": 148.7242359201661,
-    "Over/UnderValued (Fair Value)": 63.11396626049586,
+    "Last Close": "#N/A",
+    "Fair Value": "#N/A",
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
-    "Buy Price": 118.97938873613289,
-    "Over/UnderValued (Buy Price)": 103.89245782561983
+    "Buy Price": "#N/A",
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "AMZN",
@@ -264,16 +264,16 @@
     "Cost of Equity": 0.17,
     "Growth Rate": 0.33499999999999996,
     "Terminal Rate": 0.04,
-    "Last Close": 206.9,
+    "Last Close": 204.2,
     "Fair Value": 194.40270680280645,
-    "Over/UnderValued (Fair Value)": 6.428559253483157,
+    "Over/UnderValued (Fair Value)": 5.039689703051042,
     "MOS": 0.4,
     "Buy Price": 116.64162408168386,
-    "Over/UnderValued (Buy Price)": 77.38093208913864
+    "Over/UnderValued (Buy Price)": 75.06614950508508
   },
   {
     "Ticker": "AAPL",
-    "Company ": "Apple Inc",
+    "Company ": "#N/A",
     "Industry": "Consumer Electronics",
     "Metric": "EPS",
     "EPS (ttm)": 7.47,
@@ -281,16 +281,16 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.07500000000000001,
     "Terminal Rate": 0.01,
-    "Last Close": 273.68,
+    "Last Close": "#N/A",
     "Fair Value": 71.58815101673385,
-    "Over/UnderValued (Fair Value)": 282.2979028135911,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 57.27052081338708,
-    "Over/UnderValued (Buy Price)": 377.8723785169889
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "HON",
-    "Company ": "Honeywell International Inc",
+    "Company ": "#N/A",
     "Industry": "Conglomerates",
     "Metric": "EPS",
     "EPS (ttm)": 9.47,
@@ -298,12 +298,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": -8.673617379884035e-19,
     "Terminal Rate": 0.01,
-    "Last Close": 243.34,
+    "Last Close": "#N/A",
     "Fair Value": 70.34528640191616,
-    "Over/UnderValued (Fair Value)": 245.92225356747088,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 56.27622912153293,
-    "Over/UnderValued (Buy Price)": 332.40281695933857
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "NVDA",
@@ -315,16 +315,16 @@
     "Cost of Equity": 0.25,
     "Growth Rate": 0.605,
     "Terminal Rate": 0.04,
-    "Last Close": 188.54,
+    "Last Close": 190.01,
     "Fair Value": 153.2418335832015,
-    "Over/UnderValued (Fair Value)": 23.03428873919968,
+    "Over/UnderValued (Fair Value)": 23.993556822612348,
     "MOS": 0.4,
     "Buy Price": 91.94510014992089,
-    "Over/UnderValued (Buy Price)": 105.05714789866616
+    "Over/UnderValued (Buy Price)": 106.65592803768726
   },
   {
     "Ticker": "JNJ",
-    "Company ": "Johnson & Johnson",
+    "Company ": "#N/A",
     "Industry": "Drug Manufacturers - General",
     "Metric": "EPS",
     "EPS (ttm)": 10.35,
@@ -332,16 +332,16 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.034999999999999996,
     "Terminal Rate": 0.01,
-    "Last Close": 238.35,
+    "Last Close": "#N/A",
     "Fair Value": 89.91919447993095,
-    "Over/UnderValued (Fair Value)": 165.0713247361188,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 71.93535558394477,
-    "Over/UnderValued (Buy Price)": 231.3391559201485
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "PG",
-    "Company ": "Procter & Gamble Co",
+    "Company ": "#N/A",
     "Industry": "Household & Personal Products",
     "Metric": "EPS",
     "EPS (ttm)": 6.84,
@@ -349,16 +349,16 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.04499999999999999,
     "Terminal Rate": 0.01,
-    "Last Close": 159.08,
+    "Last Close": "#N/A",
     "Fair Value": 62.1291552595263,
-    "Over/UnderValued (Fair Value)": 156.04726047777416,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 49.703324207621044,
-    "Over/UnderValued (Buy Price)": 220.05907559721766
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "CVX",
-    "Company ": "Chevron Corp",
+    "Company ": "#N/A",
     "Industry": "Oil & Gas Integrated",
     "Metric": "EPS",
     "EPS (ttm)": 7.1,
@@ -366,16 +366,16 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.11,
     "Terminal Rate": 0.01,
-    "Last Close": 182.26,
+    "Last Close": "#N/A",
     "Fair Value": 85.84906602408589,
-    "Over/UnderValued (Fair Value)": 112.30283384663147,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 68.67925281926871,
-    "Over/UnderValued (Buy Price)": 165.37854230828933
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "MMM",
-    "Company ": "3M Co",
+    "Company ": "#N/A",
     "Industry": "Conglomerates",
     "Metric": "EPS",
     "EPS (ttm)": 6.26,
@@ -383,16 +383,16 @@
     "Cost of Equity": 0.15,
     "Growth Rate": -0.07,
     "Terminal Rate": 0.01,
-    "Last Close": 173.43,
+    "Last Close": "#N/A",
     "Fair Value": 31.69297299877758,
-    "Over/UnderValued (Fair Value)": 447.2190949289905,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 25.354378399022067,
-    "Over/UnderValued (Buy Price)": 584.023868661238
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "DIS",
-    "Company ": "Walt Disney Co",
+    "Company ": "#N/A",
     "Industry": "Entertainment",
     "Metric": "EPS",
     "EPS (ttm)": 6.85,
@@ -400,16 +400,16 @@
     "Cost of Equity": 0.19,
     "Growth Rate": 0.095,
     "Terminal Rate": 0.01,
-    "Last Close": 109.96,
+    "Last Close": "#N/A",
     "Fair Value": 54.359330522355194,
-    "Over/UnderValued (Fair Value)": 102.28358028577836,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 43.487464417884155,
-    "Over/UnderValued (Buy Price)": 152.85447535722295
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "WMT",
-    "Company ": "Walmart Inc",
+    "Company ": "#N/A",
     "Industry": "Discount Stores",
     "Metric": "EPS",
     "EPS (ttm)": 2.86,
@@ -417,16 +417,16 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.05500000000000001,
     "Terminal Rate": 0.01,
-    "Last Close": 126.7,
+    "Last Close": "#N/A",
     "Fair Value": 27.156865065400424,
-    "Over/UnderValued (Fair Value)": 366.5486965998291,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 21.72549205232034,
-    "Over/UnderValued (Buy Price)": 483.1858707497863
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "MRK",
-    "Company ": "Merck & Co Inc",
+    "Company ": "#N/A",
     "Industry": "Drug Manufacturers - General",
     "Metric": "EPS",
     "EPS (ttm)": 7.56,
@@ -434,16 +434,16 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.1499999999999995,
     "Terminal Rate": 0.02,
-    "Last Close": 117.15,
+    "Last Close": "#N/A",
     "Fair Value": 114.49031866868776,
-    "Over/UnderValued (Fair Value)": 2.323062213678373,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.30000000000000004,
     "Buy Price": 80.14322306808143,
-    "Over/UnderValued (Buy Price)": 46.175803162397685
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "NKE",
-    "Company ": "Nike Inc",
+    "Company ": "#N/A",
     "Industry": "Apparel - Footwear & Accessories",
     "Metric": "EPS",
     "EPS (ttm)": 1.95,
@@ -451,16 +451,16 @@
     "Cost of Equity": 0.16,
     "Growth Rate": 0.17,
     "Terminal Rate": 0.02,
-    "Last Close": 63.04,
+    "Last Close": "#N/A",
     "Fair Value": 27.016148905367935,
-    "Over/UnderValued (Fair Value)": 133.34191790553228,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.30000000000000004,
     "Buy Price": 18.91130423375755,
-    "Over/UnderValued (Buy Price)": 233.34559700790328
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "KO",
-    "Company ": "Coca-Cola Co",
+    "Company ": "#N/A",
     "Industry": "Beverages - Non-Alcoholic",
     "Metric": "EPS",
     "EPS (ttm)": 3.02,
@@ -468,12 +468,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.05999999999999999,
     "Terminal Rate": 0.01,
-    "Last Close": 76.81,
+    "Last Close": "#N/A",
     "Fair Value": 29.31818356904886,
-    "Over/UnderValued (Fair Value)": 161.9875812534585,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 23.454546855239087,
-    "Over/UnderValued (Buy Price)": 227.48447656682313
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "CSCO",
@@ -485,16 +485,16 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.035000000000000926,
     "Terminal Rate": 0.01,
-    "Last Close": 86.27,
+    "Last Close": 85.54,
     "Fair Value": 22.501518232176068,
-    "Over/UnderValued (Fair Value)": 283.3963517921121,
+    "Over/UnderValued (Fair Value)": 280.1521262582273,
     "MOS": 0.19999999999999996,
     "Buy Price": 18.001214585740854,
-    "Over/UnderValued (Buy Price)": 379.2454397401401
+    "Over/UnderValued (Buy Price)": 375.19015782278416
   },
   {
     "Ticker": "VZ",
-    "Company ": "Verizon Communications Inc",
+    "Company ": "#N/A",
     "Industry": "Telecommunications Services",
     "Metric": "EPS",
     "EPS (ttm)": 4.69,
@@ -502,11 +502,11 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.040000000000000015,
     "Terminal Rate": 0.01,
-    "Last Close": 47.39,
+    "Last Close": "#N/A",
     "Fair Value": 41.6634304814165,
-    "Over/UnderValued (Fair Value)": 13.744834384527627,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 33.3307443851332,
-    "Over/UnderValued (Buy Price)": 42.18104298065952
+    "Over/UnderValued (Buy Price)": "#N/A"
   }
 ]
