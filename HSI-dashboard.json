@@ -562,7 +562,7 @@
   },
   {
     "Ticker": "0011",
-    "Company ": "Hang Seng Bank Ord Shs",
+    "Company ": "#N/A",
     "Industry": "Banks - Regional",
     "Metric": "BV Per Share",
     "EPS (ttm)": 7.63,
@@ -570,12 +570,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.060000000000000046,
     "Terminal Rate": 0.01,
-    "Last Close": 154.3,
+    "Last Close": "#N/A",
     "Fair Value": 89.45,
-    "Over/UnderValued (Fair Value)": 72.49860257126888,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 71.56,
-    "Over/UnderValued (Buy Price)": 115.62325321408609
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "9633",
