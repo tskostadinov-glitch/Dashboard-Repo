@@ -35,7 +35,7 @@
   },
   {
     "Ticker": "AAPL",
-    "Company ": "Apple Inc",
+    "Company ": "#N/A",
     "Industry": "Consumer Electronics",
     "Metric": "EPS",
     "EPS (ttm)": 7.47,
@@ -43,16 +43,16 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.07500000000000001,
     "Terminal Rate": 0.01,
-    "Last Close": 264.58,
+    "Last Close": "#N/A",
     "Fair Value": 71.58815101673385,
-    "Over/UnderValued (Fair Value)": 269.5863019819495,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 57.27052081338708,
-    "Over/UnderValued (Buy Price)": 361.98287747743683
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "AMZN",
-    "Company ": "Amazon.com Inc",
+    "Company ": "#N/A",
     "Industry": "Specialty Retail",
     "Metric": "EPS",
     "EPS (ttm)": 7.07,
@@ -60,16 +60,16 @@
     "Cost of Equity": 0.17,
     "Growth Rate": 0.33499999999999996,
     "Terminal Rate": 0.04,
-    "Last Close": 210.11,
+    "Last Close": "#N/A",
     "Fair Value": 193.85432117007645,
-    "Over/UnderValued (Fair Value)": 8.385512756077173,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.4,
     "Buy Price": 116.31259270204586,
-    "Over/UnderValued (Buy Price)": 80.64252126012863
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "AVGO",
-    "Company ": "Broadcom Inc",
+    "Company ": "#N/A",
     "Industry": "Semiconductors",
     "Metric": "EPS",
     "EPS (ttm)": 3.9,
@@ -77,12 +77,12 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.16500000000000004,
     "Terminal Rate": 0.02,
-    "Last Close": 332.65,
+    "Last Close": "#N/A",
     "Fair Value": 57.566034023318934,
-    "Over/UnderValued (Fair Value)": 477.8581165852934,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.30000000000000004,
     "Buy Price": 40.29622381632325,
-    "Over/UnderValued (Buy Price)": 725.5115951218478
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "META",
@@ -171,7 +171,7 @@
   },
   {
     "Ticker": "COST",
-    "Company ": "Costco Wholesale Corp",
+    "Company ": "#N/A",
     "Industry": "Discount Stores",
     "Metric": "EPS",
     "EPS (ttm)": 18.25,
@@ -179,12 +179,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.12499999999999999,
     "Terminal Rate": 0.02,
-    "Last Close": 985.27,
+    "Last Close": "#N/A",
     "Fair Value": 247.8405236884842,
-    "Over/UnderValued (Fair Value)": 297.5419295185181,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.30000000000000004,
     "Buy Price": 173.48836658193895,
-    "Over/UnderValued (Buy Price)": 467.9170421693115
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "PLTR",
@@ -205,7 +205,7 @@
   },
   {
     "Ticker": "CSCO",
-    "Company ": "Cisco Systems Inc",
+    "Company ": "#N/A",
     "Industry": "Communication Equipment",
     "Metric": "EPS",
     "EPS (ttm)": 2.59,
@@ -213,12 +213,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.035000000000000926,
     "Terminal Rate": 0.01,
-    "Last Close": 79.2,
+    "Last Close": "#N/A",
     "Fair Value": 22.501518232176068,
-    "Over/UnderValued (Fair Value)": 251.97624970366616,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 18.001214585740854,
-    "Over/UnderValued (Buy Price)": 339.97031212958274
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "TMUS",
@@ -324,7 +324,7 @@
   },
   {
     "Ticker": "BKNG",
-    "Company ": "Booking Holdings Inc",
+    "Company ": "#N/A",
     "Industry": "Travel Services",
     "Metric": "P.Change",
     "EPS (ttm)": 153.83,
@@ -332,12 +332,12 @@
     "Cost of Equity": 0.18,
     "Growth Rate": 1.8199999999999994,
     "Terminal Rate": 0.04,
-    "Last Close": 4076.79,
-    "Fair Value": 9246.605002285194,
-    "Over/UnderValued (Fair Value)": -55.91041253527682,
+    "Last Close": "#N/A",
+    "Fair Value": "#N/A",
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.4,
-    "Buy Price": 5547.963001371117,
-    "Over/UnderValued (Buy Price)": -26.517354225461364
+    "Buy Price": "#N/A",
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "ISRG",
@@ -358,7 +358,7 @@
   },
   {
     "Ticker": "TXN",
-    "Company ": "Texas Instruments Inc",
+    "Company ": "#N/A",
     "Industry": "Semiconductors",
     "Metric": "EPS",
     "EPS (ttm)": 5.49,
@@ -366,12 +366,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.010000000000000009,
     "Terminal Rate": 0.01,
-    "Last Close": 219.73,
+    "Last Close": "#N/A",
     "Fair Value": 42.65307692307691,
-    "Over/UnderValued (Fair Value)": 415.15626972533335,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 34.12246153846153,
-    "Over/UnderValued (Buy Price)": 543.9453371566667
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "QCOM",
@@ -392,7 +392,7 @@
   },
   {
     "Ticker": "AMGN",
-    "Company ": "Amgen Inc",
+    "Company ": "#N/A",
     "Industry": "Drug Manufacturers - General",
     "Metric": "EPS",
     "EPS (ttm)": 12.93,
@@ -400,16 +400,16 @@
     "Cost of Equity": 0.14,
     "Growth Rate": -0.0049999999999999975,
     "Terminal Rate": 0.01,
-    "Last Close": 374.75,
+    "Last Close": "#N/A",
     "Fair Value": 93.91207582624762,
-    "Over/UnderValued (Fair Value)": 299.04346347678177,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 75.1296606609981,
-    "Over/UnderValued (Buy Price)": 398.8043293459771
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "ADBE",
-    "Company ": "Adobe Inc",
+    "Company ": "#N/A",
     "Industry": "Software - Infrastructure",
     "Metric": "EPS",
     "EPS (ttm)": 16.04,
@@ -417,16 +417,16 @@
     "Cost of Equity": 0.19,
     "Growth Rate": 0.14500000000000002,
     "Terminal Rate": 0.02,
-    "Last Close": 258.61,
+    "Last Close": "#N/A",
     "Fair Value": 160.6426504186963,
-    "Over/UnderValued (Fair Value)": 60.98464469178222,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.30000000000000004,
     "Buy Price": 112.4498552930874,
-    "Over/UnderValued (Buy Price)": 129.97806384540317
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "AMAT",
-    "Company ": "Applied Materials Inc",
+    "Company ": "#N/A",
     "Industry": "Semiconductors",
     "Metric": "EPS",
     "EPS (ttm)": 8.66,
@@ -434,12 +434,12 @@
     "Cost of Equity": 0.2,
     "Growth Rate": 0.195,
     "Terminal Rate": 0.03,
-    "Last Close": 375.38,
+    "Last Close": "#N/A",
     "Fair Value": 102.37875498799947,
-    "Over/UnderValued (Fair Value)": 266.6581021072203,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.35,
     "Buy Price": 66.54619074219966,
-    "Over/UnderValued (Buy Price)": 464.089387857262
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "HON",
@@ -630,7 +630,7 @@
   },
   {
     "Ticker": "CRWD",
-    "Company ": "Crowdstrike Holdings Inc",
+    "Company ": "#N/A",
     "Industry": "Software - Infrastructure",
     "Metric": "P.Change",
     "EPS (ttm)": -1.28,
@@ -638,12 +638,12 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 1.2049999999999998,
     "Terminal Rate": 0.04,
-    "Last Close": 388.6,
-    "Fair Value": 1467.1343649647017,
-    "Over/UnderValued (Fair Value)": -73.51299176954733,
+    "Last Close": "#N/A",
+    "Fair Value": "#N/A",
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.4,
-    "Buy Price": 880.280618978821,
-    "Over/UnderValued (Buy Price)": -55.85498628257889
+    "Buy Price": "#N/A",
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "ADI",
@@ -732,7 +732,7 @@
   },
   {
     "Ticker": "CDNS",
-    "Company ": "Cadence Design Systems Inc",
+    "Company ": "#N/A",
     "Industry": "Software - Application",
     "Metric": "EPS",
     "EPS (ttm)": 3.88,
@@ -740,12 +740,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.2,
     "Terminal Rate": 0.03,
-    "Last Close": 296.28,
+    "Last Close": "#N/A",
     "Fair Value": 77.38866270180333,
-    "Over/UnderValued (Fair Value)": 282.84677581474216,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.35,
     "Buy Price": 50.302630756172164,
-    "Over/UnderValued (Buy Price)": 488.9950397149879
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "MSTR",
@@ -817,7 +817,7 @@
   },
   {
     "Ticker": "TRI",
-    "Company ": "Thomson Reuters Corp",
+    "Company ": "#N/A",
     "Industry": "Specialty Business Services",
     "Metric": "EPS",
     "EPS (ttm)": 3.88,
@@ -825,12 +825,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.17500000000000007,
     "Terminal Rate": 0.02,
-    "Last Close": 83.2,
+    "Last Close": "#N/A",
     "Fair Value": 65.45468647096615,
-    "Over/UnderValued (Fair Value)": 27.110837261293995,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.30000000000000004,
     "Buy Price": 45.8182805296763,
-    "Over/UnderValued (Buy Price)": 81.58691037327716
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "MDLZ",
@@ -936,7 +936,7 @@
   },
   {
     "Ticker": "AXON",
-    "Company ": "Axon Enterprise Inc",
+    "Company ": "#N/A",
     "Industry": "Aerospace & Defense",
     "Metric": "EPS",
     "EPS (ttm)": 3.14,
@@ -944,16 +944,16 @@
     "Cost of Equity": 0.17,
     "Growth Rate": 0.2849999999999997,
     "Terminal Rate": 0.04,
-    "Last Close": 433.91,
+    "Last Close": "#N/A",
     "Fair Value": 70.58203701714532,
-    "Over/UnderValued (Fair Value)": 514.7598147310448,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.4,
     "Buy Price": 42.349222210287195,
-    "Over/UnderValued (Buy Price)": 924.5996912184079
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "ADSK",
-    "Company ": "Autodesk Inc",
+    "Company ": "#N/A",
     "Industry": "Software - Application",
     "Metric": "P.Change",
     "EPS (ttm)": 5.15,
@@ -961,12 +961,12 @@
     "Cost of Equity": 0.18,
     "Growth Rate": 1.555000000000003,
     "Terminal Rate": 0.04,
-    "Last Close": 226.98,
-    "Fair Value": 115.01743512943862,
-    "Over/UnderValued (Fair Value)": 97.34399375586895,
+    "Last Close": "#N/A",
+    "Fair Value": "#N/A",
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.4,
-    "Buy Price": 69.01046107766317,
-    "Over/UnderValued (Buy Price)": 228.90665625978164
+    "Buy Price": "#N/A",
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "MRVL",
@@ -1004,7 +1004,7 @@
   },
   {
     "Ticker": "ASML",
-    "Company ": "ASML Holding NV",
+    "Company ": "#N/A",
     "Industry": "Semiconductors",
     "Metric": "EPS",
     "EPS (ttm)": 28.26,
@@ -1012,12 +1012,12 @@
     "Cost of Equity": 0.16,
     "Growth Rate": 0.21000000000000002,
     "Terminal Rate": 0.03,
-    "Last Close": 1469.59,
+    "Last Close": "#N/A",
     "Fair Value": 485.48239926552964,
-    "Over/UnderValued (Fair Value)": 202.7071634776656,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.35,
     "Buy Price": 315.5635595225943,
-    "Over/UnderValued (Buy Price)": 365.7033284271778
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "REGN",
@@ -1072,7 +1072,7 @@
   },
   {
     "Ticker": "ABNB",
-    "Company ": "Airbnb Inc",
+    "Company ": "#N/A",
     "Industry": "Travel Services",
     "Metric": "EPS",
     "EPS (ttm)": 4.2,
@@ -1080,12 +1080,12 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.20999999999999952,
     "Terminal Rate": 0.03,
-    "Last Close": 127.89,
+    "Last Close": "#N/A",
     "Fair Value": 79.13712530209393,
-    "Over/UnderValued (Fair Value)": 61.60556693435526,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.35,
     "Buy Price": 51.43913144636106,
-    "Over/UnderValued (Buy Price)": 148.6239491297773
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "FAST",
@@ -1225,7 +1225,7 @@
   },
   {
     "Ticker": "CPRT",
-    "Company ": "Copart Inc",
+    "Company ": "#N/A",
     "Industry": "Auto - Dealerships",
     "Metric": "EPS",
     "EPS (ttm)": 1.63,
@@ -1233,12 +1233,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.20500000000000002,
     "Terminal Rate": 0.03,
-    "Last Close": 36.48,
+    "Last Close": "#N/A",
     "Fair Value": 33.21565599755643,
-    "Over/UnderValued (Fair Value)": 9.82772702933734,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.35,
     "Buy Price": 21.590176398411682,
-    "Over/UnderValued (Buy Price)": 68.96573389128821
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "KDP",
@@ -1327,7 +1327,7 @@
   },
   {
     "Ticker": "XEL",
-    "Company ": "Xcel Energy Inc",
+    "Company ": "#N/A",
     "Industry": "Regulated Electric",
     "Metric": "EPS",
     "EPS (ttm)": 3.28,
@@ -1335,12 +1335,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.06000000000000001,
     "Terminal Rate": 0.01,
-    "Last Close": 81.55,
+    "Last Close": "#N/A",
     "Fair Value": 31.84226559817227,
-    "Over/UnderValued (Fair Value)": 156.10614844152587,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 25.473812478537816,
-    "Over/UnderValued (Buy Price)": 220.13268555190731
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "FANG",
@@ -1361,7 +1361,7 @@
   },
   {
     "Ticker": "CCEP",
-    "Company ": "Coca-Cola Europacific Partners PLC",
+    "Company ": "#N/A",
     "Industry": "Beverages - Non-Alcoholic",
     "Metric": "EPS",
     "EPS (ttm)": 3.89,
@@ -1369,12 +1369,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.10999999999999999,
     "Terminal Rate": 0.01,
-    "Last Close": 105.7,
+    "Last Close": "#N/A",
     "Fair Value": 47.03561504699913,
-    "Over/UnderValued (Fair Value)": 124.72332910791533,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 37.62849203759931,
-    "Over/UnderValued (Buy Price)": 180.90416138489417
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "TTWO",
@@ -1412,7 +1412,7 @@
   },
   {
     "Ticker": "CSGP",
-    "Company ": "CoStar Group Inc",
+    "Company ": "#N/A",
     "Industry": "Real Estate - Services",
     "Metric": "EPS",
     "EPS (ttm)": 0.06,
@@ -1420,16 +1420,16 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.095,
     "Terminal Rate": 0.01,
-    "Last Close": 49.87,
+    "Last Close": "#N/A",
     "Fair Value": 0.6794966554785825,
-    "Over/UnderValued (Fair Value)": 7239.256138777549,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 0.543597324382866,
-    "Over/UnderValued (Buy Price)": 9074.070173471935
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "TTD",
-    "Company ": "Trade Desk Inc",
+    "Company ": "#N/A",
     "Industry": "Software - Application",
     "Metric": "EPS",
     "EPS (ttm)": 0.88,
@@ -1437,16 +1437,16 @@
     "Cost of Equity": 0.17,
     "Growth Rate": 0.5249999999999999,
     "Terminal Rate": 0.04,
-    "Last Close": 25.1,
+    "Last Close": "#N/A",
     "Fair Value": 49.2766900539265,
-    "Over/UnderValued (Fair Value)": -49.063137210450755,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.4,
     "Buy Price": 29.5660140323559,
-    "Over/UnderValued (Buy Price)": -15.105228684084581
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "CHTR",
-    "Company ": "Charter Communications Inc",
+    "Company ": "#N/A",
     "Industry": "Telecommunications Services",
     "Metric": "EPS",
     "EPS (ttm)": 36.06,
@@ -1454,12 +1454,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.03999999999999997,
     "Terminal Rate": 0.01,
-    "Last Close": 230.16,
+    "Last Close": "#N/A",
     "Fair Value": 320.337591292085,
-    "Over/UnderValued (Fair Value)": -28.15079895192841,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 256.270073033668,
-    "Over/UnderValued (Buy Price)": -10.188498689910519
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "VRSK",
@@ -1565,7 +1565,7 @@
   },
   {
     "Ticker": "WBD",
-    "Company ": "Warner Bros Discovery Inc",
+    "Company ": "#N/A",
     "Industry": "Entertainment",
     "Metric": "EPS",
     "EPS (ttm)": 0.19,
@@ -1573,12 +1573,12 @@
     "Cost of Equity": 0.19,
     "Growth Rate": 0.10500000000000001,
     "Terminal Rate": 0.01,
-    "Last Close": 28.75,
+    "Last Close": "#N/A",
     "Fair Value": 1.5700370376223862,
-    "Over/UnderValued (Fair Value)": 1731.1669923110908,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 1.256029630097909,
-    "Over/UnderValued (Buy Price)": 2188.958740388863
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "TEAM",
@@ -1667,7 +1667,7 @@
   },
   {
     "Ticker": "BIIB",
-    "Company ": "Biogen Inc",
+    "Company ": "#N/A",
     "Industry": "Drug Manufacturers - General",
     "Metric": "EPS",
     "EPS (ttm)": 10.97,
@@ -1675,12 +1675,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.035,
     "Terminal Rate": 0.01,
-    "Last Close": 192.03,
+    "Last Close": "#N/A",
     "Fair Value": 95.30565830384951,
-    "Over/UnderValued (Fair Value)": 101.48856155820044,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 76.24452664307961,
-    "Over/UnderValued (Buy Price)": 151.86070194775056
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "GFS",
