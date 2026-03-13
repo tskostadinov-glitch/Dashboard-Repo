@@ -9,12 +9,12 @@
     "Cost of Equity": 0.17,
     "Growth Rate": 0.125,
     "Terminal Rate": 0.02,
-    "Last Close": 787.52,
+    "Last Close": 782.21,
     "Fair Value": 371.83,
-    "Over/UnderValued (Fair Value)": 111.79571309469382,
+    "Over/UnderValued (Fair Value)": 110.3676411263212,
     "MOS": 0.30000000000000004,
     "Buy Price": 260.28099999999995,
-    "Over/UnderValued (Buy Price)": 202.56530442099123
+    "Over/UnderValued (Buy Price)": 200.52520160903035
   },
   {
     "Ticker": "MSFT",
@@ -26,12 +26,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.20499999999999996,
     "Terminal Rate": 0.03,
-    "Last Close": 401.91,
+    "Last Close": 395.55,
     "Fair Value": 286.7142821384166,
-    "Over/UnderValued (Fair Value)": 40.17787917728164,
+    "Over/UnderValued (Fair Value)": 37.959642976222916,
     "MOS": 0.35,
     "Buy Price": 186.36428338997078,
-    "Over/UnderValued (Buy Price)": 115.6582756573564
+    "Over/UnderValued (Buy Price)": 112.2456045788045
   },
   {
     "Ticker": "CAT",
@@ -43,12 +43,12 @@
     "Cost of Equity": 0.18,
     "Growth Rate": 0.10999999999999997,
     "Terminal Rate": 0.01,
-    "Last Close": 700.69,
+    "Last Close": 693.99,
     "Fair Value": 174.88236939995494,
-    "Over/UnderValued (Fair Value)": 300.6636017136331,
+    "Over/UnderValued (Fair Value)": 296.83245508462267,
     "MOS": 0.19999999999999996,
     "Buy Price": 139.90589551996396,
-    "Over/UnderValued (Buy Price)": 400.82950214204135
+    "Over/UnderValued (Buy Price)": 396.0405688557782
   },
   {
     "Ticker": "HD",
@@ -60,12 +60,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.0850000000000001,
     "Terminal Rate": 0.01,
-    "Last Close": 338.93,
+    "Last Close": 339.03,
     "Fair Value": 159.01052525999276,
-    "Over/UnderValued (Fair Value)": 113.14941224540136,
+    "Over/UnderValued (Fair Value)": 113.2123011641295,
     "MOS": 0.19999999999999996,
     "Buy Price": 127.20842020799421,
-    "Over/UnderValued (Buy Price)": 166.43676530675168
+    "Over/UnderValued (Buy Price)": 166.51537645516186
   },
   {
     "Ticker": "SHW",
@@ -77,12 +77,12 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.09999999999999998,
     "Terminal Rate": 0.01,
-    "Last Close": 317.7,
+    "Last Close": 319.78,
     "Fair Value": 109.31916464631287,
-    "Over/UnderValued (Fair Value)": 190.6169298200134,
+    "Over/UnderValued (Fair Value)": 192.51961541656874,
     "MOS": 0.19999999999999996,
     "Buy Price": 87.4553317170503,
-    "Over/UnderValued (Buy Price)": 263.27116227501676
+    "Over/UnderValued (Buy Price)": 265.6495192707109
   },
   {
     "Ticker": "V",
@@ -94,12 +94,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.1,
     "Terminal Rate": 0.01,
-    "Last Close": 306.5,
+    "Last Close": 307.14,
     "Fair Value": 118.06814957134995,
-    "Over/UnderValued (Fair Value)": 159.59583605973134,
+    "Over/UnderValued (Fair Value)": 160.13789588054118,
     "MOS": 0.19999999999999996,
     "Buy Price": 94.45451965707997,
-    "Over/UnderValued (Buy Price)": 224.49479507466413
+    "Over/UnderValued (Buy Price)": 225.17236985067646
   },
   {
     "Ticker": "MCD",
@@ -111,12 +111,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.06000000000000001,
     "Terminal Rate": 0.01,
-    "Last Close": 323.91,
+    "Last Close": 326.46,
     "Fair Value": 113.77785146663996,
-    "Over/UnderValued (Fair Value)": 184.68633905868006,
+    "Over/UnderValued (Fair Value)": 186.92754854464724,
     "MOS": 0.19999999999999996,
     "Buy Price": 91.02228117331197,
-    "Over/UnderValued (Buy Price)": 255.8579238233501
+    "Over/UnderValued (Buy Price)": 258.65943568080905
   },
   {
     "Ticker": "AXP",
@@ -128,12 +128,12 @@
     "Cost of Equity": 0.17,
     "Growth Rate": 0.175,
     "Terminal Rate": 0.02,
-    "Last Close": 301.89,
+    "Last Close": 299.96,
     "Fair Value": 194.69260760441728,
-    "Over/UnderValued (Fair Value)": 55.05981645352958,
+    "Over/UnderValued (Fair Value)": 54.068510197094064,
     "MOS": 0.30000000000000004,
     "Buy Price": 136.2848253230921,
-    "Over/UnderValued (Buy Price)": 121.51402350504226
+    "Over/UnderValued (Buy Price)": 120.09787171013437
   },
   {
     "Ticker": "JPM",
@@ -145,12 +145,12 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.11499999999999999,
     "Terminal Rate": 0.01,
-    "Last Close": 282.89,
+    "Last Close": 283.44,
     "Fair Value": 119.96,
-    "Over/UnderValued (Fair Value)": 135.82027342447483,
+    "Over/UnderValued (Fair Value)": 136.27875958652885,
     "MOS": 0.19999999999999996,
     "Buy Price": 95.968,
-    "Over/UnderValued (Buy Price)": 194.77534178059352
+    "Over/UnderValued (Buy Price)": 195.34844948316103
   },
   {
     "Ticker": "AMGN",
@@ -162,12 +162,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": -0.0049999999999999975,
     "Terminal Rate": 0.01,
-    "Last Close": 367.79,
+    "Last Close": 366.21,
     "Fair Value": 93.83944467711672,
-    "Over/UnderValued (Fair Value)": 291.9353969596622,
+    "Over/UnderValued (Fair Value)": 290.25167003071834,
     "MOS": 0.19999999999999996,
     "Buy Price": 75.07155574169337,
-    "Over/UnderValued (Buy Price)": 389.9192461995778
+    "Over/UnderValued (Buy Price)": 387.81458753839786
   },
   {
     "Ticker": "TRV",
@@ -179,12 +179,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.10500000000000001,
     "Terminal Rate": 0.01,
-    "Last Close": 302.01,
+    "Last Close": 302.49,
     "Fair Value": 122.21,
-    "Over/UnderValued (Fair Value)": 147.12380328941984,
+    "Over/UnderValued (Fair Value)": 147.51656983880207,
     "MOS": 0.19999999999999996,
     "Buy Price": 97.768,
-    "Over/UnderValued (Buy Price)": 208.9047541117748
+    "Over/UnderValued (Buy Price)": 209.3957122985026
   },
   {
     "Ticker": "IBM",
@@ -196,12 +196,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.04499999999999997,
     "Terminal Rate": 0.01,
-    "Last Close": 247.68,
+    "Last Close": 246.28,
     "Fair Value": 76.20813050108563,
-    "Over/UnderValued (Fair Value)": 225.00469224405347,
+    "Over/UnderValued (Fair Value)": 223.16761791773857,
     "MOS": 0.19999999999999996,
     "Buy Price": 60.96650440086851,
-    "Over/UnderValued (Buy Price)": 306.2558653050668
+    "Over/UnderValued (Buy Price)": 303.9595223971732
   },
   {
     "Ticker": "UNH",
@@ -213,12 +213,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.09000000000000002,
     "Terminal Rate": 0.01,
-    "Last Close": 277.05,
+    "Last Close": 282.09,
     "Fair Value": 212.61734814515722,
-    "Over/UnderValued (Fair Value)": 30.30451297457326,
+    "Over/UnderValued (Fair Value)": 32.67496865185839,
     "MOS": 0.19999999999999996,
     "Buy Price": 170.09387851612578,
-    "Over/UnderValued (Buy Price)": 62.88064121821657
+    "Over/UnderValued (Buy Price)": 65.84371081482298
   },
   {
     "Ticker": "CRM",
@@ -230,12 +230,12 @@
     "Cost of Equity": 0.17,
     "Growth Rate": 0.2800000000000006,
     "Terminal Rate": 0.04,
-    "Last Close": 199.28,
+    "Last Close": 192.83,
     "Fair Value": 151.35116118651058,
-    "Over/UnderValued (Fair Value)": 31.667308290041163,
+    "Over/UnderValued (Fair Value)": 27.405695792696893,
     "MOS": 0.4,
     "Buy Price": 90.81069671190635,
-    "Over/UnderValued (Buy Price)": 119.44551381673527
+    "Over/UnderValued (Buy Price)": 112.34282632116152
   },
   {
     "Ticker": "BA",
@@ -247,11 +247,11 @@
     "Cost of Equity": 0.18,
     "Growth Rate": -2.414999999999999,
     "Terminal Rate": 0.01,
-    "Last Close": 204.76,
-    "Fair Value": 125.53186259537989,
-    "Over/UnderValued (Fair Value)": 63.11396626049588,
+    "Last Close": 209.89,
+    "Fair Value": 128.6769029114294,
+    "Over/UnderValued (Fair Value)": 63.11396626049586,
     "MOS": 0.19999999999999996,
-    "Buy Price": 100.42549007630392,
+    "Buy Price": 102.94152232914354,
     "Over/UnderValued (Buy Price)": 103.89245782561983
   },
   {
@@ -264,12 +264,12 @@
     "Cost of Equity": 0.17,
     "Growth Rate": 0.33499999999999996,
     "Terminal Rate": 0.04,
-    "Last Close": 209.53,
+    "Last Close": 207.67,
     "Fair Value": 194.40270680280645,
-    "Over/UnderValued (Fair Value)": 7.781421074829997,
+    "Over/UnderValued (Fair Value)": 6.824644273421199,
     "MOS": 0.4,
     "Buy Price": 116.64162408168386,
-    "Over/UnderValued (Buy Price)": 79.63570179138335
+    "Over/UnderValued (Buy Price)": 78.04107378903535
   },
   {
     "Ticker": "AAPL",
@@ -281,12 +281,12 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.07500000000000001,
     "Terminal Rate": 0.01,
-    "Last Close": 255.76,
+    "Last Close": 250.12,
     "Fair Value": 71.58815101673385,
-    "Over/UnderValued (Fair Value)": 257.265827329743,
+    "Over/UnderValued (Fair Value)": 249.38742857254974,
     "MOS": 0.19999999999999996,
     "Buy Price": 57.27052081338708,
-    "Over/UnderValued (Buy Price)": 346.58228416217867
+    "Over/UnderValued (Buy Price)": 336.7342857156872
   },
   {
     "Ticker": "HON",
@@ -298,12 +298,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": -8.673617379884035e-19,
     "Terminal Rate": 0.01,
-    "Last Close": 233.4,
+    "Last Close": 234.5,
     "Fair Value": 70.34528640191616,
-    "Over/UnderValued (Fair Value)": 231.79195357379677,
+    "Over/UnderValued (Fair Value)": 233.3556688648472,
     "MOS": 0.19999999999999996,
     "Buy Price": 56.27622912153293,
-    "Over/UnderValued (Buy Price)": 314.73994196724584
+    "Over/UnderValued (Buy Price)": 316.694586081059
   },
   {
     "Ticker": "NVDA",
@@ -315,12 +315,12 @@
     "Cost of Equity": 0.25,
     "Growth Rate": 0.605,
     "Terminal Rate": 0.04,
-    "Last Close": 183.14,
+    "Last Close": 180.25,
     "Fair Value": 153.2418335832015,
-    "Over/UnderValued (Fair Value)": 19.51044680013274,
+    "Over/UnderValued (Fair Value)": 17.624538799409905,
     "MOS": 0.4,
     "Buy Price": 91.94510014992089,
-    "Over/UnderValued (Buy Price)": 99.18407800022126
+    "Over/UnderValued (Buy Price)": 96.04089799901652
   },
   {
     "Ticker": "JNJ",
@@ -332,12 +332,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.034999999999999996,
     "Terminal Rate": 0.01,
-    "Last Close": 242.04,
+    "Last Close": 241.52,
     "Fair Value": 89.91919447993095,
-    "Over/UnderValued (Fair Value)": 169.1750091845194,
+    "Over/UnderValued (Fair Value)": 168.59671218908085,
     "MOS": 0.19999999999999996,
     "Buy Price": 71.93535558394477,
-    "Over/UnderValued (Buy Price)": 236.4687614806492
+    "Over/UnderValued (Buy Price)": 235.74589023635104
   },
   {
     "Ticker": "PG",
@@ -349,12 +349,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.04499999999999999,
     "Terminal Rate": 0.01,
-    "Last Close": 150.5,
+    "Last Close": 150.65,
     "Fair Value": 62.1291552595263,
-    "Over/UnderValued (Fair Value)": 142.2373189709895,
+    "Over/UnderValued (Fair Value)": 142.4787515148144,
     "MOS": 0.19999999999999996,
     "Buy Price": 49.703324207621044,
-    "Over/UnderValued (Buy Price)": 202.7966487137368
+    "Over/UnderValued (Buy Price)": 203.09843939351794
   },
   {
     "Ticker": "CVX",
@@ -366,12 +366,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.11,
     "Terminal Rate": 0.01,
-    "Last Close": 196.97,
+    "Last Close": 196.82,
     "Fair Value": 85.84906602408589,
-    "Over/UnderValued (Fair Value)": 129.4375572411445,
+    "Over/UnderValued (Fair Value)": 129.26283198559202,
     "MOS": 0.19999999999999996,
     "Buy Price": 68.67925281926871,
-    "Over/UnderValued (Buy Price)": 186.7969465514306
+    "Over/UnderValued (Buy Price)": 186.57853998199002
   },
   {
     "Ticker": "MMM",
@@ -383,12 +383,12 @@
     "Cost of Equity": 0.15,
     "Growth Rate": -0.07,
     "Terminal Rate": 0.01,
-    "Last Close": 149.1,
+    "Last Close": 150.96,
     "Fair Value": 31.69297299877758,
-    "Over/UnderValued (Fair Value)": 370.4512890152365,
+    "Over/UnderValued (Fair Value)": 376.3200978520464,
     "MOS": 0.19999999999999996,
     "Buy Price": 25.354378399022067,
-    "Over/UnderValued (Buy Price)": 488.0641112690456
+    "Over/UnderValued (Buy Price)": 495.4001223150579
   },
   {
     "Ticker": "DIS",
@@ -400,12 +400,12 @@
     "Cost of Equity": 0.19,
     "Growth Rate": 0.095,
     "Terminal Rate": 0.01,
-    "Last Close": 99.43,
+    "Last Close": 99.29,
     "Fair Value": 54.359330522355194,
-    "Over/UnderValued (Fair Value)": 82.91248079133271,
+    "Over/UnderValued (Fair Value)": 82.65493530897541,
     "MOS": 0.19999999999999996,
     "Buy Price": 43.487464417884155,
-    "Over/UnderValued (Buy Price)": 128.6406009891659
+    "Over/UnderValued (Buy Price)": 128.31866913621926
   },
   {
     "Ticker": "WMT",
@@ -417,12 +417,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.05500000000000001,
     "Terminal Rate": 0.01,
-    "Last Close": 125.33,
+    "Last Close": 126.52,
     "Fair Value": 27.156865065400424,
-    "Over/UnderValued (Fair Value)": 361.50393168789725,
+    "Over/UnderValued (Fair Value)": 365.885880771984,
     "MOS": 0.19999999999999996,
     "Buy Price": 21.72549205232034,
-    "Over/UnderValued (Buy Price)": 476.8799146098715
+    "Over/UnderValued (Buy Price)": 482.35735096497996
   },
   {
     "Ticker": "MRK",
@@ -434,12 +434,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.1499999999999995,
     "Terminal Rate": 0.02,
-    "Last Close": 115.91,
+    "Last Close": 115.61,
     "Fair Value": 114.49031866868776,
-    "Over/UnderValued (Fair Value)": 1.2400012051853038,
+    "Over/UnderValued (Fair Value)": 0.9779703160337716,
     "MOS": 0.30000000000000004,
     "Buy Price": 80.14322306808143,
-    "Over/UnderValued (Buy Price)": 44.62857315026474
+    "Over/UnderValued (Buy Price)": 44.25424330861969
   },
   {
     "Ticker": "NKE",
@@ -451,12 +451,12 @@
     "Cost of Equity": 0.16,
     "Growth Rate": 0.17,
     "Terminal Rate": 0.02,
-    "Last Close": 54.13,
+    "Last Close": 53.98,
     "Fair Value": 27.016148905367935,
-    "Over/UnderValued (Fair Value)": 100.3616436584147,
+    "Over/UnderValued (Fair Value)": 99.80642018624097,
     "MOS": 0.30000000000000004,
     "Buy Price": 18.91130423375755,
-    "Over/UnderValued (Buy Price)": 186.23091951202105
+    "Over/UnderValued (Buy Price)": 185.43774312320144
   },
   {
     "Ticker": "KO",
@@ -468,12 +468,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.05999999999999999,
     "Terminal Rate": 0.01,
-    "Last Close": 77.61,
+    "Last Close": 77.34,
     "Fair Value": 29.31818356904886,
-    "Over/UnderValued (Fair Value)": 164.71626326104564,
+    "Over/UnderValued (Fair Value)": 163.79533308348496,
     "MOS": 0.19999999999999996,
     "Buy Price": 23.454546855239087,
-    "Over/UnderValued (Buy Price)": 230.89532907630704
+    "Over/UnderValued (Buy Price)": 229.74416635435625
   },
   {
     "Ticker": "CSCO",
@@ -485,12 +485,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.035000000000000926,
     "Terminal Rate": 0.01,
-    "Last Close": 77.74,
+    "Last Close": 78.33,
     "Fair Value": 22.501518232176068,
-    "Over/UnderValued (Fair Value)": 245.48779863589652,
+    "Over/UnderValued (Fair Value)": 248.10984393040619,
     "MOS": 0.19999999999999996,
     "Buy Price": 18.001214585740854,
-    "Over/UnderValued (Buy Price)": 331.85974829487066
+    "Over/UnderValued (Buy Price)": 335.13730491300777
   },
   {
     "Ticker": "VZ",
@@ -502,11 +502,11 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.040000000000000015,
     "Terminal Rate": 0.01,
-    "Last Close": 50.63,
+    "Last Close": 51.38,
     "Fair Value": 41.6634304814165,
-    "Over/UnderValued (Fair Value)": 21.52143838127525,
+    "Over/UnderValued (Fair Value)": 23.3215781953372,
     "MOS": 0.19999999999999996,
     "Buy Price": 33.3307443851332,
-    "Over/UnderValued (Buy Price)": 51.90179797659407
+    "Over/UnderValued (Buy Price)": 54.151972744171495
   }
 ]
