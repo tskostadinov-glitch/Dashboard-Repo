@@ -8288,12 +8288,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.2700000000000001,
     "Terminal Rate": 0.04,
-    "Last Close": 18.18,
+    "Last Close": 18.17,
     "Fair Value": 65.05620869315243,
-    "Over/UnderValued (Fair Value)": -72.05493470154593,
+    "Over/UnderValued (Fair Value)": -72.07030602459238,
     "MOS": 0.4,
     "Buy Price": 39.03372521589146,
-    "Over/UnderValued (Buy Price)": -53.42489116924322
+    "Over/UnderValued (Buy Price)": -53.45051004098731
   },
   {
     "Ticker": "CXM",
@@ -9929,7 +9929,7 @@
   },
   {
     "Ticker": "PLAY",
-    "Company ": "Dave & Buster's Entertainment Inc",
+    "Company ": "Dave and Buster's Entertainment, Inc",
     "Industry": "Entertainment",
     "Metric": "P.Change",
     "EPS (ttm)": -0.01,
