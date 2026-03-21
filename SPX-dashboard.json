@@ -9,12 +9,12 @@
     "Cost of Equity": 0.25,
     "Growth Rate": 0.605,
     "Terminal Rate": 0.04,
-    "Last Close": 172.7,
+    "Last Close": 172.93,
     "Fair Value": 152.86252211393614,
-    "Over/UnderValued (Fair Value)": 12.97733258076037,
+    "Over/UnderValued (Fair Value)": 13.127794575511832,
     "MOS": 0.4,
     "Buy Price": 91.71751326836169,
-    "Over/UnderValued (Buy Price)": 88.29555430126727
+    "Over/UnderValued (Buy Price)": 88.5463242925197
   },
   {
     "Ticker": "MSFT",
@@ -26,12 +26,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.20499999999999996,
     "Terminal Rate": 0.03,
-    "Last Close": 381.87,
+    "Last Close": 381.85,
     "Fair Value": 286.5105051077568,
-    "Over/UnderValued (Fair Value)": 33.283071019116186,
+    "Over/UnderValued (Fair Value)": 33.27609047227988,
     "MOS": 0.35,
     "Buy Price": 186.23182832004193,
-    "Over/UnderValued (Buy Price)": 105.05087849094798
+    "Over/UnderValued (Buy Price)": 105.04013918812288
   },
   {
     "Ticker": "AAPL",
@@ -1284,12 +1284,12 @@
     "Cost of Equity": 0.17,
     "Growth Rate": 0.05499999999999999,
     "Terminal Rate": 0.01,
-    "Last Close": 422.9,
+    "Last Close": 422.88,
     "Fair Value": 57.95594014373263,
-    "Over/UnderValued (Fair Value)": 629.6922437134039,
+    "Over/UnderValued (Fair Value)": 629.6577347399485,
     "MOS": 0.19999999999999996,
     "Buy Price": 46.36475211498611,
-    "Over/UnderValued (Buy Price)": 812.1153046417546
+    "Over/UnderValued (Buy Price)": 812.0721684249355
   },
   {
     "Ticker": "LOW",
@@ -2372,12 +2372,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.28,
     "Terminal Rate": 0.04,
-    "Last Close": 3.188517535905,
+    "Last Close": 3.188588799214,
     "Fair Value": 194.19696225915763,
-    "Over/UnderValued (Fair Value)": -98.35810122938489,
+    "Over/UnderValued (Fair Value)": -98.3580645329772,
     "MOS": 0.4,
     "Buy Price": 116.51817735549457,
-    "Over/UnderValued (Buy Price)": -97.26350204897481
+    "Over/UnderValued (Buy Price)": -97.26344088829532
   },
   {
     "Ticker": "HWM",
@@ -4021,12 +4021,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.135,
     "Terminal Rate": 0.02,
-    "Last Close": 86.34,
+    "Last Close": 86.36,
     "Fair Value": 39.72449389121772,
-    "Over/UnderValued (Fair Value)": 117.34701072953891,
+    "Over/UnderValued (Fair Value)": 117.39735750061362,
     "MOS": 0.30000000000000004,
     "Buy Price": 27.8071457238524,
-    "Over/UnderValued (Buy Price)": 210.49572961362705
+    "Over/UnderValued (Buy Price)": 210.5676535723052
   },
   {
     "Ticker": "YUM",
@@ -7795,12 +7795,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.08000000000000002,
     "Terminal Rate": 0.01,
-    "Last Close": 110.48,
+    "Last Close": 110.2,
     "Fair Value": 36.15819912941842,
-    "Over/UnderValued (Fair Value)": 205.54619051841314,
+    "Over/UnderValued (Fair Value)": 204.77181566916295,
     "MOS": 0.19999999999999996,
     "Buy Price": 28.926559303534738,
-    "Over/UnderValued (Buy Price)": 281.93273814801637
+    "Over/UnderValued (Buy Price)": 280.9647695864537
   },
   {
     "Ticker": "MOS",
