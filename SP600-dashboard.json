@@ -3962,7 +3962,7 @@
   },
   {
     "Ticker": "HBI",
-    "Company ": "Harvard Bioscience Inc",
+    "Company ": "#N/A",
     "Industry": "Apparel - Manufacturers",
     "Metric": "EPS",
     "EPS (ttm)": 1.17,
@@ -3970,12 +3970,12 @@
     "Cost of Equity": 0.18,
     "Growth Rate": -0.16999999999999993,
     "Terminal Rate": 0.01,
-    "Last Close": 0.41,
+    "Last Close": "#N/A",
     "Fair Value": 3.2803959960549935,
-    "Over/UnderValued (Fair Value)": -87.50150894913095,
+    "Over/UnderValued (Fair Value)": "#N/A",
     "MOS": 0.19999999999999996,
     "Buy Price": 2.624316796843995,
-    "Over/UnderValued (Buy Price)": -84.37688618641369
+    "Over/UnderValued (Buy Price)": "#N/A"
   },
   {
     "Ticker": "CVBF",
@@ -4752,11 +4752,11 @@
     "Cost of Equity": 0.16,
     "Growth Rate": 0.10500000000000001,
     "Terminal Rate": 0.01,
-    "Last Close": 10.91,
-    "Fair Value": 12.925311985203757,
-    "Over/UnderValued (Fair Value)": -15.59197942386833,
+    "Last Close": 10.92,
+    "Fair Value": 12.93715920058891,
+    "Over/UnderValued (Fair Value)": -15.591979423868318,
     "MOS": 0.19999999999999996,
-    "Buy Price": 10.340249588163006,
+    "Buy Price": 10.349727360471128,
     "Over/UnderValued (Buy Price)": 5.510025720164591
   },
   {
