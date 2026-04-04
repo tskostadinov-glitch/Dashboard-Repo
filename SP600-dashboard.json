@@ -2500,7 +2500,7 @@
   },
   {
     "Ticker": "TGNA",
-    "Company ": "GANNETT CO INC. Common Stock",
+    "Company ": "Transgene SA",
     "Industry": "Broadcasting",
     "Metric": "EPS",
     "EPS (ttm)": 2.09,
@@ -2508,12 +2508,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.18500000000000003,
     "Terminal Rate": 0.03,
-    "Last Close": 20.03,
+    "Last Close": 0.73,
     "Fair Value": 39.07828656099199,
-    "Over/UnderValued (Fair Value)": -48.74391442742021,
+    "Over/UnderValued (Fair Value)": -98.13195494418456,
     "MOS": 0.35,
     "Buy Price": 25.400886264644797,
-    "Over/UnderValued (Buy Price)": -21.144483734492646
+    "Over/UnderValued (Buy Price)": -97.12608452951471
   },
   {
     "Ticker": "VCTR",
@@ -5577,7 +5577,7 @@
   },
   {
     "Ticker": "WOR",
-    "Company ": "Worthington Enterprises Inc",
+    "Company ": "Worthington Enterprises, Inc",
     "Industry": "Manufacturing - Metal Fabrication",
     "Metric": "EPS",
     "EPS (ttm)": 0.22,
