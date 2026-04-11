@@ -2372,12 +2372,12 @@
     "Cost of Equity": 0.14,
     "Growth Rate": 0.28,
     "Terminal Rate": 0.04,
-    "Last Close": 3.241859228514,
+    "Last Close": 3.241934175972,
     "Fair Value": 194.19696225915763,
-    "Over/UnderValued (Fair Value)": -98.33063339879246,
+    "Over/UnderValued (Fair Value)": -98.33059480526497,
     "MOS": 0.4,
     "Buy Price": 116.51817735549457,
-    "Over/UnderValued (Buy Price)": -97.21772233132076
+    "Over/UnderValued (Buy Price)": -97.21765800877495
   },
   {
     "Ticker": "HWM",
@@ -6937,7 +6937,7 @@
   },
   {
     "Ticker": "HOLX",
-    "Company ": "Hologic Inc",
+    "Company ": "Hologic Ord Shs",
     "Industry": "Medical - Instruments & Supplies",
     "Metric": "EPS",
     "EPS (ttm)": 2.49,
