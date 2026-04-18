@@ -212,7 +212,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1bw_ggYY9WlJVxy7TuYZOD-ZrSYAR2G4a/view",
     "Ticker": "ACM",
-    "Company ": "#N/A",
+    "Company ": "Aecom",
     "Industry": "Engineering & Construction",
     "Metric": "EPS",
     "EPS (ttm)": 4.52,
@@ -220,9 +220,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.07499999999999994,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 86.61,
     "Fair Value": 43.31706058843868,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 99.9443148345024
   },
   {
     "PDF": "https://drive.google.com/file/d/1RBN0kydiHfLl5f1iStsI9-Uefs8qWQ-Y/view",
@@ -527,7 +527,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1Ylrud2rejMAGCYWMXjwF1Q23mTpbSB6S/view",
     "Ticker": "RS",
-    "Company ": "#N/A",
+    "Company ": "Reliance Inc",
     "Industry": "Steel",
     "Metric": "EPS",
     "EPS (ttm)": 13.97,
@@ -535,9 +535,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.09,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 325.54,
     "Fair Value": 142.8512118520734,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 127.88746121181403
   },
   {
     "PDF": "https://drive.google.com/file/d/1CTIjCS6GZKS-bC50mRTCktiEtnLAhde_/view",
@@ -782,7 +782,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1pPd43Afw7UA2INGAUy_uFNbOQxI7F3gH/view",
     "Ticker": "APG",
-    "Company ": "#N/A",
+    "Company ": "APi Group Corp",
     "Industry": "Engineering & Construction",
     "Metric": "P.Change",
     "EPS (ttm)": -0.69,
@@ -790,9 +790,9 @@
     "Cost of Equity": 0.22,
     "Growth Rate": 0.285,
     "Terminal Rate": 0.04,
-    "Last Close": "#N/A",
-    "Fair Value": "#N/A",
-    "Over/UnderValued %": "#N/A"
+    "Last Close": 46.75,
+    "Fair Value": 93.02991844384123,
+    "Over/UnderValued %": -49.747349259237204
   },
   {
     "PDF": "https://drive.google.com/file/d/14HOljyih0FHbAxzZxH08B-91btmFfKl2/view",
@@ -1097,7 +1097,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1N8VmjZvTFpOfXE7Zj6_m6HZiWL7X24Rg/view",
     "Ticker": "SF",
-    "Company ": "#N/A",
+    "Company ": "Stifel Financial Corp",
     "Industry": "Financial - Capital Markets",
     "Metric": "BV Per Share",
     "EPS (ttm)": 3.91,
@@ -1105,14 +1105,14 @@
     "Cost of Equity": 0.16,
     "Growth Rate": 0.115,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 82.32,
     "Fair Value": 58.15,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 41.56491831470335
   },
   {
     "PDF": "https://drive.google.com/file/d/1U1A4_nyXzxl2PDRyKzZE_SsjybneKqwx/view",
     "Ticker": "ATI",
-    "Company ": "#N/A",
+    "Company ": "ATI Inc",
     "Industry": "Manufacturing - Metal Fabrication",
     "Metric": "EPS",
     "EPS (ttm)": 2.85,
@@ -1120,9 +1120,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.06,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 164.66,
     "Fair Value": 25.590571831783556,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 543.4400961509264
   },
   {
     "PDF": "https://drive.google.com/file/d/1_Yxg51BK7vG8B9qkM7jW6X49XFOMY8-W/view",
@@ -1367,7 +1367,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1s0i1DN5p-M0NA9qeHIs6fjbTinY4ZYL4/view",
     "Ticker": "AMH",
-    "Company ": "#N/A",
+    "Company ": "American Homes 4 Rent Class A",
     "Industry": "REIT - Residential",
     "Metric": "EPS",
     "EPS (ttm)": 1.18,
@@ -1375,9 +1375,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.1,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 30.69,
     "Fair Value": 12.597325613539958,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 143.6231382874912
   },
   {
     "PDF": "https://drive.google.com/file/d/1-X3IOUKj6sZ5ooS6Ru6ixuegHKitMeBU/view",
@@ -1487,7 +1487,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1DaWXBWJuJh-nnjkqi34VO2oP7o0tdz-1/view",
     "Ticker": "AFG",
-    "Company ": "#N/A",
+    "Company ": "American Financial Group Inc",
     "Industry": "Insurance - Property & Casualty",
     "Metric": "BV Per Share",
     "EPS (ttm)": 10.08,
@@ -1495,9 +1495,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.025,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 131.46,
     "Fair Value": 25.47,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 416.13663133097765
   },
   {
     "PDF": "https://drive.google.com/file/d/16b1-6bnMrJZ3p8TQ73AH2yq3nUHqERU2/view",
@@ -1697,7 +1697,7 @@
   {
     "PDF": "https://drive.google.com/file/d/15iGxE6bQgNZvkjqxbJ9q3pckuQf7I9ga/view",
     "Ticker": "AIT",
-    "Company ": "#N/A",
+    "Company ": "Applied Industrial Technologies Inc",
     "Industry": "Industrial - Distribution",
     "Metric": "EPS",
     "EPS (ttm)": 10.49,
@@ -1705,9 +1705,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.19000000000000003,
     "Terminal Rate": 0.03,
-    "Last Close": "#N/A",
+    "Last Close": 291.03,
     "Fair Value": 181.60393985941818,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 60.2553337913758
   },
   {
     "PDF": "https://drive.google.com/file/d/126Ho3yPCEk0vL-Wa02L7eFQMo4S37rzD/view",
@@ -1922,7 +1922,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1wwSm0Tv8t0WoBJBtGM1uYodo7BKSn5wS/view",
     "Ticker": "ALV",
-    "Company ": "#N/A",
+    "Company ": "Autoliv Inc",
     "Industry": "Auto - Parts",
     "Metric": "EPS",
     "EPS (ttm)": 9.55,
@@ -1930,9 +1930,9 @@
     "Cost of Equity": 0.18,
     "Growth Rate": 0.08999999999999998,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 118.92,
     "Fair Value": 79.05522882012099,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 50.42648256775737
   },
   {
     "PDF": "https://drive.google.com/file/d/15ZsjsYh7SMwOxRP3310BlkWib5T1E-R1/view",
@@ -2042,7 +2042,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1lF7pwwnkHHAJZdSprJuJbwulgTQ5uyW0/view",
     "Ticker": "ATR",
-    "Company ": "#N/A",
+    "Company ": "Aptargroup Inc",
     "Industry": "Medical - Instruments & Supplies",
     "Metric": "EPS",
     "EPS (ttm)": 5.89,
@@ -2050,9 +2050,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.06999999999999998,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 130.63,
     "Fair Value": 55.235740013320296,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 136.49542844632498
   },
   {
     "PDF": "https://drive.google.com/file/d/15owWv13DEyaDaTprgCg1_RtZrw2vuNSr/view",
@@ -2447,7 +2447,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1-aS2tPb8oBIdREcwTFGyb6rwkb0A2iCu/view",
     "Ticker": "AAL",
-    "Company ": "#N/A",
+    "Company ": "American Airlines Group Inc",
     "Industry": "Airlines, Airports & Air Services",
     "Metric": "EPS",
     "EPS (ttm)": 0.17,
@@ -2455,9 +2455,9 @@
     "Cost of Equity": 0.17,
     "Growth Rate": 0.11500000000000021,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 12.78,
     "Fair Value": 1.6685941656560628,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 665.9142206682187
   },
   {
     "PDF": "https://drive.google.com/file/d/1pBsWobNHpemAoXWlmyhMOKBGSl-2nOY-/view",
@@ -2477,7 +2477,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1D2cD_ZxFjzHMwcemkiudDVj5-8Dp5w11/view",
     "Ticker": "ADC",
-    "Company ": "#N/A",
+    "Company ": "Agree Realty Corp",
     "Industry": "REIT - Retail",
     "Metric": "EPS",
     "EPS (ttm)": 1.77,
@@ -2485,9 +2485,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.15500000000000003,
     "Terminal Rate": 0.02,
-    "Last Close": "#N/A",
+    "Last Close": 79.46,
     "Fair Value": 25.036725623210334,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 217.37377002021577
   },
   {
     "PDF": "https://drive.google.com/file/d/1tc38cfY3WcQupRf-fGCHFVAmK3KnurmZ/view",
@@ -2852,7 +2852,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1etL6Yrt6ptidXtc3569ya-kiinCyi8tl/view",
     "Ticker": "AMG",
-    "Company ": "#N/A",
+    "Company ": "Affiliated Managers Group Inc",
     "Industry": "Asset Management",
     "Metric": "EPS",
     "EPS (ttm)": 22.74,
@@ -2860,9 +2860,9 @@
     "Cost of Equity": 0.17,
     "Growth Rate": 0.06499999999999996,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 294.98,
     "Fair Value": 181.10215984392596,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 62.88044286949095
   },
   {
     "PDF": "https://drive.google.com/file/d/15Uvnbw1XEsESbpq6hoF9PxN7cUTN6LgT/view",
@@ -3002,7 +3002,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1hjq8pg_xRnxjDEjLWocnlpDiD0GrdgkK/view",
     "Ticker": "ACI",
-    "Company ": "#N/A",
+    "Company ": "Albertsons Companies Inc",
     "Industry": "Grocery Stores",
     "Metric": "EPS",
     "EPS (ttm)": 1.54,
@@ -3010,9 +3010,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.20000000000000004,
     "Terminal Rate": 0.03,
-    "Last Close": "#N/A",
+    "Last Close": 16.7,
     "Fair Value": 27.81637885985878,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": -39.96342915756224
   },
   {
     "PDF": "https://drive.google.com/file/d/1zN2vNLw1B9a00GCBDnOtHrMns_bXkKYo/view",
@@ -3332,7 +3332,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1j2iLmTxEOztGQdMne48TpQcAQ3LLJcKC/view",
     "Ticker": "ARW",
-    "Company ": "#N/A",
+    "Company ": "Arrow Electronics Inc",
     "Industry": "Technology Distributors",
     "Metric": "EPS",
     "EPS (ttm)": 10.93,
@@ -3340,9 +3340,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.5099999999999998,
     "Terminal Rate": 0.04,
-    "Last Close": "#N/A",
+    "Last Close": 174.97,
     "Fair Value": 718.6861027994485,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": -75.6541834719704
   },
   {
     "PDF": "https://drive.google.com/file/d/1UQQrgF-cn75CyTaE5OvlZbjMGq5ESrhx/view",
@@ -3527,7 +3527,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1LPBqrDHTCUhUodAf7ozDm_cS3HuWIP2g/view",
     "Ticker": "WH",
-    "Company ": "#N/A",
+    "Company ": "Wyndham Hotels & Resorts Inc",
     "Industry": "Travel Lodging",
     "Metric": "EPS",
     "EPS (ttm)": 2.5,
@@ -3535,9 +3535,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.07500000000000002,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 89.28,
     "Fair Value": 23.95855121041963,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 272.64356770108844
   },
   {
     "PDF": "https://drive.google.com/file/d/1gzuipD3YraAM1MgM0dTQsNGRE1paBfOc/view",
@@ -3857,7 +3857,7 @@
   {
     "PDF": "https://drive.google.com/file/d/19YAMiz3Uy81tkzlJhpZl3xhiEjvwbH3g/view",
     "Ticker": "ALK",
-    "Company ": "#N/A",
+    "Company ": "Alaska Air Group Inc",
     "Industry": "Airlines, Airports & Air Services",
     "Metric": "EPS",
     "EPS (ttm)": 0.83,
@@ -3865,9 +3865,9 @@
     "Cost of Equity": 0.17,
     "Growth Rate": 0.15999999999999992,
     "Terminal Rate": 0.02,
-    "Last Close": "#N/A",
+    "Last Close": 45.4,
     "Fair Value": 10.193808339261672,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 345.36838921270396
   },
   {
     "PDF": "https://drive.google.com/file/d/1aLvx8S_kFw5cveEZOPQ48EyXcIgs4uFu/view",
@@ -4352,7 +4352,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1WrEc2pmfn_e95DJDc-gJHujNdYa92JxN/view",
     "Ticker": "SR",
-    "Company ": "#N/A",
+    "Company ": "Spire Inc",
     "Industry": "Regulated Gas",
     "Metric": "EPS",
     "EPS (ttm)": 4.57,
@@ -4360,9 +4360,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.16999999999999993,
     "Terminal Rate": 0.02,
-    "Last Close": "#N/A",
+    "Last Close": 92.31,
     "Fair Value": 68.90328648817876,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 33.97038763286997
   },
   {
     "PDF": "https://drive.google.com/file/d/1P11YxFCr5qMoXtRYv4d_7NULbnDq3Oiv/view",
@@ -4562,7 +4562,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1cVFmqTRs7DnT1mWrOFBLp2i5948kuirm/view",
     "Ticker": "ST",
-    "Company ": "#N/A",
+    "Company ": "Sensata Technologies Holding PLC",
     "Industry": "Hardware, Equipment & Parts",
     "Metric": "EPS",
     "EPS (ttm)": 0.21,
@@ -4570,9 +4570,9 @@
     "Cost of Equity": 0.16,
     "Growth Rate": 0.024999999999999804,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 40.67,
     "Fair Value": 1.5085552019531243,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 2595.9570287745923
   },
   {
     "PDF": "https://drive.google.com/file/d/19DW03_B7WNbLgO0OJaL9Qmx64n2bGwZG/view",
@@ -4727,7 +4727,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1DNdHWiNFRUr50MRuzUF6k-pf51cVBoj7/view",
     "Ticker": "ASB",
-    "Company ": "#N/A",
+    "Company ": "Associated Banc-Corp",
     "Industry": "Banks - Regional",
     "Metric": "BV Per Share",
     "EPS (ttm)": 2.77,
@@ -4735,9 +4735,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.08500000000000003,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 28.14,
     "Fair Value": 30.14,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": -6.635700066356998
   },
   {
     "PDF": "https://drive.google.com/file/d/1tYSiiWF60-zBgI6IIqagEsw-08nYifBH/view",
@@ -4982,7 +4982,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1J6gDQ3EQR_T5FdiCQQhL8TjMZ2Z3ToEO/view",
     "Ticker": "ALE",
-    "Company ": "#N/A",
+    "Company ": "Alps Alpine Co Ltd",
     "Industry": "Diversified Utilities",
     "Metric": "EPS",
     "EPS (ttm)": 2.85,
@@ -4990,9 +4990,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.054999999999999986,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 11.9,
     "Fair Value": 25.039545978858573,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": -52.47517662641557
   },
   {
     "PDF": "https://drive.google.com/file/d/1TM0llABrxAiKdBOiSiu0AwhcjEjfHl-G/view",
@@ -5102,7 +5102,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1QgRxV0UPh3E1gKLuTJtktdakHowClHCf/view",
     "Ticker": "ANF",
-    "Company ": "#N/A",
+    "Company ": "Abercrombie & Fitch Co",
     "Industry": "Apparel - Retail",
     "Metric": "P.Change",
     "EPS (ttm)": 10.46,
@@ -5110,9 +5110,9 @@
     "Cost of Equity": 0.16,
     "Growth Rate": 8.975000000000001,
     "Terminal Rate": 0.04,
-    "Last Close": "#N/A",
-    "Fair Value": "#N/A",
-    "Over/UnderValued %": "#N/A"
+    "Last Close": 94.36,
+    "Fair Value": 173.32230831569075,
+    "Over/UnderValued %": -45.558075635519536
   },
   {
     "PDF": "https://drive.google.com/file/d/1sHr4IvkTCS-6cSF2_AaSFBlVow9iD91Y/view",
@@ -5312,7 +5312,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1q8CYNsCBzvF7vQRT10s88runAdG5HRim/view",
     "Ticker": "VC",
-    "Company ": "#N/A",
+    "Company ": "Visteon Corp",
     "Industry": "Auto - Parts",
     "Metric": "EPS",
     "EPS (ttm)": 7.28,
@@ -5320,9 +5320,9 @@
     "Cost of Equity": 0.16,
     "Growth Rate": 0.29499999999999993,
     "Terminal Rate": 0.04,
-    "Last Close": "#N/A",
+    "Last Close": 98.65,
     "Fair Value": 187.49283863843124,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": -47.38465708002819
   },
   {
     "PDF": "https://drive.google.com/file/d/1o_c3F1j5ojj_dDfVnMJQOmwJsCpMm6qu/view",
@@ -5717,7 +5717,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1N5UeE1f9--axhUGQc4krMxNnuHiTm76k/view",
     "Ticker": "ASH",
-    "Company ": "#N/A",
+    "Company ": "Ashland Inc",
     "Industry": "Chemicals - Specialty",
     "Metric": "P.Change",
     "EPS (ttm)": -14.53,
@@ -5725,9 +5725,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": -0.015000000000000013,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
-    "Fair Value": "#N/A",
-    "Over/UnderValued %": "#N/A"
+    "Last Close": 58.52,
+    "Fair Value": 20.24090182710822,
+    "Over/UnderValued %": 189.11755266568892
   },
   {
     "PDF": "https://drive.google.com/file/d/1ZfGv4CjNwzxOyqwiYCLIo5rehYcS11-K/view",
@@ -5987,7 +5987,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1209p_ynk8mc51KJr-2qnyHKtyAMH_sWt/view",
     "Ticker": "UA",
-    "Company ": "#N/A",
+    "Company ": "Under Armour Inc Class C",
     "Industry": "Apparel - Manufacturers",
     "Metric": "P.Change",
     "EPS (ttm)": -1.22,
@@ -5995,9 +5995,9 @@
     "Cost of Equity": 0.23,
     "Growth Rate": 0.004999999999999782,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
-    "Fair Value": "#N/A",
-    "Over/UnderValued %": "#N/A"
+    "Last Close": 6.3,
+    "Fair Value": 1.052706364146348,
+    "Over/UnderValued %": 498.45748202621945
   },
   {
     "PDF": "https://drive.google.com/file/d/1VXS9mwZZziB_CvrY8I6_Ly2oOaFU5kmu/view",
