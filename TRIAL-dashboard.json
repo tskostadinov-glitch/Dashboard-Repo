@@ -6,20 +6,20 @@
     "Metric": "EPS",
     "EPS (ttm)": 5.84,
     "Avg. 5Y Price Change": 1.73,
-    "Last Close": 196.93,
+    "Last Close": 204.12,
     "Fair Value": 297.2904808948248,
-    "Over/UnderValued %": -33.75839030995756
+    "Over/UnderValued %": -31.339880313149536
   },
   {
     "Ticker": "MSFT",
-    "Company ": "#N/A",
+    "Company ": "Microsoft Corp",
     "Industry": "Software - Infrastructure",
     "Metric": "EPS",
     "EPS (ttm)": 16.19,
     "Avg. 5Y Price Change": 0.08,
-    "Last Close": "#N/A",
+    "Last Close": 383.34,
     "Fair Value": 215.9474103487349,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 77.51544201476723
   },
   {
     "Ticker": "AAPL",
@@ -28,9 +28,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 8.28,
     "Avg. 5Y Price Change": 0.22,
-    "Last Close": 310.66,
+    "Last Close": 313.39,
     "Fair Value": 73.22914468082864,
-    "Over/UnderValued %": 324.2299993452344
+    "Over/UnderValued %": 327.95802322411305
   },
   {
     "Ticker": "AMZN",
@@ -39,9 +39,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 8.36,
     "Avg. 5Y Price Change": 0.08,
-    "Last Close": 245.98,
+    "Last Close": 243.62,
     "Fair Value": 160.94791897572694,
-    "Over/UnderValued %": 52.832047512895784
+    "Over/UnderValued %": 51.36573467392338
   },
   {
     "Ticker": "AVGO",
@@ -50,20 +50,20 @@
     "Metric": "EPS",
     "EPS (ttm)": 8.13,
     "Avg. 5Y Price Change": 1.38,
-    "Last Close": 370.78,
+    "Last Close": 388.69,
     "Fair Value": 112.54084198036873,
-    "Over/UnderValued %": 229.46261417226438
+    "Over/UnderValued %": 245.37683667570383
   },
   {
     "Ticker": "META",
-    "Company ": "#N/A",
+    "Company ": "Meta Platforms Inc",
     "Industry": "Internet Content & Information",
     "Metric": "EPS",
     "EPS (ttm)": 30.58,
     "Avg. 5Y Price Change": 0.15,
-    "Last Close": "#N/A",
+    "Last Close": 603.12,
     "Fair Value": 453.7333534008469,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 32.92388480579225
   },
   {
     "Ticker": "NFLX",
@@ -72,9 +72,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 3.1,
     "Avg. 5Y Price Change": 0.08,
-    "Last Close": 76.18,
+    "Last Close": 75.59,
     "Fair Value": 57.46618035134654,
-    "Over/UnderValued %": 32.56492694353048
+    "Over/UnderValued %": 31.538236120523354
   },
   {
     "Ticker": "TSLA",
@@ -83,9 +83,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 1.81,
     "Avg. 5Y Price Change": 0.18,
-    "Last Close": 402.9,
+    "Last Close": 394.06,
     "Fair Value": 48.31572033093123,
-    "Over/UnderValued %": 733.8900822349274
+    "Over/UnderValued %": 715.5937597555114
   },
   {
     "Ticker": "GOOGL",
@@ -94,20 +94,20 @@
     "Metric": "EPS",
     "EPS (ttm)": 13.11,
     "Avg. 5Y Price Change": 0.38,
-    "Last Close": 367.03,
+    "Last Close": 361.92,
     "Fair Value": 175.72384140056624,
-    "Over/UnderValued %": 108.86750316557632
+    "Over/UnderValued %": 105.95953122547309
   },
   {
     "Ticker": "GOOG",
-    "Company ": "#N/A",
+    "Company ": "Alphabet Inc Class C",
     "Industry": "Internet Content & Information",
     "Metric": "EPS",
     "EPS (ttm)": 13.11,
     "Avg. 5Y Price Change": 0.36,
-    "Last Close": "#N/A",
+    "Last Close": 358.71,
     "Fair Value": 175.72384140056624,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 104.13280129832403
   },
   {
     "Ticker": "COST",
@@ -116,9 +116,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 19.72,
     "Avg. 5Y Price Change": 0.26,
-    "Last Close": 947.5,
+    "Last Close": 953.13,
     "Fair Value": 225.98380386397332,
-    "Over/UnderValued %": 319.2778348710024
+    "Over/UnderValued %": 321.7691638528744
   },
   {
     "Ticker": "PLTR",
@@ -127,9 +127,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 0.95,
     "Avg. 5Y Price Change": 0.83,
-    "Last Close": 134.37,
+    "Last Close": 132.22,
     "Fair Value": 47.20234123036067,
-    "Over/UnderValued %": 184.66808318730781
+    "Over/UnderValued %": 180.11322437319217
   },
   {
     "Ticker": "CSCO",
@@ -138,9 +138,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 4.09,
     "Avg. 5Y Price Change": 0.24,
-    "Last Close": 111.79,
+    "Last Close": 113.82,
     "Fair Value": 29.38090845708704,
-    "Over/UnderValued %": 280.48517173414655
+    "Over/UnderValued %": 287.3944203129131
   },
   {
     "Ticker": "TMUS",
@@ -149,9 +149,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 9.59,
     "Avg. 5Y Price Change": 0.04,
-    "Last Close": 184.73,
+    "Last Close": 180.14,
     "Fair Value": 158.0195825173309,
-    "Over/UnderValued %": 16.903232534321887
+    "Over/UnderValued %": 13.998529252058379
   },
   {
     "Ticker": "AMD",
@@ -160,9 +160,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 4.58,
     "Avg. 5Y Price Change": 0.94,
-    "Last Close": 516.11,
+    "Last Close": 517.41,
     "Fair Value": 297.3864646552045,
-    "Over/UnderValued %": 73.54858453238202
+    "Over/UnderValued %": 73.98572614927008
   },
   {
     "Ticker": "LIN",
@@ -171,20 +171,20 @@
     "Metric": "EPS",
     "EPS (ttm)": 16.83,
     "Avg. 5Y Price Change": 0.17,
-    "Last Close": 538.23,
+    "Last Close": 527.67,
     "Fair Value": 143.54582760463933,
-    "Over/UnderValued %": 274.9534270563533
+    "Over/UnderValued %": 267.5968913936903
   },
   {
     "Ticker": "INTU",
-    "Company ": "#N/A",
+    "Company ": "Intuit Inc",
     "Industry": "Software - Application",
     "Metric": "EPS",
     "EPS (ttm)": 23.04,
     "Avg. 5Y Price Change": -0.09,
-    "Last Close": "#N/A",
+    "Last Close": 272.1,
     "Fair Value": 364.0765240207055,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": -25.262964775909214
   },
   {
     "Ticker": "PEP",
@@ -193,9 +193,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 8.28,
     "Avg. 5Y Price Change": -0.01,
-    "Last Close": 144.98,
+    "Last Close": 142.5,
     "Fair Value": 66.22922141914292,
-    "Over/UnderValued %": 118.90639342182409
+    "Over/UnderValued %": 115.16182275217228
   },
   {
     "Ticker": "SHOP",
@@ -204,8 +204,8 @@
     "Metric": "P.Change",
     "EPS (ttm)": 1.51,
     "Avg. 5Y Price Change": -0.03,
-    "Last Close": 121.88,
-    "Fair Value": 25.14970597256335,
+    "Last Close": 119.22,
+    "Fair Value": 24.60082003650314,
     "Over/UnderValued %": 384.6179916892982
   },
   {
@@ -215,20 +215,20 @@
     "Metric": "P.Change",
     "EPS (ttm)": 9.29,
     "Avg. 5Y Price Change": 0.21,
-    "Last Close": 181.95,
-    "Fair Value": 215.25319320260098,
-    "Over/UnderValued %": -15.471637241290681
+    "Last Close": 174.29,
+    "Fair Value": 206.19114615708338,
+    "Over/UnderValued %": -15.47163724129067
   },
   {
     "Ticker": "ISRG",
-    "Company ": "#N/A",
+    "Company ": "Intuitive Surgical Inc",
     "Industry": "Medical - Instruments & Supplies",
     "Metric": "EPS",
     "EPS (ttm)": 9.62,
     "Avg. 5Y Price Change": 0.06,
-    "Last Close": "#N/A",
+    "Last Close": 415.1,
     "Fair Value": 84.86899281606541,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 389.10678237885605
   },
   {
     "Ticker": "TXN",
@@ -237,9 +237,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 5.84,
     "Avg. 5Y Price Change": 0.11,
-    "Last Close": 293.3,
+    "Last Close": 301.32,
     "Fair Value": 36.30052594989728,
-    "Over/UnderValued %": 707.9772739513985
+    "Over/UnderValued %": 730.0706177532744
   },
   {
     "Ticker": "QCOM",
@@ -248,9 +248,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 11.92,
     "Avg. 5Y Price Change": 0.06,
-    "Last Close": 182.97,
+    "Last Close": 186.56,
     "Fair Value": 105.08962595777218,
-    "Over/UnderValued %": 74.10852720469498
+    "Over/UnderValued %": 77.52465888018745
   },
   {
     "Ticker": "AMGN",
@@ -259,9 +259,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 22.1,
     "Avg. 5Y Price Change": 0.09,
-    "Last Close": 368.1,
+    "Last Close": 367.99,
     "Fair Value": 196.71411708153408,
-    "Over/UnderValued %": 87.12434341833732
+    "Over/UnderValued %": 87.06842470663938
   },
   {
     "Ticker": "ADBE",
@@ -270,9 +270,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 22.83,
     "Avg. 5Y Price Change": -0.13,
-    "Last Close": 221.54,
+    "Last Close": 220.94,
     "Fair Value": 210.00802849375006,
-    "Over/UnderValued %": 5.4912050691400704
+    "Over/UnderValued %": 5.2055017061289455
   },
   {
     "Ticker": "AMAT",
@@ -281,9 +281,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 9.89,
     "Avg. 5Y Price Change": 0.74,
-    "Last Close": 554.5,
+    "Last Close": 570.5,
     "Fair Value": 96.53573677856457,
-    "Over/UnderValued %": 474.39868229516105
+    "Over/UnderValued %": 490.9728552739213
   },
   {
     "Ticker": "HON",
@@ -292,31 +292,31 @@
     "Metric": "EPS",
     "EPS (ttm)": 15.37,
     "Avg. 5Y Price Change": -0.1,
-    "Last Close": 225.05,
+    "Last Close": 220.36,
     "Fair Value": 96.98942260953129,
-    "Over/UnderValued %": 132.03561166254846
+    "Over/UnderValued %": 127.2000328191921
   },
   {
     "Ticker": "GILD",
-    "Company ": "#N/A",
+    "Company ": "Gilead Sciences, Inc",
     "Industry": "Drug Manufacturers - General",
     "Metric": "EPS",
     "EPS (ttm)": 8.37,
     "Avg. 5Y Price Change": 0.16,
-    "Last Close": "#N/A",
+    "Last Close": 135.82,
     "Fair Value": 65.52821818235132,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 107.2694844563625
   },
   {
     "Ticker": "LRCX",
-    "Company ": "#N/A",
+    "Company ": "Lam Research Corp",
     "Industry": "Semiconductors",
     "Metric": "EPS",
     "EPS (ttm)": 5.33,
     "Avg. 5Y Price Change": 1.04,
-    "Last Close": "#N/A",
+    "Last Close": 333.15,
     "Fair Value": 42.992778207013345,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 674.8975848824157
   },
   {
     "Ticker": "ADP",
@@ -325,9 +325,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 10.74,
     "Avg. 5Y Price Change": 0.03,
-    "Last Close": 245.6,
+    "Last Close": 241.37,
     "Fair Value": 101.89791306267608,
-    "Over/UnderValued %": 141.02554470270127
+    "Over/UnderValued %": 136.87433112740638
   },
   {
     "Ticker": "MU",
@@ -336,9 +336,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 45.12,
     "Avg. 5Y Price Change": 2.37,
-    "Last Close": 938.38,
+    "Last Close": 948.8,
     "Fair Value": 907.7422278473127,
-    "Over/UnderValued %": 3.375162156479594
+    "Over/UnderValued %": 4.523065127206283
   },
   {
     "Ticker": "APP",
@@ -347,9 +347,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 11.51,
     "Avg. 5Y Price Change": 1.37,
-    "Last Close": 527.98,
+    "Last Close": 522.18,
     "Fair Value": 253.3899426947587,
-    "Over/UnderValued %": 108.36659671059672
+    "Over/UnderValued %": 106.07763451331374
   },
   {
     "Ticker": "CMCSA",
@@ -358,31 +358,31 @@
     "Metric": "EPS",
     "EPS (ttm)": 4,
     "Avg. 5Y Price Change": -0.12,
-    "Last Close": 23.41,
+    "Last Close": 23.19,
     "Fair Value": 33.39499450721493,
-    "Over/UnderValued %": -29.89967405162378
+    "Over/UnderValued %": -30.558455414658503
   },
   {
     "Ticker": "MELI",
-    "Company ": "#N/A",
+    "Company ": "MercadoLibre Inc",
     "Industry": "Specialty Retail",
     "Metric": "EPS",
     "EPS (ttm)": 37.89,
     "Avg. 5Y Price Change": 0.02,
-    "Last Close": "#N/A",
+    "Last Close": 1809.38,
     "Fair Value": 3232.3926063070753,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": -44.02350764973535
   },
   {
     "Ticker": "KLAC",
-    "Company ": "#N/A",
+    "Company ": "KLA Corp",
     "Industry": "Semiconductors",
     "Metric": "EPS",
     "EPS (ttm)": 27.98,
     "Avg. 5Y Price Change": 1.51,
-    "Last Close": "#N/A",
+    "Last Close": 221.18,
     "Fair Value": 412.1476227741226,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": -46.334762648572244
   },
   {
     "Ticker": "PANW",
@@ -391,9 +391,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 3.76,
     "Avg. 5Y Price Change": 0.93,
-    "Last Close": 337.04,
+    "Last Close": 320.59,
     "Fair Value": 180.57757901634278,
-    "Over/UnderValued %": 86.64554139885603
+    "Over/UnderValued %": 77.5358833285641
   },
   {
     "Ticker": "SNPS",
@@ -402,9 +402,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 13.41,
     "Avg. 5Y Price Change": 0.13,
-    "Last Close": 436.63,
+    "Last Close": 434.5,
     "Fair Value": 162.61332996450943,
-    "Over/UnderValued %": 168.50812297816856
+    "Over/UnderValued %": 167.1982672606423
   },
   {
     "Ticker": "CRWD",
@@ -413,8 +413,8 @@
     "Metric": "P.Change",
     "EPS (ttm)": 4.11,
     "Avg. 5Y Price Change": 0.41,
-    "Last Close": 194.62,
-    "Fair Value": 474.10331826040556,
+    "Last Close": 191.12,
+    "Fair Value": 465.5771564378209,
     "Over/UnderValued %": -58.949876007173785
   },
   {
@@ -424,9 +424,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 9.86,
     "Avg. 5Y Price Change": 0.26,
-    "Last Close": 379.03,
+    "Last Close": 385.4,
     "Fair Value": 110.20338967671881,
-    "Over/UnderValued %": 243.9367891603724
+    "Over/UnderValued %": 249.71701063875557
   },
   {
     "Ticker": "CEG",
@@ -435,20 +435,20 @@
     "Metric": "EPS",
     "EPS (ttm)": 9.99,
     "Avg. 5Y Price Change": 0.93,
-    "Last Close": 239.71,
+    "Last Close": 244.52,
     "Fair Value": 70.10717145427333,
-    "Over/UnderValued %": 241.9193714816299
+    "Over/UnderValued %": 248.78029583533495
   },
   {
     "Ticker": "DASH",
-    "Company ": "#N/A",
+    "Company ": "DoorDash Inc",
     "Industry": "Internet Content & Information",
     "Metric": "EPS",
     "EPS (ttm)": 2.1,
     "Avg. 5Y Price Change": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 189.35,
     "Fair Value": 203.6357767843415,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": -7.015357031034242
   },
   {
     "Ticker": "SBUX",
@@ -457,9 +457,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 2.08,
     "Avg. 5Y Price Change": -0.02,
-    "Last Close": 103.61,
+    "Last Close": 103.87,
     "Fair Value": 33.56399629721547,
-    "Over/UnderValued %": 208.6938726917798
+    "Over/UnderValued %": 209.46851227193486
   },
   {
     "Ticker": "VRTX",
@@ -468,9 +468,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 18.82,
     "Avg. 5Y Price Change": 0.3,
-    "Last Close": 522.25,
+    "Last Close": 498.43,
     "Fair Value": 3155.3126059417095,
-    "Over/UnderValued %": -83.4485496297083
+    "Over/UnderValued %": -84.2034669065304
   },
   {
     "Ticker": "CDNS",
@@ -479,9 +479,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 7.53,
     "Avg. 5Y Price Change": 0.35,
-    "Last Close": 371.06,
+    "Last Close": 374.06,
     "Fair Value": 90.58479575935579,
-    "Over/UnderValued %": 309.6272414034517
+    "Over/UnderValued %": 312.93905546104446
   },
   {
     "Ticker": "MSTR",
@@ -490,31 +490,31 @@
     "Metric": "P.Change",
     "EPS (ttm)": -40.16,
     "Avg. 5Y Price Change": 0.09,
-    "Last Close": 97.36,
-    "Fair Value": 25.05144996087643,
+    "Last Close": 93.87,
+    "Fair Value": 24.153447081218882,
     "Over/UnderValued %": 288.6401791195716
   },
   {
     "Ticker": "CTAS",
-    "Company ": "#N/A",
+    "Company ": "Cintas Corp",
     "Industry": "Specialty Business Services",
     "Metric": "EPS",
     "EPS (ttm)": 4.74,
     "Avg. 5Y Price Change": 0.16,
-    "Last Close": "#N/A",
+    "Last Close": 180.17,
     "Fair Value": 48.946585369748604,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 268.09513603241857
   },
   {
     "Ticker": "INTC",
-    "Company ": "#N/A",
+    "Company ": "Intel Corp",
     "Industry": "Semiconductors",
     "Metric": "EPS",
     "EPS (ttm)": 0.57,
     "Avg. 5Y Price Change": 0.25,
-    "Last Close": "#N/A",
+    "Last Close": 110.24,
     "Fair Value": 1.3767911405420268,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 7907.024214043081
   },
   {
     "Ticker": "ORLY",
@@ -523,9 +523,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 3.06,
     "Avg. 5Y Price Change": 0.28,
-    "Last Close": 86.65,
+    "Last Close": 84.98,
     "Fair Value": 30.93777588835002,
-    "Over/UnderValued %": 180.0783104535613
+    "Over/UnderValued %": 174.68037879219432
   },
   {
     "Ticker": "TRI",
@@ -534,20 +534,20 @@
     "Metric": "EPS",
     "EPS (ttm)": 4.02,
     "Avg. 5Y Price Change": -0.04,
-    "Last Close": 90.76,
+    "Last Close": 88.89,
     "Fair Value": 70.51057012817749,
-    "Over/UnderValued %": 28.718289803943065
+    "Over/UnderValued %": 26.06620516386622
   },
   {
     "Ticker": "MDLZ",
-    "Company ": "#N/A",
+    "Company ": "MONDELEZ INTERNATIONAL INC Common Stock",
     "Industry": "Food Confectioners",
     "Metric": "EPS",
     "EPS (ttm)": 2.85,
     "Avg. 5Y Price Change": -0.01,
-    "Last Close": "#N/A",
+    "Last Close": 59.48,
     "Fair Value": 20.473249169363832,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 190.5254535220812
   },
   {
     "Ticker": "PDD",
@@ -556,20 +556,20 @@
     "Metric": "EPS",
     "EPS (ttm)": 9.95,
     "Avg. 5Y Price Change": -0.06,
-    "Last Close": 82.53,
+    "Last Close": 84.74,
     "Fair Value": 1775.4296662642698,
-    "Over/UnderValued %": -95.35154776513036
+    "Over/UnderValued %": -95.22707085444259
   },
   {
     "Ticker": "FTNT",
-    "Company ": "#N/A",
+    "Company ": "Fortinet Inc",
     "Industry": "Software - Infrastructure",
     "Metric": "EPS",
     "EPS (ttm)": 3.01,
     "Avg. 5Y Price Change": 0.44,
-    "Last Close": "#N/A",
+    "Last Close": 156.71,
     "Fair Value": 58.71944258455379,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 166.87923642044714
   },
   {
     "Ticker": "MAR",
@@ -578,9 +578,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 10.42,
     "Avg. 5Y Price Change": 0.32,
-    "Last Close": 380.75,
+    "Last Close": 371.16,
     "Fair Value": 115.34315005443145,
-    "Over/UnderValued %": 230.10196081893093
+    "Over/UnderValued %": 221.78763959961762
   },
   {
     "Ticker": "CSX",
@@ -589,9 +589,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 1.7,
     "Avg. 5Y Price Change": 0.1,
-    "Last Close": 48.51,
+    "Last Close": 48.69,
     "Fair Value": 10.977424982034709,
-    "Over/UnderValued %": 341.90691422979313
+    "Over/UnderValued %": 343.5466430395511
   },
   {
     "Ticker": "PYPL",
@@ -600,9 +600,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 5.31,
     "Avg. 5Y Price Change": -0.17,
-    "Last Close": 45.65,
+    "Last Close": 44.53,
     "Fair Value": 44.77377097104204,
-    "Over/UnderValued %": 1.9570141400970353
+    "Over/UnderValued %": -0.544450390831952
   },
   {
     "Ticker": "AXON",
@@ -611,9 +611,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 7.05,
     "Avg. 5Y Price Change": 0.47,
-    "Last Close": 640.46,
+    "Last Close": 599.8,
     "Fair Value": 135.70636040076707,
-    "Over/UnderValued %": 371.9454549577471
+    "Over/UnderValued %": 341.98370528004347
   },
   {
     "Ticker": "ADSK",
@@ -622,20 +622,20 @@
     "Metric": "EPS",
     "EPS (ttm)": 11.13,
     "Avg. 5Y Price Change": -0.07,
-    "Last Close": 212.38,
+    "Last Close": 206.04,
     "Fair Value": 2201.365987655292,
-    "Over/UnderValued %": -90.35235389340193
+    "Over/UnderValued %": -90.6403568895213
   },
   {
     "Ticker": "MRVL",
-    "Company ": "#N/A",
+    "Company ": "Marvell Technology Inc",
     "Industry": "Semiconductors",
     "Metric": "EPS",
     "EPS (ttm)": 3.03,
     "Avg. 5Y Price Change": 0.75,
-    "Last Close": "#N/A",
+    "Last Close": 231.71,
     "Fair Value": 22.14840349265218,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 946.1702130217681
   },
   {
     "Ticker": "AEP",
@@ -644,9 +644,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 6.06,
     "Avg. 5Y Price Change": 0.12,
-    "Last Close": 137.53,
+    "Last Close": 135.9,
     "Fair Value": 57.49547049905185,
-    "Over/UnderValued %": 139.20145153393952
+    "Over/UnderValued %": 136.36644560068623
   },
   {
     "Ticker": "ASML",
@@ -655,9 +655,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 30.17,
     "Avg. 5Y Price Change": 0.34,
-    "Last Close": 1747.28,
+    "Last Close": 1768.65,
     "Fair Value": 450.8987074224219,
-    "Over/UnderValued %": 287.5105364547143
+    "Over/UnderValued %": 292.2499601097881
   },
   {
     "Ticker": "REGN",
@@ -666,9 +666,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 45.63,
     "Avg. 5Y Price Change": 0.01,
-    "Last Close": 676.23,
+    "Last Close": 662.88,
     "Fair Value": 869.3591441274165,
-    "Over/UnderValued %": -22.21511620738307
+    "Over/UnderValued %": -23.75073012370065
   },
   {
     "Ticker": "ROP",
@@ -677,20 +677,20 @@
     "Metric": "EPS",
     "EPS (ttm)": 20.38,
     "Avg. 5Y Price Change": -0.05,
-    "Last Close": 363.76,
+    "Last Close": 354.89,
     "Fair Value": 201.73552304443274,
-    "Over/UnderValued %": 80.31529326636289
+    "Over/UnderValued %": 75.9184474029567
   },
   {
     "Ticker": "MNST",
-    "Company ": "#N/A",
+    "Company ": "Monster Beverage Corp",
     "Industry": "Beverages - Non-Alcoholic",
     "Metric": "EPS",
     "EPS (ttm)": 2.17,
     "Avg. 5Y Price Change": 0.23,
-    "Last Close": "#N/A",
+    "Last Close": 95.15,
     "Fair Value": 27.065608746713522,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 251.55314957234697
   },
   {
     "Ticker": "ABNB",
@@ -699,20 +699,20 @@
     "Metric": "EPS",
     "EPS (ttm)": 4.06,
     "Avg. 5Y Price Change": 0,
-    "Last Close": 148.8,
+    "Last Close": 142.95,
     "Fair Value": 143.16590926954095,
-    "Over/UnderValued %": 3.9353577672263107
+    "Over/UnderValued %": -0.15081053209005102
   },
   {
     "Ticker": "FAST",
-    "Company ": "#N/A",
+    "Company ": "Fastenal Co",
     "Industry": "Industrial - Distribution",
     "Metric": "EPS",
     "EPS (ttm)": 1.14,
     "Avg. 5Y Price Change": 0.16,
-    "Last Close": "#N/A",
+    "Last Close": 46.51,
     "Fair Value": 10.365715398781422,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 348.69069051874266
   },
   {
     "Ticker": "NXPI",
@@ -721,9 +721,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 12.23,
     "Avg. 5Y Price Change": 0.08,
-    "Last Close": 273.15,
+    "Last Close": 283.9,
     "Fair Value": 62.46964223737595,
-    "Over/UnderValued %": 337.25238406531605
+    "Over/UnderValued %": 354.46074258152385
   },
   {
     "Ticker": "PCAR",
@@ -732,9 +732,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 4.7,
     "Avg. 5Y Price Change": 0.21,
-    "Last Close": 124.46,
+    "Last Close": 122.5,
     "Fair Value": 46.523893930757325,
-    "Over/UnderValued %": 167.51845016506343
+    "Over/UnderValued %": 163.30556118608604
   },
   {
     "Ticker": "PAYX",
@@ -743,20 +743,20 @@
     "Metric": "EPS",
     "EPS (ttm)": 5.51,
     "Avg. 5Y Price Change": -0.01,
-    "Last Close": 108.12,
+    "Last Close": 106.58,
     "Fair Value": 50.100957760776865,
-    "Over/UnderValued %": 115.80425770751472
+    "Over/UnderValued %": 112.73046417375987
   },
   {
     "Ticker": "IDXX",
-    "Company ": "#N/A",
+    "Company ": "IDEXX Laboratories Inc",
     "Industry": "Medical - Diagnostics & Research",
     "Metric": "EPS",
     "EPS (ttm)": 13.58,
     "Avg. 5Y Price Change": -0.03,
-    "Last Close": "#N/A",
+    "Last Close": 555.67,
     "Fair Value": 143.5977284315934,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 286.9629457716026
   },
   {
     "Ticker": "WDAY",
@@ -765,9 +765,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 9.66,
     "Avg. 5Y Price Change": -0.09,
-    "Last Close": 143.65,
+    "Last Close": 137.88,
     "Fair Value": 161.90352094220788,
-    "Over/UnderValued %": -11.274319938183153
+    "Over/UnderValued %": -14.838170783687389
   },
   {
     "Ticker": "ROST",
@@ -776,9 +776,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 7.16,
     "Avg. 5Y Price Change": 0.14,
-    "Last Close": 214.67,
+    "Last Close": 217.72,
     "Fair Value": 72.39035142502816,
-    "Over/UnderValued %": 196.54504471127657
+    "Over/UnderValued %": 200.75831338584402
   },
   {
     "Ticker": "EXC",
@@ -787,9 +787,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 2.75,
     "Avg. 5Y Price Change": 0.09,
-    "Last Close": 47.57,
+    "Last Close": 47.28,
     "Fair Value": 16.617432718882974,
-    "Over/UnderValued %": 186.26563925211227
+    "Over/UnderValued %": 184.52048399915634
   },
   {
     "Ticker": "CPRT",
@@ -798,9 +798,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 1.61,
     "Avg. 5Y Price Change": -0.03,
-    "Last Close": 29.27,
+    "Last Close": 28.59,
     "Fair Value": 23.25694386245744,
-    "Over/UnderValued %": 25.85488520376551
+    "Over/UnderValued %": 22.93102726257792
   },
   {
     "Ticker": "KDP",
@@ -809,9 +809,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 2.02,
     "Avg. 5Y Price Change": -0.01,
-    "Last Close": 31.49,
+    "Last Close": 30.97,
     "Fair Value": 16.157370442834385,
-    "Over/UnderValued %": 94.89557481777899
+    "Over/UnderValued %": 91.67722934603417
   },
   {
     "Ticker": "ZS",
@@ -820,20 +820,20 @@
     "Metric": "EPS",
     "EPS (ttm)": 3.94,
     "Avg. 5Y Price Change": -0.06,
-    "Last Close": 149.5,
+    "Last Close": 143.55,
     "Fair Value": 139.40904733810038,
-    "Over/UnderValued %": 7.2383771746367565
+    "Over/UnderValued %": 2.9703614944422085
   },
   {
     "Ticker": "DDOG",
-    "Company ": "#N/A",
+    "Company ": "Datadog Inc",
     "Industry": "Software - Application",
     "Metric": "EPS",
     "EPS (ttm)": 2.2,
     "Avg. 5Y Price Change": 0.3,
-    "Last Close": "#N/A",
+    "Last Close": 261.09,
     "Fair Value": 75.4233780254238,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 246.16587964542168
   },
   {
     "Ticker": "AZN",
@@ -842,9 +842,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 9.26,
     "Avg. 5Y Price Change": 0.1,
-    "Last Close": 193.12,
+    "Last Close": 189.28,
     "Fair Value": 233.7050478005549,
-    "Over/UnderValued %": -17.365926916217223
+    "Over/UnderValued %": -19.00902364696353
   },
   {
     "Ticker": "BKR",
@@ -853,9 +853,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 2.67,
     "Avg. 5Y Price Change": 0.26,
-    "Last Close": 54.47,
+    "Last Close": 57.58,
     "Fair Value": 13.858504381830112,
-    "Over/UnderValued %": 293.04385595472786
+    "Over/UnderValued %": 315.4849499884933
   },
   {
     "Ticker": "XEL",
@@ -864,20 +864,20 @@
     "Metric": "EPS",
     "EPS (ttm)": 3.86,
     "Avg. 5Y Price Change": 0.04,
-    "Last Close": 80.67,
+    "Last Close": 79.62,
     "Fair Value": 32.92257246309613,
-    "Over/UnderValued %": 145.02945536964145
+    "Over/UnderValued %": 141.84015416549963
   },
   {
     "Ticker": "FANG",
-    "Company ": "#N/A",
+    "Company ": "Diamondback Energy Inc",
     "Industry": "Oil & Gas Exploration & Production",
     "Metric": "EPS",
     "EPS (ttm)": 11.72,
     "Avg. 5Y Price Change": 0.15,
-    "Last Close": "#N/A",
+    "Last Close": 186.6,
     "Fair Value": 201.33948051634843,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": -7.320710512686368
   },
   {
     "Ticker": "CCEP",
@@ -886,9 +886,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 4.83,
     "Avg. 5Y Price Change": 0.16,
-    "Last Close": 106.5,
+    "Last Close": 105.43,
     "Fair Value": 49.875950914743825,
-    "Over/UnderValued %": 113.5297634365855
+    "Over/UnderValued %": 111.38444093069681
   },
   {
     "Ticker": "TTWO",
@@ -897,9 +897,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 4.1,
     "Avg. 5Y Price Change": 0.08,
-    "Last Close": 257.79,
+    "Last Close": 251.38,
     "Fair Value": 5.347919460272357,
-    "Over/UnderValued %": 4720.379250566937
+    "Over/UnderValued %": 4600.5195547054445
   },
   {
     "Ticker": "EA",
@@ -908,9 +908,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 7.78,
     "Avg. 5Y Price Change": 0.09,
-    "Last Close": 205.44,
+    "Last Close": 204.89,
     "Fair Value": 67.78913675800797,
-    "Over/UnderValued %": 203.05740687239427
+    "Over/UnderValued %": 202.24606743616073
   },
   {
     "Ticker": "CSGP",
@@ -919,9 +919,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 0.94,
     "Avg. 5Y Price Change": -0.13,
-    "Last Close": 29.87,
+    "Last Close": 29.34,
     "Fair Value": 8.190461253538238,
-    "Over/UnderValued %": 264.69252555338454
+    "Over/UnderValued %": 258.22158351979584
   },
   {
     "Ticker": "TTD",
@@ -930,9 +930,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 1.1,
     "Avg. 5Y Price Change": -0.15,
-    "Last Close": 19.18,
+    "Last Close": 19.07,
     "Fair Value": 52.828547052653484,
-    "Over/UnderValued %": -63.693871836218484
+    "Over/UnderValued %": -63.90209259211086
   },
   {
     "Ticker": "CHTR",
@@ -941,9 +941,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 37.03,
     "Avg. 5Y Price Change": -0.16,
-    "Last Close": 138.02,
+    "Last Close": 133.54,
     "Fair Value": 289.9056056502353,
-    "Over/UnderValued %": -52.391400059190964
+    "Over/UnderValued %": -53.936730647039276
   },
   {
     "Ticker": "VRSK",
@@ -952,42 +952,42 @@
     "Metric": "EPS",
     "EPS (ttm)": 7.24,
     "Avg. 5Y Price Change": 0.01,
-    "Last Close": 192.25,
+    "Last Close": 189.67,
     "Fair Value": 64.44390079956139,
-    "Over/UnderValued %": 198.32148211814712
+    "Over/UnderValued %": 194.3180000694354
   },
   {
     "Ticker": "MCHP",
-    "Company ": "#N/A",
+    "Company ": "Microchip Technology Inc",
     "Industry": "Semiconductors",
     "Metric": "EPS",
     "EPS (ttm)": 1.63,
     "Avg. 5Y Price Change": 0.04,
-    "Last Close": "#N/A",
+    "Last Close": 85.49,
     "Fair Value": 7.294370956906857,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 1071.9996214211133
   },
   {
     "Ticker": "CTSH",
-    "Company ": "#N/A",
+    "Company ": "Cognizant Technology Solutions Corp",
     "Industry": "Information Technology Services",
     "Metric": "EPS",
     "EPS (ttm)": 5.45,
     "Avg. 5Y Price Change": -0.08,
-    "Last Close": "#N/A",
+    "Last Close": 42.43,
     "Fair Value": 46.483942985459564,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": -8.72116848333555
   },
   {
     "Ticker": "GEHC",
-    "Company ": "#N/A",
+    "Company ": "GE HealthCare Technologies Inc",
     "Industry": "Medical - Healthcare Information Services",
     "Metric": "EPS",
     "EPS (ttm)": 4.56,
     "Avg. 5Y Price Change": 0.02,
-    "Last Close": "#N/A",
+    "Last Close": 64.68,
     "Fair Value": 32.75719867098213,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 97.452781752356
   },
   {
     "Ticker": "KHC",
@@ -996,9 +996,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 2.55,
     "Avg. 5Y Price Change": -0.08,
-    "Last Close": 25.3,
+    "Last Close": 24.92,
     "Fair Value": 15.408892157509662,
-    "Over/UnderValued %": 64.19090834943522
+    "Over/UnderValued %": 61.72479984458206
   },
   {
     "Ticker": "ODFL",
@@ -1007,9 +1007,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 4.78,
     "Avg. 5Y Price Change": 0.14,
-    "Last Close": 215.51,
+    "Last Close": 218.25,
     "Fair Value": 37.971584046152714,
-    "Over/UnderValued %": 467.5559906535832
+    "Over/UnderValued %": 474.7719129513459
   },
   {
     "Ticker": "WBD",
@@ -1018,8 +1018,8 @@
     "Metric": "P.Change",
     "EPS (ttm)": -0.7,
     "Avg. 5Y Price Change": -0.03,
-    "Last Close": 26.12,
-    "Fair Value": 8.299132350540866,
+    "Last Close": 26.15,
+    "Fair Value": 8.30866427896798,
     "Over/UnderValued %": 214.7316959982898
   },
   {
@@ -1029,31 +1029,31 @@
     "Metric": "EPS",
     "EPS (ttm)": 4.99,
     "Avg. 5Y Price Change": -0.14,
-    "Last Close": 88.39,
+    "Last Close": 85.47,
     "Fair Value": 95.07127173341686,
-    "Over/UnderValued %": -7.027645272434535
+    "Over/UnderValued %": -10.09902524533296
   },
   {
     "Ticker": "DXCM",
-    "Company ": "#N/A",
+    "Company ": "DexCom Inc",
     "Industry": "Medical - Devices",
     "Metric": "EPS",
     "EPS (ttm)": 2.33,
     "Avg. 5Y Price Change": -0.07,
-    "Last Close": "#N/A",
+    "Last Close": 74.06,
     "Fair Value": 36.36829473038736,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 103.63891281963107
   },
   {
     "Ticker": "LULU",
-    "Company ": "#N/A",
+    "Company ": "Lululemon Athletica Inc",
     "Industry": "Apparel - Retail",
     "Metric": "EPS",
     "EPS (ttm)": 12.39,
     "Avg. 5Y Price Change": -0.14,
-    "Last Close": "#N/A",
+    "Last Close": 113.62,
     "Fair Value": 212.84950201344347,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": -46.619560334783486
   },
   {
     "Ticker": "CDW",
@@ -1062,9 +1062,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 10.16,
     "Avg. 5Y Price Change": -0.04,
-    "Last Close": 139.23,
+    "Last Close": 137.72,
     "Fair Value": 96.39504624923546,
-    "Over/UnderValued %": 44.436882824882986
+    "Over/UnderValued %": 42.87041228645325
   },
   {
     "Ticker": "ON",
@@ -1073,9 +1073,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 2.44,
     "Avg. 5Y Price Change": 0.29,
-    "Last Close": 91.1,
+    "Last Close": 93.79,
     "Fair Value": 20.16469806368737,
-    "Over/UnderValued %": 351.7796384169672
+    "Over/UnderValued %": 365.1197836128141
   },
   {
     "Ticker": "BIIB",
@@ -1084,9 +1084,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 15.84,
     "Avg. 5Y Price Change": -0.08,
-    "Last Close": 205.7,
+    "Last Close": 200.36,
     "Fair Value": 82.21674509670024,
-    "Over/UnderValued %": 150.19234191047505
+    "Over/UnderValued %": 143.69731465815647
   },
   {
     "Ticker": "GFS",
@@ -1095,9 +1095,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 1.78,
     "Avg. 5Y Price Change": 0.13,
-    "Last Close": 65.84,
+    "Last Close": 67.97,
     "Fair Value": 18.352499094177,
-    "Over/UnderValued %": 258.7522313017858
+    "Over/UnderValued %": 270.3582800969377
   },
   {
     "Ticker": "ARM",
@@ -1106,8 +1106,8 @@
     "Metric": "EPS",
     "EPS (ttm)": 1.77,
     "Avg. 5Y Price Change": 0.91,
-    "Last Close": 300.43,
+    "Last Close": 300.24,
     "Fair Value": 5.739215352880942,
-    "Over/UnderValued %": 5134.68769732071
+    "Over/UnderValued %": 5131.377140244215
   }
 ]
