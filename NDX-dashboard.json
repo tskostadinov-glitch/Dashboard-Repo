@@ -2,7 +2,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1N8YqaA62y-gTwOuHZVOCl3MKWD2ok6Li/view",
     "Ticker": "NVDA",
-    "Company ": "#N/A",
+    "Company ": "NVIDIA Corp",
     "Industry": "Semiconductors",
     "Metric": "EPS",
     "EPS (ttm)": 7.01,
@@ -10,9 +10,9 @@
     "Cost of Equity": 0.28,
     "Growth Rate": 0.7849999999999999,
     "Terminal Rate": 0.04,
-    "Last Close": "#N/A",
+    "Last Close": 224.41,
     "Fair Value": 380.87176632279545,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": -41.079906718575565
   },
   {
     "PDF": "https://drive.google.com/file/d/1h6cywsdyb5vT6DAx-GtCyq5fUtLRdbGp/view",
@@ -32,7 +32,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1Rmo2J2S324-rNR97_uW8XCjs2JWc0ZsN/view",
     "Ticker": "MSFT",
-    "Company ": "#N/A",
+    "Company ": "Microsoft Corp",
     "Industry": "Software - Infrastructure",
     "Metric": "EPS",
     "EPS (ttm)": 17.28,
@@ -40,9 +40,9 @@
     "Cost of Equity": 0.16,
     "Growth Rate": 0.18,
     "Terminal Rate": 0.02,
-    "Last Close": "#N/A",
+    "Last Close": 496.82,
     "Fair Value": 249.61490058587856,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 99.03459241972294
   },
   {
     "PDF": "https://drive.google.com/file/d/1kqiA2ZoK9gZ119sXJfYZn-gEoUeVqbHg/view",
@@ -107,7 +107,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1_E7m3TrXWwhTW5XYohcPfi6ubx0V3UBb/view",
     "Ticker": "GOOG",
-    "Company ": "#N/A",
+    "Company ": "Alphabet Inc Class C",
     "Industry": "Internet Content & Information",
     "Metric": "EPS",
     "EPS (ttm)": 19.91,
@@ -115,9 +115,9 @@
     "Cost of Equity": 0.18,
     "Growth Rate": 0.19,
     "Terminal Rate": 0.03,
-    "Last Close": "#N/A",
+    "Last Close": 333.78,
     "Fair Value": 266.8696935381597,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 25.0722761265032
   },
   {
     "PDF": "https://drive.google.com/file/d/1Op6FDtI-p8LLvtiFZFg02BzSu8hz3Ytu/view",
@@ -137,7 +137,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1fiNCIynNIadmOjJm0u804ABPh78MlOO6/view",
     "Ticker": "META",
-    "Company ": "#N/A",
+    "Company ": "Meta Platforms Inc",
     "Industry": "Internet Content & Information",
     "Metric": "EPS",
     "EPS (ttm)": 26.55,
@@ -145,14 +145,14 @@
     "Cost of Equity": 0.18,
     "Growth Rate": 0.2149999999999999,
     "Terminal Rate": 0.03,
-    "Last Close": "#N/A",
+    "Last Close": 592.85,
     "Fair Value": 393.9378853104149,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 50.493268636208086
   },
   {
     "PDF": "https://drive.google.com/file/d/1VCMH6TqHNCs0tVq2lLj5Dl8TfO48kTJ8/view",
     "Ticker": "TSLA",
-    "Company ": "#N/A",
+    "Company ": "Tesla Inc",
     "Industry": "Auto - Manufacturers",
     "Metric": "EPS",
     "EPS (ttm)": 1.74,
@@ -160,9 +160,9 @@
     "Cost of Equity": 0.24,
     "Growth Rate": 0.48,
     "Terminal Rate": 0.04,
-    "Last Close": "#N/A",
+    "Last Close": 357.01,
     "Fair Value": 46.447156561226706,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 668.6369337364903
   },
   {
     "PDF": "https://drive.google.com/file/d/1nPQEPRxdmkDLFNMKwc8_B47ytcERmgNa/view",
@@ -182,7 +182,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1HawN2F2GU1j91miP1D6oGu4MEO7pEX_x/view",
     "Ticker": "INTC",
-    "Company ": "#N/A",
+    "Company ": "Intel Corp",
     "Industry": "Semiconductors",
     "Metric": "EPS",
     "EPS (ttm)": 0.57,
@@ -190,9 +190,9 @@
     "Cost of Equity": 0.28,
     "Growth Rate": -0.10499999999999998,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 90.05,
     "Fair Value": 1.4193920531694315,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 6244.265476118656
   },
   {
     "PDF": "https://drive.google.com/file/d/1YZ8ujNMI43jlFl9cPUn46WhWFOR7fayM/view",
@@ -242,7 +242,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1hXAerxPx5rq1SJX5gE4U0t_E66ueGw38/view",
     "Ticker": "LRCX",
-    "Company ": "#N/A",
+    "Company ": "Lam Research Corp",
     "Industry": "Semiconductors",
     "Metric": "EPS",
     "EPS (ttm)": 5.82,
@@ -250,14 +250,14 @@
     "Cost of Equity": 0.25,
     "Growth Rate": 0.18,
     "Terminal Rate": 0.02,
-    "Last Close": "#N/A",
+    "Last Close": 288.32,
     "Fair Value": 46.94520997463748,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 514.1627658194886
   },
   {
     "PDF": "https://drive.google.com/file/d/1zc46NoQnEUf3OFMI0vzTetP3sTp_X9j3/view",
     "Ticker": "NFLX",
-    "Company ": "#N/A",
+    "Company ": "Netflix Inc",
     "Industry": "Entertainment",
     "Metric": "EPS",
     "EPS (ttm)": 3.1,
@@ -265,14 +265,14 @@
     "Cost of Equity": 0.21,
     "Growth Rate": 0.3200000000000001,
     "Terminal Rate": 0.04,
-    "Last Close": "#N/A",
+    "Last Close": 82.73,
     "Fair Value": 57.46618035134654,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 43.96293523284689
   },
   {
     "PDF": "https://drive.google.com/file/d/1ImOXeLTRAIw5DyNrmjgHCDKn6nm5GEST/view",
     "Ticker": "PLTR",
-    "Company ": "#N/A",
+    "Company ": "Palantir Technologies Inc",
     "Industry": "Software - Infrastructure",
     "Metric": "EPS",
     "EPS (ttm)": 1.2,
@@ -280,14 +280,14 @@
     "Cost of Equity": 0.21,
     "Growth Rate": 0.5950000000000002,
     "Terminal Rate": 0.04,
-    "Last Close": "#N/A",
+    "Last Close": 169.46,
     "Fair Value": 59.62400997519241,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 184.21436275504908
   },
   {
     "PDF": "https://drive.google.com/file/d/1YdB0GWWKjuV4CFuSXkl-rjAnAUkBrEjl/view",
     "Ticker": "PANW",
-    "Company ": "#N/A",
+    "Company ": "Palo Alto Networks Inc",
     "Industry": "Software - Infrastructure",
     "Metric": "EPS",
     "EPS (ttm)": 3.76,
@@ -295,9 +295,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.45499999999999996,
     "Terminal Rate": 0.04,
-    "Last Close": "#N/A",
+    "Last Close": 328.48,
     "Fair Value": 201.46070378873281,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 63.04916731774619
   },
   {
     "PDF": "https://drive.google.com/file/d/135SWtSGyDx4L9DOe28_xYy1FmMoGMS6U/view",
@@ -317,7 +317,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1OunY4ChmQDhwz4Uqc6qzyTck7OIQb_oO/view",
     "Ticker": "KLAC",
-    "Company ": "#N/A",
+    "Company ": "KLA Corp",
     "Industry": "Semiconductors",
     "Metric": "EPS",
     "EPS (ttm)": 3.43,
@@ -325,9 +325,9 @@
     "Cost of Equity": 0.2,
     "Growth Rate": 0.26,
     "Terminal Rate": 0.04,
-    "Last Close": "#N/A",
+    "Last Close": 172.26,
     "Fair Value": 54.37452130195315,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 216.80278901841544
   },
   {
     "PDF": "https://drive.google.com/file/d/18-lIVQONr9s_LiH0eIGewI2_lHEKs_5E/view",
@@ -347,7 +347,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1b9DM1tADhad5n1uNluVp-kkCzbx_DnJV/view",
     "Ticker": "SPCX",
-    "Company ": "#N/A",
+    "Company ": "Space Exploration Technologies Corp",
     "Industry": "Aerospace & Defense",
     "Metric": "P.Change",
     "EPS (ttm)": -1.28,
@@ -355,9 +355,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.1700000000000017,
     "Terminal Rate": 0.02,
-    "Last Close": "#N/A",
-    "Fair Value": "#N/A",
-    "Over/UnderValued %": "#N/A"
+    "Last Close": 140.71,
+    "Fair Value": 63.236254658387494,
+    "Over/UnderValued %": 122.51475954757005
   },
   {
     "PDF": "https://drive.google.com/file/d/1bp-bl_MIlS6cqWu5-huJOGGLnj8YhSq9/view",
@@ -392,7 +392,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1EoqHxOxpKgBMZEjT2fdyhTqwYb6fMtui/view",
     "Ticker": "TMUS",
-    "Company ": "#N/A",
+    "Company ": "T-Mobile Us Inc",
     "Industry": "Telecommunications Services",
     "Metric": "EPS",
     "EPS (ttm)": 9.58,
@@ -400,9 +400,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.2,
     "Terminal Rate": 0.03,
-    "Last Close": "#N/A",
+    "Last Close": 187.3,
     "Fair Value": 173.0395516087319,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 8.241149643934076
   },
   {
     "PDF": "https://drive.google.com/file/d/1ehGpDMGL6Xiu079sOg7yN7Yn-ZOTM6ta/view",
@@ -422,7 +422,7 @@
   {
     "PDF": "https://drive.google.com/file/d/10cxeuUzbtthPJfUcvoBaia0xaHszgRQn/view",
     "Ticker": "SNDK",
-    "Company ": "#N/A",
+    "Company ": "SanDisk Corp",
     "Industry": "Computer Hardware",
     "Metric": "EPS",
     "EPS (ttm)": 70.08,
@@ -430,9 +430,9 @@
     "Cost of Equity": 0.6,
     "Growth Rate": -0.050000000000000044,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 1553.4,
     "Fair Value": 103.19325310561614,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 1405.3309719872168
   },
   {
     "PDF": "https://drive.google.com/file/d/1Kre66Ft4Jzm8D19aAKcfIkOa-9y2Vvcm/view",
@@ -482,7 +482,7 @@
   {
     "PDF": "https://drive.google.com/file/d/15MOyE3yO4TZT7UXNzTmTXOguaVZE68JU/view",
     "Ticker": "MRVL",
-    "Company ": "#N/A",
+    "Company ": "Marvell Technology Inc",
     "Industry": "Semiconductors",
     "Metric": "EPS",
     "EPS (ttm)": 3.3,
@@ -490,14 +490,14 @@
     "Cost of Equity": 0.29,
     "Growth Rate": 0.21499999999999994,
     "Terminal Rate": 0.03,
-    "Last Close": "#N/A",
+    "Last Close": 206.48,
     "Fair Value": 25.265774235091534,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 717.2320312797726
   },
   {
     "PDF": "https://drive.google.com/file/d/1HiQcj9RjUZc5splZqhfaxNMMKWO5uMlC/view",
     "Ticker": "GILD",
-    "Company ": "#N/A",
+    "Company ": "Gilead Sciences, Inc",
     "Industry": "Drug Manufacturers - General",
     "Metric": "P.Change",
     "EPS (ttm)": -0.39,
@@ -505,14 +505,14 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.044999999999999825,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
-    "Fair Value": "#N/A",
-    "Over/UnderValued %": "#N/A"
+    "Last Close": 149.61,
+    "Fair Value": 192.92933739823928,
+    "Over/UnderValued %": -22.453473371351873
   },
   {
     "PDF": "https://drive.google.com/file/d/1VWzue6Bwnp74KaxQMHDVsdDimPlr1aIA/view",
     "Ticker": "QCOM",
-    "Company ": "#N/A",
+    "Company ": "Qualcomm Inc",
     "Industry": "Semiconductors",
     "Metric": "EPS",
     "EPS (ttm)": 11.92,
@@ -520,9 +520,9 @@
     "Cost of Equity": 0.22,
     "Growth Rate": 0.16,
     "Terminal Rate": 0.02,
-    "Last Close": "#N/A",
+    "Last Close": 169.96,
     "Fair Value": 105.08962595777218,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 61.728618263704234
   },
   {
     "PDF": "https://drive.google.com/file/d/1YvKXxzGl1g3XJbVjM61vyjZmMK8IS481/view",
@@ -557,7 +557,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1TYa5lq1OV84GETINFt6LR-LG_sNISAIL/view",
     "Ticker": "SHOP",
-    "Company ": "#N/A",
+    "Company ": "Shopify Inc.",
     "Industry": "Software - Application",
     "Metric": "P.Change",
     "EPS (ttm)": 1.58,
@@ -565,14 +565,14 @@
     "Cost of Equity": 0.32,
     "Growth Rate": 1.2850000000000004,
     "Terminal Rate": 0.04,
-    "Last Close": "#N/A",
-    "Fair Value": "#N/A",
-    "Over/UnderValued %": "#N/A"
+    "Last Close": 141.87,
+    "Fair Value": 32.00009673439173,
+    "Over/UnderValued %": 343.3424097981769
   },
   {
     "PDF": "https://drive.google.com/file/d/1QwfaeR476lirPIzJWQhK-d5mvp-_I1wB/view",
     "Ticker": "ISRG",
-    "Company ": "#N/A",
+    "Company ": "Intuitive Surgical Inc",
     "Industry": "Medical - Instruments & Supplies",
     "Metric": "EPS",
     "EPS (ttm)": 9.62,
@@ -580,9 +580,9 @@
     "Cost of Equity": 0.2,
     "Growth Rate": 0.14500000000000002,
     "Terminal Rate": 0.02,
-    "Last Close": "#N/A",
+    "Last Close": 371.88,
     "Fair Value": 90.27498813269327,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 311.9413446539385
   },
   {
     "PDF": "https://drive.google.com/file/d/1hML1pZhJvIEKRKKOQj1K7g2oo9R6VG9n/view",
@@ -602,7 +602,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1K9xcwWPpavpL2MzQjM9hoA6xF7SSYI0X/view",
     "Ticker": "FTNT",
-    "Company ": "#N/A",
+    "Company ": "Fortinet Inc",
     "Industry": "Software - Infrastructure",
     "Metric": "EPS",
     "EPS (ttm)": 3.01,
@@ -610,14 +610,14 @@
     "Cost of Equity": 0.16,
     "Growth Rate": 0.25000000000000006,
     "Terminal Rate": 0.04,
-    "Last Close": "#N/A",
+    "Last Close": 154.54,
     "Fair Value": 64.49417574964359,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 139.61853640846633
   },
   {
     "PDF": "https://drive.google.com/file/d/14r3p2CIGfecG6h1l5McOAoUePrzbuWFy/view",
     "Ticker": "VRTX",
-    "Company ": "#N/A",
+    "Company ": "Vertex Pharmaceuticals Inc",
     "Industry": "Biotechnology",
     "Metric": "EPS",
     "EPS (ttm)": 19.03,
@@ -625,14 +625,14 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.8200000000000001,
     "Terminal Rate": 0.04,
-    "Last Close": "#N/A",
+    "Last Close": 556.75,
     "Fair Value": 3587.499071136973,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": -84.48083221876483
   },
   {
     "PDF": "https://drive.google.com/file/d/1fCGa7tYmVJrUvv9MuJaltQj9dHL2mqi4/view",
     "Ticker": "SBUX",
-    "Company ": "#N/A",
+    "Company ": "Starbucks Corp",
     "Industry": "Restaurants",
     "Metric": "EPS",
     "EPS (ttm)": 2.08,
@@ -640,9 +640,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.195,
     "Terminal Rate": 0.03,
-    "Last Close": "#N/A",
+    "Last Close": 106.72,
     "Fair Value": 36.78222400482949,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 190.14015026929235
   },
   {
     "PDF": "https://drive.google.com/file/d/14mNZMLPSDe8-xo8eIhaiBviGJ-vav9uV/view",
@@ -707,7 +707,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1qqmr_xH9TMNSHUbvYeJlodgiycKrMl-z/view",
     "Ticker": "MELI",
-    "Company ": "#N/A",
+    "Company ": "MercadoLibre Inc",
     "Industry": "Specialty Retail",
     "Metric": "EPS",
     "EPS (ttm)": 36.77,
@@ -715,9 +715,9 @@
     "Cost of Equity": 0.19,
     "Growth Rate": 0.7050000000000001,
     "Terminal Rate": 0.04,
-    "Last Close": "#N/A",
+    "Last Close": 2006.58,
     "Fair Value": 3136.845503666169,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": -36.031914939552436
   },
   {
     "PDF": "https://drive.google.com/file/d/1wJcY7N1c6qlA-o_4-Lo4O_qmsHl8bP3R/view",
@@ -752,7 +752,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1WY3jJ5W2Gur8mdK3h1mhbuzKK04Uql9c/view",
     "Ticker": "MNST",
-    "Company ": "#N/A",
+    "Company ": "Monster Beverage Corp",
     "Industry": "Beverages - Non-Alcoholic",
     "Metric": "EPS",
     "EPS (ttm)": 1.12,
@@ -760,9 +760,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.14500000000000002,
     "Terminal Rate": 0.02,
-    "Last Close": "#N/A",
+    "Last Close": 44.42,
     "Fair Value": 15.179402484431115,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 192.6333895261013
   },
   {
     "PDF": "https://drive.google.com/file/d/1N-jxOfAIVQkiaGI7cP1Cn3A23y4kdqDd/view",
@@ -782,7 +782,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1KUkI-YSi5TOau3RhW6i6j_vp5yw77zph/view",
     "Ticker": "DDOG",
-    "Company ": "#N/A",
+    "Company ": "Datadog Inc",
     "Industry": "Software - Application",
     "Metric": "EPS",
     "EPS (ttm)": 2.39,
@@ -790,9 +790,9 @@
     "Cost of Equity": 0.21,
     "Growth Rate": 0.5100000000000001,
     "Terminal Rate": 0.04,
-    "Last Close": "#N/A",
+    "Last Close": 209.23,
     "Fair Value": 88.63114198796009,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 136.0682659695645
   },
   {
     "PDF": "https://drive.google.com/file/d/1zasxYKM25jTZSzmYcZve7TcHtg5e59FA/view",
@@ -812,7 +812,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1jv05bjICokUCD2Un3a0voGOF5NUYvpF6/view",
     "Ticker": "INTU",
-    "Company ": "#N/A",
+    "Company ": "Intuit Inc",
     "Industry": "Software - Application",
     "Metric": "EPS",
     "EPS (ttm)": 23.04,
@@ -820,14 +820,14 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.1899999999999999,
     "Terminal Rate": 0.03,
-    "Last Close": "#N/A",
+    "Last Close": 342.94,
     "Fair Value": 398.87080785138176,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": -14.022286602689016
   },
   {
     "PDF": "https://drive.google.com/file/d/1JXbMDxIQc6rUqc45RGzHmzUjHleKCcWT/view",
     "Ticker": "DASH",
-    "Company ": "#N/A",
+    "Company ": "DoorDash Inc",
     "Industry": "Internet Content & Information",
     "Metric": "EPS",
     "EPS (ttm)": 1.91,
@@ -835,9 +835,9 @@
     "Cost of Equity": 0.24,
     "Growth Rate": 0.91,
     "Terminal Rate": 0.04,
-    "Last Close": "#N/A",
+    "Last Close": 226.24,
     "Fair Value": 199.92630226477863,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 13.161698804578513
   },
   {
     "PDF": "https://drive.google.com/file/d/1_0oudJQgW_NQHZjvQW0ir4P_mnvd9szS/view",
@@ -857,7 +857,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1D9gFZ3lPfZUacuQ3T2ueg-kFMk0H8Jbb/view",
     "Ticker": "ROST",
-    "Company ": "#N/A",
+    "Company ": "Ross Stores Inc",
     "Industry": "Apparel - Retail",
     "Metric": "EPS",
     "EPS (ttm)": 8.26,
@@ -865,14 +865,14 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.10500000000000001,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 230.85,
     "Fair Value": 90.09679607962437,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 156.22442755454134
   },
   {
     "PDF": "https://drive.google.com/file/d/13pUFGFqFiWwvD5lH3wbVw1x1bTlHPyv3/view",
     "Ticker": "MDLZ",
-    "Company ": "#N/A",
+    "Company ": "MONDELEZ INTERNATIONAL INC Common Stock",
     "Industry": "Food Confectioners",
     "Metric": "EPS",
     "EPS (ttm)": 2.85,
@@ -880,9 +880,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.024999999999999998,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 62.45,
     "Fair Value": 21.961515535971515,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 184.36106742137633
   },
   {
     "PDF": "https://drive.google.com/file/d/1z-ZqqorScrwXZ8Cyr7ffxc8_kyXoSDz8/view",
@@ -902,7 +902,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1aToUI51hIQx6kVmqcT5N3Fc0zBOunr15/view",
     "Ticker": "REGN",
-    "Company ": "#N/A",
+    "Company ": "Regeneron Pharmaceuticals Inc",
     "Industry": "Biotechnology",
     "Metric": "EPS",
     "EPS (ttm)": 45.63,
@@ -910,14 +910,14 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.23499999999999996,
     "Terminal Rate": 0.03,
-    "Last Close": "#N/A",
+    "Last Close": 852.03,
     "Fair Value": 954.7926591680432,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": -10.762824596660103
   },
   {
     "PDF": "https://drive.google.com/file/d/1V6CBzPXYSnGp0io70CevXJVtWujfC4qF/view",
     "Ticker": "SNPS",
-    "Company ": "#N/A",
+    "Company ": "Synopsys Inc",
     "Industry": "Software - Infrastructure",
     "Metric": "EPS",
     "EPS (ttm)": 13.41,
@@ -925,14 +925,14 @@
     "Cost of Equity": 0.18,
     "Growth Rate": 0.175,
     "Terminal Rate": 0.02,
-    "Last Close": "#N/A",
+    "Last Close": 415.97,
     "Fair Value": 162.61332996450943,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 155.8031374738996
   },
   {
     "PDF": "https://drive.google.com/file/d/1XVhGI-Yw7EJRxhQarcKsHidsI31PmM8H/view",
     "Ticker": "ORLY",
-    "Company ": "#N/A",
+    "Company ": "O'Reilly Automotive Inc",
     "Industry": "Specialty Retail",
     "Metric": "EPS",
     "EPS (ttm)": 3.06,
@@ -940,9 +940,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.10499999999999998,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 86.97,
     "Fair Value": 33.377263438698606,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 160.56659845625435
   },
   {
     "PDF": "https://drive.google.com/file/d/1O0TzvUylrYuFkxHN6tpAvDNnao2NxhPW/view",
@@ -962,7 +962,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1z9m-tXwqi2hCE-17n9CDkGwmekbqsQgg/view",
     "Ticker": "PCAR",
-    "Company ": "#N/A",
+    "Company ": "PACCAR Inc",
     "Industry": "Industrial - Machinery",
     "Metric": "EPS",
     "EPS (ttm)": 4.7,
@@ -970,14 +970,14 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.09999999999999999,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 122.13,
     "Fair Value": 50.17578846071001,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 143.40424684234608
   },
   {
     "PDF": "https://drive.google.com/file/d/1S3a8QJoGpnfiNEXvsfT9P8T-6HZDJxtg/view",
     "Ticker": "MPWR",
-    "Company ": "#N/A",
+    "Company ": "Monolithic Power Systems Inc",
     "Industry": "Semiconductors",
     "Metric": "EPS",
     "EPS (ttm)": 18.83,
@@ -985,9 +985,9 @@
     "Cost of Equity": 0.23,
     "Growth Rate": 0.3199999999999999,
     "Terminal Rate": 0.04,
-    "Last Close": "#N/A",
+    "Last Close": 1219.36,
     "Fair Value": 303.1623392603277,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 302.2135476903437
   },
   {
     "PDF": "https://drive.google.com/file/d/1Vk2kr3MclJgIlGBduvtRNpe8lxcEg187/view",
@@ -1022,7 +1022,7 @@
   {
     "PDF": "https://drive.google.com/file/d/18i976sEVVRnd5dF0fhgi6euhHwxhV6i0/view",
     "Ticker": "LITE",
-    "Company ": "#N/A",
+    "Company ": "Lumentum Holdings Inc",
     "Industry": "Communication Equipment",
     "Metric": "EPS",
     "EPS (ttm)": 6.02,
@@ -1030,9 +1030,9 @@
     "Cost of Equity": 0.21,
     "Growth Rate": 0.09500000000000001,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 870.58,
     "Fair Value": 42.53504855879941,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 1946.7356438926633
   },
   {
     "PDF": "https://drive.google.com/file/d/12oIexVHbH8FsHzP065Wqgaq8C2X0JB0c/view",
@@ -1082,7 +1082,7 @@
   {
     "PDF": "https://drive.google.com/file/d/10WK77QcHPexPlGZyTxhpIxujPmfbqRZb/view",
     "Ticker": "NXPI",
-    "Company ": "#N/A",
+    "Company ": "NXP Semiconductors NV",
     "Industry": "Semiconductors",
     "Metric": "EPS",
     "EPS (ttm)": 13.12,
@@ -1090,14 +1090,14 @@
     "Cost of Equity": 0.24,
     "Growth Rate": 0.049999999999999836,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 228.5,
     "Fair Value": 67.01567507394704,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 240.96500519895753
   },
   {
     "PDF": "https://drive.google.com/file/d/12RdV73bSUqVTv-PpAqpz_6p3u-Pk34vN/view",
     "Ticker": "FANG",
-    "Company ": "#N/A",
+    "Company ": "Diamondback Energy Inc",
     "Industry": "Oil & Gas Exploration & Production",
     "Metric": "EPS",
     "EPS (ttm)": 15.53,
@@ -1105,14 +1105,14 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.20999999999999996,
     "Terminal Rate": 0.03,
-    "Last Close": "#N/A",
+    "Last Close": 203.42,
     "Fair Value": 292.61894189083836,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": -30.48296918663389
   },
   {
     "PDF": "https://drive.google.com/file/d/1NtufI7Yg4jzsxdQ10fH-X6VrtWu9_Oqz/view",
     "Ticker": "FAST",
-    "Company ": "#N/A",
+    "Company ": "Fastenal Co",
     "Industry": "Industrial - Distribution",
     "Metric": "EPS",
     "EPS (ttm)": 1.18,
@@ -1120,9 +1120,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.08000000000000002,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 47.93,
     "Fair Value": 11.555933897515875,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 314.76526626985367
   },
   {
     "PDF": "https://drive.google.com/file/d/1BGKkoSu38Fauq-L-WYw9nKi2nqDszjrJ/view",
@@ -1140,24 +1140,9 @@
     "Over/UnderValued %": -54.85648158582167
   },
   {
-    "PDF": "https://drive.google.com/file/d/1ddO3yufFpUKU4fxyNBXgSuPJzAMiPIaf/view",
-    "Ticker": "EA",
-    "Company ": "#N/A",
-    "Industry": "Electronic Gaming & Multimedia",
-    "Metric": "EPS",
-    "EPS (ttm)": 7.73,
-    "Avg. 5Y Price Change": 0.09,
-    "Cost of Equity": 0.15,
-    "Growth Rate": 0.07,
-    "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
-    "Fair Value": 72.49104758963769,
-    "Over/UnderValued %": "#N/A"
-  },
-  {
     "PDF": "https://drive.google.com/file/d/1mENy7uLfY4aW2Cz8vElkK5E7iUCotAvm/view",
     "Ticker": "PYPL",
-    "Company ": "#N/A",
+    "Company ": "PayPal Holdings Inc",
     "Industry": "Financial - Credit Services",
     "Metric": "EPS",
     "EPS (ttm)": 5.31,
@@ -1165,9 +1150,9 @@
     "Cost of Equity": 0.19,
     "Growth Rate": 0.11000000000000001,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 54.67,
     "Fair Value": 44.77377097104204,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 22.10273741597164
   },
   {
     "PDF": "https://drive.google.com/file/d/1Ph4uz4-i48DGqbK2rYds6lbxKgGS6VGe/view",
@@ -1232,7 +1217,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1a08qE9pyrFMVBqFZLVEm2ArF32BkYQOx/view",
     "Ticker": "NBIS",
-    "Company ": "#N/A",
+    "Company ": "Nebius Group NV",
     "Industry": "Software - Infrastructure",
     "Metric": "P.Change",
     "EPS (ttm)": -1.99,
@@ -1240,9 +1225,9 @@
     "Cost of Equity": 0.2,
     "Growth Rate": 0.36,
     "Terminal Rate": 0.04,
-    "Last Close": "#N/A",
-    "Fair Value": "#N/A",
-    "Over/UnderValued %": "#N/A"
+    "Last Close": 204.09,
+    "Fair Value": 14115.805061728393,
+    "Over/UnderValued %": -98.55417385613137
   },
   {
     "PDF": "https://drive.google.com/file/d/1Fq7XzGoUOUQn_YFPttUa5vtagYp9Tqze/view",
@@ -1277,7 +1262,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1gJJYGXvWHPtCIxFIFm_mKAyJemIN6Iv2/view",
     "Ticker": "TTWO",
-    "Company ": "#N/A",
+    "Company ": "TAKE-TWO INTERACTIVE SOFTWARE, INC Common Stock",
     "Industry": "Electronic Gaming & Multimedia",
     "Metric": "EPS",
     "EPS (ttm)": 4.1,
@@ -1285,14 +1270,14 @@
     "Cost of Equity": 0.15,
     "Growth Rate": -0.375,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 216.14,
     "Fair Value": 5.517378726515115,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 3817.4399785406476
   },
   {
     "PDF": "https://drive.google.com/file/d/1HgfeO6y6Ny9OYV5Qdz1C0G2Hpp9EnDlA/view",
     "Ticker": "IDXX",
-    "Company ": "#N/A",
+    "Company ": "IDEXX Laboratories Inc",
     "Industry": "Medical - Diagnostics & Research",
     "Metric": "EPS",
     "EPS (ttm)": 14.22,
@@ -1300,14 +1285,14 @@
     "Cost of Equity": 0.21,
     "Growth Rate": 0.2,
     "Terminal Rate": 0.03,
-    "Last Close": "#N/A",
+    "Last Close": 538.99,
     "Fair Value": 160.30335637047392,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 236.23126315231406
   },
   {
     "PDF": "https://drive.google.com/file/d/1mXhNF1zQ7G0CKvYcFsmmvVPDegLcyuTp/view",
     "Ticker": "ODFL",
-    "Company ": "#N/A",
+    "Company ": "Old Dominion Freight Line Inc",
     "Industry": "Trucking",
     "Metric": "EPS",
     "EPS (ttm)": 5.19,
@@ -1315,14 +1300,14 @@
     "Cost of Equity": 0.17,
     "Growth Rate": 0.08000000000000002,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 187.61,
     "Fair Value": 44.019354310477205,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 326.19889123486365
   },
   {
     "PDF": "https://drive.google.com/file/d/1gflxhvnWZCPfZFN9kRTK8XhLzDTYLpmN/view",
     "Ticker": "PAYX",
-    "Company ": "#N/A",
+    "Company ": "Paychex Inc",
     "Industry": "Staffing & Employment Services",
     "Metric": "EPS",
     "EPS (ttm)": 5.51,
@@ -1330,9 +1315,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.08,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 124,
     "Fair Value": 53.960335402807175,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 129.79842336848995
   },
   {
     "PDF": "https://drive.google.com/file/d/1BLA2i55_Y7oXGP62UnE5CkNMv9_Otov6/view",
@@ -1352,7 +1337,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1s7-8_lZ2smPeZOhA6MLgohdUEAJbZTf-/view",
     "Ticker": "MCHP",
-    "Company ": "#N/A",
+    "Company ": "Microchip Technology Inc",
     "Industry": "Semiconductors",
     "Metric": "EPS",
     "EPS (ttm)": 1.63,
@@ -1360,14 +1345,14 @@
     "Cost of Equity": 0.23,
     "Growth Rate": 0.015000000000000013,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 72.76,
     "Fair Value": 7.628194548318234,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 853.8298943364152
   },
   {
     "PDF": "https://drive.google.com/file/d/1AidnerYOpFYIF_lLxvxnh7-TKBE9dq5f/view",
     "Ticker": "RKLB",
-    "Company ": "#N/A",
+    "Company ": "Rocket Lab Corp",
     "Industry": "Aerospace & Defense",
     "Metric": "P.Change",
     "EPS (ttm)": -0.2,
@@ -1375,9 +1360,9 @@
     "Cost of Equity": 0.33,
     "Growth Rate": 0.17000000000000004,
     "Terminal Rate": 0.02,
-    "Last Close": "#N/A",
-    "Fair Value": "#N/A",
-    "Over/UnderValued %": "#N/A"
+    "Last Close": 63.1,
+    "Fair Value": 356.09051088203324,
+    "Over/UnderValued %": -82.27978615782212
   },
   {
     "PDF": "https://drive.google.com/file/d/18jkakv7qNOeEptcCiCCP4dW7ElL6XRm1/view",
@@ -1427,7 +1412,7 @@
   {
     "PDF": "https://drive.google.com/file/d/11BRjW9hiOa3GsAgyftZRhXaGeyh4Wxwb/view",
     "Ticker": "DXCM",
-    "Company ": "#N/A",
+    "Company ": "DexCom Inc",
     "Industry": "Medical - Devices",
     "Metric": "EPS",
     "EPS (ttm)": 2.55,
@@ -1435,14 +1420,14 @@
     "Cost of Equity": 0.2,
     "Growth Rate": 0.275,
     "Terminal Rate": 0.04,
-    "Last Close": "#N/A",
+    "Last Close": 89.69,
     "Fair Value": 42.86477021723985,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 109.23942796251693
   },
   {
     "PDF": "https://drive.google.com/file/d/1Rv5xldCNh9WkNZfTUiYdh-gfFwdaijwH/view",
     "Ticker": "WDAY",
-    "Company ": "#N/A",
+    "Company ": "Workday Inc",
     "Industry": "Software - Application",
     "Metric": "EPS",
     "EPS (ttm)": 9.66,
@@ -1450,14 +1435,14 @@
     "Cost of Equity": 0.16,
     "Growth Rate": 0.22499999999999998,
     "Terminal Rate": 0.03,
-    "Last Close": "#N/A",
+    "Last Close": 200.87,
     "Fair Value": 176.60505609272036,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 13.739665468320549
   },
   {
     "PDF": "https://drive.google.com/file/d/1tmx5AAG49Rcov-gtsnKaLj79W6pg68AL/view",
     "Ticker": "GEHC",
-    "Company ": "#N/A",
+    "Company ": "GE HealthCare Technologies Inc",
     "Industry": "Medical - Healthcare Information Services",
     "Metric": "EPS",
     "EPS (ttm)": 4.56,
@@ -1465,14 +1450,14 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.025,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 70.56,
     "Fair Value": 35.138424857554426,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 100.80581382358203
   },
   {
     "PDF": "https://drive.google.com/file/d/1CIGnbS1sT-_2Qm1LN3ve1DYY7Vep181g/view",
     "Ticker": "MSTR",
-    "Company ": "#N/A",
+    "Company ": "Strategy Inc Class A",
     "Industry": "Software - Application",
     "Metric": "P.Change",
     "EPS (ttm)": -97.21,
@@ -1480,9 +1465,9 @@
     "Cost of Equity": 0.42,
     "Growth Rate": -0.23500000000000032,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
-    "Fair Value": "#N/A",
-    "Over/UnderValued %": "#N/A"
+    "Last Close": 123.19,
+    "Fair Value": 44.81502875735003,
+    "Over/UnderValued %": 174.8854645770942
   },
   {
     "PDF": "https://drive.google.com/file/d/1am4orczYc0orkBiwTZheM0A9sNkmUSfe/view",
