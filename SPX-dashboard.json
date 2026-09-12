@@ -527,7 +527,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1bj5jeoHeqr8hGZT1iw6E8w2zyyJWzBQG/view",
     "Ticker": "GS",
-    "Company ": "Goldman Sachs Group Inc",
+    "Company ": "The Goldman Sachs Group, Inc.",
     "Industry": "Financial - Capital Markets",
     "Metric": "BV Per Share",
     "EPS (ttm)": 64.79,
@@ -617,7 +617,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1hRuJekUl2VESBjCt0aISLIOofDEavJw3/view",
     "Ticker": "WFC",
-    "Company ": "Wells Fargo & Co",
+    "Company ": "Wells Fargo & Company",
     "Industry": "Banks - Diversified",
     "Metric": "BV Per Share",
     "EPS (ttm)": 6.87,
@@ -692,7 +692,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1ZzF6JvUJBpbkD1RHOfolGqj-kgw-OTnc/view",
     "Ticker": "C",
-    "Company ": "Citigroup Inc",
+    "Company ": "Citigroup Inc.",
     "Industry": "Banks - Diversified",
     "Metric": "BV Per Share",
     "EPS (ttm)": 9.26,
@@ -5095,9 +5095,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.045000000000000005,
     "Terminal Rate": 0.01,
-    "Last Close": 184.06,
+    "Last Close": 3763.61,
     "Fair Value": 61.90367309732638,
-    "Over/UnderValued %": 197.33292192632354
+    "Over/UnderValued %": 5979.784626160657
   },
   {
     "PDF": "https://drive.google.com/file/d/1eITIVF_LL-BO9dez8QnbnbssNzKUXSit/view",
@@ -6002,7 +6002,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1TCHpY2la6ZEiretlXw4qRcwPgkNkEN0-/view",
     "Ticker": "LEN",
-    "Company ": "Lennar Corp Class A",
+    "Company ": "Lennar Corporation Class A",
     "Industry": "Residential Construction",
     "Metric": "EPS",
     "EPS (ttm)": 6.1,
