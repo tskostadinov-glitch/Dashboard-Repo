@@ -6,9 +6,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 7.01,
     "Avg. 5Y Price Change": 1.74,
-    "Last Close": 228.87,
+    "Last Close": 225.51,
     "Fair Value": 380.87176632279545,
-    "Over/UnderValued %": -39.908908919746835
+    "Over/UnderValued %": -40.791095602272506
   },
   {
     "Ticker": "AAPL",
@@ -17,9 +17,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 8.73,
     "Avg. 5Y Price Change": 0.22,
-    "Last Close": 339.75,
+    "Last Close": 337.02,
     "Fair Value": 82.82763324368362,
-    "Over/UnderValued %": 310.18919253727336
+    "Over/UnderValued %": 306.8931910784749
   },
   {
     "Ticker": "MSFT",
@@ -28,9 +28,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 17.28,
     "Avg. 5Y Price Change": 0.13,
-    "Last Close": 498,
+    "Last Close": 500.59,
     "Fair Value": 249.61490058587856,
-    "Over/UnderValued %": 99.50732060911804
+    "Over/UnderValued %": 100.54491892312929
   },
   {
     "Ticker": "AMZN",
@@ -39,9 +39,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 12.43,
     "Avg. 5Y Price Change": 0.09,
-    "Last Close": 254.98,
+    "Last Close": 249.27,
     "Fair Value": 258.31824596632987,
-    "Over/UnderValued %": -1.292299718837897
+    "Over/UnderValued %": -3.5027513958534873
   },
   {
     "Ticker": "MU",
@@ -50,9 +50,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 45.12,
     "Avg. 5Y Price Change": 2.32,
-    "Last Close": 1096.16,
+    "Last Close": 1071.88,
     "Fair Value": 962.8397381373667,
-    "Over/UnderValued %": 13.846568289811568
+    "Over/UnderValued %": 11.324860986063378
   },
   {
     "Ticker": "AMD",
@@ -61,9 +61,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 5.76,
     "Avg. 5Y Price Change": 0.64,
-    "Last Close": 623.77,
+    "Last Close": 614.61,
     "Fair Value": 397.82018900878603,
-    "Over/UnderValued %": 56.79696939318073
+    "Over/UnderValued %": 54.49442159568883
   },
   {
     "Ticker": "GOOGL",
@@ -72,9 +72,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 19.91,
     "Avg. 5Y Price Change": 0.27,
-    "Last Close": 351.16,
+    "Last Close": 337.83,
     "Fair Value": 266.8696935381597,
-    "Over/UnderValued %": 31.584817797899433
+    "Over/UnderValued %": 26.58987070470542
   },
   {
     "Ticker": "GOOG",
@@ -83,9 +83,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 19.91,
     "Avg. 5Y Price Change": 0.26,
-    "Last Close": 347.41,
+    "Last Close": 334.98,
     "Fair Value": 266.8696935381597,
-    "Over/UnderValued %": 30.17963763289737
+    "Over/UnderValued %": 25.521933779303872
   },
   {
     "Ticker": "AVGO",
@@ -94,9 +94,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 8.13,
     "Avg. 5Y Price Change": 1.3,
-    "Last Close": 364.54,
+    "Last Close": 354.99,
     "Fair Value": 112.54084198036873,
-    "Over/UnderValued %": 223.91796043572273
+    "Over/UnderValued %": 215.43215223316295
   },
   {
     "Ticker": "META",
@@ -105,9 +105,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 26.55,
     "Avg. 5Y Price Change": 0.11,
-    "Last Close": 736.6,
+    "Last Close": 744.1,
     "Fair Value": 393.9378853104149,
-    "Over/UnderValued %": 86.98379299558215
+    "Over/UnderValued %": 88.88764644041905
   },
   {
     "Ticker": "TSLA",
@@ -116,9 +116,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 1.74,
     "Avg. 5Y Price Change": 0.09,
-    "Last Close": 378.9,
+    "Last Close": 380.12,
     "Fair Value": 46.447156561226706,
-    "Over/UnderValued %": 715.7657606026614
+    "Over/UnderValued %": 718.3924014787111
   },
   {
     "Ticker": "WMT",
@@ -127,9 +127,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 2.7,
     "Avg. 5Y Price Change": 0.23,
-    "Last Close": 110.12,
+    "Last Close": 110.53,
     "Fair Value": 24.776507303004827,
-    "Over/UnderValued %": 344.4532825118775
+    "Over/UnderValued %": 346.1080758812007
   },
   {
     "Ticker": "INTC",
@@ -138,9 +138,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 0.57,
     "Avg. 5Y Price Change": 0.13,
-    "Last Close": 123.86,
+    "Last Close": 122.6,
     "Fair Value": 1.4193920531694315,
-    "Over/UnderValued %": 8626.271203465372
+    "Over/UnderValued %": 8537.500803688476
   },
   {
     "Ticker": "CSCO",
@@ -149,9 +149,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 4.09,
     "Avg. 5Y Price Change": 0.17,
-    "Last Close": 106.44,
+    "Last Close": 106.43,
     "Fair Value": 31.516701242850345,
-    "Over/UnderValued %": 237.72570035116294
+    "Over/UnderValued %": 237.69397114218594
   },
   {
     "Ticker": "COST",
@@ -160,9 +160,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 19.72,
     "Avg. 5Y Price Change": 0.21,
-    "Last Close": 899.41,
+    "Last Close": 904.7,
     "Fair Value": 245.24660700284164,
-    "Over/UnderValued %": 266.7369799695449
+    "Over/UnderValued %": 268.89399248223543
   },
   {
     "Ticker": "AMAT",
@@ -171,9 +171,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 9.89,
     "Avg. 5Y Price Change": 0.46,
-    "Last Close": 472.46,
+    "Last Close": 474.38,
     "Fair Value": 102.57738205309782,
-    "Over/UnderValued %": 360.58886524851783
+    "Over/UnderValued %": 362.46062290266235
   },
   {
     "Ticker": "LRCX",
@@ -182,9 +182,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 5.82,
     "Avg. 5Y Price Change": 0.76,
-    "Last Close": 310.96,
+    "Last Close": 307.28,
     "Fair Value": 46.94520997463748,
-    "Over/UnderValued %": 562.3891983186327
+    "Over/UnderValued %": 554.5502728947436
   },
   {
     "Ticker": "NFLX",
@@ -193,9 +193,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 3.1,
     "Avg. 5Y Price Change": 0.07,
-    "Last Close": 72.16,
+    "Last Close": 71.36,
     "Fair Value": 57.46618035134654,
-    "Over/UnderValued %": 25.569508115583606
+    "Over/UnderValued %": 24.17738496574342
   },
   {
     "Ticker": "PLTR",
@@ -204,9 +204,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 1.2,
     "Avg. 5Y Price Change": 1.16,
-    "Last Close": 184.99,
+    "Last Close": 191.79,
     "Fair Value": 59.62400997519241,
-    "Over/UnderValued %": 210.26091683026397
+    "Over/UnderValued %": 221.6657183570805
   },
   {
     "Ticker": "PANW",
@@ -215,9 +215,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 3.76,
     "Avg. 5Y Price Change": 0.74,
-    "Last Close": 374.57,
+    "Last Close": 393.3,
     "Fair Value": 201.46070378873281,
-    "Over/UnderValued %": 85.92707806322512
+    "Over/UnderValued %": 95.22417652846316
   },
   {
     "Ticker": "TXN",
@@ -226,9 +226,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 6.57,
     "Avg. 5Y Price Change": 0.07,
-    "Last Close": 271.41,
+    "Last Close": 272.62,
     "Fair Value": 40.83809169363444,
-    "Over/UnderValued %": 564.6001043244279
+    "Over/UnderValued %": 567.5630243577081
   },
   {
     "Ticker": "KLAC",
@@ -237,9 +237,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 3.43,
     "Avg. 5Y Price Change": 0.81,
-    "Last Close": 188.32,
+    "Last Close": 187.86,
     "Fair Value": 54.37452130195315,
-    "Over/UnderValued %": 246.3386812257517
+    "Over/UnderValued %": 245.49269676651298
   },
   {
     "Ticker": "LIN",
@@ -248,9 +248,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 16.83,
     "Avg. 5Y Price Change": 0.11,
-    "Last Close": 464.91,
+    "Last Close": 469.72,
     "Fair Value": 154.4402288553967,
-    "Over/UnderValued %": 201.02907995254137
+    "Over/UnderValued %": 204.14355345186755
   },
   {
     "Ticker": "SPCX",
@@ -259,8 +259,8 @@
     "Metric": "P.Change",
     "EPS (ttm)": -1.28,
     "Avg. 5Y Price Change": -0.02,
-    "Last Close": 154.72,
-    "Fair Value": 69.53246621239224,
+    "Last Close": 148.36,
+    "Fair Value": 66.67422884740508,
     "Over/UnderValued %": 122.5147595475701
   },
   {
@@ -270,8 +270,8 @@
     "Metric": "P.Change",
     "EPS (ttm)": 1.03,
     "Avg. 5Y Price Change": 0.43,
-    "Last Close": 250.06,
-    "Fair Value": 653.6035127775893,
+    "Last Close": 262.49,
+    "Fair Value": 686.0928819842815,
     "Over/UnderValued %": -61.74133169246119
   },
   {
@@ -281,9 +281,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 22.37,
     "Avg. 5Y Price Change": 0.19,
-    "Last Close": 410.24,
+    "Last Close": 406.09,
     "Fair Value": 214.3811162308349,
-    "Over/UnderValued %": 91.36013806284787
+    "Over/UnderValued %": 89.42433323406271
   },
   {
     "Ticker": "TMUS",
@@ -292,9 +292,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 9.58,
     "Avg. 5Y Price Change": 0.07,
-    "Last Close": 162.41,
+    "Last Close": 165.66,
     "Fair Value": 173.0395516087319,
-    "Over/UnderValued %": -6.142845095187777
+    "Over/UnderValued %": -4.264661772482025
   },
   {
     "Ticker": "PEP",
@@ -303,9 +303,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 8.36,
     "Avg. 5Y Price Change": -0.02,
-    "Last Close": 131.19,
+    "Last Close": 130.18,
     "Fair Value": 71.86579948582607,
-    "Over/UnderValued %": 82.54858491607584
+    "Over/UnderValued %": 81.14318762386428
   },
   {
     "Ticker": "SNDK",
@@ -314,9 +314,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 70.08,
     "Avg. 5Y Price Change": 8.34,
-    "Last Close": 1887.04,
+    "Last Close": 1816.57,
     "Fair Value": 103.19325310561614,
-    "Over/UnderValued %": 1728.6466830042211
+    "Over/UnderValued %": 1660.3573347385209
   },
   {
     "Ticker": "STX",
@@ -325,9 +325,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 12.41,
     "Avg. 5Y Price Change": 1.62,
-    "Last Close": 919.84,
+    "Last Close": 923.86,
     "Fair Value": 41.730200839370454,
-    "Over/UnderValued %": 2104.2549077122458
+    "Over/UnderValued %": 2113.8882186456726
   },
   {
     "Ticker": "WDC",
@@ -336,9 +336,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 10.19,
     "Avg. 5Y Price Change": 1.73,
-    "Last Close": 464.6,
+    "Last Close": 473.69,
     "Fair Value": 269.5475567861025,
-    "Over/UnderValued %": 72.36290528453202
+    "Over/UnderValued %": 75.73522299662068
   },
   {
     "Ticker": "ADI",
@@ -347,9 +347,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 9.86,
     "Avg. 5Y Price Change": 0.24,
-    "Last Close": 390.37,
+    "Last Close": 385.23,
     "Fair Value": 110.20338967671881,
-    "Over/UnderValued %": 254.22685377024138
+    "Over/UnderValued %": 249.56275041091806
   },
   {
     "Ticker": "MRVL",
@@ -358,9 +358,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 3.3,
     "Avg. 5Y Price Change": 0.49,
-    "Last Close": 262.36,
+    "Last Close": 260.9,
     "Fair Value": 25.265774235091534,
-    "Over/UnderValued %": 938.4007929415013
+    "Over/UnderValued %": 932.6222247234246
   },
   {
     "Ticker": "GILD",
@@ -369,8 +369,8 @@
     "Metric": "P.Change",
     "EPS (ttm)": -0.39,
     "Avg. 5Y Price Change": 0.21,
-    "Last Close": 152.67,
-    "Fair Value": 196.8753555283015,
+    "Last Close": 151.37,
+    "Fair Value": 195.19894259722932,
     "Over/UnderValued %": -22.453473371351873
   },
   {
@@ -380,9 +380,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 11.92,
     "Avg. 5Y Price Change": 0.03,
-    "Last Close": 198.27,
+    "Last Close": 197.24,
     "Fair Value": 105.08962595777218,
-    "Over/UnderValued %": 88.667528495791
+    "Over/UnderValued %": 87.68741272259956
   },
   {
     "Ticker": "ASML",
@@ -391,9 +391,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 32.02,
     "Avg. 5Y Price Change": 0.19,
-    "Last Close": 1747.9,
+    "Last Close": 1744.61,
     "Fair Value": 516.8432107718353,
-    "Over/UnderValued %": 238.18766766612805
+    "Over/UnderValued %": 237.55111098289584
   },
   {
     "Ticker": "BKNG",
@@ -402,8 +402,8 @@
     "Metric": "P.Change",
     "EPS (ttm)": 9.61,
     "Avg. 5Y Price Change": 0.23,
-    "Last Close": 164.22,
-    "Fair Value": 220.12109211033635,
+    "Last Close": 155.9,
+    "Fair Value": 208.96893350384508,
     "Over/UnderValued %": -25.395609105153703
   },
   {
@@ -413,8 +413,8 @@
     "Metric": "P.Change",
     "EPS (ttm)": 1.58,
     "Avg. 5Y Price Change": -0.02,
-    "Last Close": 147.74,
-    "Fair Value": 33.324129777536015,
+    "Last Close": 142.34,
+    "Fair Value": 32.106109601560014,
     "Over/UnderValued %": 343.3424097981769
   },
   {
@@ -424,9 +424,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 9.62,
     "Avg. 5Y Price Change": 0.01,
-    "Last Close": 402.09,
+    "Last Close": 398.3,
     "Fair Value": 90.27498813269327,
-    "Over/UnderValued %": 345.4057633427507
+    "Over/UnderValued %": 341.2074797667627
   },
   {
     "Ticker": "APP",
@@ -435,9 +435,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 13.01,
     "Avg. 5Y Price Change": 0.59,
-    "Last Close": 328.73,
+    "Last Close": 315.25,
     "Fair Value": 286.41208987478814,
-    "Over/UnderValued %": 14.775182899476125
+    "Over/UnderValued %": 10.068677665743465
   },
   {
     "Ticker": "FTNT",
@@ -446,9 +446,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 3.01,
     "Avg. 5Y Price Change": 0.32,
-    "Last Close": 174.26,
+    "Last Close": 178.74,
     "Fair Value": 64.49417574964359,
-    "Over/UnderValued %": 170.19494082140122
+    "Over/UnderValued %": 177.14130450141892
   },
   {
     "Ticker": "VRTX",
@@ -457,9 +457,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 19.03,
     "Avg. 5Y Price Change": 0.35,
-    "Last Close": 514.99,
+    "Last Close": 516.34,
     "Fair Value": 3587.499071136973,
-    "Over/UnderValued %": -85.64487433200125
+    "Over/UnderValued %": -85.60724366023716
   },
   {
     "Ticker": "SBUX",
@@ -468,9 +468,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 2.08,
     "Avg. 5Y Price Change": -0.02,
-    "Last Close": 95.11,
+    "Last Close": 94.14,
     "Fair Value": 36.78222400482949,
-    "Over/UnderValued %": 158.57599036836953
+    "Over/UnderValued %": 155.93884694856803
   },
   {
     "Ticker": "ADP",
@@ -479,9 +479,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 11.12,
     "Avg. 5Y Price Change": 0.07,
-    "Last Close": 269.64,
+    "Last Close": 263.68,
     "Fair Value": 113.70833756585941,
-    "Over/UnderValued %": 137.1330069299673
+    "Over/UnderValued %": 131.89152672931974
   },
   {
     "Ticker": "ADBE",
@@ -490,9 +490,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 23.65,
     "Avg. 5Y Price Change": -0.11,
-    "Last Close": 238.25,
+    "Last Close": 240.69,
     "Fair Value": 217.55102382291682,
-    "Over/UnderValued %": 9.514538618734258
+    "Over/UnderValued %": 10.636114586120238
   },
   {
     "Ticker": "ARM",
@@ -501,9 +501,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 1.77,
     "Avg. 5Y Price Change": 0.57,
-    "Last Close": 333.2,
+    "Last Close": 332.56,
     "Fair Value": 5.89157309624209,
-    "Over/UnderValued %": 5555.535364782792
+    "Over/UnderValued %": 5544.672391693174
   },
   {
     "Ticker": "CEG",
@@ -512,9 +512,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 10.63,
     "Avg. 5Y Price Change": 1.13,
-    "Last Close": 263.46,
+    "Last Close": 263.88,
     "Fair Value": 74.59852177767021,
-    "Over/UnderValued %": 253.17053705863404
+    "Over/UnderValued %": 253.7335508958945
   },
   {
     "Ticker": "MELI",
@@ -523,9 +523,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 36.77,
     "Avg. 5Y Price Change": 0,
-    "Last Close": 1826.58,
+    "Last Close": 1799.24,
     "Fair Value": 3136.845503666169,
-    "Over/UnderValued %": -41.77016375638534
+    "Over/UnderValued %": -42.641739993342064
   },
   {
     "Ticker": "CDNS",
@@ -534,9 +534,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 7.53,
     "Avg. 5Y Price Change": 0.18,
-    "Last Close": 302.95,
+    "Last Close": 309.09,
     "Fair Value": 90.58479575935579,
-    "Over/UnderValued %": 234.43802291590492
+    "Over/UnderValued %": 241.21620235377802
   },
   {
     "Ticker": "CSX",
@@ -545,9 +545,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 1.8,
     "Avg. 5Y Price Change": 0.1,
-    "Last Close": 46.59,
+    "Last Close": 47.19,
     "Fair Value": 11.623155863330872,
-    "Over/UnderValued %": 300.83778061501977
+    "Over/UnderValued %": 305.9998898309246
   },
   {
     "Ticker": "MNST",
@@ -556,9 +556,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 1.12,
     "Avg. 5Y Price Change": 0.17,
-    "Last Close": 44.27,
+    "Last Close": 43.91,
     "Fair Value": 15.179402484431115,
-    "Over/UnderValued %": 191.6452083367966
+    "Over/UnderValued %": 189.27357348246522
   },
   {
     "Ticker": "MAR",
@@ -567,9 +567,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 10.96,
     "Avg. 5Y Price Change": 0.29,
-    "Last Close": 348.06,
+    "Last Close": 351.66,
     "Fair Value": 121.32062616089911,
-    "Over/UnderValued %": 186.89268347361826
+    "Over/UnderValued %": 189.86002720890824
   },
   {
     "Ticker": "DDOG",
@@ -578,9 +578,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 2.39,
     "Avg. 5Y Price Change": 0.13,
-    "Last Close": 247.48,
+    "Last Close": 251.49,
     "Fair Value": 88.63114198796009,
-    "Over/UnderValued %": 179.22465450531865
+    "Over/UnderValued %": 183.74902360409973
   },
   {
     "Ticker": "CMCSA",
@@ -589,9 +589,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 4,
     "Avg. 5Y Price Change": -0.11,
-    "Last Close": 22.42,
+    "Last Close": 22.55,
     "Fair Value": 35.9165920446085,
-    "Over/UnderValued %": -37.577596526545996
+    "Over/UnderValued %": -37.215646818626766
   },
   {
     "Ticker": "INTU",
@@ -600,9 +600,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 23.04,
     "Avg. 5Y Price Change": -0.08,
-    "Last Close": 292.35,
+    "Last Close": 286.8,
     "Fair Value": 398.87080785138176,
-    "Over/UnderValued %": -26.705591322960665
+    "Over/UnderValued %": -28.09701929681929
   },
   {
     "Ticker": "DASH",
@@ -611,9 +611,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 1.91,
     "Avg. 5Y Price Change": 0.04,
-    "Last Close": 192.21,
+    "Last Close": 189.27,
     "Fair Value": 199.92630226477863,
-    "Over/UnderValued %": -3.859573341460243
+    "Over/UnderValued %": -5.33011521949004
   },
   {
     "Ticker": "CTAS",
@@ -622,9 +622,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 4.94,
     "Avg. 5Y Price Change": 0.2,
-    "Last Close": 198.8,
+    "Last Close": 191.97,
     "Fair Value": 55.05218915272819,
-    "Over/UnderValued %": 261.1118886634651
+    "Over/UnderValued %": 248.7054792088802
   },
   {
     "Ticker": "ROST",
@@ -633,9 +633,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 8.26,
     "Avg. 5Y Price Change": 0.19,
-    "Last Close": 232.51,
+    "Last Close": 233.98,
     "Fair Value": 90.09679607962437,
-    "Over/UnderValued %": 158.06689040808496
+    "Over/UnderValued %": 159.6984689591145
   },
   {
     "Ticker": "MDLZ",
@@ -644,9 +644,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 2.85,
     "Avg. 5Y Price Change": 0,
-    "Last Close": 61.08,
+    "Last Close": 61.44,
     "Fair Value": 21.961515535971515,
-    "Over/UnderValued %": 178.12288227538295
+    "Over/UnderValued %": 179.76211340863674
   },
   {
     "Ticker": "HON",
@@ -655,9 +655,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 15.49,
     "Avg. 5Y Price Change": -0.02,
-    "Last Close": 211.85,
+    "Last Close": 212.57,
     "Fair Value": 104.601542669441,
-    "Over/UnderValued %": 102.53047382817546
+    "Over/UnderValued %": 103.21880019662619
   },
   {
     "Ticker": "REGN",
@@ -666,9 +666,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 45.63,
     "Avg. 5Y Price Change": 0.04,
-    "Last Close": 803.9,
+    "Last Close": 801.82,
     "Fair Value": 954.7926591680432,
-    "Over/UnderValued %": -15.803709603247606
+    "Over/UnderValued %": -16.021557947600428
   },
   {
     "Ticker": "SNPS",
@@ -677,9 +677,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 13.41,
     "Avg. 5Y Price Change": 0.05,
-    "Last Close": 409.24,
+    "Last Close": 413.06,
     "Fair Value": 162.61332996450943,
-    "Over/UnderValued %": 151.6644853711053
+    "Over/UnderValued %": 154.0136162823496
   },
   {
     "Ticker": "ORLY",
@@ -688,9 +688,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 3.06,
     "Avg. 5Y Price Change": 0.26,
-    "Last Close": 85.82,
+    "Last Close": 85.9,
     "Fair Value": 33.377263438698606,
-    "Over/UnderValued %": 157.12113923784926
+    "Over/UnderValued %": 157.36082335739053
   },
   {
     "Ticker": "AEP",
@@ -699,9 +699,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 6.06,
     "Avg. 5Y Price Change": 0.07,
-    "Last Close": 120.27,
+    "Last Close": 118.4,
     "Fair Value": 61.96695374542338,
-    "Over/UnderValued %": 94.08732030640223
+    "Over/UnderValued %": 91.06958280766631
   },
   {
     "Ticker": "PCAR",
@@ -710,9 +710,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 4.7,
     "Avg. 5Y Price Change": 0.24,
-    "Last Close": 113.9,
+    "Last Close": 112.09,
     "Fair Value": 50.17578846071001,
-    "Over/UnderValued %": 127.00191366038828
+    "Over/UnderValued %": 123.39459615621529
   },
   {
     "Ticker": "MPWR",
@@ -721,9 +721,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 18.83,
     "Avg. 5Y Price Change": 0.29,
-    "Last Close": 1380.62,
+    "Last Close": 1355.47,
     "Fair Value": 303.1623392603277,
-    "Over/UnderValued %": 355.40617062413264
+    "Over/UnderValued %": 347.11028530362677
   },
   {
     "Ticker": "WBD",
@@ -732,8 +732,8 @@
     "Metric": "P.Change",
     "EPS (ttm)": -1.27,
     "Avg. 5Y Price Change": 0,
-    "Last Close": 30.83,
-    "Fair Value": 11.886299613112465,
+    "Last Close": 30.76,
+    "Fair Value": 11.8593115828524,
     "Over/UnderValued %": 159.37424600999998
   },
   {
@@ -743,9 +743,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 4.4,
     "Avg. 5Y Price Change": 0.03,
-    "Last Close": 161.81,
+    "Last Close": 149.58,
     "Fair Value": 155.1551726073843,
-    "Over/UnderValued %": 4.289143108013271
+    "Over/UnderValued %": -3.5932882634161945
   },
   {
     "Ticker": "LITE",
@@ -754,9 +754,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 6.02,
     "Avg. 5Y Price Change": 1.77,
-    "Last Close": 945.67,
+    "Last Close": 937,
     "Fair Value": 42.53504855879941,
-    "Over/UnderValued %": 2123.2724119092727
+    "Over/UnderValued %": 2102.8892213552176
   },
   {
     "Ticker": "BKR",
@@ -765,9 +765,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 2.67,
     "Avg. 5Y Price Change": 0.35,
-    "Last Close": 57.26,
+    "Last Close": 58.03,
     "Fair Value": 14.773513854617626,
-    "Over/UnderValued %": 287.5855166447267
+    "Over/UnderValued %": 292.79754681965574
   },
   {
     "Ticker": "PDD",
@@ -776,9 +776,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 9.72,
     "Avg. 5Y Price Change": -0.04,
-    "Last Close": 80.35,
+    "Last Close": 79.2,
     "Fair Value": 1950.7410850909118,
-    "Over/UnderValued %": -95.88105255925056
+    "Over/UnderValued %": -95.9400045139097
   },
   {
     "Ticker": "TER",
@@ -787,9 +787,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 7.68,
     "Avg. 5Y Price Change": 0.36,
-    "Last Close": 398.69,
+    "Last Close": 389.14,
     "Fair Value": 45.620146909487936,
-    "Over/UnderValued %": 773.9340554755681
+    "Over/UnderValued %": 753.0003219237067
   },
   {
     "Ticker": "NXPI",
@@ -798,9 +798,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 13.12,
     "Avg. 5Y Price Change": 0.01,
-    "Last Close": 237.57,
+    "Last Close": 235.44,
     "Fair Value": 67.01567507394704,
-    "Over/UnderValued %": 254.49915223245662
+    "Over/UnderValued %": 251.32079135248384
   },
   {
     "Ticker": "FANG",
@@ -809,9 +809,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 15.53,
     "Avg. 5Y Price Change": 0.33,
-    "Last Close": 184.5,
+    "Last Close": 185.65,
     "Fair Value": 292.61894189083836,
-    "Over/UnderValued %": -36.94871603054739
+    "Over/UnderValued %": -36.55571344753996
   },
   {
     "Ticker": "FAST",
@@ -820,9 +820,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 1.18,
     "Avg. 5Y Price Change": 0.15,
-    "Last Close": 50.08,
+    "Last Close": 50.99,
     "Fair Value": 11.555933897515875,
-    "Over/UnderValued %": 333.3704263466362
+    "Over/UnderValued %": 341.24516851866974
   },
   {
     "Ticker": "ALAB",
@@ -831,9 +831,9 @@
     "Metric": "P.Change",
     "EPS (ttm)": 2.48,
     "Avg. 5Y Price Change": 0.7,
-    "Last Close": 363.46,
-    "Fair Value": 805.1211176438725,
-    "Over/UnderValued %": -54.85648158582166
+    "Last Close": 360.46,
+    "Fair Value": 798.4756453692574,
+    "Over/UnderValued %": -54.85648158582167
   },
   {
     "Ticker": "PYPL",
@@ -842,9 +842,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 5.31,
     "Avg. 5Y Price Change": -0.16,
-    "Last Close": 52.89,
+    "Last Close": 52.51,
     "Fair Value": 44.77377097104204,
-    "Over/UnderValued %": 18.127195572173772
+    "Over/UnderValued %": 17.278484392037143
   },
   {
     "Ticker": "ADSK",
@@ -853,9 +853,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 11.13,
     "Avg. 5Y Price Change": -0.03,
-    "Last Close": 219.62,
+    "Last Close": 217.15,
     "Fair Value": 2201.365987655292,
-    "Over/UnderValued %": -90.02346719120882
+    "Over/UnderValued %": -90.13567025121117
   },
   {
     "Ticker": "XEL",
@@ -864,9 +864,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 3.86,
     "Avg. 5Y Price Change": 0.02,
-    "Last Close": 72.06,
+    "Last Close": 70.66,
     "Fair Value": 35.42122895911061,
-    "Over/UnderValued %": 103.43732309001554
+    "Over/UnderValued %": 99.48489105662641
   },
   {
     "Ticker": "CCEP",
@@ -875,9 +875,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 4.96,
     "Avg. 5Y Price Change": 0.16,
-    "Last Close": 102.31,
+    "Last Close": 99.69,
     "Fair Value": 55.27507250962182,
-    "Over/UnderValued %": 85.09247542314979
+    "Over/UnderValued %": 80.35254496074482
   },
   {
     "Ticker": "FER",
@@ -886,9 +886,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 3.22,
     "Avg. 5Y Price Change": 0.2,
-    "Last Close": 56.3,
+    "Last Close": 55.28,
     "Fair Value": 33.643787676840276,
-    "Over/UnderValued %": 67.34144365902004
+    "Over/UnderValued %": 64.30968038136106
   },
   {
     "Ticker": "NBIS",
@@ -897,8 +897,8 @@
     "Metric": "P.Change",
     "EPS (ttm)": -1.99,
     "Avg. 5Y Price Change": 1.8,
-    "Last Close": 236.12,
-    "Fair Value": 16331.147489711931,
+    "Last Close": 226.61,
+    "Fair Value": 15673.392057613168,
     "Over/UnderValued %": -98.55417385613137
   },
   {
@@ -908,9 +908,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 2.75,
     "Avg. 5Y Price Change": 0.05,
-    "Last Close": 41.8,
+    "Last Close": 40.69,
     "Fair Value": 17.768082191837586,
-    "Over/UnderValued %": 135.25330167147894
+    "Over/UnderValued %": 129.00614461752338
   },
   {
     "Ticker": "AXON",
@@ -919,9 +919,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 6.81,
     "Avg. 5Y Price Change": 0.37,
-    "Last Close": 459.32,
+    "Last Close": 450.61,
     "Fair Value": 131.08656940840052,
-    "Over/UnderValued %": 250.39440125173118
+    "Over/UnderValued %": 243.74993718549723
   },
   {
     "Ticker": "TTWO",
@@ -930,9 +930,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 4.1,
     "Avg. 5Y Price Change": 0.07,
-    "Last Close": 205.53,
+    "Last Close": 206.32,
     "Fair Value": 5.517378726515115,
-    "Over/UnderValued %": 3625.138515728044
+    "Over/UnderValued %": 3639.456909283365
   },
   {
     "Ticker": "IDXX",
@@ -941,9 +941,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 14.22,
     "Avg. 5Y Price Change": -0.04,
-    "Last Close": 521.5,
+    "Last Close": 522.02,
     "Fair Value": 160.30335637047392,
-    "Over/UnderValued %": 225.32069933381285
+    "Over/UnderValued %": 225.6450843072617
   },
   {
     "Ticker": "ODFL",
@@ -952,9 +952,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 5.19,
     "Avg. 5Y Price Change": 0.05,
-    "Last Close": 177.31,
+    "Last Close": 177.72,
     "Fair Value": 44.019354310477205,
-    "Over/UnderValued %": 302.80009277146036
+    "Over/UnderValued %": 303.73150125398416
   },
   {
     "Ticker": "PAYX",
@@ -963,9 +963,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 5.51,
     "Avg. 5Y Price Change": 0.02,
-    "Last Close": 114.53,
+    "Last Close": 104.49,
     "Fair Value": 53.960335402807175,
-    "Over/UnderValued %": 112.24849539026738
+    "Over/UnderValued %": 93.6422359497864
   },
   {
     "Ticker": "KDP",
@@ -974,9 +974,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 2.1,
     "Avg. 5Y Price Change": -0.02,
-    "Last Close": 31.51,
+    "Last Close": 31.76,
     "Fair Value": 18.052413746439566,
-    "Over/UnderValued %": 74.54729568346308
+    "Over/UnderValued %": 75.932152044011
   },
   {
     "Ticker": "MCHP",
@@ -985,9 +985,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 1.63,
     "Avg. 5Y Price Change": -0.02,
-    "Last Close": 75.82,
+    "Last Close": 75.53,
     "Fair Value": 7.628194548318234,
-    "Over/UnderValued %": 893.9442356870121
+    "Over/UnderValued %": 890.142549742021
   },
   {
     "Ticker": "RKLB",
@@ -996,8 +996,8 @@
     "Metric": "P.Change",
     "EPS (ttm)": -0.2,
     "Avg. 5Y Price Change": 0.88,
-    "Last Close": 71.98,
-    "Fair Value": 406.20277295227817,
+    "Last Close": 70.31,
+    "Fair Value": 396.77850745032896,
     "Over/UnderValued %": -82.27978615782212
   },
   {
@@ -1007,9 +1007,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 20.38,
     "Avg. 5Y Price Change": -0.03,
-    "Last Close": 363.85,
+    "Last Close": 366.36,
     "Fair Value": 217.57075932537657,
-    "Over/UnderValued %": 67.23295038735569
+    "Over/UnderValued %": 68.38659805939706
   },
   {
     "Ticker": "TRI",
@@ -1018,9 +1018,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 4.14,
     "Avg. 5Y Price Change": -0.03,
-    "Last Close": 95.66,
+    "Last Close": 98.45,
     "Fair Value": 79.66673623253944,
-    "Over/UnderValued %": 20.07520895644297
+    "Over/UnderValued %": 23.577297948586782
   },
   {
     "Ticker": "CRWV",
@@ -1029,8 +1029,8 @@
     "Metric": "P.Change",
     "EPS (ttm)": -2.02,
     "Avg. 5Y Price Change": 0.21,
-    "Last Close": 86.76,
-    "Fair Value": 10.96455338124029,
+    "Last Close": 86.9,
+    "Fair Value": 10.982246298176362,
     "Over/UnderValued %": 691.2770997899586
   },
   {
@@ -1040,9 +1040,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 2.55,
     "Avg. 5Y Price Change": -0.07,
-    "Last Close": 89.53,
+    "Last Close": 87.73,
     "Fair Value": 42.86477021723985,
-    "Over/UnderValued %": 108.86616106014206
+    "Over/UnderValued %": 104.66690840842472
   },
   {
     "Ticker": "WDAY",
@@ -1051,9 +1051,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 9.66,
     "Avg. 5Y Price Change": -0.05,
-    "Last Close": 188.23,
+    "Last Close": 192.38,
     "Fair Value": 176.60505609272036,
-    "Over/UnderValued %": 6.582452487190604
+    "Over/UnderValued %": 8.932328584634375
   },
   {
     "Ticker": "GEHC",
@@ -1062,9 +1062,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 4.56,
     "Avg. 5Y Price Change": 0.03,
-    "Last Close": 66.27,
+    "Last Close": 66.09,
     "Fair Value": 35.138424857554426,
-    "Over/UnderValued %": 88.59695694570264
+    "Over/UnderValued %": 88.08469721656087
   },
   {
     "Ticker": "MSTR",
@@ -1073,9 +1073,9 @@
     "Metric": "P.Change",
     "EPS (ttm)": -97.21,
     "Avg. 5Y Price Change": 0.16,
-    "Last Close": 167.33,
-    "Fair Value": 60.872625716108296,
-    "Over/UnderValued %": 174.8854645770942
+    "Last Close": 162.2,
+    "Fair Value": 59.00639389919778,
+    "Over/UnderValued %": 174.88546457709418
   },
   {
     "Ticker": "KHC",
@@ -1084,9 +1084,9 @@
     "Metric": "EPS",
     "EPS (ttm)": 2.42,
     "Avg. 5Y Price Change": -0.06,
-    "Last Close": 24,
+    "Last Close": 23.79,
     "Fair Value": 15.635912328817076,
-    "Over/UnderValued %": 53.49280230848994
+    "Over/UnderValued %": 52.149740288290644
   },
   {
     "Ticker": "ALNY",
@@ -1095,8 +1095,8 @@
     "Metric": "P.Change",
     "EPS (ttm)": 5.55,
     "Avg. 5Y Price Change": 0.05,
-    "Last Close": 251.65,
-    "Fair Value": 159.68136201722012,
+    "Last Close": 246.51,
+    "Fair Value": 156.41983926431524,
     "Over/UnderValued %": 57.59509865206556
   },
   {
@@ -1106,8 +1106,8 @@
     "Metric": "EPS",
     "EPS (ttm)": 1.61,
     "Avg. 5Y Price Change": -0.02,
-    "Last Close": 28.8,
+    "Last Close": 28.87,
     "Fair Value": 23.25694386245744,
-    "Over/UnderValued %": 23.83398339147409
+    "Over/UnderValued %": 24.13496876777281
   }
 ]
