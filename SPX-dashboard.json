@@ -2820,19 +2820,19 @@
     "Over/UnderValued %": 3.5286141613013466
   },
   {
-    "PDF": "https://drive.google.com/file/d/10WpjMbJ-A9nWGk8l8SypOvlvEQ3gsidC/view",
-    "Ticker": "WBD",
-    "Company ": "Warner Bros Discovery Inc",
+    "PDF": "https://drive.google.com/file/d/1xukN5IN8Lh43lsUcX3ilSdVEvzJLs2Yb/view",
+    "Ticker": "TWLO",
+    "Company ": "Twilio Inc",
     "Industry": "Entertainment",
-    "Metric": "P.Change",
-    "EPS (ttm)": -1.27,
-    "Avg. 5Y Price Change": 0.04,
-    "Cost of Equity": 0.21,
-    "Growth Rate": 0.025000000000000022,
-    "Terminal Rate": 0.01,
-    "Last Close": 30.95,
-    "Fair Value": 14.517789606539512,
-    "Over/UnderValued %": 113.18672359088762
+    "Metric": "EPS",
+    "EPS (ttm)": 5.27,
+    "Avg. 5Y Price Change": -0.03,
+    "Cost of Equity": 0.19,
+    "Growth Rate": 0.14499999999999996,
+    "Terminal Rate": 0.02,
+    "Last Close": 273,
+    "Fair Value": 52.779723672476905,
+    "Over/UnderValued %": 417.2440873205283
   },
   {
     "PDF": "https://drive.google.com/file/d/1fYsW6SAsKMoPCsNLjBGCD3qBt4XbL59H/view",
@@ -7480,8 +7480,8 @@
     "Cost of Equity": 0.21,
     "Growth Rate": -0.135,
     "Terminal Rate": 0.01,
-    "Last Close": 9.78,
+    "Last Close": 178,
     "Fair Value": 2.2203700729840192,
-    "Over/UnderValued %": 340.4671148740704
+    "Over/UnderValued %": 7916.681640857314
   }
 ]
