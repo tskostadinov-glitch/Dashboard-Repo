@@ -2,7 +2,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1J-qOL9WOi9nitoJdK5BLgzhUOykUgY7S/view",
     "Ticker": "SHELL",
-    "Company ": "#N/A",
+    "Company ": "Shell PLC",
     "Industry": "Oil & Gas Integrated",
     "Metric": "EPS",
     "EPS (ttm)": 3.85,
@@ -10,9 +10,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.04,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 45.04,
     "Fair Value": 31.681846159549938,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 42.16343256380431
   },
   {
     "PDF": "https://drive.google.com/file/d/16LNs2UtiDCKtzzfqdzWxbR8vs8YWEvwm/view",
@@ -122,7 +122,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1uaWVJgQ47QeK-npbtvippkB2LG_9KVVb/view",
     "Ticker": "ADYEN",
-    "Company ": "#N/A",
+    "Company ": "Adyen NV",
     "Industry": "Software - Infrastructure",
     "Metric": "EPS",
     "EPS (ttm)": 35.21,
@@ -130,9 +130,9 @@
     "Cost of Equity": 0.24,
     "Growth Rate": 0.29999999999999993,
     "Terminal Rate": 0.04,
-    "Last Close": "#N/A",
+    "Last Close": 886.1,
     "Fair Value": 493.17501686674046,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 79.67252389012049
   },
   {
     "PDF": "https://drive.google.com/file/d/1YJ3z0QQZ-Q0jFJcx7lkJ5AigHvONswzy/view",
@@ -197,7 +197,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1MI2N6mgk2GtFtTQYBafPMIH3eRKplpkq/view",
     "Ticker": "DSFIR",
-    "Company ": "#N/A",
+    "Company ": "DSM-Firmenich AG",
     "Industry": "Chemicals - Specialty",
     "Metric": "EPS",
     "EPS (ttm)": 5.66,
@@ -205,9 +205,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": 0.04500000000000004,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 100.65,
     "Fair Value": 47.60527034386785,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 111.42617040712798
   },
   {
     "PDF": "https://drive.google.com/file/d/1ysVWfE2ZcPgztiEn9PUPmhFK3H6cA4LY/view",
@@ -302,7 +302,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1bmipkVtccMuZLbnJrcMjqcdZZbB4bds-/view",
     "Ticker": "ASRNL",
-    "Company ": "#N/A",
+    "Company ": "ASR Nederland NV",
     "Industry": "Insurance - Diversified",
     "Metric": "BV Per Share",
     "EPS (ttm)": 5.7,
@@ -310,9 +310,9 @@
     "Cost of Equity": 0.15,
     "Growth Rate": -0.09,
     "Terminal Rate": 0.01,
-    "Last Close": "#N/A",
+    "Last Close": 71.48,
     "Fair Value": 41.74,
-    "Over/UnderValued %": "#N/A"
+    "Over/UnderValued %": 71.2505989458553
   },
   {
     "PDF": "https://drive.google.com/file/d/1Rb9RUBPONKi83GF2qKSmVy8iFRGzU-sl/view",
@@ -437,7 +437,7 @@
   {
     "PDF": "https://drive.google.com/file/d/1QBUIwB2TfI_ZMLgpn3Uyjvfa5imNxsmo/view",
     "Ticker": "INPST",
-    "Company ": "#N/A",
+    "Company ": "InPost SA",
     "Industry": "Integrated Freight & Logistics",
     "Metric": "P.Change",
     "EPS (ttm)": 0.44,
@@ -445,8 +445,8 @@
     "Cost of Equity": 0.16,
     "Growth Rate": 0.8649999999999999,
     "Terminal Rate": 0.04,
-    "Last Close": "#N/A",
-    "Fair Value": "#N/A",
-    "Over/UnderValued %": "#N/A"
+    "Last Close": 15.21,
+    "Fair Value": 8.39509067789058,
+    "Over/UnderValued %": 81.1773164053755
   }
 ]
